@@ -1,0 +1,127 @@
+---
+title: Quickstart Guide
+description: Get up and running with JoinBoundless by setting up your account and creating your first documentation space in minutes.
+---
+
+## Prerequisites
+
+<Callout kind="info" title="Before You Begin">
+Ensure you have:
+- A valid email address for account registration
+- Web browser (Chrome, Firefox, or Safari recommended)
+- Optional: GitHub account for advanced integrations
+</Callout>
+
+JoinBoundless requires a free account to create documentation spaces. The entire setup takes under 5 minutes.
+
+## Step 1: Sign Up and Log In
+
+Follow these steps to create your account.
+
+<Steps>
+  <Step title="Visit the Dashboard" icon="monitor">
+    Navigate to `https://dashboard.example.com` in your browser.
+  </Step>
+  <Step title="Register Account" icon="user-plus">
+    Click **Sign Up** and enter your email, name, and password. Verify your email via the confirmation link sent to your inbox.
+  </Step>
+  <Step title="Log In" icon="log-in">
+    Return to the dashboard and sign in with your credentials. You'll land on the main workspace overview.
+  </Step>
+</Steps>
+
+<Callout kind="tip">
+Save your credentials securely. Use a password manager for best practices.
+</Callout>
+
+## Step 2: Create Your First Documentation Space
+
+Documentation spaces organize your project docs.
+
+<Steps>
+  <Step title="New Space" icon="plus">
+    Click **New Space** in the top-right corner.
+  </Step>
+  <Step title="Configure Space" icon="settings">
+    Enter a name like `My Project Docs`, select visibility (public/private), and choose a template if desired.
+  </Step>
+  <Step title="Create and Enter" icon="check-circle">
+    Confirm to create. You'll enter the space dashboard automatically.
+  </Step>
+</Steps>
+
+## Step 3: Upload Initial Documents
+
+Add your first content using the editor.
+
+<Steps>
+  <Step title="New Document" icon="file-plus">
+    In your space, click **New Document**. Name it `introduction.mdx`.
+  </Step>
+  <Step title="Edit Content" icon="edit-3">
+    Use the built-in MDX editor. Paste or write your content.
+  </Step>
+  <Step title="Preview and Publish" icon="eye">
+    Switch to preview mode, then click **Publish** to make it live.
+  </Step>
+</Steps>
+
+Here's a sample MDX document you can use:
+
+<CodeGroup tabs="MDX Example">
+```mdx
+---
+title: Welcome
+description: Your first document.
+---
+
+## Hello World
+
+This is your JoinBoundless documentation!
+```
+</CodeGroup>
+
+## Basic Interface Tour
+
+Explore the key areas using these tabs.
+
+<Tabs>
+  <Tab title="Sidebar" icon="sidebar">
+    The left sidebar shows your spaces, documents, and search. Use it to navigate quickly.
+
+    - **Spaces**: Switch between projects
+    - **Docs**: List of pages
+    - **Settings**: Space configuration
+  </Tab>
+  <Tab title="Editor" icon="edit">
+    Central editor supports MDX with live preview.
+
+    Key features:
+    - Syntax highlighting
+    - Auto-save
+    - Component auto-complete
+  </Tab>
+  <Tab title="Preview" icon="eye">
+    Real-time preview pane shows rendered output. Toggle dark/light mode here.
+  </Tab>
+</Tabs>
+
+## Next Steps
+
+<Columns cols={3}>
+  <Card title="Customize Your Space" icon="settings" href="/introduction">
+    Dive deeper into advanced features and customization.
+  </Card>
+  <Card title="Add Collaborators" icon="users" href="/authentication">
+    Invite team members and manage permissions.
+  </Card>
+  <Card title="Version History" icon="git-branch" href="/changelog">
+    Learn about updates and changelog best practices.
+  </Card>
+</Columns>
+
+<Expandable title="Troubleshooting Common Issues" default-open="false">
+- **Login fails?** Check your email verification and browser cookies.
+- **Upload errors?** Ensure files are under 10MB and use supported formats (MDX, MD).
+- **Preview not updating?** Refresh the page or clear cache.
+</Expandable>

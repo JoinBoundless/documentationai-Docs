@@ -1,0 +1,169 @@
+---
+title: Integrations
+description: Extend JoinBoundless functionality by connecting with third-party services and automating workflows.
+---
+
+## Overview
+
+JoinBoundless supports seamless integrations with popular tools to enhance your documentation workflows. Connect to services like GitHub for version control, Slack for team notifications, and more. Use webhooks for real-time updates or the API for custom automation. Export your docs to various formats for broader sharing.
+
+<Callout kind="info">
+Review available integrations and set up authentication before connecting services.
+</Callout>
+
+## Popular Integrations
+
+Discover ready-to-use connections that streamline your workflow.
+
+<Columns cols={3}>
+  <Card title="GitHub" icon="github" href="https://github.com">
+    Sync documentation repositories and automate deployments.
+  </Card>
+  <Card title="Slack" icon="message-circle" href="https://slack.com">
+    Send notifications for doc updates and reviews.
+  </Card>
+  <Card title="Zapier" icon="zap" href="https://zapier.com">
+    Build no-code automations with 5000+ apps.
+  </Card>
+</Columns>
+
+## Setting Up Webhooks
+
+Webhooks enable real-time notifications when documents change. Configure them to trigger actions in external services.
+
+<Steps>
+  <Step title="Create Webhook" icon="plus">
+    Navigate to your project settings and select `Integrations` > `Webhooks`.
+  </Step>
+  <Step title="Add Endpoint" icon="link">
+    Enter your webhook URL, such as `https://your-webhook-url.com/joinboundless`.
+  </Step>
+  <Step title="Select Events" icon="settings">
+    Choose events like `doc.updated` or `doc.published`.
+  </Step>
+  <Step title="Test and Save" icon="check-circle">
+    Send a test payload and save the configuration.
+  </Step>
+</Steps>
+
+Handle incoming webhooks in your service:
+
+<CodeGroup tabs="Node.js,Python">
+  ```javascript
+  const express = require('express');
+  const app = express();
+  app.use(express.json());
+
+  app.post('/joinboundless', (req, res) => {
+    const { event, doc_id, changes } = req.body;
+    console.log(`Event: ${event}, Doc: ${doc_id}`);
+    // Notify team via Slack or update GitHub
+    res.status(200).json({ status: 'received' });
+  });
+
+  app.listen(3000);
+  ```
+  ```python
+  from flask import Flask, request, jsonify
+
+  app = Flask(__name__)
+
+  @app.route('/joinboundless', methods=['POST'])
+  def webhook():
+      data = request.json
+      event = data.get('event')
+      doc_id = data.get('doc_id')
+      print(f"Event: {event}, Doc: {doc_id}")
+      # Integrate with Slack or GitHub
+      return jsonify({'status': 'received'}), 200
+
+  if __name__ == '__main__':
+      app.run(port=3000)
+  ```
+</CodeGroup>
+
+## Custom API Connections
+
+Build advanced integrations using JoinBoundless API endpoints.
+
+<Request tabs="cURL,JavaScript" show-lines="true">
+  ```bash
+  curl -X POST https://api.example.com/v1/docs/{doc_id}/integrate \
+    -H "Authorization: Bearer YOUR_API_KEY" \
+    -H "Content-Type: application/json" \
+    -d '{
+      "service": "custom",
+      "config": {"endpoint": "https://your-service.com"}
+    }'
+  ```
+  ```javascript
+  const response = await fetch('https://api.example.com/v1/docs/{doc_id}/integrate', {
+    method: 'POST',
+    headers: {
+      'Authorization': 'Bearer YOUR_API_KEY',
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      service: 'custom',
+      config: { endpoint: 'https://your-service.com' }
+    })
+  });
+  ```
+</Request>
+
+<Response tabs="200,400">
+  ```json
+  {
+    "success": true,
+    "integration_id": "int_123abc",
+    "status": "active"
+  }
+  ```
+
+  ```json
+  {
+    "error": "Invalid API key",
+    "code": "auth_failed"
+  }
+  ```
+</Response>
+
+<ParamField path="doc_id" param-type="string" required="true">
+  The unique document identifier.
+</ParamField>
+
+<ParamField body="service" param-type="string" required="true">
+  Target service name, e.g., `custom`.
+</ParamField>
+
+## Exporting Documentation
+
+Export your docs to popular formats for external use.
+
+<Tabs>
+  <Tab title="PDF" icon="file-text">
+    Generate printable PDFs directly from the editor.
+    
+    ```
+    https://api.example.com/v1/docs/{doc_id}/export?format=pdf
+    ```
+  </Tab>
+  <Tab title="Markdown" icon="code">
+    Export as raw Markdown for GitHub or static sites.
+    
+    ```
+    https://api.example.com/v1/docs/{doc_id}/export?format=md
+    ```
+  </Tab>
+  <Tab title="HTML" icon="globe">
+    Create standalone HTML files for embedding.
+    
+    ```
+    https://api.example.com/v1/docs/{doc_id}/export?format=html
+    ```
+  </Tab>
+</Tabs>
+
+<Callout kind="tip">
+Explore the [API Reference](/api-reference) for more endpoints and authentication details.
+</Callout>

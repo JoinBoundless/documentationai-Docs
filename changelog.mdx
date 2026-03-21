@@ -1,0 +1,134 @@
+---
+title: Changelog
+description: Stay updated with the latest releases, features, and improvements in JoinBoundless.
+---
+
+## Recent Releases
+
+JoinBoundless evolves rapidly to enhance your virtual world experiences. Check this changelog for new features, improvements, bug fixes, and breaking changes across versions.
+
+<Callout kind="info">
+  Each release includes detailed notes on API changes, new capabilities for collaboration in virtual spaces, and performance optimizations for seamless user connections.
+</Callout>
+
+<Columns cols={3}>
+  <Card title="Latest: v1.2.0" icon="zap" href="#v120">
+    Enhanced search and performance boosts.
+  </Card>
+  <Card title="v1.1.0" icon="users" href="#v110">
+    Collaboration upgrades for teams.
+  </Card>
+  <Card title="v1.0.0" icon="rocket" href="#v100">
+    Initial stable release.
+  </Card>
+</Columns>
+
+<Update label="2024-10-15" description="v1.2.0" tags={["feature", "improvement", "bugfix"]}>
+
+## New Features
+
+- Added advanced search in virtual worlds with filters for users, spaces, and events
+- Introduced real-time notifications for world joins and invites
+
+## Improvements
+
+- Optimized rendering engine for `<50ms` load times in large worlds
+- Enhanced mobile support with gesture controls
+
+## Bug Fixes
+
+- Fixed sync issues in collaborative editing sessions
+- Resolved connection drops during high-traffic events
+
+</Update>
+
+<Update label="2024-09-20" description="v1.1.0" tags={["feature", "bugfix"]}>
+
+## New Features
+
+- Multi-user collaboration tools for shared virtual spaces
+- Customizable avatars with import from external sources
+
+## Bug Fixes
+
+- Patched authentication token refresh failures
+- Improved error handling for network interruptions
+
+## Performance
+
+- Reduced memory usage by 30% for browser clients
+
+</Update>
+
+<Update label="2024-08-10" description="v1.0.0" tags={["feature", "breaking"]}>
+
+## New Features
+
+- Core virtual world engine with freedom-focused networking
+- Basic world creation and joining APIs
+- User presence indicators and chat integration
+
+## Breaking Changes
+
+- Updated authentication flow to use `{API_KEY}` headers instead of query params
+
+## Initial Setup
+
+- First stable release for production use
+
+</Update>
+
+## How to Update
+
+Follow these steps to upgrade your JoinBoundless integration to the latest version.
+
+<Steps>
+  <Step title="Check Current Version" icon="package">
+    Run the version check command for your platform.
+  </Step>
+  <Step title="Update Package" icon="download">
+    <Tabs>
+      <Tab title="npm" icon="package">
+````bash
+npm install joinboundless@latest
+````
+
+        Restart your application after installation.
+      </Tab>
+      <Tab title="yarn" icon="package">
+````bash
+yarn add joinboundless@latest
+````
+
+        Clear cache if issues persist.
+      </Tab>
+      <Tab title="Docker" icon="docker">
+````dockerfile
+FROM joinboundless:latest
+````
+
+        Pull and redeploy the image.
+      </Tab>
+    </Tabs>
+  </Step>
+  <Step title="Verify Update" icon="check-circle">
+    <CodeGroup tabs="JavaScript,Python">
+```javascript
+import { getVersion } from 'joinboundless';
+console.log(getVersion()); // Should log "1.2.0"
+```
+```python
+import joinboundless
+print(joinboundless.__version__)  # Should print "1.2.0"
+```
+    </CodeGroup>
+  </Step>
+</Steps>
+
+<Callout kind="tip" title="Migration Guide">
+  Review the [Quickstart](/quickstart) for any required config changes after updating. For breaking changes, check the specific release notes above.
+</Callout>
+
+<Expandable title="Full Release History" default-open="false">
+  Older versions and detailed commit logs are available in our GitHub repository. Use the search function to find specific fixes.
+</Expandable>
