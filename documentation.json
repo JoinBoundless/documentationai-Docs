@@ -11,8 +11,8 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Documentation",
-        "icon": "book",
+        "tab": "Agora",
+        "icon": "home",
         "groups": [
           {
             "group": "Getting Started",
@@ -27,12 +27,17 @@
                 "title": "Quick Start",
                 "path": "quickstart",
                 "icon": "zap"
+              },
+              {
+                "title": "Home",
+                "path": "home/article",
+                "icon": "book-open"
               }
             ]
           },
           {
             "group": "Core Concepts",
-            "icon": "layers",
+            "icon": "book-open",
             "pages": [
               {
                 "title": "Features",
@@ -47,77 +52,35 @@
             ]
           },
           {
+            "group": "Participating in Agora",
+            "icon": "users",
+            "pages": [
+              {
+                "title": "Agora's Selection Process in Detail",
+                "path": "participating-in-agora/agora-s-selection-process-in-detail/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Agora Submission Requirements",
+                "path": "participating-in-agora/agora-submission-requirements/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Becoming an Agoran Citizen",
+                "path": "participating-in-agora/becoming-an-agoran-citizen/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Content Guidelines",
+                "path": "participating-in-agora/content-guidelines/article",
+                "icon": "book-open"
+              }
+            ]
+          },
+          {
             "group": "Advanced",
             "icon": "package",
             "pages": []
-          },
-          {
-            "group": "Community",
-            "icon": "users",
-            "expandable": true,
-            "pages": [
-              {
-                "title": "Agora as the Keystone",
-                "path": "community/agora-as-the-keystone-of-digital-civilization/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Agora: A Warning About Success",
-                "path": "community/agora-a-warning-about-success/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Agora: Challenges of an Evolving Movement",
-                "path": "community/agora-challenges-of-an-evolving-movement/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Democracy in a Digital Society",
-                "path": "community/democracy-in-a-digital-society/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Digital Society Manifesto",
-                "path": "community/digital-society-manifesto/article",
-                "icon": "book-open"
-              }
-            ]
-          },
-          {
-            "group": "Cyber Sovereignty",
-            "icon": "book-open",
-            "pages": [
-              {
-                "title": "A New Realm of Government",
-                "path": "cyber-sovereignty/a-new-realm-of-government/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Adversarial Detainment",
-                "path": "cyber-sovereignty/adversarial-detainment/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Charter",
-                "path": "cyber-sovereignty/charter/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Corporate Citizenship",
-                "path": "cyber-sovereignty/corporate-citizenship/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Creating a Digital Society",
-                "path": "cyber-sovereignty/creating-a-digital-society/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Cyber Sovereignty (1 Pager)",
-                "path": "cyber-sovereignty/cyber-sovereignty-1-pager/article",
-                "icon": "book-open"
-              }
-            ]
           },
           {
             "group": "API Reference",
@@ -153,6 +116,827 @@
                 "title": "Release History",
                 "path": "changelog",
                 "icon": "history"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Cyber Sovereignty",
+        "icon": "home",
+        "groups": [
+          {
+            "group": "Agoran Accord",
+            "icon": "book-open",
+            "pages": [
+              {
+                "title": "Preventing Over Regulation While Protecting Rights",
+                "path": "agoran-accord/preventing-over-regulation-while-protecting-rights/article",
+                "icon": "book-open"
+              }
+            ]
+          },
+          {
+            "group": "Cyber Sovereignty",
+            "icon": "book-open",
+            "pages": [
+              {
+                "title": "A New Realm of Government",
+                "path": "cyber-sovereignty/a-new-realm-of-government/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Adversarial Detainment",
+                "path": "cyber-sovereignty/adversarial-detainment/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Charter",
+                "path": "cyber-sovereignty/charter/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Clemency for Fugitives",
+                "path": "cyber-sovereignty/clemency-for-fugitives/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Corporate Citizenship",
+                "path": "cyber-sovereignty/corporate-citizenship/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Creating a Digital Society",
+                "path": "cyber-sovereignty/creating-a-digital-society/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Cyber Sovereignty (1 Pager)",
+                "path": "cyber-sovereignty/cyber-sovereignty-1-pager/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Cyber Sovereignty Declaration",
+                "path": "cyber-sovereignty/cyber-sovereignty-declaration/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Cyber Sovereignty Government Accountability",
+                "path": "cyber-sovereignty/cyber-sovereignty-government-accountability/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Cyber Sovereignty vs Crypto Movements",
+                "path": "cyber-sovereignty/cyber-sovereignty-vs-crypto-movements/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Democracy in a Digital Society (Part Two)",
+                "path": "cyber-sovereignty/democracy-in-a-digital-society-part-two/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Digital Gold as a Third Jurisdiction",
+                "path": "cyber-sovereignty/digital-gold-as-a-third-jurisdiction/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Enforcement Question",
+                "path": "cyber-sovereignty/enforcement-question/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Further Checks and Balances",
+                "path": "cyber-sovereignty/further-checks-and-balances/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "How Democracy Failed Society",
+                "path": "cyber-sovereignty/how-democracy-failed-society/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "How Digital Societies Work",
+                "path": "cyber-sovereignty/how-digital-societies-work/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "International Defense of Cyber Sovereignty",
+                "path": "cyber-sovereignty/international-defense-of-cyber-sovereignty/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Judicial Accountability",
+                "path": "cyber-sovereignty/judicial-accountability/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Legal Concepts of Cyber Sovereignty",
+                "path": "cyber-sovereignty/legal-concepts-of-cyber-sovereignty/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Legal Mechanisms of Cyber Sovereignty",
+                "path": "cyber-sovereignty/legal-mechanisms-of-cyber-sovereignty/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Now That You Have Understood",
+                "path": "cyber-sovereignty/now-that-you-have-understood/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "On Emergency Powers",
+                "path": "cyber-sovereignty/on-emergency-powers/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "On Incarceration",
+                "path": "cyber-sovereignty/on-incarceration/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "On Pardons: Exit Ramps for Dictators",
+                "path": "cyber-sovereignty/on-pardons-exit-ramps-for-dictators/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Principles Behind Cyber Sovereignty",
+                "path": "cyber-sovereignty/principles-behind-cyber-sovereignty/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Political Philosophies Are Judged on the Prosperity They Create, Not the Values They Espouse",
+                "path": "cyber-sovereignty/stub-political-philosophies-are-judged-on-the-prosperity-they-create-not-the-values-they-espouse/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Taxes",
+                "path": "cyber-sovereignty/taxes/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Core Rejections of Cyber Sovereignty",
+                "path": "cyber-sovereignty/the-core-rejections-of-cyber-sovereignty/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Digital Senate",
+                "path": "cyber-sovereignty/the-digital-senate/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Division of Powers",
+                "path": "cyber-sovereignty/the-division-of-powers/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Natural Flow",
+                "path": "cyber-sovereignty/the-natural-flow/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Organization of Digital Societies",
+                "path": "cyber-sovereignty/the-organization-of-digital-societies/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Problems of Monolithic Government and Internet Censorship",
+                "path": "cyber-sovereignty/the-problems-of-monolithic-government-and-internet-censorship/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Trusted Panel",
+                "path": "cyber-sovereignty/the-trusted-panel/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Unlocking the Power of the Crowd",
+                "path": "cyber-sovereignty/unlocking-the-power-of-the-crowd/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Weaknesses of Cyber Sovereignty",
+                "path": "cyber-sovereignty/weaknesses-of-cyber-sovereignty/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "What Demands National Organization",
+                "path": "cyber-sovereignty/what-demands-national-organization/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Why Cyber Sovereignty Was Created",
+                "path": "cyber-sovereignty/why-cyber-sovereignty-was-created/article",
+                "icon": "book-open"
+              }
+            ]
+          },
+          {
+            "group": "Ethos",
+            "icon": "book-open",
+            "pages": [
+              {
+                "title": "Agora as DS1",
+                "path": "ethos/agora-as-ds1/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Agora Genesis",
+                "path": "ethos/agora-genesis/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Agoran Beliefs",
+                "path": "ethos/agoran-beliefs/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Agora's Mission 2",
+                "path": "ethos/agora-s-mission-2/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Agora's Values",
+                "path": "ethos/agora-s-values/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Agora's Vision Explained",
+                "path": "ethos/agora-s-vision-explained/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Agora vs Western Civilization",
+                "path": "ethos/agora-vs-western-civilization/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Anti-Lawfare Arbiter",
+                "path": "ethos/anti-lawfare-arbiter/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Breaking Free (Experimental Article)",
+                "path": "ethos/breaking-free-experimental-article/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Cyber Sovereignty Agora",
+                "path": "ethos/cyber-sovereignty-agora/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Destroying Institutions",
+                "path": "ethos/destroying-institutions/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Does Agora Support the Modern Left or Right",
+                "path": "ethos/does-agora-support-the-modern-left-or-right/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Introduction to Agora and Cyber Sovereignty",
+                "path": "ethos/introduction-to-agora-and-cyber-sovereignty/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Principles of Life",
+                "path": "ethos/principles-of-life/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Building the Institutions of a Digital Society (Stub)",
+                "path": "ethos/stub-building-the-institutions-of-a-digital-society/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Continuing Western Civilization (Stub)",
+                "path": "ethos/stub-continuing-western-civilization/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Philosophy of a People",
+                "path": "ethos/the-philosophy-of-a-people/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Plan to Create Democracy in a Digital Society",
+                "path": "ethos/the-plan-to-create-democracy-in-a-digital-society/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Tradition of Doing Hard Things",
+                "path": "ethos/the-tradition-of-doing-hard-things/article",
+                "icon": "book-open"
+              }
+            ]
+          },
+          {
+            "group": "Future Proposition",
+            "icon": "book-open",
+            "pages": [
+              {
+                "title": "Creating Social Apps",
+                "path": "future-proposition/creating-social-apps/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Cyber Sovereignty Agora",
+                "path": "future-proposition/cyber-sovereignty-agora/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Digital Polity Legal Framework",
+                "path": "future-proposition/digital-polity-legal-framework/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Digital Polity Legal Framework 1",
+                "path": "future-proposition/digital-polity-legal-framework-1/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "How Cyber Society, Local Community and National Government Mix",
+                "path": "future-proposition/how-cyber-society-local-community-and-national-government-mix/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Keeping a Community Together via Currency",
+                "path": "future-proposition/keeping-a-community-together-via-currency/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Key Talking Points",
+                "path": "future-proposition/key-talking-points/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Open Source Government Built Into Synapse",
+                "path": "future-proposition/open-source-government-built-into-synapse/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Potential Citizenship Tests",
+                "path": "future-proposition/potential-citizenship-tests/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Reputation-Based Gold Storage",
+                "path": "future-proposition/reputation-based-gold-storage/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Rights and Duties of Citizenship",
+                "path": "future-proposition/rights-and-duties-of-citizenship/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Scenarios",
+                "path": "future-proposition/scenarios/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Notorious Toxicity of Small Group Power Dynamics and How World Lab Strives to Avoid Them",
+                "path": "future-proposition/the-notorious-toxicity-of-small-group-power-dynamics-and-how-world-lab-strives-to-avoid-them/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Rights of Digital Society Owners",
+                "path": "future-proposition/the-rights-of-digital-society-owners/article",
+                "icon": "book-open"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Synapse",
+        "icon": "cpu",
+        "groups": [
+          {
+            "group": "Synapse",
+            "icon": "book-open",
+            "pages": [
+              {
+                "title": "Command-Based Operating System",
+                "path": "synapse/command-based-operating-system/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Commercial Signaling (WIP)",
+                "path": "synapse/commercial-signaling-wip/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Design of Synapse AI Networking",
+                "path": "synapse/design-of-synapse-ai-networking/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Design of Synapse Authentication",
+                "path": "synapse/design-of-synapse-authentication/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Design of Synapse Beacons and Maps",
+                "path": "synapse/design-of-synapse-beacons-and-maps/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Design of Synapse Hoverboards and Home Space",
+                "path": "synapse/design-of-synapse-hoverboards-and-home-space/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Design Principles",
+                "path": "synapse/design-principles/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Ideas Inspired by Synapse",
+                "path": "synapse/ideas-inspired-by-synapse/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Legal Contracts Built In AI (WIP)",
+                "path": "synapse/legal-contracts-built-in-ai-wip/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Opening Apps in Synapse",
+                "path": "synapse/opening-apps-in-synapse/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Profiles in Synapse",
+                "path": "synapse/profiles-in-synapse/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Design of Synapse",
+                "path": "synapse/the-design-of-synapse/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Transaction Screen",
+                "path": "synapse/transaction-screen/article",
+                "icon": "book-open"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Library",
+        "icon": "book-open",
+        "groups": [
+          {
+            "group": "Community",
+            "icon": "users",
+            "pages": [
+              {
+                "title": "Agora as the Keystone of Digital Civilization",
+                "path": "community/agora-as-the-keystone-of-digital-civilization/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Agora: A Warning About Success",
+                "path": "community/agora-a-warning-about-success/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Agora: Challenges of an Evolving Movement",
+                "path": "community/agora-challenges-of-an-evolving-movement/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Democracy in a Digital Society",
+                "path": "community/democracy-in-a-digital-society/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Digital Society Manifesto",
+                "path": "community/digital-society-manifesto/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "How Group Dynamics Undermine Social Progress",
+                "path": "community/how-group-dynamics-undermine-social-progress/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "How Reddit Developed Its Toxicity Problem",
+                "path": "community/how-reddit-developed-its-toxicity-problem/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Intentionality in Community Design",
+                "path": "community/intentionality-in-community-design/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Listening to Others as Key to Community",
+                "path": "community/listening-to-others-as-key-to-community/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Overcoming the Pitfalls of Online Community",
+                "path": "community/overcoming-the-pitfalls-of-online-community/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Eye of the Storm",
+                "path": "community/the-eye-of-the-storm/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Reality Distortion Field",
+                "path": "community/the-reality-distortion-field/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Wars of Identity Ostracization",
+                "path": "community/wars-of-identity-ostracization/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Why Digital Societies Are Subject to Mob Dynamics",
+                "path": "community/why-digital-societies-are-subject-to-mob-dynamics/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Why Organizations Don't Elevate Innovators",
+                "path": "community/why-organizations-don-t-elevate-innovators/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Why the Metaverse Failed",
+                "path": "community/why-the-metaverse-failed/article",
+                "icon": "book-open"
+              }
+            ]
+          },
+          {
+            "group": "Economics",
+            "icon": "book-open",
+            "pages": [
+              {
+                "title": "Anchoring Principles",
+                "path": "economics/anchoring-principles/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Currencies in Virtual Worlds",
+                "path": "economics/currencies-in-virtual-worlds/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Digital Currency and Synapse",
+                "path": "economics/digital-currency-and-synapse/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Digital Gold as a Third Jurisdiction (Link)",
+                "path": "economics/digital-gold-as-a-third-jurisdiction-link/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Digital Vaults",
+                "path": "economics/digital-vaults/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Ideal Foundations of Digital Societies",
+                "path": "economics/ideal-foundations-of-digital-societies/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Possible Concepts for the Virtual Economy",
+                "path": "economics/possible-concepts-for-the-virtual-economy/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Synapse and Economic Coordination Technology",
+                "path": "economics/synapse-and-economic-coordination-technology/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Synapse Reputation System",
+                "path": "economics/synapse-reputation-system/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Distribution of Digital Gold",
+                "path": "economics/the-distribution-of-digital-gold/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Economic Collapse of a Digital Society",
+                "path": "economics/the-economic-collapse-of-a-digital-society/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Problem of Money Printing",
+                "path": "economics/the-problem-of-money-printing/article",
+                "icon": "book-open"
+              }
+            ]
+          },
+          {
+            "group": "Statecraft",
+            "icon": "book-open",
+            "pages": [
+              {
+                "title": "Double Negative Voting",
+                "path": "statecraft/double-negative-voting/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Escaping the Cycle",
+                "path": "statecraft/escaping-the-cycle/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "How Civilizations Empower Criminals Over Time",
+                "path": "statecraft/how-civilizations-empower-criminals-over-time/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "How School Broke and How Some Fixed It",
+                "path": "statecraft/how-school-broke-and-how-some-fixed-it/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "How Society Is Corrupted Without Intentional Evil",
+                "path": "statecraft/how-society-is-corrupted-without-intentional-evil/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "How the Judiciary Broke",
+                "path": "statecraft/how-the-judiciary-broke/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "How the Media Destroyed America",
+                "path": "statecraft/how-the-media-destroyed-america/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Secondary Education",
+                "path": "statecraft/secondary-education/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Problem of Modern Banking",
+                "path": "statecraft/the-problem-of-modern-banking/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Why Civilizations Fail (WIP)",
+                "path": "statecraft/why-civilizations-fail-wip/article",
+                "icon": "book-open"
+              }
+            ]
+          },
+          {
+            "group": "Prerequisites",
+            "icon": "book-open",
+            "pages": [
+              {
+                "title": "Eustress vs Distress",
+                "path": "prerequisites/eustress-vs-distress/article",
+                "icon": "book-open"
+              }
+            ]
+          },
+          {
+            "group": "Deprecated Articles",
+            "icon": "alert-circle",
+            "pages": [
+              {
+                "title": "A List of Potential Issues",
+                "path": "deprecated-articles/a-list-of-potential-issues/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Agoran Politics",
+                "path": "deprecated-articles/agoran-politics/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Creating Productivity Apps",
+                "path": "deprecated-articles/creating-productivity-apps/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Criminal vs Civil Law",
+                "path": "deprecated-articles/criminal-vs-civil-law/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Cyber Sovereignty Innovation in Organization",
+                "path": "deprecated-articles/cyber-sovereignty-innovation-in-organization/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Digital Collectivism",
+                "path": "deprecated-articles/digital-collectivism/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Digital Society Limits",
+                "path": "deprecated-articles/digital-society-limits/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "How Cyber Sovereignty Works: A Chart",
+                "path": "deprecated-articles/how-cyber-sovereignty-works-a-chart/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Incubating Synapse Community Applications",
+                "path": "deprecated-articles/incubating-synapse-community-applications/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Laws of Precedence",
+                "path": "deprecated-articles/laws-of-precedence/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Other Potential Weaknesses",
+                "path": "deprecated-articles/other-potential-weaknesses/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Participating in Agora",
+                "path": "deprecated-articles/participating-in-agora/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Philosophy of Agora",
+                "path": "deprecated-articles/philosophy-of-agora/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Prime Declaration Explained",
+                "path": "deprecated-articles/prime-declaration-explained/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Social Games",
+                "path": "deprecated-articles/social-games/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Right to Statistics",
+                "path": "deprecated-articles/the-right-to-statistics/article",
+                "icon": "book-open"
+              }
+            ]
+          },
+          {
+            "group": "Library",
+            "icon": "book-open",
+            "pages": [
+              {
+                "title": "Test",
+                "path": "library/test/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Ambient OS Vision",
+                "path": "library/the-ambient-os-vision/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "The Injustice of the Modern Justice System",
+                "path": "library/the-injustice-of-the-modern-justice-system/article",
+                "icon": "book-open"
+              }
+            ]
+          },
+          {
+            "group": "Meta",
+            "icon": "info",
+            "pages": [
+              {
+                "title": "How to Write Better",
+                "path": "meta/how-to-write-better/article",
+                "icon": "book-open"
+              }
+            ]
+          },
+          {
+            "group": "Volunteer-only",
+            "icon": "users",
+            "pages": [
+              {
+                "title": "How to Do an Interview",
+                "path": "volunteer-only/how-to-do-an-interview/article",
+                "icon": "book-open"
               }
             ]
           }
