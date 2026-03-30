@@ -1,0 +1,43 @@
+# Digital Gold as a third jurisdiction
+
+The entire category called Synapse and Economics are necessary prerequisites to understanding this article.
+
+There are three jurisdictions for money when it comes to Cyber Sovereignty.
+
+PhysicalDigitalPersonalAll money kept by an individual in their banks, crypto wallets, etc.All money kept as digital silver or a similar society adopted currency under the purview and jurisdiction of the digital society.
+The requirement for a digital society to adopt a currency is that that digital society's government must be able to seize the money at will.Only Digital Gold in Synapse is considered in this third special category and jurisdiction.
+## **The concept**
+
+The third jurisdiction is a special exception within Cyber Sovereignty designed to limit the power of digital societies. Digital societies are more likely to succumb to financial fraud than a national government due to the fact that anyone can make them.
+
+Within Synapse, digital societies are granted the special and exclusive power to grant their citizens the ability to store Digital Gold. No user of Synapse has the ability to store any Digital Gold more than 30 days unless granted each unit of storage as a reward by a digital society that has over 30,000 citizens.
+
+A digital society can grant ten Digital Gold storage per person per 100 citizens beyond the 30,000 citizen mark per month.
+
+**Note**
+
+The value of one piece of Digital Gold is not necessarily equivalent to the value of one gold storage. Synapse will be designed to find the digital equivalent of what can be bought with $30 (USD 2024) and peg one gold storage to that.
+
+However, they have every incentive not to grant this right since Digital Gold is the only currency in Synapse that can be used in more than one digital society.
+
+On one hand, people are more likely to move to a digital society that is likely to grant the right, and on the other hand, only stable digital societies would ever grant their citizens this right, since this gives citizens a veto power over their government, allowing citizens to move their economic value from one digital society to another if they don't like that digital society.
+
+This creates a profound incentive for digital societies to create meaningful, long-term trust between the citizens and themselves, and to grow their citizenship significantly.
+
+## **Reversion on death**
+
+Once an individual dies, their heirs cannot inherit their account or Digital Gold storage. No one can take it over on their behalf, including AI. Their account gold storage must be deleted upon death.
+
+## **Seizure**
+
+Digital Gold can still be seized by the agreement of two jurisdictions on one's violation of the law. If both the national and the digital jurisdiction agree one has violated the law, that person can still have their Digital Gold seized.
+
+This cannot be done by a simple implementation of a judgment from one society to another. Both societies must independently try the case against the individual for this seizure to take place.
+
+Critically, this digital jurisdiction only applies to money held as Digital Gold in the original version of Synapse, or if Synapse is widely replaced by a similar program that functions identically when it comes to Digital Gold and silver and is used by more digital societies than Synapse.
+
+Details born out in a separate article.
+
+## **Reporting & taxes**
+
+Digital societies are forbidden from demanding a report of the amount of Digital Gold held by individuals or groups by people in their digital societies, and from demanding taxes on stored gold.

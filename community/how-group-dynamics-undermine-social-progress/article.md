@@ -1,0 +1,112 @@
+# Why digital societies fail
+
+## Defining digital society
+
+Digital societies, like physical societies, are groups of people who share an identity, who met online, who connect on more than one touch point or facet of their life, living a substantial part of their lives in connection with their online community.
+
+## The challenging reality
+
+The painful reality of online communities is that in as much as it's fascinating to envision a world in which millions of people are empowering each other to a great degree in the form of a deep and meaningful community, wherever people gather in large numbers under a single identity, they more often create strife than progress, especially online.
+
+People by nature are given to division, but in physical life are somewhat held from that division through the reality of geography and the physical ties of family. Geography is life's greatest gift to the creation of community and the sustaining of values and traditions.
+
+Keeping people together and encouraging them not to burn down relationships when things go wrong, but to repair and to rebuild, is essential to community. Any online community that hopes to survive must create a similar incentive for people to stay together and repair relationships rather than divide online as in physical life.
+
+### **Ancient chaos**
+
+Before agriculture helped form strong states, life was a constant flow of violence and turmoil, raid, plunder, and disaster.
+
+> "The romantic vision of the peaceful, ecologically sensitive, noble savage is a myth... warfare was endemic in most prestate societies." -Steven A. LeBlanc, Constant Battles
+
+The area of a modern nation would be like a washing machine in which roaming bands and warlords rinsed the population constantly of all their possessions and all they had to live on.
+
+However, the stronger states got, the more they became resistant to the endless plundering bands.
+
+### **Modern chaos**
+
+Modern social media is like the chaos of those days. No structure, no cohesion, plunder and pillage. Everyone's attacking each other and no one knows the reason.
+
+That's where digital societies with a determined bent toward civilization, organization, and cohesion must come in to settle the chaos. However, to settle today's chaos, one must understand the challenge faced.
+
+### **The secret reality**
+
+Whereas anyone can name several platforms of hundreds of millions of people gathering on the internet like Facebook and Twitter where the people on the platform don't have a single cohesive identity.
+
+It's very difficult to find any societies built online which have a single cohesive identity and yet continue to flourish and grow.
+
+The hidden reality is that behind this great unknown are a thousand stories of drama, strife, and destruction. Where we only see questions are untold stories of chaos which tore apart communities long before they could grow.
+
+Digital relationships are by nature shallow and given to division. This is why most people can't name a large-scale society that was started online, has a shared and deep identity across its members and has more than one touchpoint (it's more than about a single game, product or person).
+
+Where most people see a black hole and think why has no one thought of this yet are a thousand untold stories of how group dynamics undermine cohesion and how a systemic failure to understand the forces that pull people apart led to the downfall of societies before they could grow beyond a single touchpoint. Groups of tens of thousands, if not hundreds of thousands, have formed a single identity online, but have almost never lasted.
+
+For this example, we're not including fan communities or communities dedicated to a particular game or product since those are single touchpoint societies and can't be compared to modern communities or nations.
+
+Civilization, organization, cohesion is the ***great***exception, not the norm.
+
+For those trying to create a digital society, they must do so with great humility. The first step is understanding how societies deteriorate. For that we can look to physical life.
+
+## **Identity as key**
+
+In the next three articles, we'll explain how and why people divide online.
+
+Put briefly, when people share their a large enough part of their identity with a large enough community, their identity becomes divided when people within the community fight. This division of identity creates two profound psychological effects:
+
+- A deep and innate fear of ostracization in the friends of those who fight
+- A profound false dichotomy (choice) that forces people to choose between dividing communities.
+
+The fear of potentially landing in the outgroup when divisions arise often drives people to make rash, rather than reasonable, decisions which snowball into mob-like behavior.
+
+This behavior is profoundly enhanced online as positive signals like posture and facial expressions, signals of contentment, are invisible and the signals of discontentment are more visible.
+
+Despite being enhanced online, some of these dynamics can be observed in physically organized governments.
+
+## **Direct democracy**
+
+Many Western governments today are called democracies but, in a strict sense, they are republics.
+
+Since ancient times it's been known that direct democracy leads to disaster.
+
+- "Democracies have ever been spectacles of turbulence and contention; have ever been found incompatible with personal security or the rights of property; and have in general been as short in their lives as they have been violent in their deaths."
+- James Madison
+- "Remember, democracy never lasts long. It soon wastes, exhausts, and murders itself. There never was a democracy yet that did not commit suicide."
+-John Adams
+
+The reason direct democracies fail is because a group will consistently make worse decisions than the smartest individual within it.
+
+There are two primary reasons for this:
+
+- (1) FearPeople are generally afraid of what other people think but no good thinking is accomplished when a person is afraid.Fear initiates the fight or flight mode in a person. During fight or flight mode, our survival instincts narrow our imagination in such a way that we can be undistracted and take immediate action to protect ourselves.In a mob, that means fight or flight but in an impersonal social forum that means agree or escape. This narrowing of people's options is essential for people in a survival situation as it focuses people on immediate action rather than imagination. However, useful thought requires imagination.
+- (2) IdentityWhen a crowd of people spread their sense of self onto a whole mob, they feel less personal responsibility. This concept is called deindividualization. This is when individuals in a group lose their sense of self-awareness and personal responsibility. The person disappears into the mob, and morality or the "right" of their actions is outsourced to the group.  This is profoundly enhanced by the problem of groupthink and social proof, as mentioned [here](https://agora.joinboundless.org/community/the-reality-distortion-field).Individuals feel easily justified in a wrong action because they believe the crowd has already thought through the morality of the action. This leads to thoughtless, mob-like behavior rather than sensible and reasonable and thought-out behavior.
+
+## **Team decision-making**
+
+However, the same dynamics that caused the failure of direct democracy play out in a small scale in communities and organizations alike.
+
+A 1973 survey by Bruskin Associates found that when Americans were asked to list their biggest fears, 41% listed 'speaking before a group,' making it the most common fear cited.
+
+This fear is not a fear of speaking itself, but a fear of negative social evaluation by others. Avoiding judgement by others in order to avoid being ostracized from our tribe or community is inherently baked into our psychology.
+
+This plays out throughout communities and teams. One poignant example is when you ask people's opinion on a particular matter in the form of a round. As you go around the room asking people their opinion on a particular matter, the first person to speak often sets the tone, and others are likely to follow along avoiding breaking the consensus. If someone does contradict the consensus, they'll seek to do so with exaggeration because of the vulnerability doing so puts them in.
+
+Rather than being deeply imaginative, it's easier for people in these circumstances to be fearful of colleagues. Even a little fear limits creativity and leads to not to think things through, but to either agree or be silent.
+
+### **Social identity**
+
+This fear is enhanced when a person associates their identity with their ideas. When around others, an attack on one's own ideas can feel like an attack on one's own identity. It takes maturity and life experience to be able to separate someone's attack on one's idea from an attack on oneself or a group.
+
+## **Solutions**
+
+The solution is to create a system by which individuals can think, imagine and express themselves without a social context before entering a social context.
+
+A profoundly sophisticated example of this is teams which ask everyone to write their opinions silently on a sticky note, before sticking them to a whiteboard.
+
+This simple act removes the fear of judgment by the simple reason that no one knows what the consensus is that they must conform to.
+
+However, these same sorts of solutions can be applied at scale to whole government systems. The key is to think through how individuality can be maximized and social dynamics can be suppressed to bring out the best ideas and how those ideas can be brought together In a way that doesn't trample on anyone's identity.
+
+For generations, giving people power has seemed to be the problem, whereas in reality, giving people power outside of social dynamics is actually the key. The social dynamic is what creates the fear, and makes disagreement feel like an attack on the common identity.
+
+Giving people power is all about making sure that power is individualized and not coordinated until ideas need to be combined.
+
+Continue to part two, the [reality distortion field >>](https://agora.joinboundless.org/community/the-reality-distortion-field)

@@ -1,0 +1,207 @@
+# Wars of identity & ostracization
+
+## **Safety of a tribe**
+
+Human beings get a sense of safety by being part of a community.
+
+### **Ancient safety**
+
+Human beings are hardwired to depend on each other and that means fitting in. For most of human existence, being ostracized from one's community meant starvation and death.
+
+### **Modern safety**
+
+Although not often a matter of life and death in the modern day, a deep sense of personal safety is still tied to one's group. When one is with a group, one's opinions are not their own, one's values are not one's own, one's passions are not one's own. 
+
+This gives people a sense of safety. They can't be judged by their opinions and values and passions because they are shared with an entire group. It's a sense of validation.
+
+## **The cost of ostracization: the individual**
+
+When a person is removed from a community, their sense of identity, the validation of their values, and their own self-worth, and pride can take a serious hit. They no longer have a consensus to hide behind, exposing them to potential judgment for their opinions, ideas, and values.
+
+However, the most profound feeling is often the falling apart of a person's value system. A person's view of themselves, of their own integrity, identity and right, is caught up by the fact that other people agree with their view. By being rejected from the group, the individual can suddenly feel like they have lost the hook on which they keep their values. Depending on the depth and meaning of the community, one can feel like one is falling and has lost all sense of grip.
+
+Note, this is driven by the fact that people create unhealthy relationships with communities that matter to them. One should not hang one's whole person on the people they're around but have their own dignity and self-worth planted firmly on a reasonable foundation, not just external validation.
+
+Rather than going through the painful process required to rebuild one's own pride, identity, and to think through one's own values, through the lens of the things that happen that led to one's removal, a less mature individual will fight the fear with irrational confidence and blame about an issue not yet settled in their own mind.
+
+Reflecting on the matter and growing (if one is wrong) usually takes a 180 degree shift in the individual's thinking, something which takes time. However, the strong need to re-knit one's own identity, and the hit to one's own ego which is felt when being removed can easily create enough anxiety to initiate a fight or flight response.
+
+### **Fight or flight**
+
+This mode equips a person for immediate action at the cost of imagination, rational thought, and emotional regulation.
+
+#### **Biological reality**
+
+When the amygdala perceives a threat, it sends a strong biological signal which actively suppresses the prefrontal cortex, impairing problem-solving, creativity, and nuanced thought, and prioritizing reflective survival.
+
+### **Seeking safety**
+
+These powerful biological forces lay the foundation for what can become a highly irrational response.
+
+To defend one's own identity, these individuals can blindly climb upon a high ground of morality. Rather than reflecting on the reasons they were rejected and taking the matter to heart, their immediate reaction is to push back, to resist.
+
+In such situations, the act of removal becomes the founding act of a new identity. The nucleus is that the act of removal itself was the ultimate act of betrayal, sabotage, and wrong. Defining oneself by another's wrong is almost never healthy.
+
+> A key takeaway is that ostracization is extremely painful and should be used as a last resort.
+
+In the less mature, this can become a tirade of direct messages to former friends and members, seeking to do anything possible to separate friends from the community and to replace it.
+
+In fact, when it comes to game theory, this is the most advantageous option, seeing that every other option leads the individuals to have some part of their identity separated from themselves. If the whole group can be reunited under a new banner, it will be the ultimate advocation of the individuals war against their own vulnerability.
+
+After all, the only way for them to completely make whole their own sense of identity is to unite the entire group, or at least those that were connected with them, under a new banner on their own terms and turf.
+
+### **Escalation**
+
+This fictitious scenario focuses in on those who are having an unhealthy reaction only. It's best not to judge people based on their reaction, as even good people make mistakes.
+
+Such individuals undergoing an unhealthy reaction to the loss of community can try to find or invent a few things wrong with the original community they are separated from to fill in the gap of their own insecurities and to find support for reuniting with the community on their own terms.
+
+Since they are under the influence of a fight-or-flight response, they can more easily overlook hiding key facts from their narrative when it's presented to others in order to make themselves seem justified.
+
+Unfortunately, hiding any part of the truth from individuals you're talking to is lying. And there's no way the individual in question could know that the individual is lying. Unless they were aware that such an event causes even good people to make that mistake in these circumstances sometimes.
+
+That's why this article has been written, to make people aware that these reactions are commonplace and not an oddity to be surprised by, nor a reason to condemn the individual in question.
+
+People in such circumstances can often turn to a playbook of similar accusations:
+
+- The moderator who took the action is abusing their powerThis accusation solves the need for the individual to feel justified. They are usually the most thin as they are an accusation of convince toward the repair of one's own ego. A more substantive accusation would blame a system rather than particularly the individual that was in charge of handing out the moderation action to them as that is usually profoundly convenient.
+- The leadership is corrupt By delegitimizing the leadership of an organization, the individual is not only repairing their own identity but they are able to consequently justify larger scale actions like reuniting the community under a new banner. The size of the accusation mirrors the size of the intended action. Usually, rather than attacking just the leadership, they'll attack a few particularly  visible individuals as it's much easier to discredit particular individuals than the entire leadership of an organization.
+- The values of the community itself are the problem
+In such cases, a more substantive argument is being had. It's a healthier argument than attacking people, since it's a debate on ideas. Such are much more likely to be legitimate, but can be as uninventive as "the community is positively toxic". This is an intelligent strategy since it weaponizes the very values of a community against the community, painting an alternative set of values as the one that should be paramount.
+
+When accusations target particular individuals, they are profoundly more likely to be emotionally motivated than when fundamental ideas are attacked. Fear drives a person to be hostile to people, but reason drives a person to be hostile to ideas.
+
+The key thing is that all these sorts of accusations stand on a moral high ground and are usually backed up by evidence which doesn't hold water when truly studied.
+
+To the naïve, the individual can seem like a white knight fighting for a good cause. But to those who have experience with drama, they know that any person facing such an action is likely to have an emotional reaction.
+
+**Tip:**The best possible thing to do in such cases is to not respond. Resist the desire to be help. Counseling people on the internet often confirms a person's own problematic biases as one has no way of getting further context of an individual's life online.
+
+If they win converts, it creates a powerful social proof which further bolsters the sense of self-rightness. People familiar with drama and who have life experience understand that those who have an axe to grind often mischaracterize events in order to come up with the wrongs in question.
+
+#### **Community response**
+
+Depending on the effectivity of the distortion, the community may be forced to respond to the facts of the matter. Unfortunately, no matter the action the community takes, negative consequences arise. If they address the matter at hand, they escalate its general awareness, drawing drama-interested people into the fray. If they don't, they leave a powerful weapon in the hands of the individual who causes the escalation, their free reign to distort the facts.
+
+For those on the sidelines, a war of information feels like a war of emotion. Stress heightens as they feel forced to choose between two systems of values that were once harmonized but have become diametrically opposed.
+
+No matter the reason, no matter the cause, no matter the justification, if individuals on the sidelines see five of their friends jumping on the bandwagon, they would have to do tremendous rationalization and self-justification not to go with them.
+
+In a time of stress, it's easier than ever to suppress potential doubts and reduce research in order to go with the flow of the crowd.
+
+If enough people leave the original community to join a new one, it creates a powerful "social proof" of the ethics of the actions, justifying irrational actions in retrospect.
+
+#### **Community dialog**
+
+When the reasons for frustration are irrational, the solutions become easier. If the war isn't deeply tied to motivated agendas yet, it can be solved by simply having a community meeting or sit down with everybody to listen to and address the concerns that they have at hand and in person.
+
+Structuring such a sit-down properly is key.
+
+Begin the meeting by laying down the ground rules:
+
+- Have everyone make a promise to be on the same side, not attacking one another, but choosing to resolve problems.
+- No unsubstantiated attacks.
+- Maintain a dispassionate tone.
+- Be solution-focused not problem-focused
+- When ELMO is brought into the room, move on from the topic no matter what.
+
+**ELMO**
+
+Elmo is a Sesame Street character that you can bring comically to such an event. 
+The goal is using a puppet as a prop. If it shows up, then the team is moving on to the next topic no matter what.
+Elmo stands for "Enough, let's move on."
+
+Having that as a ground rule is important.
+
+Ensure:
+
+- Sensible people are on hand -- mentors, arbiters, trusted third parties.
+- Remove people who break the rules from the meeting.
+- Resolve as much as possible bringing one third party with you to a meeting, one person at a time. This prevents the emotion of a big public event. And gives the individual space and time to air out any grievances and let them go.
+- Don't say that you'll relay the problems you face to somebody else. Deal with their objections right then and there, and don't give in to the temptation to blame somebody higher up the chain.
+
+It can be like letting the air out of a pressured balloon.
+
+## **The cost of ostracization: the friends**
+
+### **Fight or flight**
+
+When any particular individual is banned from a community, their friends enter a state of jeopardy. Their friend's sense of identity now becomes divided between the removed individual and the rest of the community.
+
+This puts those friends in a state of of jeopardy which can lead to anxiety. When tensions heighten, people enter fight-or-flight mode, equipping them for immediate action at the cost of rational thought.
+
+Unfortunately, the factors at play with a group are much more profound than those of an individual. When it comes to an unhealthy response for the friends of those who have been banned, they can become anxious about re-knitting their sense of identity quickly, especially if the removed individual was close to them or if other friends were also moderated at the same time.
+
+Thinking irrationally, these friends can easily assume that either the community or the friend is greatly wrong, if they're separated from one another, since their identity is spread across both of them. Their brain encourages them to make a consequential decision quickly and reflexively rather than rationally.
+
+These essential survival instincts are useful in physical life, but are mostly disruptive in the terms of a group of people online.
+
+#### **Jeopardy of values**
+
+This dynamic is augmented when a person of low self-esteem hangs their values on their community rather than on deep personal thought. Since they depend on people around them to validate their ideas, rather than validating their values based on a chain of thought the individual becomes torn between the two sides.
+
+Fear can lead people to think that both sides possibly can't be right, that a disagreement about fundamental values is necessarily an opposition of moral values. It may be, but neither is a case for fear, if one stands confidently on their own values.
+
+Driven by the idea that there is a right and wrong side, they're driven to make a choice between two parts of their own identity. Rather than realizing that two people or two groups of people can disagree on values and separate with neither necessarily having committed moral wrong, their sense of jeopardy makes them feel compelled to choose one or the other to keep the "hook" on which they keep their values safe.
+
+In the vast majority of cases, when such a false dichotomy driven by fear is accepted, then an individual will follow the route of greatest social safety regardless of values or rational argument.
+
+When thinking in terms of game theory, the most advantageous way for an individual actor to resolve the identity conflict, is to start a new community with all parties involved and include the removed individual.
+
+This is the only solution that provides the individual with a total sense of safety. To reunite everyone. However, the pursuit of ultimate unity is the destruction of all standards and values and thus the core of community itself.
+
+However, if a community cannot punish or exclude members that violate rules, their values will inevitably be meaningless. Our very human nature and survival instinct are at war with the necessary continuity of a just community, unless one deliberately prepares for such a conflict.
+
+## **Preparing for conflict**
+
+Any community that is not prepared for this conflict in the most robust manner possible will divide because of it.
+
+> "The empire... long united, must divide. Thus it has ever been." - *Romance of the Three Kingdoms*
+
+### **Justice as the cornerstone**
+
+To prevent this issue, the community must buy into shared system of justice that is not only understood, but celebrated. 
+
+Under such a system, the offense is no longer against some arbitrary rule detached from effected individuals, but against a community standard that their friends passionately uphold.
+
+### **Avoid banning**
+
+The most ideal way to deal with the issue is not to ban the individual in the first place. Creating a system in which people can be restored to the community after a short break, or systems in which people feel like they can redeem themselves, are ideal. This should be done with the understanding that offenders are very likely to offend again.
+
+It's quite unlikely in a community of strong tradition and values that those who break those traditions and values knowingly will reform themselves. However, if an individual is given robust due process, the justice given them will seem more just in the end.
+
+### **Dealing with this issue**
+
+Inevitably, communities which adhere to some values will need to ban those who disagree with their values. By preparing every member with a toolkit to deal with potential rejection, one can create a community of greater positive impact.
+
+### **The justice vs speed conundrum**
+
+The faster a problematic person is removed from the community, the less deep their relationships with the individuals in the community. 
+
+A robust justice system if often slow and this slowness gives individuals time to build many more relationships, even though they're violating the values and standards of the community. This means that when they are finally removed, their removal has a much greater impact on the community than if swift justice were to be executed.
+
+## **Framework for dealing with a ban maturely**
+
+### **Dealing with rejection maturely**
+
+A much more holistic approach to dealing with this rejection from the perspective of the individual is as the individual not to panic and jump to conclusions, but to understand a few things.
+
+1. Human societies are never perfect
+2. Justice systems are never perfect
+3. People's values not aligning with our own doesn't necessarily mean one value system is right and the other value system is wrong.
+
+A good response is:
+
+1. Not judging the action, but understanding that if one were to create their own system, it would be imperfect
+2. Acknowledging wrongdoing in the action taken, if there was any
+3. Forgiving those who took action against oneself and truly wishing them well
+4. Accepting that it happened
+5. Being open to reforming one's own actions where they crossed into moral wrongdoing.
+
+Almost always the knee-jerk and quick responses or the desire to get revenge will lead us to moral disaster. It will set the foundation of a new framework, which is ugly and distorted, which will need to be fixed once again.
+
+Not immediately judging the action but giving oneself time to think about the lead up to that action and its events in detail and writing those down can be critical.
+
+## **Passing on the framework**
+
+Passing on this framework and critically including that just because values are different doesn't mean people are good and evil necessarily is critical. Not being part of a community does not make a person necessarily good or bad. A single action does not necessarily make a person good or bad. One has to be able to stand on their own two feet by building a sense of identity that stands regardless of social validation.

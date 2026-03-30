@@ -1,0 +1,87 @@
+# Eustress vs distress
+
+In the popular imagination, stress is understood as something to be eliminated from life. However, a lot of scientific research across the fields of endocrinology to behavioral psychology suggests otherwise.
+
+## **The spectrum of stress**
+
+There are two primary forms of stress categorized by endocrinologist Hans Selye.
+
+### **(1) Eustress**
+
+Eustress is a type of stress that is short-term, motivating, and feels within our coping abilities. When a person undergoes this type of stress, their body is flooded with dopamine and norepinephrine that sharpens focus and improves performance.
+
+**Example**:
+
+A heavy workout, a job promotion, a first date, a roller coaster.
+
+**Effect:**
+
+It triggers a process of biological rebuilding, creating biological toughness through a process called hormesis, where a moderate dose of a stressor strengthens an organism, somewhat like a vaccine, protecting a person against a disease.
+
+### **(2) Distress**
+
+Distress happens when a person believes they are unable to cope with a stressor. Any stressor can become distress if the individual has the inability to cope but it’s more likely in the presence of a sudden or overwhelming stressor.
+
+**Example:**
+
+The sudden death of a close family member or friend. Witnessing a near-fatal incident. Serious personal injury.
+
+**Effect:**
+
+It can dysregulate the HPA (Hypothalamic-Pituitary-Adrenal) axis, disrupting cortisol rhythms (high, low, or erratic), and over time can impair brain function and promote muscle breakdown.
+
+## **Perception becomes reality**
+
+Psychologist Richard Lazarus proposed that stress isn't determined by the event itself, but by your secondary appraisal of it.
+
+- Stressor happens (sudden deadline)
+- Primary appraisal: "Is this dangerous?"
+- Secondary appraisal: "Do I have the resources to handle this?"
+
+If NO → Threat response (vasoconstriction, inflammation, fear).
+If YES → Challenge response (vasodilation, cardiac efficiency, focus).
+
+**The key thesis:**When a person views stress as a challenge rather than a threat, their ratio of DHEA, a growth-related adrenal hormone, to cortisol, a stress hormone, improves, allowing one to recover faster because of their mindset.
+
+This is a significant oversimplification of the science for readability.
+
+## **Three modes of stress**
+
+A person can have three modes of stress.
+
+- **Unstressed:** Wasted potential
+- **Distressed:**Overwhelmed and broken down
+- **Ideally stressed:** Pushed to one's reasonable maximum, but not over the edge, allowing one to feel activated, energized.
+
+## **Creating stress tolerance**
+
+Rather than being purely genetic, scientific literature suggests mental toughness is largely buildable.
+
+### **Stress inoculation training**
+
+Stress inoculation training is designed to build one's resilience through stressors through manageable exposure to stress.
+
+**The mechanism:**
+
+Repeated exposure to challenges or discomfort to desensitize the amygdala (the metal alarm bell) and strengthen the prefrontal cortex (the brain’s center for reasoning).
+
+**Examples:**
+
+Deliberately engaging in "micro-stressors" daily.
+
+- *Physical:* Cold showers, heat saunas, high-intensity interval training.
+- *Social:* Public speaking, disagreeing agreeably, asking for a discount (rejection therapy).
+
+**Illustration**
+
+Imagine a tree that was planted in a greenhouse without any wind. The sapling grows from stage to stage having never experienced the power of the wind and therefore it never builds resilience. When this tree is finally planted outdoors, outgrowing the greenhouse, the wind blows it over, breaking its trunk.
+
+However, if the tree is planted outdoors, it faces gentle breezes and occasional gusts from the very beginning. As the sapling sways in the wind, it experiences small, manageable amounts of stress. This constant pushing and pulling forces the roots to dig deeper into the earth and signals the trunk to grow thicker, denser wood.
+
+Because it adapted to the wind a little bit at a time, when a massive storm eventually hits, the outdoor tree is pushed to its limits; but its flexible, hardened trunk bends instead of breaking.
+
+**The takeaway:**
+
+Small, manageable challenges that push one just outside their comfort zone, force one to adapt, and help one build deep roots.
+
+[![An image of a sapling with deep roots.](images/img-001-d082df753701.png)](https://cdn.eniston.com/bases/08b96173-96cd-4c3a-be91-7469eda5fea7/attachments/image-1773687932554-1773688141.png?width=1400)

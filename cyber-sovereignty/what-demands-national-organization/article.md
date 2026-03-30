@@ -1,0 +1,448 @@
+# Jurisdictional boundary rubric
+
+Normally speaking, when the first-order effects of a matter are contained between the members of a digital society, those matters are the sole purview of the digital society.
+
+However, the jurisdictional boundary tribunal helps determine one other core consideration, namely, what matters require national or subnational organization and therefore cannot be the sole purview of a digital society.
+
+## Guidelines
+
+To ensure governments do not use these exceptions to infringe on the fundamental rights of people, a series of protected categories has been set up. Only in the most extreme cases can the jurisdictional boundary tribunal rule that a matter within these categories must be the purview of national governments.
+
+### **Protected categories**
+
+The rubric begins with a question that *counts against* national organization:
+
+> Does national organization of the matter infringe on the deeply held values of multiple communities within the nation?
+
+Wherever possible, these categories must remain the purview of digital societies:
+
+- Speech & expression
+- Medical choices & health practices
+- Choices about one's own body
+- Matters of religion, morals or closely-held beliefs
+- Matters of family structure or guardianship
+- Practices surrounding birth, raising and educating of children
+- Matters of personal risk, life and death, funeral and burial, and mourning rites
+- Rules of hospitality & community.
+
+### **Rubric questions for national organization**
+
+If the matter matches these criteria a matter can become nationally organized regardless of the effects principle:
+
+> 2. Does it have irreversible second-order effects that are *very likely* to cause catastrophic harm outside the digital society?
+> 3. Does it absolutely require absolutely require national organization to have effect?
+> 4. Does allowing the activity stop other individuals from being free?
+> 5. Does it subject a non-consenting individual(s) to catastrophic physical harm?
+> 6. Are the first-order effects contained to the digital world?
+
+## Scenarios
+
+Note, these scenarios purely implement the rubric above without regard to the Charter. The Charter may grant specific rights which overrule the ability for a particular jurisdiction to get involved in particular cases.
+
+### **Genetic regulation**
+
+****Genetic regulation****
+
+### **Genetic regulation**
+
+#### **Example**
+
+Let's imagine that a digital society allows human gene editing. This causes the human gene pool to have new types of genetically modified babies. These babies then grow up to marry people outside the digital society.
+
+#### **Question 0**
+
+**Are the first-order effects contained?**
+
+Yes. If the children are under the purview of their parents, then the effects are contained.
+
+The parents consent. The procedure happens in a private clinic staffed by members. On the surface, no one outside the group is directly involved.
+
+This point counts against national regulation. It will be represented as a score as:
+
+NR -1
+
+#### **Question 1**
+
+**Is it a matter of deeply held values?**
+
+Yes. Children are something people value very deeply and how we protect them is a matter of values.
+
+NR -2 total.
+
+#### **Question 2**
+
+**Does it have irreversible second-order effects that are very likely to cause catastrophic harm outside the digital society?**
+
+Yes. The second order effects are such that it could create a biological catastrophe within the human species, triggering devastating diseases for generations to come.
+
+NR -1 total.
+
+#### **Question 3**
+
+**Does it absolutely require national organization to have effect?**
+
+Yes, a single society allowing it impacts others irreversibly.
+
+NR 0 total.
+
+#### **Question 4**
+
+**Does allowing the activity stop other individuals from being free?**
+
+This depends on if potential partners can reasonably know about this genetic modification before starting a relationship or not. If they can't, their children do not have a contiguous line of consent. Assuming they can't:
+
+NR +1 total.
+
+#### **Question 5**
+
+**Does it subject a non-consenting individual(s) to catastrophic physical harm?**
+
+Potentially the grandchildren of a non-consenting marriage in which one of the partners was not told about the genetic differences and their children suffer catastrophic harm.
+
+NR +2 total.
+
+#### **Conclusion**
+
+It is the purview of the jurisdictional boundary tribunal to decide how each point is weighed but they must strongly avoid regulating matters of protected categories.
+
+However, this matter is so pressing and its implications so dire and the consent chain so broken, and the damage so catastrophic that it would likely warrant the intervention of the jurisdictional boundary tribunal. Only in such dire cases should a ruling be made to allow for national regulation.
+
+### **Animal protection**
+
+****Animal protection****
+
+### **Animal protection**
+
+#### **Example**
+
+Let's imagine that a digital society allows the abuse of animals under their care.
+
+#### **Question 0**
+
+**Are the first-order effects contained?**
+
+Yes. The act of abuse is performed by a citizen of the society, on an animal owned by that citizen, likely on private property. The direct physical harm does not extend beyond the boundaries of that property or affect non-members.
+
+NR -1
+
+#### **Question 1**
+
+**Is it a matter of deeply held values?**
+
+Yes, the protection of animals from cruelty is a core moral value for some. For other communities, animals may be viewed strictly as property, or may be part of a long-standing cultural or religious tradition. Any single national law on this topic is guaranteed to infringe on the deeply held values of one group or another.
+
+NR -2 total.
+
+#### **Question 2**
+
+**Does it have irreversible second-order effects that are very likely to cause catastrophic harm outside the digital society?**
+
+Only in matters of species extinction which we will suggest is not part of this example. The harm is irreversible and catastrophic for the individual animal, which is a tragedy. However, it does not create a threat to humanity.
+
+NR -3 total.
+
+#### **Question 3**
+
+**Does it absolutely require national organization to have effect?**
+
+**No.** A national ban is not required for a different digital society to have its own strict animal protection laws.
+
+NR -4 total.
+
+#### **Question 4**
+
+**Does allowing the activity stop other individuals from being free?**
+
+**No.** A person living next door to someone committing animal abuse may be horrified, disgusted, and emotionally distressed, but their own liberty is not legally restricted. They are still free to act, speak, and associate as they see fit. It does not constrain their freedom.
+
+NR -5 total.
+
+#### **Question 5**
+
+**Does it subject a non-consenting individual(s) to catastrophic physical harm?**
+
+No.
+
+NR -6 total.
+
+#### **Conclusion**
+
+It's not hard to imagine a large Accord dealing with this matter, but as far as national regulation, this is clearly not something that can be taken out of the jurisdiction of digital societies under any circumstance.
+
+### **Pandemic response**
+
+****Pandemic response****
+
+### **Pandemic response**
+
+#### **Example**
+
+A national pandemic of a new disease is announced.
+
+#### **Question 0**
+
+**Are the first-order effects contained?**
+
+No. Actions by nature affect others in the situation of a pandemic.
+
+NR +1
+
+#### **Conclusion**
+
+In any question where the first order effects are not contained in the digital society, it automatically becomes the purview of the national government.
+
+### **Environment**
+
+First-order effects outside of the digital society mean that environmental regulation is the purview of national governments.
+
+### **Workplace safety**
+
+Provided all the workers and the corporation are members of the same digital society or their accord, it would be a matter of digital societies.
+
+### **Banking regulation**
+
+****Banking regulation****
+
+### **Banking regulation**
+
+#### **Example**
+
+Let's imagine a digital society runs its own banking system, including printing its own digital currency. The system is potentially unstable and large enough that the potential for economic contagion exists. However, the national government does not have proof that the system is unstable or that the risk exists.
+
+#### **Question 0**
+
+**Are the first-order effects contained?**
+
+Yes. The only people using the currency are within the digital society.
+
+NR -1
+
+#### **Question 1**
+
+**Is it a matter of deeply held values?**
+
+No, money is not considered a protected category unless used in a ritual.
+
+NR 0 total.
+
+#### **Question 2**
+
+**Does it have irreversible second-order effects that are very likely to cause catastrophic harm outside the digital society?**
+
+Yes, economic contagion is a serious problem for a nation state. However, it must be judged if the national government has proof that the digital society is not only effecting those outside but doing so in a way that is very likely to cause catastrophic harm.
+
+In this example, they don't.
+
+NR -1 total.
+
+#### **Question 3**
+
+**Does it absolutely require national organization to have effect?**
+
+Yes but only if the amounts deposited and transacted are so great that real and tangible potential for economic catastrophe exists.
+
+NR 0 total.
+
+#### **Question 4**
+
+**Does allowing the activity stop other individuals from being free?**
+
+**Yes.**Imminent economic depression can stop others being free. However, allowing multiple systems of banking could actually make people more free by giving them a system of choices to choose from ensuring one bad economic idea doesn't ruin all of society.
+
+NR +1 total.
+
+#### **Question 5**
+
+**Does it subject a non-consenting individual(s) to catastrophic physical harm?**
+
+If a digital society is so widespread that it's economic collapse is about to cause catastrophe to a nation's economy and that's provable, then yes, but without proof that reality is meaningless.
+
+NR 0 total.
+
+#### **Conclusion**
+
+It's not a matter of closely held values, but destroying a system where multiple systems compete to create the best version of bank regulation, in fear of catastrophic harm, may create even more risk. 
+
+If it were not limited to a digital currency used to buy digital goods, then this would be an important matter of debate, a tossup, in which the JBT would need to make a decision if the national government could retain its regulatory monopoly on this sector.
+
+**If the financial system is purely a digital one, for buying digital goods in a digital society, it's unlikely the national government has any authority to intervene based on the Visitor's Jurisdiction Principle.**
+
+## **Context**
+
+There is no simple simple that can give us an answer in all situations, and therefore it must be understood that the rubric and its conclusions cannot be simplified into a mathematical formula. Instead, human judgment must play a critical role.
+
+As the jurisdictional boundary tribunal judges these matters, they may also take into account other questions that wouldn't work with a rubric, per se:
+
+- **Does the activity interfere with a shared national commons like the electromagnetic spectrum or airspace?** **Example:** A digital society introduces a non-native, genetically engineered species of tree that is highly resilient. Although planted in their own property the tree has strong potential to become an invasive or problematic species for crops. The absolute need to ensure the commons is shareable and sustainable needs to be the right of the national or local government.
+- **Does the activity serve to demolish a nation's cultural or historical heritage irreversibly?** **Example:** A digital society buys and demolishes all sites related to history in a nation.The nation must have some ability to preserve its own history.
+- **Is the matter of provable, widely understood, adversary action from another nation state?****Example:** A digital society hands over control over one of its very popular social media products to a foreign government which demands all data be given to that government.National governments need to be able to protect their integrity and sovereignty from attack. However, everybody must be warned that national governments have consistently fabricated adversary action in order to create a premise for intervention.
+- **Is the matter an area in which national governments have been known to infringe on the rights of individuals historically?****Example:**National governments have a long and recent history of consistently misusing sterilization against undesired groups in society.Digital societies need to be weighted to take preference in scenarios where national governments have consistently proven abusive in recent history.
+- **Does the activity create a technology or entity that, by its nature, cannot be controlled once created?****Example:** A digital society of bio-engineers creates a self-replicating microorganism designed to clean oil spills. It mutates and begins consuming plastic, escaping into the world's oceans where it cannot be stopped or recalled.
+
+**Similar rubric questions which were rejected**
+
+These questions were rejected from the rubric and therefore hint toward them being invalid.
+
+1. **Does the activity undermine the integrity of a core national institution?****Example:** A digital society creates its own system of "cryptographically-verified evidence." A member then tries to use this evidence in a national court, claiming it is mathematically impossible to question and must override the court's normal rules of discovery and cross-examination.**Invalid:**The concept of undermining institutions cannot be considered as undermining digital authority.
+2. **Is the activity likely to incite widespread social unrest or violent conflict between communities?****Example:** A digital society's religious rules require its members to publicly burn a symbol that another large community within the nation holds sacred, leading to street clashes and riots.**Invalid:** Literally anything can incite social unrest or violent conflict between communities.
+3. **Could the activity, if scaled, create a direct or indirect threat to national surveillance?****Example:** A digital society of privacy advocates develops and distributes unbreakable encryption to all its members. This technology is then adopted by foreign spies and terrorist cells within the country, making them impossible for national intelligence agencies to monitor.**Invalid.**Although we have generally not considered the charter in these matters, this matter is obviously invalid based on the right to privacy in it.
+4. **Does the activity enable a national "race to the bottom" for fundamental for national standards?****Invalid**as long as the first-order effects are contained.
+5. **Does the activity cause significant, long-term psychological harm to an identifiable group of non-consenting individuals?****Example:** A digital society's rules permit its members to engage in relentless, targeted public shaming campaigns against non-members who criticize them, leading to documented cases of severe depression and suicide in the targeted group.**Invalid:**This would be an example of harassment with first-order effect outside of a digital society and so is invalid.
+6. **Does the activity create an intractable enforcement problem for national law enforcement?****Example:** A digital society creates a completely anonymous system for internal transactions. This becomes the primary tool for money laundering and sanction evasion within the nation, but the society's rules prevent any form of audit, making the crimes impossible to trace. **Invalid:**As a rule, it's worded far too broadly. But as an example, it's a great example of an edge case explored often. In almost every case, the first order effects are not contained in the digital society. Because when somebody does money laundering, they're doing it with the desire to hide a crime outside of the society. However, the rules of anonymity created by the digital society make it difficult for the national government to properly prosecute this issue. Just because some people are abusing the system does not give the national government the right to overthrow the whole system. And does not change the jurisdiction all by itself. It would have to go through all of the different points. And this point in itself is worded too broadly.
+7. **Is the sheer scale of the activity large enough to have a national-level impact by default?****Example:** A digital society with 20 million members decides to change its official language for all internal business. This instantly creates a massive new linguistic bloc that changes the nation's political and cultural landscape overnight.**Invalid:** This is the purview of the digital society as first-order effects are contained. Just having a national effect is not enough to drive jurisdictional change.
+8. **Could the activity's failure result in requiring a national-level response?****Example:** A digital society of pioneers builds a large, self-contained city in the desert based on unproven technology. If their water or power systems fail, the national government would be forced to mount a massive, expensive rescue operation to prevent thousands of deaths.**Invalid:** Unless using up a natural common (or similar), which is a suggested rule, digital societies should be encouraged to express themselves in unique ways.
+9. **Does the activity normalize a behavior that erodes the social trust necessary for a free society to function?****Example:** A digital society's rules not only permit but encourage its members to lie and use deception in all business dealings with non-members, making contracts and basic commerce with them impossible and eroding trust in the wider economy.**Invalid:** The opposite rule was created as a protected category already.
+10. **Does the activity create a new form of untraceable, non-physical weapon?****Example:** A digital society develops a sophisticated AI that can create hyper-realistic "deepfake" videos and launches autonomous social media campaigns designed to destroy the reputation of any non-member it targets.**Invalid:** By nature these have first-order effects outside of the digital society
+11. **Does the activity create a permanent "data commons" that could be exploited to the nation's detriment?****Example:** A digital society requires all members to submit their full genomic data to a central, private database. This database is then stolen by or sold to a hostile foreign power, creating a national security vulnerability.**Invalid:** Already covered by 2, 3, 5.
+12. **Does the activity involve materials universally recognized as related to weapons of mass destruction?****Example:** A digital society of "citizen scientists" begins experiments with uranium enrichment or weaponized pathogens under internal safety rules that are far weaker than national and international standards.**Invalid:** Already covered by catastrophic harm.
+13. **Does the activity create a permanent stratification of citizenship with superior legal rights?****Example:** A digital society's legal system allows its members to declare bankruptcy without any penalty while forcing non-members they do business with to bear all the losses, creating a legally protected financial upper class.**Invalid:** Multi-party dispute means that it's outside of digital first-order effects.
+14. **Does the activity create a significant risk of a negative diplomatic or international incident?****Example:** A digital society's rules allow its members to launch cyberattacks against corporations and governments in other countries, creating an international incident that the national government is forced to answer for.**Invalid:** First-order effects not contained.
+
+## **Costs**
+
+If a digital society knowingly creates lax rules or regulations which have a disproportionate impact on the public resources, that society should not be restricted on doing so but warned and explained the negative externalities costs. Those costs may be recouped in a suit against the digital society provided the jurisdictional boundary tribunal has provided a framework by which such activities can take place fairly.
+
+This rule was created in response to this scenario:
+
+**Does the activity produce a delayed negative externality whose cost will be borne by the entire nation?**
+
+**Example**: A digital society's rules permit the use of a cheap but slowly degrading building material. Decades later, buildings across the country constructed with this material begin to collapse, and the cleanup and replacement cost falls upon the public.
+
+## **Local organization**
+
+In some cases, a matter absolutely demands subnational organization. However, in most cases, the functions of local governments will be kept intact by the fact that delegating them to a digital society would have effects outside of that digital society or its accord, unless the whole city was part of the same accord.
+
+In almost all cases of local organization, the effects principle divides jurisdiction perfectly.
+
+- Traffic control
+- Zoning and land use
+- Local emergency services
+- Public utilities management
+- Waste management
+- Public health and sanitation
+- Local nuisance ordinances
+- Public parks and recreation
+- Building codes and inspections
+- Animal control
+
+Unless a digital society is building its own cities in physical life for its own members, it would be difficult to contain the effects, placing all these matters squarely in a local camp.
+
+Therefore, no preset rubric is necessary, and if a matter comes into dispute, the jurisdictional boundary tribunal should use a similar rubric to national organization, especially when it comes to protected categories.
+
+## **Charter rights**
+
+Regardless of local and national government obtaining the right to regulate a matter, the human rights of the Charter are irrevocable and cases may be brought by digital societies against national, local and state governments if the Charter rights of their members is violated.
+
+## **National JBT**
+
+Each JBT can only create laws which allow national government to take precedence over digital societies within its own jurisdiction. So a JBT cannot outlaw, for example, a digital society creating its own currency. But it can mandate that if that currency touches members of its nation, that national laws take precedence.
+
+## **State-level organization**
+
+State-level organization should use a similar rubric to national organization with the same protected categories and every effort should be made to allow digital societies and their members to live unbothered by state interference when those first-order effects are contained.
+
+## **Visitors jurisdiction principle**
+
+A digital society's laws govern all activity on its platforms when the first-order effects of the digital platform are contained digitally and within that digital society's platform(s).
+
+**Details**
+
+For example, if an individual were to visit a social network operated by a digital society, in which the digital society has active corporations working within that platform, and the visitor interacts with a corporation on the platform owned by the digital society, their interaction with the corporation would be governed by that digital society's laws, and not the individual's national law, provided the individual clearly understood and consented to the fact that they were on a platform of a different jurisdiction than that of their nationality.
+
+Be aware that digital jurisdictions cannot mix with other jurisdictions.
+
+So if a single platform integrates a technology that calls back to a corporation in a different jurisdiction, passing some user data from jurisdiction to jurisdiction, then this principle no longer applies unless both jurisdictions are under one Accord.
+
+A single corporation within a digital jurisdiction making that mistake does not nullify the legitimacy of the digital jurisdiction but opens up that particular corporation to national legal jurisdiction.
+
+This principle stands above the rubric. National jurisdictions are forbidden from punishing digital societies in any way, for not complying with national laws in cases where the effects are contained digitally.
+
+### **Special rules**
+
+- The first order effects must be contained within that platform itself. Namely, the entire platform is a closed ecosystem that allows no transmission of, for example, money or user data in and out of it. As long as the digital society strictly bans the transmission of, for example, user data, digital items, money, and similar outside of its platform then it's obligation to create a closed ecosystem is complete. Individuals that violate these rules are free to be prosecuted by their national government. This closed ecosystem principle does not apply to its citizens. So, if, for example, a visitor to a digital society were to sell something that they own in that digital society without being a citizen to a citizen, and that citizen in turn turns that money into money they can use in their bank account nationally, that is still considered a closed ecosystem for visitors for the sake of this principle. Cooperation between digital societies and national governments on this matter is strongly encouraged.
+- Whether or not visitors can bring money in or out of these digital societies is the purview of the national government of the person entering. No requirement by the digital society exists to filter for these national government laws. Instead, national governments would need to impose them on their own citizens. By default, unless otherwise ruled upon, bringing money in or out is allowed by national governments in which Cyber Sovereignty is legalized. These sanctions could be individualized to a particular digital society or a ban on all money entering and leaving digital societies from nationals within the national jurisdiction.Citizen clarification: Citizens of a digital society from a national jurisdiction in which Cyber Sovereignty is legalized cannot be prevented from moving their assets in and out of digital societies that they are a citizen of.
+- Regular speech visible outside of the platform does not constitute the effects not being contained within the digital platform. If, for example, an individual from a national jurisdiction that is visiting commits harassment or defamation according to national law that would not be prosecuted under the digital society's laws those matters could still be brought to bare on the individual but no judgement could be enforced from that case on the digital society platform without digital society consent. Speech about a particular individual that visited is totally under the digital society's jurisdiction. If the digital society closes the platform so that none of it is visible outside of consenting visitors and something which is said within the platform is reported outside the platform, the digital society and the individual who made the remark are not responsible for outside effects.
+- Consent would have to be given in accordance to the standard of "[Real consent](https://agora.joinboundless.org/cyber-sovereignty/charter)".
+
+**Explanation**
+
+When it comes to people who are assessing if a digital society is right for them, they need to interact with these digital societies somewhat. Digital societies should not have to take on the burden of being subject to the myriad national laws where all potential citizens could come from just because they are visiting provided the digital society has set up a digital arena in which people can visit.
+
+Imagine a virtual society in which an entire virtual world was contained in a virtual space, and people could willingly enter and leave that space. This space would become the "land" of the digital society.
+
+Digital societies could make their own rules for people in their land, provided things remain digital in that land.
+
+## Intentions and limitations
+
+The intention here is to make getting to know a digital society easy and it is also to create a realm in which former citizens can interact with their former digital society to some degree.
+
+The intention is to create room for the onboarding and offboarding of people onto digital societies without the digital society being subject to every national law during that process. People should have the freedom to get to know a digital society, read reviews of a digital society, create reviews of their interactions with that digital society etc. within a space where digital society laws are paramount.
+
+Not only is this necessary for the simplicity of law for the digital society, but for users to be able to get to know how the law is implemented in a digital society before they choose to become a citizen.
+
+The JBT has the right to impose further restrictions on what digital societies can/cannot do when interacting with visitors. They can expand or reduce jurisdiction in this matter provided they continue to maintain the ease of prospect access and the ability for former citizens to interact with their former digital society members. Coordination with other JBT's in this matter is encouraged.
+
+The incentive for digital societies and national governments to cooperate because national governments have some control over this interaction is something that is encouraged to be kept in.
+
+The goal here is not to create a legal workaround to all laws where corporations can do legal arbitrage or to undermine national trade law.
+
+This has been created to combat the present problem in which every national jurisdiction seeks to take control of the whole of the internet, [creating a web of contradictory laws](https://agora.joinboundless.org/cyber-sovereignty/corporate-citizenship) impossible to follow by any society which would like to be open to feedback, hosting reviews, trial runs by non-members and similar.
+
+**Example scenarios**
+
+Using AI, this system was pushed to its limits to see if it could be exploited by malicious actors.
+
+## **Fictitious edge case scenario**
+
+### **The scenario:**
+
+A digital society named "Veridia," founded on radical environmentalist principles, operates a massive, immersive virtual world. Its laws are designed to promote ecological values. A Japanese visitor named Kenji, after explicitly consenting to Veridia's jurisdiction, enters the virtual world.
+
+Inside, Kenji interacts with "BioCorp," a Veridian corporation that sells custom-designed digital plants for virtual homes. Kenji commissions BioCorp to create a stunningly beautiful and completely unique digital flower. The contract, governed by Veridian law, states Kenji has exclusive ownership of this digital asset.
+
+### **The twist:**
+
+Unbeknownst to Kenji, BioCorp's software has a hidden, malicious feature. The digital flower contains a sophisticated and undetectable piece of malware. A week later, this malware activates, silently copying all of Kenji's personal financial data from his computer in Japan and transmitting it back to BioCorp's servers within Veridia. BioCorp then uses this stolen data to drain Kenji's real-world Japanese bank account.
+
+### **The unanswered question:**
+
+Kenji tries to sue BioCorp in a Japanese national court. BioCorp's lawyers file a motion to dismiss, citing the "Visitors Jurisdiction Principle." They argue that the entire interaction—the contract, the creation of the flower, and the transfer of the digital asset—happened on Veridia's platform, under its laws, and that Kenji consented to this.
+
+**Is the "first-order effect" of this interaction contained digitally?**
+
+- **BioCorp's argument:** Yes. The "product" delivered was a digital flower. The malware was just data. The transfer of Kenji's financial information was just a stream of bits from one computer to another. All of this was purely digital. The subsequent theft from his bank is a separate, secondary effect that Japanese police should investigate.
+- **Kenji's argument:** No. The digital flower was not just a product; it was a **weapon**. The "first-order effect" was not the delivery of the flower, but the **non-consensual trespass into his private computer and the theft of his property.** This effect, while initiated digitally, had a direct, tangible, and immediate impact in the physical world (his bank account in Japan). The digital platform was merely the delivery mechanism for a real-world crime.
+
+### **Human rebuttal**
+
+In such a case, since the software was designed for malicious purposes, the first-order effects are the fraud which took place. If it stole money from his crypto wallet, then the effect could be considered digital but it's effects would be outside the digital society. The effects are not contained in the digital society.
+
+Not only that, this individual would have a case in the digital society, and if the digital societies laws defended the crime, the digital society would be seen to be created for financial fraud.
+
+## **The jurisdictional data laundering**
+
+A corporation in a national jurisdiction (Country A) wants to process its citizens' data in a way that is illegal in Country A. It sets up a shell corporation on a digital society's platform. It then pays its users in Country A to "visit" the platform and "voluntarily" re-submit their data. Is this a legitimate exercise of visitor jurisdiction, or a criminal conspiracy to circumvent national law?
+
+### **Human rebuttal**
+
+There is no issue with this, seeing that the consent trail would be very explicit provided the matter was indeed voluntarily committed. The user would have to go out of their way to go to a separate jurisdiction to submit separate data, at which point they really want to do something particular. However, that corporation could not use that data outside of the digital society, without creating an uncontained effect.
+
+## **Constraining regulation**
+
+The JBT has the right to limit exactly how a national government may regulate something considered under the national purview if the matter infringes on protected categories. They also may require check-ins or add other checks-and-balances to the national government including but not limited to yearly reviews.
+
+Coordination with other JBT's to create the correct guidelines in this regard is essential. However, two JBT's may not coordinate, nor even sequentially ban the same specific digital society from transmitting money or create any means of jointly rebutting individual digital societies.
+
+Coordination should merely be limited to guidelines which affect all digital societies alike.
+
+## **Notes**
+
+Throughout the thought process of creating this article, it became clear that only humans, not AI, and not animals, can be considered individuals in Cyber Sovereignty.
+
+Moreover, a harm to inequality cannot be considered a harm as almost any act can create inequality.
+
+When looking at each individual case, it's really easy to just make everything a matter of national regulation for fear of consequences, if not. However, it's not always obvious, but allowing a diverse system can sometimes ensure that one bad idea implemented at a national level doesn't cause catastrophic harm to everybody in the system. And that must be weighed against the potential harm created by a singular digital society.
+
+It's up to the jurisdictional boundary tribunal what evidence is considered viable or valid when deciding a matter of jurisdiction. Both parties may need to bring better evidence to convince the tribunal of their merits.
+
+It should be noted that when we mention the effects being contained between people within the same digital society we also mean their Accords, generally speaking.

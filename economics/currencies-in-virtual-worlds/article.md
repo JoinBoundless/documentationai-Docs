@@ -1,0 +1,166 @@
+# Currencies in virtual worlds
+
+This article contains a large amount of thoughts on a potential Synapse currency. It should be seen merely as a brainstorm. Synapse needs to prepare for the eventuality of currency in its system, something that has [ruined similar systems](https://agora.joinboundless.org/economics/ideal-foundations-of-digital-societies).
+
+Currencies in virtual worlds behave fundamentally differently from currencies in physical states. This article analyzes those differences.
+
+## **How a currency derives its value**
+
+A currency derives its value by what can be exchanged for it.
+
+**Real-world example**
+
+**The broken promise**
+
+When Richard Nixon moved the United States off the gold standard, he broke a promise of the U.S. government to allow the redemption of the United States. of U.S. dollars in gold. 
+
+Even though the dollar lost value over time in comparison to gold, because one could get lots of goods and services for U.S. dollars, the U.S. dollar continued to be valuable.
+
+The United States tried to maintain this value by insuring oil was only transacted in dollars.
+
+Since the US was at the center of such a large and trusted currency, it became the medium of exchange in which people traded goods.
+**Dollar as the middleman**
+
+Eventually this system led to the dollar being the reliable backstop of most global transactions.
+
+To understand why the dollar dominates, one must follow a single transaction from start to finish.
+
+**The reality of labor**
+
+A coffee shop in Tokyo needs beans. A farm in Brazil has them.
+
+The workers on the Brazilian farm cannot pay their rent in Japanese Yen. They need Brazilian Reais. The coffee shop in Tokyo does not have Reais; they only have Yen collected from their customers.
+
+**The bridge**
+
+Because neither side wants the other's currency, they turn to the only medium they both trust. They sign a contract priced in U.S. dollars.
+
+**The exchange**
+
+The Tokyo coffee shop instructs its bank to pay the bill. The bank takes the shop's Yen, sells it on the open market, and buys U.S. dollars.
+
+These dollars are sent electronically to the Brazilian farm's bank.
+
+**The conversion**
+
+The Brazilian bank receives the dollars. It keeps the dollars for its own reserves and deposits the equivalent value in Brazilian Reais into the farm's account.
+
+**The result**
+
+The farm owner takes those Reais and pays the workers.
+
+The dollar was never the goal. It was the tunnel the value had to travel through to get from Japan to Brazil. Without it, the trade would have stalled at the border.
+
+In the past, currencies have been pegged to commodities like gold in order to ensure they are tradeable for something if all else fails. However, the true value comes with the number of people willing to accept the currency as a means of exchange with other people.
+
+### **The global system as key**
+
+The goal of Synapse is not only to connect virtual world experiences made in Agora, but to bring together all immersive experiences in one interoperable space so that one person can travel from any digital society to any other digital society seamlessly, using the same avatar, keeping the same items, and keeping the same assets.
+
+By building in one single currency that's interoperable across all virtual worlds, that currency will have a lock-in demand that will naturally grow its value. However, this would come at the cost of the freedom to choose one's own currency.
+
+### **Speculation as the enemy**
+
+Unfortunately, this same principle could draw speculators to the system if not prevented. [Speculators will ruin community](https://agora.joinboundless.org/economics/ideal-foundations-of-digital-societies) through their profit motive.
+
+### **Black market**
+
+As mentioned in our prior articles, allowing the trade of digital currency for physical currency easily duplicates the system of inequality from physical to digital.
+
+One might consider that banning the trade of a virtual currency with a physical currency would solve such a problem. However, provided individuals are able to trade the currency freely, a black market replacing the white market will simply appear.
+
+If one does not allow people to buy their currency legally people will just do so illegally.
+
+## **The civilizational cycle & inequality**
+
+### **The civilizational cycle**
+
+Civilizations have cycles, and those cycles are driven in part by money. Understanding how those cycles operate via a brief overview is essential to understanding the challenge that the currency that Synapse creates must face.
+
+### **Spring: The era of unity**
+
+In the beginning of a cycle, a society is usually emerging from a period of chaos or war. Because survival is the primary goal, the society is unified.
+
+Inequality is low because there is very little wealth to hoard. When a population is comprised mostly of farmers and soldiers fighting for survival, the economic difference between the general and the private is negligible. They share a common struggle, which creates high social cohesion.
+
+At this time, credit is hard to obtain and people tend to be risk averse.
+
+### **Summer: The era of specialization**
+
+As peace establishes itself, trade begins. Peace allows individuals to stop worrying about survival and start worrying about efficiency.
+
+This leads to specialization. As the historian Will Durant noted, freedom and equality are sworn enemies. The moment one leaves men free, their natural differences in ability and drive will lead to inequality.
+
+Not only that, a complex society gives men of particular talents much more room to become unequal. A software engineer has little value to an agrarian (farming) society, but in a modern economy, they can become the next Bill Gates.
+
+In a complex economy, the gap between the competent and the average also begins to widen. This is a sign of a healthy, growing economy.
+
+### **The math of inequality**
+
+However, as summer turns to fall, a mathematical reality sets in. As Thomas Piketty observed, the return on capital is historically higher than the growth of the economy.
+
+Put simply, money makes money faster than labor makes money.
+
+Once a family accumulates a surplus, that surplus earns interest, dividends, and rent. The worker relying on wages can never mathematically catch up to the owner relying on compounding interest. Over generations, this creates a class of people who are wealthy not because of what they do, but because of what they own.
+
+**The current exception**
+
+Data from the Williams Group, a wealth consultancy, indicates that 70% of wealthy families lose their fortune by the second generation. By the third generation, 90% of the wealth is gone. Since modern society is based so much less on land then past societies, this generation is the exception to this rule.
+
+### **Fall: The era of debt**
+
+Eventually, the wealth concentration reaches a tipping point. The wealthy use their resources to capture the political system, ensuring the laws favor the protection of capital over labor.
+
+To maintain their standard of living as prices rise, the working class turns to debt. The wealthy, looking for yield, are happy to lend it to them.
+
+As Ray Dalio describes in his study of the long-term debt cycle, the society splits into two distinct economies: those with assets and those with liabilities. The wealthy insulate themselves, while the poor become debt serfs. Decadence increases at the top, while frustration boils at the bottom.
+
+### **Winter: The correction**
+
+A system where the majority owe the minority money they can never pay cannot stand.
+
+History offers only two ways to resolve this mathematical imbalance: redistribution or revolution.
+
+Either the state intervenes to redistribute the wealth peacefully (through taxes or debt jubilees), or the poor intervene to redistribute it violently. The cycle then resets, the debts are wiped clear, and the struggle begins again.
+
+### Application to virtual currency
+
+The same cycles apply to virtual currency in that debts can get out of control quickly and inequality in a system rises over time. This is where our earlier reference of the inequality of Bitcoin comes in. By so few people holding so much of it so early, it's almost guaranteed that the inequality of present society will only be amplified if Bitcoin becomes the new currency for us all.
+
+By contrast, an ethical distribution of currency would ensure that money is available enough to the poor and needy, and not just handed to those who already have assets in physical life.
+
+## The long-term debt cycle and contagion
+
+In most modern economies, debts not being closed properly allow massive credit-debt cycles. The end of a large death cycle usually results in a massive crash.
+
+Due to how economies work, when a person is involved in more than one economy, if their income suddenly decreases due to an economic problem in one space, they may stop spending in another.
+
+Reducing risk factors in one world will not prevent another knocking over it’s economy.
+
+## **Problems and solutions**
+
+### **Abandoned money**
+
+#### **Problem: People abandon money**
+
+Especially when the money is not very valuable, even large and valuable quantities of it can be abandoned by individuals. This almost never happens in physical life.
+
+This problem can cause deflation in virtual worlds as older, formerly inactive members hoard wealth and then eventually fail to return.
+
+#### **Solutions**
+
+One solution is to deteriorate the value of money over time, making money left idle valueless.
+
+## 
+
+Every civilization goes through spring, summer, and fall periods. A large driver of that cycle has to do with money.
+
+In spring, a state finally stabilized has the opportunity to become a peaceful place of trade. Peaceful trade leads to specialization, and specialization leads to inequality.
+
+For example, if the only jobs available are farmer and farmer, it's less likely that one farmer is going to get paid dramatically more than another. But if one can be a successful software engineer in a modern society, they're unlikely to be paid the same as a farmer.
+
+Inequality is exacerbated by the fact that wealth begets wealth faster than labor begets wealth. This leads to wealth concentration, wealth concentration leads to the potential for wealthy individuals to become particularly unequal from the rest of society. Societies also tend to get more indebted over time.
+
+This imbalance in society leads to the frustration of those disenfranchised by it or enslaved by debt. This leads to revolution, re-equalization
+
+Just as the US dollar derives its value because most from the number of people who use it around the world. So a Synapse based currency can drive its value based on its level of natural interoperability with the entire ecosystem of Synapse.

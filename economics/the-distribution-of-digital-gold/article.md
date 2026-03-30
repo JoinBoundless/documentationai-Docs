@@ -1,0 +1,125 @@
+# The distribution of Digital Gold
+
+## **The goal**
+
+There are a few factors that make ensuring the size of the currency base matches the size of economic activity more challenging in the context of digital societies.
+
+- People move between digital societies.
+- Economic activity can rapidly increase in a short period of time, due to internet-powered growth.
+
+The amount of Digital Gold printed and given to digital societies must reflect the amount of economic activity in that society.
+
+**Why does the amount of money need to match economic activity?**
+
+Money represents a claim of goods and services in an economy. If the number of goods and services available increases, and the quantity of money does not increase, the value of the money, now juxtaposed to more goods and services, increases dramatically.
+
+This creates a problem as it draws in speculators who drive up the value of money further, and this draws even more speculators, leading to hoarding and fraud rather than the ease of economic transactions.
+
+It should be noted that this problem is quite particular to virtual economies since they can grow dramatically, dramatically changing the value of money overnight, leading to speculative bubbles which rise and fall, creating havoc.
+
+To do this, Synapse has to validate the legitimacy of all transactions in all digital societies and distribute Digital Gold according to their growing economic activity.
+
+## **Gold storage as a check on digital society power**
+
+### **The digital society's desire**
+
+Digital Gold by nature is usable in every digital society that uses Synapse. However, digital societies get to choose which users can store gold for more than 30 days.
+
+Any gold that is not placed within storage within 30 days is distributed to the digital society's treasury without refund owed. Digital societies can store as much Digital Gold as they like.
+
+This means every digital society has a strong incentive not to allow citizens to store gold.
+
+### **The people's desire**
+
+People on the other hand want to store as much Digital Gold as possible and will move to digital societies that allow them to do so.
+
+#### **Checks and balances**
+
+The tension between the digital society's desire to minimize the amount of gold storage and the people's desire to maximize it leads to digital societies being kept in check.
+
+**Validating transactions**
+
+The reason the check and balance is necessary is because digital societies need to ensure that the amount of gold distributed to their people is relative to the legitimate transactions within the society.
+
+## **Gold storage & reputation**
+
+> A digital society can grant ten Digital Gold storage per person per 100 citizens beyond the 30,000 citizen mark per month. - [Digital Gold as a third jurisdiction](https://agora.joinboundless.org/cyber-sovereignty/digital-gold-as-a-third-jurisdiction)
+
+So if a digital society has 30,100 citizens, it gets 10 Digital Gold storage for all 30,100 citizens.
+
+Each digital society will be given reputation tools by which it can determine which individuals in their society will be given gold storage.
+
+These tools allow a digital society to encourage the adoption of values within their society creating a patchwork of digital societies with distinct cultures.
+
+Reputation can be tied to a myriad of events within a digital society, but primarily flow through the results of brief surveys sent to those who have just completed a transaction as part of the closing screen of a transaction.
+
+Note that reputations can only increase, but not decrease. If a person violates a standard set by the digital society, they may be pursued by that respective society's justice system, but not by their reputation system as designed by Synapse.
+
+**Reputation events**
+
+Other reputation events include.
+
+- Finishing a session with a certain number of individuals.The number of individuals, if they knew each other or not already, or were friends already, are all factors that can factor into reputations.Namely, if a session of x length was finished with x number of individuals, with at least x number of people who were not known by the individual before, then pop-up reputation screen y.
+- Citizenship time milestone
+- Completing tasks on the task board
+- Being part of an organization that receives good feedback on the conclusion of a transaction.
+- Responding to help beacons.
+- Reaching a certain veteracy level in a certain app.
+- Closing a particular app.
+- Quality time with others?
+
+Digital societies get to determine the questions asked, the amount of reputation that flows between individuals, if that reputation is visible and to whom, and what size of transaction is necessary to require such a survey.
+
+**Other reputational factors**
+
+They can also change:
+
+- The minimum amount of reputation required for any reputation to flow between a person and another person.
+- A multiplier that decides how much reputation flows from a person that has reputation to another at the end of a reputation event based on how much reputation either party has.
+- How much reputation flows depending on the size of the transaction.
+- How old the accounts must be to transact reputation.
+- How many people of repute have validated an individual positively in a survey before the event took place?
+
+The key limit is that in allowing reputation to flow they are choosing 20% of their active citizens to receive gold storage. The top 20% of reputation earners within a digital society within a particular month are those that are given the a gold storage bonus for that month.
+
+If a digital society has 30,100 citizens, it gets 10 Digital Gold storage for all 30,100 citizens. Let's say 25% (7,525) are actively gaining reputation. The top 20% of the 7,525 would get 0.0066 gold storage each.
+
+If a digital society has 200,000 citizens, it gets 17,000 gold storage (170,000 eligible citizens beyond the 30,000 mark, which nets the society 0.1 gold per eligible citizen). Let's say 25% (50,000) are actively gaining reputation. Of that the top 20% (10,000) would get 1.7 gold storage each.
+
+2 million in the same scenario, we get 1.97 gold storage each.
+
+**Public settings**
+
+Reputation actions and their related settings are public by design in Synapse. This includes a list of the most reputable people within the society listed by their reputation.
+
+However, a large group of defensive measures, including the nullification of repeat transactions between the same people, and so forth and are not made public.
+
+Other similar settings like how much money needs to be transacted between people for reputation to flow or how much reputation a person must have for reputation to flow via them to others is private to prevent exploitation.
+
+## **Gold distribution**
+
+When Synapse generates the monthly gold distribution that is given to each digital society based on its economic activity, that gold is not deposited in the society's treasury, but in the gold storages of the citizens within the digital society.
+
+First, everyone that has at least one gold storage gets at least 0.05 gold. Then, everybody that has two gold storage gets another 0.05, and upward until the gold distribution runs out. If there's more to distribute, then the process is repeated until the gold runs out.
+
+If not enough gold is generated to give everyone that has one storage unit 0.05 gold, since the distribution is random, only those that were randomly chosen get the gold.
+
+## **Gold storage reduction**
+
+Once a user has gold storage, their gold storage only remains active and able to be utilized provided they're part of a digital society. Namely, if they are no longer a citizen of a digital society, their gold storage will reduce by 2% per month. This reduction begins at month 5 with 10%.
+
+The first to be deleted are the gold storage units that are not yet occupied with gold in them, and then eventually it will all be deleted including the gold itself. After 10 years 100% of the storage is deleted.
+
+Users can set a delay on this effect if. To do so, they must mention how long they're going to be gone and the moment they log back in the clock continues.
+
+When a user shifts from one digital society to another, their gold storage is reduced by one fourth.
+
+Cover the illegality of people contracting out their gold storage dollars
+
+Created an incentive not only to find security loopholes using a prize money that is based on the taxes of gold exchanges but also a fraud reward. People exposing Ponzi schemes and frauds in their digital society. Namely, not real transactions.
+
+The digital society may have to have other people visit and connect with those within the digital society to validate the transactions to ensure it isn't an AI-run Ponzi scheme entirely contained within the digital society.
+
+- The problem is that even though we want to discover only legitimate transactions, AI will be so human in the future that we can't distinguish between AI and humans. And AI can become compliant to a Ponzi scheme.
+
+We need to somehow validate the relationship between the individuals validating an individual in the reputation system in order to ensure that as broad a pool as possible validates each individual as they move up in levels of reputation.

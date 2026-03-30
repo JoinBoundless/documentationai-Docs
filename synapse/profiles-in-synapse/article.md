@@ -1,0 +1,65 @@
+# Profiles in Synapse
+
+## **Thesis**
+
+### **Overview**
+
+With reputation playing such an important role in Synapse, it's essential that synapse have a means of displaying people's reputation along with their accolades.
+
+A profile is a 2D-first gateway of an individual's reputation to the outside world (outside of Synapse) in the early stages. And then it's a display of that reputation to the inside world once the value of a reputation inside a society supplants the value outside.
+
+To be clear, it acts like a portfolio of their achievements within Synapse to the outside world, to start, and then it acts as a portfolio of their achievements to people in Synapse as Synapse becomes a greater degree of their economic life.
+
+### **Details**
+
+**What are we trying to display?**
+
+- Reputation
+- Applications used.Time spent in each application.
+- User reviews of individual.
+- Certificates connected with education.
+
+**Utility**
+
+- Motivate people to pursue reputation
+- Directly correlate capability with real-world outcomesLike a portfolio promotes an individual to be hired
+- Display achievements like a steam profile displays not only the time gamed but the actions taken within that game.
+- Motivate individuals to open apps inside of Synapse in order to get credit and ranks.
+
+**Inspiration**
+
+Twitch does an amazing job of their new streamer roadmap and I think strong inspiration must be taken to encourage the utilization of the features of the profile.
+
+**Customization**
+
+- Reflect the design of the digital society.
+- Society decides what is displayed on the profile.Are all user reviews public?What if personal information is posted?
+
+**Focus**
+
+- The profile is not a place for its owner to go, rather it's purely a place for other people to learn about the individual.
+
+**What can't we allow?**
+
+- A change in UI/UX based on the society/person.This is to avoid the MySpace mistake in which navigating the website became challenging for the average user since each profile was like a different website.
+- Reputations don't go negative. One can only grow it slower.
+- The ability for people to manipulate reviews/certificates/etc. The utility of reviews becomes meaningless once the individual can remove reviews they don't like.
+
+**Designed to be reliable for readers**
+
+- Like Reddit is a forum where one can talk about another in a way that isn't deleted, these are designed to be places where information is shared on people and those same people leave open and transparent information on digital societies (soon).
+- However, users should have the ability to shut down the entire profile, deleting all connections to that profile. Either all or none but not piecemeal. This is to prevent harassment while ensuring transparency as long as people are engaged. The process of shutting down should be not very easy to find or do so that it's not done thoughtlessly. As a quick exit or knee-jerk response to somebody leaving a single bad review. Instead, people should be encouraged to stay in the game for a while. And not allow one bad review to knock them out of gathering a decent reputation.
+
+## Features
+
+Most of these features are the prerogative of the designer’s interpretation of the thesis. However, a few need to be specified here in detail.
+
+### **Overview**
+
+#### **Activity signaling**
+
+The only reason a person would open a non-Synapse application in Synapse is to share that experience publicly. Therefore, we can take the act of opening an application in Synapse as a desire to share that application or experience with friends by default.
+
+#### **Title setting**
+
+When a person achieves a certain role in the society, they should be granted a title, like Senator. And that title should be automatically provided on the profile, if it's current, and switchable to something like Former Senator, or between other former titles on the user's request, with the option to remove the title as well.

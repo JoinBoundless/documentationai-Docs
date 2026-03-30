@@ -1,0 +1,84 @@
+# Digital Senate
+
+Further details on the operation of the Digital Senate is found in an article not listed here.
+
+The Digital Senate is an institution which is composed of consensus judges from the digital society side. Every digital society that has 30,000 individuals or more has the right to send one judge to the Digital Senate of that nation. Moreover, per ¼ million individuals in a digital society, one more consensus judge can be sent to the Digital Senate.
+
+If AI are trusted to take over the judging process on the digital side, the entity sent may be the same AI that has been trusted with the process.
+
+Each time the standard panel process completes, and a consensus judge happens to be of that digital society, then a new potential Senate candidate is minted. The digital society in question may swap out the Digital Senate member sent to the Digital Senate whenever new candidates arise, but are not required to.
+
+## **Enforcing a judgment against digital societies**
+
+A digital society which is convicted in a national court for failing its [transparency and reporting requirements](https://agora.joinboundless.org/cyber-sovereignty/further-checks-and-balances) can be penalized by the Digital Senate but only if the following provisions are met.
+
+1. The penalty is in proportion with the crime.
+2. Seven out of 10 Digital Senate judges agree.
+
+## **Supermajority requirement**
+
+In fact, all rulings of the Digital Senate must have at least 6 out of 10 Digital Senators in agreement.
+
+## **Referendum requirement**
+
+Only digital societies that allow the redaction of digital senators via referendum can send representatives to the Digital Senate.
+
+A reliable referendum mechanism must be provided by the digital society once they reach a million citizens.
+
+If a particular digital society redacts their Senator via referendum after a particular ruling is made and in the name of a particular ruling that vote is taken away from the votes necessary to maintain the decision in question.
+
+Every citizen in a digital society with Senators are able to start a referendum at any point, naming a particular digital senator(s) from their digital society and the particular decision(s) they disagree with, and should be given free rein to propagate this referendum without regard to campaign finance laws or other such restrictions.
+
+Only the decisions mentioned by the citizen who started the referendum should be removed.
+
+Here's how referendums would work. Any citizen of a digital society that has senators can start a referendum. They can use whatever money or means they see fit to propagate that referendum and if a majority of citizens sign the referendum the referendum is considered binding.
+
+As long as a majority of citizens sign it, it can be sent directly to the Digital Senate, and the Digital Senate can enforce the ruling, but also the digital society itself can enforce the ruling. Both parties are obligated to act on any referendum by which the majority of any digital society seeking to redact its senator or a ruling.
+
+Violations by the Digital Senate to uphold its obligations create standing under national court by the starter of referendums to sue the Digital Senators who flaunt the law. Such individuals may work with corporations or other individuals to fund their campaign against the senators in question.
+
+The only discretion that the Digital Senate and digital society have is to ensure that a majority did indeed sign it, and they may only reject it if both parties agree that the majority did not sign it, provided they ensure that tools are given to those seeking to make referendums in the future, and will ensure easy citizen verification of such referendums in the future.
+
+## **Transparency requirements**
+
+Digital Senates are required to publicly publish all of their votes, all of their opinions, all of their decisions, all of their thought process, and every other relevant factor or fact, potentially to the interest of the public.
+
+## **Invalidating financial fraud**
+
+If a national government believes that a digital society has been primarily created for financial fraud, then it may make a case against that digital society to the Digital Senate.
+
+“The question presented to the Digital Senate will be, does the information provided by the national government warrant an investigation into the digital society for common fraudulent activities?”
+
+If the Digital Senate approves the investigation, the national government may begin a case against the digital society in question under its own court. Then, if the digital society in question loses the case, the question must be presented to the Digital Senate:
+
+“Is the digital society in question created purely for commonly understood financial fraud that cannot be understood as a matter of religion or honest closely held values?”
+
+## **Fixing Cyber Sovereignty**
+
+It may be that certain presumptions within Cyber Sovereignty turn out to be false. If this is the case, any part of Cyber Sovereignty can be changed, but only under very specific conditions.
+
+1. The changes in question expand the rights of the people rather than reducing them.
+2. The changes do not violate the [core rejections](https://agora.joinboundless.org/cyber-sovereignty/the-core-rejections-of-cyber-sovereignty).
+3. The changes don't modify alter the charter against its original intent.
+4. A referendum is put to each digital society, and 70% of digital societies return a majority vote in favor.
+5. A referendum is held in each national population and 70% return a majority vote in favor.
+
+Each individual national jurisdiction has the right to accept or reject the changes via its JBT.
+
+Violations of the limitations leave the individuals participating as legally liable, under national and digital government courts provided, they're only challenged in one of them for their actions by each individual that brings a case and that if the case is won anywhere (once digitally and once under national jurisdiction), it's won everywhere in the favor of the individual defendant.
+
+Another jurisdiction can hear the case if the victory in a particular jurisdiction is seen to have been created by the defendant in question simply to subvert the process of accountability.
+
+## **Whistleblowing legalized**
+
+No digital society or national government may limit the right of individuals to report anything they Deme necessary to ensure full transparency of their digital society to the Digital Senate. No company or contract may be made to limit this right.
+
+This right does not extend to classified information or trade secrets where either is no violation of the laws the entity in question is subject to.
+
+## **Fraudulent manipulation within Synapse**
+
+The Digital Senate has the right to prosecute fraudulent manipulation within synapse, as [defined by this article](https://agora.joinboundless.org/economics/possible-concepts-for-the-virtual-economy).
+
+The Digital Senate also has full right and standing to prosecute particular individuals that create AI or programs designed to manipulate GDP or other economic figures on behalf of digital societies within their local jurisdiction or digital society.
+
+These fraudulent transactions are the only part of Cyber Sovereignty which can be prosecuted in retrospect. Namely, those who commit fraud before Cyber Sovereignty is legalized may be liable for that fraud after that Cyber Sovereignty is legalized within the digital societies in question.

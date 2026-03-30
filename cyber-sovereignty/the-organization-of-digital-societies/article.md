@@ -1,0 +1,57 @@
+# Implementation action plan
+
+## **Political advocacy**
+
+Cyber Sovereignty advocates for a peaceful movement to push for the implementation of its ideals in modern Western nation-states through the creation of political parties by people in these nations.
+
+These political parties would push for a constitutional amendment (or its equivalent) that grants legal status to digital societies.✲
+
+Unlike traditional political movements, Cyber Sovereignty does not seek to control or gatekeep the creation of political organizations or communities in its own name. 
+
+However, it strongly recommends that no political action be taken until the natural momentum for change makes it inevitable.
+
+Even though the creation of political parties and communities in the name of Cyber Sovereignty is decentralized, the unchanging pillar of Cyber Sovereignty is the [founding documents](https://agora.joinboundless.org/cyber-sovereignty) without exception.
+
+### **Without force**
+
+Cyber Sovereignty represents a significant change in how society is run. Throughout history, idealists rushed to impose unproven, untested ideas on society by force. This usually resulted in war or revolution. By contrast, the very concept behind Cyber Sovereignty is not to implement ideas by force but through meaningful choice. This hearkens to the fundamental principle of consent.
+
+Rather than imposing Cyber Sovereignty on the world untested, Cyber Sovereignty advocates for the creation of a new set of digital institutions within digital societies to provide an alternative to our physical institutions.
+
+The goal is to let the quality of digitally empowered communities and their institutions speak for the need to legalize Cyber Sovereignty
+
+## **Broken institutions**
+
+From education to healthcare, from criminal justice to law; never in history have the institutions of society seemed so archaic compared to the pace of change.
+
+This presents an opportunity to use the power of new technology and digital connectivity to bring forward a new set of systems that provide real value for people.
+
+- Just imagine a social safety net woven from genuine human connection and mutual aid, not from cold, impersonal state directives.
+- Just imagine an education system which focuses on organizing young people for real-world impact rather than rigid memorization.
+- Just imagine a banking system built on empowering trusted community members to build businesses not inflating bubbles.
+
+### **Building momentum**
+
+Cyber Sovereignty encourages people everywhere to build communities that house a new set of digital institutions that will bring humanity forward. The goal is to create the digital reality of Cyber Sovereignty first and to seek its emancipation from national law afterward.
+
+This creates a natural impetus toward the movement, as those in these digital societies, if they find them superior, will also feel how much they are held back by national law. Letting that tension build like a pressure cooker hissing steam before the valve finally blows is critical to the movement’s success.
+
+#### **Launch**
+
+These institutions will in turn speak for the concept of Cyber Sovereignty. Only once actual digital realities clearly necessitate a legal framework must Cyber Sovereignty leap from mere digital concept to active political movement.
+
+**Advanced concepts**
+
+#### **Arbitration**
+
+While still working under present law, these organized communities could lean on the legal principle of arbitration to create a form of precedence in member-to-member disputes.
+
+## Core concepts behind Cyber Sovereignty
+
+This next article not only breaks down Cyber Sovereignty's core political concepts but also offers clarity on implementation.
+
+[Continue to "Core concepts behind Cyber Sovereignty" >>](https://agora.joinboundless.org/cyber-sovereignty/legal-concepts-of-cyber-sovereignty)
+
+**Extraneous details ✲**
+
+✲ Each political party would be in charge of drafting a form of Cyber Sovereignty to be implemented in their nation that works within that nation's system of law. For example, Cyber Sovereignty would need to be modified to work within a civil law framework.

@@ -1,0 +1,42 @@
+# Introduction to Agora and Cyber Sovereignty
+
+If you've read the [Boundless articles](https://articles.joinboundless.org/whitepaper/the-problem), you already understand some of the context in which Agora has been created. Namely, everything you read about so far talks about how Boundless seeks to undermine the potential for monopoly power among corporations. 
+
+However, the primary concern of Boundless is not only digital corporate monopoly, but the forces pushing corporations and government together into a single system which has the potential to become techno-feudalistic.
+
+**Techno-feudalistic definition**
+
+A modern social system where monopolies control, censor and exploit digital platforms in a manor that mirrors the exploitation of medieval feudalism.
+
+## **Two ways to learn**
+
+If your coming from the Boundless Whitepaper, it's good to understand that there are two ways of understanding Agora.
+
+1. You can learn about Agora in isolation.
+2. You can learn about Agora in the context of Cyber Sovereignty.
+
+Number 2. will give you a much more comprehensive and useful understanding of Agora, but requires more reading.
+
+Before embarking on either path, there is something important to keep in mind:
+
+1. It's best not to follow links, but rather read through the Ethos as a whole first, and then ask questions to the AI (bottom right) trained on the details if you need help understanding something.
+2. At the end of each article you'll get a link to the next part of the Ethos. Follow those links until you have finished reading the Ethos.
+
+**Tip**
+
+Close open accordions like this one on first read. These give detailed context but are overwhelming to people new to the concept.
+
+## **Path 1**
+
+1. On this path, you'll start by learning about Cyber Sovereignty via it’s [overview](https://agora.joinboundless.org/cyber-sovereignty/sub_WQ8JD/overview). Avoid journeying beyond the overview for simplicity's sake.
+2. Before you read, understand that Cyber Sovereignty is a work in progress, a concept to being tested within Agora and other digital societies like it.
+
+Don’t wait, [start here now »](https://agora.joinboundless.org/cyber-sovereignty/sub_WQ8JD/overview)
+
+## **Path 2**
+
+Start by reading this [one-page summary](https://agora.joinboundless.org/cyber-sovereignty/cyber-sovereignty-1-pager) of Cyber Sovereignty, but avoid following links to the rest of the Cyber Sovereignty overview. Avoid the green boxes at the bottom of these pages that lead you through the entire overview.
+
+Then come back here and click the link in the green box below. Each page afterward will have a green box like it, where you can continue through the entire Agora Ethos step by step.
+
+Continue to [part one of Agora's ethos](https://agora.joinboundless.org/cyber-sovereignty/cyber-sovereignty-declaration), Cyber Sovereignty.

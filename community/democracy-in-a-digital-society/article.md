@@ -1,0 +1,199 @@
+# Democracy in a digital society
+
+This article [“Why direct democracy always fails”](https://agora.joinboundless.org/cyber-sovereignty/democracy-in-a-digital-society-part-two) is a prerequisite. Read it first.
+
+## Why direct "democracy" always fails summary
+
+In summary, a common mischaracterization of Western governments is that they are controlled by their people. Instead, they are led by a small group of elites, “representatives” and explicitly keep power out of the hands of people by design. Human social psychology leads people in large groups to become tribal and emotional rather than reasonable, so the founders of the United States focused on putting elites in charge instead.
+
+Unfortunately, most people understand their government to be more like a direct democracy, where people make the decisions, something anathema to its original design. The article ends by contrasting Cyber Sovereignty to these systems, suggesting that we trust working results rather than any particular group of people.
+
+## **Democracy in the digital**
+
+The misunderstanding that Western societies are controlled by their people bleeds into an expectation that digital societies should be people-managed. Unfortunately, the mob dynamics that make this complicated in physical life are magnified greatly in the digital context.
+
+This article explores how digital democracy is radically different than physical democracy.
+
+## Profound differences
+
+### **The innovation problem**
+
+#### **Geographical lock-in**
+
+Offline communities usually inhabit a geographic area and therefore are about distributing the power within that area. A governed community is incredibly invested in their town, city, state, or country. Movement comes with large tangible costs driving even deeper commitment. There is often a sense of managing what already exists to the benefit of all those effected by it.
+
+Online communities lack the geographical lock-in and therefore require constant innovation to maintain their user base.
+
+#### **Competing for attention**
+
+Online communities are constantly fighting for people's attention. This means unlike physical societies, those that are not growing are immediately dying. Those that are not innovating don’t get a seat at the table.
+
+A community providing anything less than paramount innovation is abandoned overnight. Whether online communities know it or not, every online community is competing with YouTube, video games, Netflix, etc. for attention and is soon dead if people start to look away. A digital community losing one fourth of it’s **active** members per month due to disinterest is common and almost 99.9% of every digital community to ever be created is already inactive.
+
+In the early days, the dynamic will be similar for digital societies. But as digital societies expand from being focused on a single facet of value to a place where people live meaningful parts of their life and store real wealth, the dynamic will, ***slowly***, change.
+
+To summarize, unlike governments, digital societies need to innovate to survive.
+
+**The unraveling**
+
+Communities without people are akin to banks without money, one person leaving can cause a small group to unravel as others remain in a community due to the presence of that one person. This means a few people leaving can turn into thousands leaving very quickly in exponential fashion. It means online communities can evaporate as quickly as rain on a sunny day.
+
+For example, the migration from MSN Messenger to Facebook Messenger happened even though the products were basically identical. People moved because their friends were moving and eventually as some people stopped responding on MSN, they were forced to move to where the others were and ironically many ended up in a very similar place (FB Messenger).
+
+To summarize, digital societies which don't innovate radically will be abandoned for similar societies.
+
+#### **The management problem**
+
+All this leads to another problem, the need for innovators/inventors to play a key role in a world full of managers.
+
+Inventors are like trailblazers, they're always seeking a new path forward, founders are of this same stock. Founders easily get bored of the familiar and therefore start to hand over control to management-oriented people.
+
+These managers are necessary in every organization, but given too much power will destroy a digital society. Managers are by nature resistant to change since they are organizers and organizing something that isn't changing is much easier. Organizers, therefore, tend to freeze everything in place.
+
+Since innovation is so incredibly important in digital societies a lack of it will lead to the destruction of that digital society quickly.
+
+However, every pressure from the internal management of the organization will be to remain the same. Therefore, giving control to the people within the management of an organization, essentially how modern democracy is run, is the immediate destruction of the community.
+
+By contrast, innovators and founders sometimes contradict the vast majority of voices in their organization to create a new path forward and must continue to do so if the organization is to survive.
+
+**Netflix's pivot to streaming as an example**
+
+A great example is Reed Hastings’ decision to shift Netflix from its lucrative DVD rental business to streaming. This move was met with outrage against cannibalizing revenue. He argued that "companies rarely die from moving too fast, they frequently die from moving too slowly," recognizing that clinging to the current model was the real danger.
+
+"In a world that's changing really quickly, the only strategy that is guaranteed to fail is not taking risks." - Peter Thiel
+
+In this regard, communities will much more likely mirror innovative companies during their growth phase and suffer from the same potential risks.
+
+To summarize, whereas local and national governments can be led by managers, digital societies must be led by innovators instead.
+
+To make this problem even more difficult innovators are by nature unpopular and difficult to elect. They walk in disagreement with the rest of society as they see a vision of the world no one else does, and they pursue it regardless of the fact that nobody else sees it.
+
+Learn more in “[Why organizations don't elevate innovators](https://agora.joinboundless.org/community/why-organizations-don-t-elevate-innovators)”.
+
+**The copying problem**
+
+A tendency is often to copy the misunderstood view of democracy on to digital contexts, something that leads to disaster much faster in the digital.
+
+When this is done, typically, factionalism breaks out, or a people versus innovator dynamic breaks out. However, communities without their innovator are dead, and communities that divide against themselves rupture disastrously. If one person leaving pulls three more out then a community of drama and strife has no chance.
+
+Since physical government is about managing people that stick around and digital government is about creating and maintaining engagement the systems of government created for them both have to be totally and radically different. Any system that works digitally must give a disproportionate voice to innovation.
+
+Every facet of physical civilization is geared toward the management of what exists, and not in the propulsion of a community toward new and inventive means of creating value and therefore its systems are mostly invalid online.
+
+**The false consensus effect**
+
+Those most likely to be put in charge of making decisions that challenge a community’s commitment are also the most likely to misunderstand the depth of that community's commitment to that digital society.
+
+The false consensus effect is a cognitive bias that causes people to overestimate the degree to which their own beliefs, opinions, and habits are shared by others. It's the assumption that one’s own perspective is the "normal" one.
+
+Unfortunately, this effect causes the downfall of community because the most likely people to make decisions that effect a communities willingness to stay are also the most likely to be committed to community for the long term. Such people almost always falsely overestimate how much others will also be committed due to their own bias toward commitment. It's critical such decision makers understand that their decisions must be weighted toward keeping the community satisfied and not imposing on it while maintaining a propensity for innovation.
+
+**Examples**
+
+**The use of force:** A common mistake of community managers is to demand people in a community are active and to remove them if not. This is a classic example of the overuse of force in a community and rarely works to create activity. However, the propensity of inexperienced community managers to use force is significant because of the overestimation of community members' commitment and because they are often surrounded with a bubble of advisors that are just as committed as them.
+
+**The creation of bureaucracy:**Inexperienced community managers usually create onerous requirements for all matters, even those that are not required legally, within a community, based on their overestimation of the community's willingness to endure such requirements. This is another manifestation of the false consensus effect.
+
+These effects are far more profound than those who don't have experience building communities account for.
+
+Potential solution
+
+One potential solution to this problem is to have two strains of leadership within the same system, with one of those strains in charge of innovation and the other in charge of management, having two distinct jurisdictions in which the unquestionable need for innovation is of help, and the need for a robust process when it comes to people is also upheld. So you get the benefits of centralization of power under one domain, and you get the benefits of the distribution of power under the other.
+
+### **Why traditional representative democracy doesn't work online**
+
+Representative democracy requires a certain level of public conflict to thrive as parties, ideas, factions fight over the best way forward. Whereas people by and large stick to their country even if their side loses, this is not the case online.
+
+If people leave a society that's boring, they leave a society of contention even more quickly. Just imagine how many people would leave their country, city, or state at the end of each election if they were able to do so with the convenience of a consequence-free button push. If any online community were to even conceive of a political system as divisive as Western democracy, it would be abandoned by 50% of the population every election.
+
+#### **Mob rule**
+
+The tendency toward mob rule in a digital society is extreme because the representatives they send are not isolated in their decision making but right next to the people they serve. The digital streets are taken over with protest any time a controversial decision is made essentially freezing political life and sometimes causing the immediate abandonment of a society for another competing one with similar DNA.
+
+Cyber Sovereignty binds digital societies to this reality by enforcing the flexibility of movement in the Golden Law. This is the mechanism by which the leaders of digital societies are held to account by their people.
+
+In reality, this mechanism is extremely powerful; it binds the leaders of a digital society to do exactly what their people want, without allowing for traditional representative democracy.
+
+**Daily treason**
+
+In physical life, losing an election doesn't mean that dissatisfied people start their own country. This would be considered an act of rebellion.
+
+Online, losing politicians have every incentive to start a competing city-state when they lose an election. These competing city-states become ongoing drains on the membership of the original city-state.
+
+#### The direct democracy problem
+
+Digital democracies by nature lean toward **direct democracy** as the people's voice is profoundly more powerful where everyone can stand on the stage of social media. However, direct democracies have been proven to be catastrophic in every place where they've been tried.
+
+*"Democracies have ever been spectacles of turbulence and contention; have ever been found incompatible with personal security or the rights of property; and have in general been as short in their lives as they have been violent in their deaths."
+- James Madison*
+
+*"Remember, democracy never lasts long. It soon wastes, exhausts, and murders itself. There never was a democracy yet that did not commit suicide."
+-John Adams*
+
+Giving people a strong voice without understanding the dynamics of fear and identity that often come to play and without deliberately countering them is a recipe for disaster. This does not preclude direct democracy online. Instead it calls for a detailed manifesto of democracy in a digital society with a clear plan on how to deal with each cognitive bias that plays into such an idea.
+
+Unfortunately, representative democracy just turns into direct democracy when done on the Internet, as the separation between the representatives and the individuals is minimized by technology.
+
+## **Significant risks**
+
+If naive individuals who have little experience in building digital democracy fail to understand the immediate risk of just cloning physical representative democracy online, they could create a cycle of division so profound that Cyber Sovereignty is totally undermined.
+
+How will it be undermined? People naturally flock to the places where the economy works for them. If Cyber Sovereignty becomes so divided and each digital society becomes so small that no overarching regulatory frameworks are agreed upon through Accords, the economic friction caused by the federalization of regulation will ultimately undermine Cyber Sovereignty completely.
+
+**Details**
+
+In simple terms, people want to be where prosperity is. And prosperity is not possible when distributing one's products requires learning the rules of a hundred different digital societies.
+
+### **Legal risks**
+
+This could be its own article, so if you're a layman, think about skipping this section.
+
+The terms used in this section are explicitly legal terms. Entity means an unregistered corporation or community.
+
+#### **Why national legal systems are incompatible with decentralized communities**
+
+When the agents of the law see that the law is being violated by a community, they first have to categorize that community before they can demand redress (compensation) from it. A corporation is a fictitious entity that becomes liable for the actions of the individuals that are covered by it.
+
+Without a corporation involved, a national government can sometimes hold every single person in a community liable for the actions of the community. Therefore, any community which is to become democratic and vote to do something that is illegal in one of the states represented by one of their members opens themselves up to a significant liability not only for themselves but for potentially their whole community.
+
+This poses a major risk if the group inadvertently votes to violate a complex regulation. Suddenly everyone involved could be liable for the infraction. The standard solution is to form a corporation to shield individual members. But this leads to a practical dead end. A corporate structure requires a director to accept liability but no sensible leader wants to be liable for an uncontrollable “democratic” organization. At the end of the day, nobody wants to be the fall guy for another's decisions.
+
+This is a major hurdle to digital society experimenting with democracy before Cyber Sovereignty is legalized.
+
+**Political parties as a solution**
+
+Political parties weave together an interesting combination of legal concepts to allow for some flexibility under present law and can serve as a potential model for digital societies.
+
+### **Creating democracy in a digital space**
+
+Creating real democracy in a digital space is likely to be a painful and difficult process of trial and error. The propensity of digital societies to be vulnerable to internal conflict means that highly deliberate institutions will need to be created to ensure the will of the people is deeply listened to and heard without mob dynamics coming into play.
+
+Constant feedback is essential for innovation. A deep and listening ear to the ground is core to the flourishing of digital society.
+
+The key is to separate acting on behalf of the people with the enormous propensity of people to make bad decisions when in large-scale concert with one another, something made even more possible online, especially if in a space where negative voices are naturally amplified.
+
+It's a careful balancing act in which digital societies are deeply subject to those who inhabit them by the impermanence of citizenship. And yet, would suffer to give those same citizens agency for fear of mob dynamics.
+
+The full proposed solution can be found in “[Creating democracy in a digital society](https://agora.joinboundless.org/ethos/the-plan-to-create-democracy-in-a-digital-society)”.
+
+## **Agora’s plan**
+
+Agora begins its life under Boundless and is subject to Boundless's non-profit structure and rules without exception during that time.
+
+#### Viable risks
+
+Agora is a narrow choke point by which most of the other digital societies are likely to be designed. In the very early days, if Agora dies, Cyber Sovereignty may never become a reality.
+
+Within Agora, multiple Demes will be encouraged to grow to the extent that they can spin off and become their own digital societies. Some of these digital societies may discover the key to creating stable and legal democracies at scale.
+
+These will serve as stable stepping stones for Agora, allowing Agora to integrate proven ideas rather than taking the legal and social risks associated with being the testing ground.
+
+By contrast, pushing Agora itself to become a democracy early risks the viability of the entire movement, as digital democracy in this form has never been tried, and is very likely to fail without proven examples.
+
+Once Cyber Sovereignty is legalized, Agora is emancipated and able to try new things.
+
+> **Key takeaway:**Bringing in systems of democracy without proven models to Agora could start an experiment so bold that if it fails, it risks destroying Cyber Sovereignty as a concept by destroying the incubator of digital societies itself.
+
+The plan is to create multiple thesis on how digital societies can create democracy, encourage sub-societies to experiment with it, and clone the most successful society upon the legalization of Cyber Sovereignty.
+
+Continue to the first thesis here; “[Creating democracy in a digital society](https://agora.joinboundless.org/ethos/the-plan-to-create-democracy-in-a-digital-society)”.

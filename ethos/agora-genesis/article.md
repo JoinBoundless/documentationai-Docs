@@ -1,0 +1,35 @@
+# Agora Genesis
+
+This article is part of a group of articles on **Agora's ethos**.
+
+Whereas society in general encourages the inclusion of all people in all parts of all society. Here at Agora we believe people flourish when placed in a society of peers that share one culture and set of values. This is in contrast to modern society, which tries to amalgamate all of human values into one monolithic system in the name of inclusion.
+
+Agora proposes another way, what if each individual had an abundance of societies of values to choose from, not only at the digital society level, but in a much more personal and bespoke way.
+
+In order to maximize individual expression and yet still build a distinct and meaningful culture at Agora, we subdivide our digital society into sub-communities called Demes.
+
+These Demes allow multiple different perspectives on deeply held values while still having a system big enough that one single system of commerce, one single group of institutions can serve all of the deems.
+
+Critically, whereas citizenship in a Polis is singular in Cyber Sovereignty, one can be a member of multiple different Demes. This allows a Polis to set overarching economic values while delegating specific values to the Demes.
+
+## This first Demes
+
+The very first Deme is called Agora Genesis. Agora Genesis has a very particular and distinct culture that it implements in all of its digital platforms.
+
+## Other Demes
+
+Right now, those who enter Agora do so via Boundless. They assemble teams "Genos", and teams are themselves organized into groups of teams called a "Phyle" (said file).
+
+Once Phyle within Agora Genesis reach a 128 members, they are allowed to opt become a new Deme. New Demes start by cloning Agora Genesis, and then make adjustments.
+
+This leads each Demes to have a distinct and meaningful culture without the problem of limiting individual expression.
+
+## Simplification
+
+In order to avoid too much complexity, we will continue this ethos assuming that "Agora" means "Agora Genesis" from this point forward.
+
+All you need to remember is that the Genesis ethos represents a small and narrow set of views in order to create a community with a distinct culture. Should your values diverge from Genesis, keep in mind alternative Demes regally emerge encouraging diverse moral viewpoints.
+
+[![Image](images/img-001-640fc0184abe.png)](https://cdn.eniston.com/bases/08b96173-96cd-4c3a-be91-7469eda5fea7/attachments/mceclip0_1746661667.png?width=1400)If learning Agora’s ethos, don’t skip Genesis’s as it's essential.
+
+Continue on to [Agora Genesis values >>](https://agora.joinboundless.org/ethos/agoran-beliefs)

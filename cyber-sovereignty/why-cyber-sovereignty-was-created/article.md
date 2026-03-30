@@ -1,0 +1,10 @@
+# Why Cyber Sovereignty was created
+
+For legal reasons, it must be specified which specific things Cyber Sovereignty was created for that are not explicitly mentioned elsewhere, in order to give legal weight to certain provisions within Cyber Sovereignty.
+
+Cyber Sovereignty was created in order to:
+
+- End the surveillance which causes the chilling effect on the freedom of expression. This includes:Digital IDIdentity verification to interact onlineThe walling off of the internet into separate domains.
+- Stop individuals being subject to a digital world of exploitation where they can no longer profit from their labor as in times past.
+- To stop the growing and outsized power of government to control it’s people through the use of AI.
+- Stop the collaboration between governments and corporations to the creation of a metaverse system that would lead to the tracking and exploitation of people.

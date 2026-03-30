@@ -1,0 +1,189 @@
+# How to do an interview
+
+Thanks for helping take Boundless to the next level by onboarding the next wave of volunteers.
+
+## What interviewees should know
+
+Interviewees should have relevant education or experience. Candidates should bring more than surface-level knowledge of their field, they should be serious and ready to be productive.
+
+### **Adequate preparation**
+
+- Read this tutorial, understand it, and create your own notes from it.
+- Show up dressed for work, camera and microphone tested and ready.
+- If a candidate’s role relates to your team, clarify what they’d do if they were on your team and be ready to explain it.
+- Make sure to have read the [Boundless vision](https://articles.joinboundless.org/vision) at least once before. You don't have to be an expert in it's contents.
+- Ideally read their resume and view their portfolio*.
+
+*At this moment we're working out how we can get you the resume before the interview, but it may not be possible in a sufficiently secure manner and therefore you may need to ask for their resume and portfolio up front. Make note of this, this is likely to change. Don't download it if it can be avoided but definitely delete it if you accidentally download their information.
+
+## Purpose of the interview
+
+There are a few main purposes for each interview, but the number one reason is to prevent bad apples entering our organization.  We only want people with the best possible attitude.
+
+However, people are not usually themselves during an interview, and therefore it's hard to discover how they are as a person, but your job is to do your best.
+
+Ideally speaking, your interviewee will be somebody that can ***join your team*** if they graduate through the process.
+
+### **Confidence as key**
+
+If at any point they show a lack of confidence that this opportunity is right for them, that lack of confidence is a strong signal that we should not take them on, because a lack of confidence often comes from a place of a lack of experience or a sense that volunteering might not be a good fit. If someone is saying "I am not meant to be here" by their behavior, then believe them.
+
+Since our ethos is compelling, if we don't get members with a strong sense of personal identity and confidence, it can lead them to develop a problematic attachment to the community.
+
+Sometimes this is a false positive, but we can't afford the risk.
+
+### **Red flags**
+
+Don't ignore red flags, they are typically the tip of an iceberg and we don't want to take the risk. We have a 0-strikes rule for such red flags; if you see even one, reject them ***kindly***.
+
+Here are some key ones:
+
+- Not on time
+- Mic not functioning
+- Not able to speak out loud
+- No camera
+- Negative attitude
+- Looks like they just rolled out of bed.
+
+Keep in mind Discord is a lot harder to use than most systems, so we want to be reasonable but we give them warning of this beforehand and tell them to prepare themselves beforehand in the channel.
+
+### **Discover personality**
+
+Throughout the interview you want to ask a series of probing questions to ensure that they are ready for actual work.  Ask them to answer these questions quickly so you get their top-of-the-mind take rather than a prepared answer.
+
+**Warning:**We are not allowed to ask about health questions, but if they choose to volunteer information about health, we cannot record that information, but we can use it to be more compassionate and understanding when it comes to the red flag about the lack of work experience. We want to be compassionate where we can be. We can only use this to be understanding toward them but we should never ask.
+
+Be understanding that people who suffer serious illnesses might perform well as volunteers, but not be able to answer all the relevant questions.
+
+#### **Start with...**
+
+Thanking them and some small talk, then:
+
+"I'm going to ask you a whole series of questions but to ensure we stay on time, try to answer what first comes to mind within a minute or so."
+
+**#****Question****Ideal answer/what we seek****Red flags****1**What brings you our way?I liked your vision or I want a place to grow my skills. "Idk, I just felt like it" attitude. **2**What's your goal in life? And what your dream career?Detail and specificityInspecific life goals **3**What's your current plan to achieve that goal?Detail and specificityA lack of a plan**4**What would you say are your three core values as a person?Any distinct core valuesNon-answers******Remind them to keep answers short.**  **5**Odd one, I know but, what do you feel about the economy?HonestCynicism and a negative or suspicious outlook.**6**What's your biggest regret in life?A positive, constructive outlook.Negative outlook.**7**How many hours a day do you work? Side projects included. 8-10+ Actively engaged lifestyle.Less than 5. **8**How many hours would you be able to volunteer if you joined us. 7+ per week.Less than 5. **9**Who was your last manager?A specific name, title and job. No work experience or managers.**10**What would your last manager say your strengths are?Just a few strengths.Nothing.**11****Tell them that they can answer these next few questions a little bit longer if they'd like to.**  **12**What would your last manager long-term manager say your top two weaknesses are?An honest answer.An answer that reveals potential conflict or blame.**13**Have you ever had a toxic manager? How did that go?No or some understanding of the manager's point of view or similar positive notes.An answer that reveals potential conflict or serious blame.**14**What was the last time you had to deal with drama or gossip in the workplace, and how did you handle it?Constructive responses.An answer that suggests that the person is still bitter.**15**What's one bad habit you're trying to kick?Constructive responses.Answer reveals serious problems such as drug use. 
+### **Discover skills**
+
+We need people with relevant skills and some job experience, but not necessarily extensive work history in relevant fields. We're looking for people with enough skills to work in their field, who are willing to grow and show a pattern of growth.
+
+"If you choose to be part of what we do, I warn you that we are volunteers trying to do what companies struggle to do. You'll have to think in a whole new paradigm, because this is one of the biggest challenges a group of volunteers could ever take on."
+
+**#****Question****Ideal answer/what we seek****Red flags****1**Have you worked in any fields or positions that would be relevant to your work with us?A specific title and job. 
+We are trying to establish here if they have relevant work experience and/or have ever had a job before.  **2**Was it a full time or contract position?If not what was your last full time or contract position. If they have never had any "real" job, relevant or irrelevant to our field, we cannot take them on.Rev share or similar promise-of-income based work is the only work in or out of our field they have ***ever*** done.We are not taking people who have never worked ***ANYWHERE***before unless chronically ill. **3**What did you do there?Seek specific things they did that relate to what they will do here.Inspecific or vague answers.**4**This position requires ___ skills, what skills have you practiced before. You're looking to see if they have the base level knowledge to work with us.Anything that shows that there will be a drag on the team without really contributing.**5**Repeat above question until you go over all the different skills required. Do the best you can if you are not in the same field.   **6**What do you like to do when not working your job (or if no job, hobby project). Your looking for any thing they like to do in their free time that shows they are learning and growing.Does not spend any free time learning the trade. **7**Could you show me your best work in (relevant field to interview) from 2 years ago vs today and show me how you have grown?Look for progress and growth.No improvement and little work to show.**8**What's your favorite way of growing in (relevant field to interview).Reading books, watching videos, playing related games etc. Does not spend any free time learning the trade. 9Have you ever felt like saying "this is not the job I signed up for" in a workplace, how did you handle that?We don't want people who are inflexible to the needs of an organization, but who are ready to make reasonable sacrifices providing they are not taking physical risks. "I didn't sign up for this" attitude. 10I'd like to give you a moment to ask any questions you have for us?NAAsking for pay. Remind them that they can't volunteer their way into a paid position.
+### **Other questions**
+
+What did you do in the last two weeks to progress your career that you are most proud of?
+
+What did you learn in the last two weeks related to your career, not through experimentation but research that helped you be a better X?
+
+### **How to reject**
+
+***If it can be avoided,*** don't let them know we're rejecting them. Unfortunately we've had too many bad experiences with this; we've decided it's too risky. This is sadly because the people who apply for volunteer positions are sometimes only applying to gain skills and don't have any work experience and may have not developed the toughness necessary to take the rejection.
+
+We have seen this be an issue in the past and ***we need to avoid it.***
+
+**Option 1 | Full interview, too many red flags**
+
+"Thank you for your time today. That concludes the interview. The process from here involves reviewing all candidates against the role's specific requirements. The successful candidate will be contacted within three days."
+
+**Option 2 | Mic issues**
+
+In case it's very clear it's not going to work out within the first two, three minutes because the mic is not functioning or otherwise.
+
+"We seem to be encountering some persistent technical difficulties with our system. Unfortunately, we can't really conduct the interview without that system. We will need to move on for now. Thank you."
+
+**Option 3 | Camera issues**
+
+"Just checking, are you able to turn your camera on? Having video is part of how we conduct these volunteer interviews." (If they say no or can't): "Okay, thank you for letting me know. Unfortunately, the video component is a required part of this interview process for us, so we won't be able to proceed without it today. We'll have to wrap up here. Thanks for your understanding."
+
+**Option 3 | Distracted or background noise issues**
+
+"It seems like perhaps now isn't the best moment for us to connect effectively. There seems to be some difficulty hearing you / focusing on the conversation." (Pause). "For the interview to work, we really need clear, two-way engagement. It might be best if we pause the process here for today. Thank you for your time." (This is gentle but points to the lack of interaction).
+
+**Option 4 | Late**
+
+"Hi [Name], thanks for joining. We had this interview scheduled for [Original Time], and unfortunately, with the late start, we no longer have sufficient time to complete the full interview as planned before my next commitment/interview. We'll have to leave it here for today. Thank you."
+
+### **How to accept**
+
+"This has been awesome, I would love to set up our next chat at (specify time using [hammertime](https://worldlab.joinboundless.org/tools/default-tools#timezone-tools)), shall we meet then? We need a 2 hour slot for the next one."
+
+If yes:
+
+"Next time we'll be going over our mission and volunteer expectations, if you can please read this document in detail and prepare some questions. [https://articles.joinboundless.org/vision](https://articles.joinboundless.org/whitepaper/the-problem)"
+
+## Purpose of the interview 2
+
+Interview two is really about leveling with them about the expectations of being a volunteer and our mission. If they like what we are about we extend them an offer and get them started via World Lab.
+
+#### **Start with...**
+
+Thanking them and some small talk, then:
+
+- "So you read the Boundless whitepaper and you have some questions for me right?" Answer their questions to the best of your ability. If there is anything you can't answer, simply say "I will need to get back to you on that", write down the question and ask your team.
+
+#### **Being real with them**
+
+"In order for you to get the most out of the experience of working with us, I want to level with you about what being a volunteer is like."
+
+**The challenges:**
+
+Say each of these:
+
+- "It's not a walk in the park, building meaningful technology is hard.""The standards are really high—it's nothing less than the best when it comes to the expected quality of work."
+- "When it comes to the social side, the standards are really high as well. Zero toxicity, drama, public gossip or politics. For the training period we also ask individuals to avoid cursing in chat as a means of thinking about what they say."
+- "Volunteering sometimes means doing stuff that's not in your field too—like interviews or just getting what your team needs done, done whatever that is, be ready to spend possibly 1/3 of your time here on such issues.""We are all we are sacrificing our precious time to do something we believe will change the world for the better."
+- "Be aware that you can't volunteer your way into a paid position here."
+- "Now you can leave whenever you wish but if you are on the team it's an hour per week day minimum to keep the ship afloat. Are you ready for that? Does that align with your personal goals?"
+
+**Reject**
+
+- Reject them unless you are think it's a good fit for them personally. Boundless does not want anyone stressing too much after work or working on something which will not be positive for them personally.
+- ***Reject:***"Thank you for your time today. We have a few more candidates to speak with and will be evaluating everyone over the coming three weeks. The successful candidate will be contacted within three days."
+
+**Accept**
+
+Say:
+
+- "This is your last chance to change your mind with honor, I just want you to be sure. If you want to, let me know now."
+- "I like what I've heard here and I feel like I can trust you so I am going to have you go through our training program and hopefully you'll be able to join my team specifically on the other side."
+- "You're not officially a volunteer yet but there is some basic legal to sign, let's go through it together:"
+
+Remind us to INSERT LEGAL HERE
+Include name change
+Include password user73785
+
+When it comes to these sort of things, it's amazing what you can do if self-organization becomes first nature. 
+
+A lot of the way human beings organize themselves is based on a lack of trust. Managers watching over other people because they don't trust that they'll do a good job unless somebody is telling them what to do.
+And that's baked in from teaching environments all the way through to actually inefficient organizations. Instead, what we do is we trust people to do a good job.
+
+When you begin to trust people it unlocks a whole different level of productivity. 
+
+But to make it work you have to teach people not to wait for instructions, but to take initiative.
+
+### **Help them start on World Lab**
+
+- "The organization reserves the right not to move forward based on your team's feedback during training, so aim to go above and beyond throughout the program."
+- "The training program is very hands-off and it's tough. It requires a lot of persistence and self initiative."
+- "Here is what you need to know, let's go through it together:
+
+[https://worldlab.joinboundless.org/start-here/becoming-a-volunteer-for-boundless#our-method](https://worldlab.joinboundless.org/start-here/becoming-a-volunteer-for-boundless#our-method)
+
+Take turns reading out loud.
+
+Explain that world lab is both used to train people and develop real apps. There is no division.
+
+Record their questions and submit them via the "(?)/confused" form at the bottom of the website.
+
+[![It shows someone hitting the confused button.](images/img-001-09740c45adc8.png)](https://cdn.eniston.com/bases/5ba25e36-2715-44ac-b4f3-9b9cf9081634/attachments/72kqg2y-1-_1744497420.png?width=1400)Invite them to the Discord by clicking the invite button next to a channel.
+
+[![If you click the "invite" button in Discord,](images/img-002-21b4a86853f5.png)](https://cdn.eniston.com/bases/5ba25e36-2715-44ac-b4f3-9b9cf9081634/attachments/gbneafn-1-_1744497034.png?width=1400)Continue to the [next article](https://worldlab.joinboundless.org/start-here/understanding-world-lab) at the end of each.
+
+**Your job is to continue until they have found a team that fits their skills and have applied or have made their own team. Don't quit before this is done.**
+
+Once you've done this a few times, you'll find it's more efficient to check if teams are available beforehand and to guide them on the path of making their own team from the get-go if not.
+
+**"This is not a place for pessimists, naysayers, and gatekeepers, but visionaries trying to change the world."**
+
+"What we expect of people here is an attitude of trying new things and pushing boundaries for the sake of impact."

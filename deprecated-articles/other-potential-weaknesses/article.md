@@ -1,0 +1,12 @@
+# Other potential weaknesses.
+
+Other potential weaknesses.
+
+1) What if some sort of cult creates a ridiculous law and then prosecutes a person according to that law?
+What if they attempt to ruin your reputation for breaking the law? 
+2) Explain it in detail via graph
+3) What about the crazy cases? Cults? 
+Justice must be limited. 
+What about the problems with demagogy when it comes to power and control being in the hands of citizens? 
+What if people vote to extract the assets of individuals?  Do laws count within 30 days or something? 
+4) There's a max tax rate, but digital societies can't compete with physical societies, and therefore physical societies will just take all of the tax. We need to work that out.

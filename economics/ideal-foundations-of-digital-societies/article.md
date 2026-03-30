@@ -1,0 +1,21 @@
+# Why wealth is a divisive community foundation
+
+## **The failure of crypto communities**
+
+The crypto movement serves as a poignant warning of the danger of making digital currency the center of a movement. Crypto driven communities have been overwhelmed by members who are self-seeking, willing to sabotage one another for profit. These members have the staying power of high schoolers waiting for a school bell or a dog being told to sit still five meters from a treat.
+
+By encouraging communities of entirely self-interested people, the community itself is torn down at the first available opportunity for the sake of profit.
+
+What these communities fail to understand is that the profit motive is highly individualistic, encouraging each individual to seek their own, and that the very act of community is to put away one’s own desires to create something greater.
+
+## Pillars of community
+
+Good communities:
+
+- Are founded on values
+- Benefit everyone
+- Have a greater purpose.
+
+They bring together people willing to sacrifice a small piece of themselves in order to build something together they could never build alone.
+
+Community members compromise their own will in order to realize something greater in the world. A healthy community drives a shared sense of purpose and identity through their joint mission.

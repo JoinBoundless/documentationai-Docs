@@ -1,0 +1,47 @@
+# Behind the Manifesto OLD
+
+This article is not accurate
+The Manifesto is a charter of rights and a statement of beliefs of those who follow Cyber Sovereignty. It envisions a world in which people are freer than ever before and it encourages people everywhere to stand up for, organize, and create a world in which human life and freedom reign supreme.
+
+## Execution
+
+To implement the manifesto, Cyber Sovereignty calls on everyone to pursue a bottom up approach. Namely:
+
+1. Create digital communities within current legal limits to prove the concept
+2. Advocate for real legal status for digital polities within national governments.
+
+## Rejecting force
+
+Cyber-sovereigntists believe that the best way to implement any political idea is to start with small-scale experiments, prove real value, and build democratic momentum from there. This is in contrast to traditional political ideas which recommend advocacy purely on the merit of an untested idea, and many times the imposition of that idea on others by force as that test.
+
+By nature cyber-sovereignists reject force as a means of implementing their ideas, instead we advocate for working within democratic systems to create the change we desire.
+
+## Golden Law
+
+Cyber-sovereignists believe if a digital community-based system is implemented, tremendous positive good will be done for the world at large. We'll begin to choose from proven systems and have real control over government systems as a result.
+
+Cyber-sovereignists believe no rights or rules need to be imposed on individual digital polities for these rights to arise. Therefore, they reject the imposition of any law but one.
+
+> No digital society may significantly hinder the movement of it's members from one polity to another.
+
+This simple rule will ensure all the other rights are available to users of digital societies.
+
+This part is needed elsewhere: 
+
+## A new way
+
+Inasmuch as Cyber Sovereignty is a declaration of independence from national government on the internet, it also envisions a new way of connecting with society.
+
+Imagine a world where people are deeply connected to their community. It's a world in which values, traditions and culture matters. It's the ability to have a deep sense of connection with others, at one's own pace with the ability to opt out with the Golden Law always protecting each person.
+
+Cyber Sovereignty allows an exploration of a new type of society where the systems of government interact with systems of values without the issues that would cause as a national scale.
+
+This connection is protected by the Golden Law, allowing anyone to move from community to community to find which approach works for them.
+
+In short, Cyber Sovereignty is not a statement of radical individualism, but rather a call to create new systems of equity, justice, culture and prosperity while allowing each society to live by it's own values.
+
+LEFTOVERS:
+
+It advocates for the creation of space for multiple systems of law, justice and morality through digital communities and the ability to vote on those systems by selecting one's community.
+
+This allows for a world in which government is judged through it's effectiveness not it's ideas.

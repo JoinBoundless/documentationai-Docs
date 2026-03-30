@@ -1,0 +1,130 @@
+# Creating democracy in a digital society: Agora's plan
+
+It's critical that you read the prerequisite article “[Democracy in a digital society](https://agora.joinboundless.org/community/democracy-in-a-digital-society)” first.
+
+This article begins with background information in “understanding the neutral space” and then explains how democracy can be created in digital societies regardless.
+
+## **Understanding the neutral space**
+
+Cyber Sovereignty imposes fresh rules on representative democracies to empower them to become a neutral space between Digital societies where true freedom reigns:
+
+- True freedom of expression
+- True freedom of access to information
+
+This is highly necessary since, if every space one went to one was obligated to follow a certain set of values, there would be no more place where total freedom of expression would truly exist.
+
+Society is stuck within the dichotomy in which it desperately needs values to take centerstage again and yet, it does not want to pull back thousands of years of progress. Namely, the liberal democratic revolution was mostly against the monolithic top-down imposition of values/religion on people. Modern society is on the precipice of reversing this age-old reality.
+
+*"Force may make hypocrites, but it can never make converts." - William Penn*
+
+This is why Cyber Sovereignty forces national governments to become the neutral space while digital societies become the “values” space.
+
+### **Values and freedom**
+
+If a space is imbued with values other than freedom, it is by nature unfree. This means digital societies are more constraining by default than national governments; that is the point.
+
+The point is the world needs a space where values reign supreme, but that, we can't trust national government to do that because people don’t consent to them and they can't properly opt out of them.
+
+## **Constrain through the Golden Law**
+
+Digital societies are radically subject to their populations because they live in competition with all other digital societies. And anyone can leave at any time. Whether or not those societies grant a vote to each individual citizen doesn't matter. As long as the Golden Law reigns, they have the right to vote with their feet.
+
+This profound level of consent makes them the ideal place to combine ideas of government and values safely.
+
+## **Thesis on unleashing even greater democracy in digital societies**
+
+“[Democracy in a digital society](https://agora.joinboundless.org/community/democracy-in-a-digital-society)” details exactly how cloning representative democracy in a digital space will go terribly wrong.
+
+But…
+
+- What if an even greater degree of freedom could be created without relying on old ideas?
+- What if the same mechanism that allows Digital societies to compete for citizens in Cyber Sovereignty could be used within each digital society as well?
+
+After all Cyber Sovereignty is all about trusting working results and not the promises of people. What if digital societies could duplicate that principle at a smaller scale?
+
+### **Agora’s model: The Deme system**
+
+As digital societies grow, individuals within a digital society will be divided into sub-communities called Demes.
+
+Demes will:
+
+- Have their own subordinate/related values
+- Have their own highly personal institutions
+- Have their own value proposition.
+
+### **How this works in Agora**
+
+#### **Work filter**
+
+Agora is a digital society that is action-oriented. It's not a place for people to just 'be,' but a place where people organize to uplift humankind.
+
+**World Lab as an application**
+
+Rather than allowing just anyone to join Agora, individuals who seek to join will first be a contributor to a World Lab related project. That project becomes the means by which Agora gets to know them. It’s their individual entry into the Agoran system of citizenship.
+
+As time moves on, other roads to membership will be created.
+
+**Cell division**
+
+Whatever the means, they enter Agora together with a team. These teams either form the nucleus of a new Deme or join an existing one that appeals to them.
+
+Whether joining or creating a Deme, whichever body they associate with will be deeply connected to the individual's values. Over time, as the Deme grows, the Deme will be expected to:
+
+- Onboard new members
+- Settle disputes between members
+- Settle grievances against members by those outside the Deme
+- Provide a unique value proposition to the members of the DemeThis will be a requirement before splitting off
+
+A Deme has a max membership of 120 members. Once it reaches this size, it divides into two groups of 60, with a new Deme being incubated with the help of the old Deme and a new leader being appointed by the old Deme leader. This new collection of Demes is called a Faction.
+
+Once a Faction has at least 180 members total and three Demes it becomes eligible to break off from Agora totally forming it’s own preliminary digital society. In order to do this successfully, the original Deme leader will need to prove their ability to each group leader.
+
+Once a World Lab contributor gains citizenship in Agora they are already likely paired with a team of people mostly shooting for Agoran citizenship.
+
+Upon joining a digital society, members of a digital society would shop around looking for the Deme that appeals to them most. The best Demes will attract the most citizens. Demes divide each time a citizen cap is reached appointing a new Deme leader for the split-off Deme.
+
+This ensures that not everybody joins the same Deme and that new ideas are constantly being incubated.
+
+Unlike the stark differences between digital societies, the differences between Demes within the same society are minor.
+
+Unlike the division between digital societies, a member of one Deme is not locked out of the useful institutions of other Demes, they are simply selecting a clique within a greater society.
+
+Members of a digital society could choose only one Deme to be a citizen of.
+
+**Elevation of trailblazers**
+
+In the article “[Why organizations don't elevate innovators](https://agora.joinboundless.org/community/why-organizations-don-t-elevate-innovators)” a pattern is described in which most organizations fail because they elevate only agreeable, non-innovative people. 
+
+This system elevates trailblazers by giving them the room to work and create results rather than having managers elevate them.
+
+Those who enacted proven results to take charge of the innovation needed to grow the whole society. It proposes that the key to elevating trailblazers is to use a hands-off approach in which results speak for themselves.
+
+The society which attracts the most citizens becomes the leading society. The most innovative societies would take charge of certain core functions of the greater society.
+
+### **The failed experiment**
+
+Unfortunately, this system has been tested and already proven to have potential flaws. The test was run outside of Cyber Sovereignty, in a less high-stakes community likely to lend itself to less maturity but which shared this fundamental structure.
+
+In the test, a dynamic of direct democracy took control as a few key individuals were dissatisfied at being reprimanded for very poor behavior. They promoted their dissatisfaction secretly via gossip while avoiding mention of their behavior.
+
+Over time the gossip grew and dissatisfaction grew until the society became split, with one side seeking to seize control using the Deme system to punish those who punished the highly problematic individuals.
+
+To learn more about how and why this happens, check out [Wars of Identity and Ostracization](https://agora.joinboundless.org/community/wars-of-identity-ostracization).
+
+#### **The need for a constitution**
+
+The key mistake was offering total control to the Deme elected. Instead, highly codified institutions like a judiciary must be created to ensure that the law remains supreme over all.
+
+The rule of law, above all else, with a strong rights-protecting constitution must take centerstage rather than any particular party’s will.
+
+If obtaining government power means getting what a particular party wants rather than ensuring justice and fighting for innovation and growth, that digital society will fail.
+
+The key is to highly limit what the Deme can change at first and slowly unlock item by item, giving control over particular issues to either the judiciary or the elected Deme based on their propensity to abuse that power and based on the ability to add checks and balances over time.
+
+## **Article overview**
+
+Overview:
+
+1. People create digital sub-societies ‘Demes’.
+2. Demes compete to play a role in running the actual digital society.
+3. Constitutional limits highly limit what that Deme can actually do/change.Starts extremely restrictive and becomes lax over time.

@@ -1,0 +1,234 @@
+# Transparency, checks and balances
+
+## Lessons learned from crypto
+
+Crypto and blockchain movements had some shared ideals to Cyber Sovereignty, but suffered from a poorly thought out ideology. Mostly focused on money, the movement put individual responsibility and anonymity at the core of a new system.
+
+Its founders envisioned a world where market forces would create a utopia free from government interference. However, its ideology of anonymity and total individual responsibility led to no accountability and widespread financial disaster. Pumping prices via false accounts and selling empty hype became so mainstream that the word crypto being associated with "scam" in the popular imagination.
+
+Crypto sought to bring its followers a form of sovereignty by creating uncensorable ledgers that exist outside of government control.
+
+Cyber Sovereignty, harbors no illusions that the free market can make up for a world that is completely anonymous and unaccountable. Accountability is essential.
+
+To be clear, Cyber Sovereignty does not associate or disassociate with crypto. Blockchain is merely a tool. It's the fundamental ideology behind many crypto movements, which Cyber Sovereignty suggests is flawed. [Learn more >>](https://agora.joinboundless.org/cyber-sovereignty/cyber-sovereignty-vs-crypto-movements)
+
+## Transparency by default
+
+### **Society launch transparency checklist**
+
+Whenever a new digital society is declares sovereignty, it must take certain deliberate actions to create public transparency.
+
+#### **(1) Conflict of interest**
+
+When a society declares Cyber Sovereignty, it must list all individuals which it believes have a conflict of interest.
+
+*"If any of the parties in question have a conflict of interest with key leaders, law makers or financial backers of the digital society." -*[*Core concepts*](https://agora.joinboundless.org/cyber-sovereignty/legal-concepts-of-cyber-sovereignty)
+
+#### **(2) Public laws**
+
+It must publish all of its laws, rules and regulations in full as an open accessible archive.
+
+#### **(3) Public court records**
+
+It must create a space in which a detailed log of all court cases is kept. This includes standard panel decisions.
+
+*Personal information and personally exposing information may be redacted. And any other information required by national law to be redacted may be redacted.*
+
+#### **(4) Public government system**
+
+It must provide an accurate and up-to-date public document which describes its mechanism of government and decision-making.
+
+It must publish if it believes it is run by it's people and provide substantial proof if so.
+
+**What does it mean to be run by the people?**
+
+What percentage of decisions that the government system makes available are taken by individuals in that society?
+
+In a system run by AI, 70% of the decisions may be entirely autonomous, but it's the 30% that are left, that matter.
+
+In a constitutional republic, 70% of the options may be limited by the Constitution, but it's those who make the leftover 30% that are considered the controlling interest.
+
+The critical ask: "A society may set a course that is defined, but when it changes that course, how accountable is that change to the general public?"
+
+If the extent of influence that people have is greater than that in modern democratic nation-states, then the state or digital society should be considered as run by the people.
+
+The comparison is to be done with Western societies which are democracies.
+
+#### **(5) Public legal contact information**
+
+It must publish contact information (be default the contact page for websites is www.example.com/legalcontact).
+
+They must also publish how one can take advantage of the court system.
+
+#### **(6) Public citizens reviews**
+
+It must publish a public review page in which an uncensored list of citizen reviews can be seen for the public to access. Censorship or manipulation of this page can be considered an attack on the legitimacy of consent itself. The desire to abide by national laws and requiring only citizen reviews is considered acceptable.
+
+There must also be a clearly visible link on the page or similar which allows all citizens and reviewers to review all reports published about the society by other societies which those other societies have summitted.
+
+#### **(7) Citizenship certificates**
+
+Digital societies must issue dated citizenship certificates to all citizens, even if they are digital.
+
+#### **(8) Settlements**
+
+Digital societies are forbidden from taking advantage of settlements in order to hide details of potential wrongdoing of a digital society. They may agree to settlements, but if those settlements hide key details of wrongdoing by the society, the society itself may be held to account for hiding information of public right.
+
+#### **(9) Nesting & reports**
+
+Described below.
+
+Further related transparency laws can be found in the [Charter](https://agora.joinboundless.org/cyber-sovereignty/charter).
+
+## Nesting & reports
+
+The first digital societies will have complete authority to launch and take advantage of the benefits of Cyber Sovereignty, but as the ecosystem grows, deeper accountability becomes possible.
+
+### **Nesting**
+
+Once there are at least 10 digital societies with 1,000,000 citizens, the ecosystem is considered established. At this point a new requirement is placed on brand new digital societies.
+
+New societies must nest under a society above 500,000 citizens. Although the smaller society is able to write it's own laws and take precedence over national law, the larger society now steps in several key roles:
+
+1. It guarantees citizens against large-scale financial losses resulting from proven fraud, mass arbitrary seizure, gross mismanagement of the treasury, technical failures or the failure of the society's core governance systems. It may rely on a third party financial institution to do so. Protection must include honey trap protection, misappropriation of funds, pump and dump schemes, painting the tape, rug pulls and other well-known financially fraudulent activities. The coverage only extends to the financial contents of the human persons (not entities) in the digital society that have kept their funds in a bank in that digital society or in a treasury or currency of the digital society.This does not include a devaluation of a digital society's currency.
+2. It ensures there are actually 30,000 unique individual citizens.Under Cyber Sovereignty, digital societies have the right to manage user data by their own policy and hand such data over to societies for the sole purpose of reporting to other societies by default.
+3. It acts as a court of appeals to hold the society to account.Any court case which fails in the main society can be appealed to the larger society as a fair independent arbiter.
+4. Acts to ensure honestyDigital societies are required to be honest in their reporting and general activity toward their citizens. If a digital society seriously, deliberately and repeatedly misleads it's citizens in vital and indisputable facts related to the state or government of a digital society, a case may be opened in the larger society against the smaller by a citizen of the smaller society. And if dishonesty is found, then a fine may be levied by the larger society provided the larger does not benefit. Matters of national (or digital society) security, or matters related to gag orders, where the effects are not contained, and sovereignty is not maintained, is not considered an act of dishonesty. Matters of security must be narrowly defined when it comes to digital societies.
+
+The nesting requirement always increases to societies that are larger and larger, as long as there are 200 or more above a certain threshold. So once 200 societies have more than 700,000 members the nesting requirement goes up to 700,000. It keeps going up until that number reaches 5 million.
+
+Once digital societies grow to the point where a spread of 70 million to 500 million is possible, every factor of 10 requires the factor below it to nest above it. So all societies of 70,000 must nest in societies of 700,000, who nest in societies of 7 million etc.
+
+It would be up to those societies, however, if they allow appeals to graduate more than one level up.
+
+## Reports
+
+Societies which allow others to nest with them are in turn required to produce a public report on that society. The society which acts as its nesting parent and guarantor will require significant documentation from its child society in order to facilitate that guarantee.
+
+### **Large society reports**
+
+Societies over half a million members are required to investigate other societies of the size of 30,000 or greater and publish reports covering key elements of those societies.
+
+The report should cover:
+
+1. Is the digital society run by its people or not?Is the society's leadership elected, appointed, or permanent?Are the leaders subject to term limits?Are citizens apathetic or involved?How much power is delegated to unelected administrators versus elected officials?Is there a culture of fear or guilt?Does the society handle and resolve conflict well?Does the society have a history of harassing members who speak out?Does the society have a pattern of filing lawsuits against its own former members or critics, particularly those with fewer resources?
+2. How fair is its court system?Are judges abusing discovery, ruling on personal bias, launching phishing expeditions or allowing procedural ambushes? Do citizens have easy access to a jury of their peers?Are citizens given due process?Are there clear, codified rules of evidence and procedure for the court system?
+3. How long does the average court resolution take?
+4. Citizen satisfaction.Citizen churn rate. Do citizens feel their system is corrupt?Do citizens feel like they have a voice in their society?
+5. What is the financial status of the society?How equal are the citizens?What are the status of the reserve of in the society if there are any?Does the society conduct a third-party audit?
+6. Are their public-facing documents accurate?
+7. Which members of the society should be considered in conflict of interest? Does the society have a clear conflict of interest policy for its leaders?Which leaders and financial backers meet the criteria for a conflict of interest?
+8. Has the society been created to launder money, hide money, engage in financial fraud, or engage in regulatory arbitrage by it's nature?
+9. Do any of the cases sealed by the digital society suggest wrongdoing by the society?
+10. Golden law compliance.Does the society deliberately make it difficult for members to leave?Is it financially ruinous for a long-term member to leave the society?
+11. Economic activityHow much legitimate economic activity does the society have?Number of merchants, number of trades completed, quantity of currency traded, exchange rates, GDP.
+
+Some of these questions are invasive. A negative result for a small society is not unexpected.
+
+Further questions will be listed by the [JBT](https://agora.joinboundless.org/cyber-sovereignty/the-trusted-panel).
+
+The JBT will create a portal by which such reports can be aggregated if a decentralized one does not exist.
+
+## **Triple reporting**
+
+They would also be required to find two other societies which are large enough to be their nesting parent. These societies would not guarantee the assets of the society but will join with the primary one in creating a report on that society.
+
+How it works is once the society in question has identified the two other societies, it would require it's guarantor society to provide these other two societies with all the same documents that it submitted to get accepted with the parent society and all documents it sends once further transparency is requested.
+
+Societies which continually fail to report on other societies or nest themselves properly will have their rights to be a digital society, invalidated by JBT's within a national jurisdiction provided both JBT of that nation and the Digital Senate are in agreement with 6/10 judges from the Senate in agreement. It will happen as the JBT begins the investigation and the investigation will run its course, the digital society will have the right to defend itself in the court of the land, in the nation in which the JBT started the investigation, and will not be required to defend themselves from more than two JBT investigations at a time. Other JBT's seeking to investigate will have to wait in line. If the society is under ½ million members in size then that limit is reduced to one Investigating JBT.
+
+The question put to the court and a jury will be one of the following:
+
+1. Is the digital society in question constantly and consistently shirking its duty to provide accurate reports to a nesting parent?
+2. Is the digital society in question constantly and consistently shirking its duty to provide reports on other digital societies if it is of the necessary size to provide those reports?
+3. Our nesting parents and children in their nesting relationship colluding with each other to manipulate reports?
+
+The digital society will be given free and full and fair reign to defend itself against an unbiased jury. If the digital society loses the case, the question is presented to the Digital Senate, and if the Digital Senate validates that loss, only then will that digital society no longer exist in that national jurisdiction.
+
+If the digital society feels that the case against them was prosecuted unfairly, it will be given the right to make that case in front of the Digital Senate.
+
+## **Large society accountability**
+
+Societies in the top 10% of digital societies must seek out other peer societies which will provide the same nesting benefit and reports.
+
+## **Fees & population**
+
+Societies which produce these reports and guarantee other societies can charge a fee for this privilege. Every society nested under a larger society counts toward the larger society's population number for the purpose of this document alone. Societies may require nesting societies to sign an Accord in order to nest in the larger society.
+
+## Entering a nesting contract
+
+A nesting agreement is solidified by a contract between the two digital societies that is bound to the jurisdiction of a third jurisdiction in which the rights and obligations of each party is clearly specified and meets the minimum requirements laid out by this document.
+
+## **Reducing the burden**
+
+When a society is below 100,000 members in size, it does not need to comply with discovery requests by those creating the reports. Those creating the reports have to suffice with the original documents of those who guaranteed the digital society when it was formed and further reports given to that society.
+
+Every society has the right to redact names from documents and information which will definitely reveal the addresses or other sensitive information of certain individuals that they would like to protect. They have to right not to have this redacted information published by the reporting entities by request. They must provide the reasoning behind this in detail which must be made public. They can only redact related information for a maximum of 30 individuals per 30,000 members. This does not extend to corporations.
+
+### **Guarantee exceptions**
+
+Provided all major forms of fraud and [mass arbitrary seizure](https://agora.joinboundless.org/cyber-sovereignty/charter) are fully covered, a society may receive only 1/4 coverage over losses due to technical failures, proven human error or cyber security issues if their size is under 100,000 members or above 50,000,000 members.
+
+If the society is not fully guaranteed, a separate checkbox, or similar separate full-standard consent mechanism, making that fact known to potential citizens is required.
+
+### Bankruptcy
+
+In all cases in which a digital society faces a financial crisis, its first obligation is to ensure that the class one asset is protected. Namely, the savings of ordinary people in banks in that society or savings kept in a digital currency format within a society-run platform or the platform which it uses to manage it’s currency.
+
+This is the only asset guaranteed by societies which accept others as a nesting parent or peer. Guarantees do not extend to the debt of digital societies or debts incurred in court cases or other financial legal obligations of the society other than cash savings of it’s citizens (not bonds).
+
+## **Guarantor beneficiary**
+
+In case it was ever in doubt, the system of guarantees is to protect and make whole the individuals in a society directly, not the society itself.
+
+## **Accords as guarantors**
+
+Several digital societies may come together to form an Accord and that Accord in itself may act as a guarantor based on the population size not of an individual digital society but the total population of all citizens of all digital societies within that Accord. Creating or playing a key maintaining role in Accords that act as guarantors is limited to digital societies with 1,500,000 members.
+
+## **Guarantors & freedom**
+
+Guarantors are not to stifle the diversity of thought or freedom of their nested child societies. They're not intended to be responsible for deciding what sort of values are appropriate in their nested society. They are to intervene in cases of financial fraud and provide clarity and transparency to their nested society's citizens.
+
+## **Whistleblowing legalized**
+
+Anyone can report any digital society, for any reason, without regard to any contract they have signed, or any agreement they have made, or any law in those societies, to any JBT privately.
+
+## **Retracting a guarantee**
+
+If a guarantee is retracted then the newly unprotected society cannot take on new members until it finds a new guarantor to nest under. Those citizens who have already applied, however, can still join. Retracting a guarantee must be done with six months prior notice.
+
+## **Raising and lowering standards**
+
+If any of the guarantee and reporting provisions in this document are too onerous or too difficult to achieve, then the standard will be lowered to the average of the 10 most compliant digital societies with over 10 million members.
+
+## Neutral Digital Jurisdiction
+
+Throughout Cyber Sovereignty, the parenting system is used to create a neutral jurisdiction in which a digital society and a national government can settle a dispute. Only some digital societies are qualified to be such a neutral jurisdiction. Here are the qualifications:
+
+1. The digital society in question must be a nested child or peer of the digital society which is considered the neutral jurisdiction. Peers only refer to those top 10% that are too big to be nested above or below another society. Peers societies also remain valid as peers for 10 years if later the society is no longer in the top 10%.
+2. The neutral jurisdiction society must have at least 3 million citizens.
+3. The jurisdiction must have at least two levels of nested children underneath and must have at least three official reports created on it in the last year.
+
+From now on these are called **Neutral Digital Jurisdictions**. When they accept a case, they retain it even if they become unqualified for another reason until the case is complete unless they were found to have misrepresented their citizenship or nesting status. In such cases jurisdiction is moved to another neutral jurisdiction based on the decision of the digital society that initiated the dispute.
+
+### **Reassignment**
+
+A Neutral Digital Jurisdiction can reassign a case to a **Global Neutral Jurisdiction** but only before the process begins.
+
+### **Global Neutral Jurisdictions**
+
+Both sides who are party to a dispute in a Neutral Digital Jurisdiction have the right to rate the jurisdiction out of 10 publicly as per the fairness that the neutral jurisdiction provided, 10 being the highest, although they must provide their detailed rationale for doing so.
+
+The court has the ability to accept or reject the rating and publish its reasons for doing so.
+
+Through the international coordination of Digital Senates, a fair rating standard must be set to determine how ratings are weighted, to ensure the best possible Global Neutral Jurisdictions. The Digital Senates provided four of five willing to be in session agree may set a new standard ensuring **Global Neutral Jurisdictions** are of the highest quality possible in a means other than through ratings provided this new standard is voted on and upheld every year with the same level of support from the Senate.
+
+Those societies within the top 1% highest rated by number of high ratings are considered a **Global Neutral Jurisdiction**. By default, any party which chooses a **Global Neutral Jurisdiction** should choose the jurisdiction in which the language used is relevant to both parties and is the highest rated of **Global Neutral Jurisdictions** in that language.
+
+A national jurisdiction in question may require the **Global Neutral Jurisdiction** to provide a judge that is located within the national jurisdiction's territory to judge a case if the case involves classified information as critical to the trial or is based on the justification of a mass casualty event. It does so by making an appeal to the court in question only.
+
+**Global Neutral Jurisdictions** can delegate cases to national governments not privy to a dispute if it feels overwhelmed. Parties to a case may petition the **Global Neutral Jurisdiction** to pass on a case to a willing third party national government.
+
+## **Suing the Digital Senates**
+
+Violation of their obligations here creates a cause of action for national governments and state governments to sue the counsel of digital senates under a **Global Neutral Jurisdiction**. Rulings are binding.

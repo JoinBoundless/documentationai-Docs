@@ -1,0 +1,84 @@
+# Digital societies & mob dynamics
+
+The article “[Democracy in a digital society](https://agora.joinboundless.org/community/democracy-in-a-digital-society)” outlines the issues with direct democracy and representative democracy in a digital space. This article elaborates on why mob dynamics are enhanced by the nature of the internet, especially in the context of a digital society.
+
+## **The space between voices**
+
+Social media collapses the space and time between a dogmatic arguer's voice and their potential crowd, allowing for escalations that are usually only seen in a loud, boisterous, physical crowd.
+
+It usually starts with a legitimate issue but the Individual fighting for the issue lacks tact or is afraid that in speaking up they might be ostracized and therefore amplifies their voice. They polarize their speech, leaving out nuance on the topic at hand, in order to ensure that their cause is seen in the right, for fear that no one might stand with them.
+
+For most of human existence, being ostracized from one's community meant starvation and death. Although today death is an unlikely outcome from being unpopular, people still instinctively see ostracization as being deeply uncomfortable. This is why subtle social dynamics can easily escalate and begin involving fear and fight-or-flight mechanics.
+
+This is why a person speaking up about a cause, no matter how legitimate, tends to overstate the cause in order to drive in a crowd via their sense of justice to protect the weak and the needy. The overstatement is a mechanism of defense against ostracization.
+
+This loud polarized voice becomes the nucleus for a crowd. Their voice is amplified by the fact that natural signs of contentment, such as posture and a smile, are invisible on the internet, creating a false social proof of discontentment overnight. [This issue is detailed here »](https://agora.joinboundless.org/community/the-reality-distortion-field)
+
+A known variant is where the problematic individual spends time pumping people full of gossip until somebody bursts open in a public space, seeking release for the words they've heard, and they unintentionally become the nucleus of a crowd themselves.
+
+A loud voice becomes a catalyst for a problem. But once that catalyst turns into a crowd, the crowd begins to see the incredible power it has. Power leads to greed the individuals begin to understand that if they agree they can seize anything they wish.
+
+- They could seize the state
+- They could seize power
+- They could get whatever they want.
+
+Unfortunately, when people are greedy, they narrow their focus limiting creative thinking and rush to get what they want without the thought of consequences.
+
+Power also leads to a realization that they have control and therefore a sense of impunity for actions pervades.
+
+Not used to that level of power, the individuals in the crowd often lack the determined self control to use it wisely.
+
+**The nature of power**
+
+Usually, when a person gains power, it's not all at once. Instead, it's earned little by little responsibility paired with power and elevation only following responsible use of that power.
+
+But, when a person does get power all at once, they often lack the restraint and self-control to use it wisely.
+
+"Power without prior responsibility is the exact definition of tyranny." - Hannah Arendt
+
+Power leads to a rash overconfidence; hubris.
+
+This dangerous cocktail is the catalyst of the errors of a crowd. However, unlike a physical crowd, a digital crowd lasts as long as it wants and is not easily broken up.
+
+### **Chaos as default**
+
+It's the fact that starting a crowd around is so easy and so seamless that leads to online platforms being such a poor host to a society of shared identity.
+
+## **Solutions**
+
+This is a list of possible solutions, either to be used in tandem or separately. It's a full menu, relevant to multiple contexts.
+
+### **Better feedback**
+
+When a person is frustrated about an issue, they must have a channel in which they know their concern will be heard and attended to, so they don't feel the need to stir up a crowd.
+
+1. **Anonymous feedback**: An anonymous feedback form allows people to submit feedback with the complete assurance that no negative consequences will follow. This ensures a productive outlet for sensitive feedback.
+2. **Regular feedback meeting**: A regularly scheduled feedback meeting which uses systems explicitly designed for unemotional, constructive feedback.Such constructive avenues usually reframe problems as a “how might we…” focusing on a collaborative solution-oriented mindset.The goal with both 1. and 2. is to allow the natural and useful release of feedback.
+3. **Mandatory cooling periods:**Slow mode in feedback channels allows for more thoughtful, well-articulated discussion.Critically, moving feedback placed in non-relevant areas to the relevant areas helps everyone think rationally.
+4. **Quality standards:**A comprehensive list of quality feedback standards enforced by moderators and taught when acted on.The key is to ensure the moderators allow the feedback to remain while restating it in a non-rule-breaking manor and explaining how the original wording violated those standards.Point out when a particular agitator failed to do adequate research clearly articulating which facts were wholly incorrect in a particular argument encouraging adequate research before posting. Doing this publicly has the benefit of instructing not only the individual but others.
+5. **Delegation**: Senior leaders responding to day-to-day issues can create an people-versus-leaders mentality. Therefore, ensuring that a strong moderation team is highly empowered and well trained to deal with issues allows the back and forth to be between the relevant parties minimizing problems to a particular sector.
+
+### **Teaching**
+
+Helping people understand how volatile online spaces are and how they need deliberate care can help people work on caring for them together.
+
+1. **Gossip radar:**Training every member of the community in identifying and handling gossip.**Agency**: This is best done by putting small groups in charge of ensuring gossip is nipped in the bud.**Means**: Training exercises in which people categorize what is gossip, what is not.
+2. **Proper feedback training**: Sessions in which poor vs good feedback is identified and categorized.
+3. **Earning respect**: Teaching people that the only way to impact other people in discussion is to first earn their respect. Allowing individuals to learn the art of dismantling ego-based defense mechanisms first for effective negotiation not only builds negotiating skills to the benefit of members, but it also encourages rational, constructive discussion. The key here is to have learning sessions which both benefit the member and fulfill the objective of countering potential negatives.
+4. **Cooling team**: A group of citizens well trained in the art of de-escalation ready to notice and deal with escalating tensions wherever they are seen is key. When an individual provocateur speaks up, the first response is often definitive. Having that first response from a person trained in de-escalation can be a game changer.They would see a particular post, respond immediately as fellow community members, and encourage amiable discussion toward positive constuction.Using questions that broaden perspectives like, “have you considered?” or linking to already in progress solutions.
+
+### **Signaling**
+
+As the [contentment problem](https://agora.joinboundless.org/community/the-reality-distortion-field) shows us, people are most likely to be quiet when content rather than sharing their contentment. Therefore, it's essential to create a system which gathers positive feedback and locates it visibly. This ensures the silent majority is never overlooked.
+
+Public articulation of a particular sentiment also creates the defense of that articulation. It pegs in place a decision. “Yes, I support this idea. I support this community. I support this initiative.”
+
+### **Reputation systems**
+
+1. **Singular identity**: Enforcing the use of a singular identity within a community ensures a person cannot simply change their identity or run away from the consequences of their behavior.The Pew Research Center found that "the removal of real-world identity correlates directly with a 400 percent increase in hostile, mob-like behavior."
+2. **Elevating permission**: When members of a society requires the consent of other members to take leading positions in the society, they're less likely to break down the society in a single argument.This could work by allowing people to achieve status or rank depending on the votes of those who have already achieved that rank/status.This system would need to be tested in detail as flaws are likely.
+3. **Algorithmic encouragement**: Algorithmically balancing the velocity of positive posts with negative posts can create a more balanced perspective.Social media naturally [surfaces problematic content](https://agora.joinboundless.org/community/the-reality-distortion-field) (even without an algorithmic boost to that content). Therefore, positive post encouragement must balance that out, but only within reason and balance.
+
+These must be considered with great care as they can become oppressive if no transparency is granted over them.
+
+###

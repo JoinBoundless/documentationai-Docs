@@ -1,0 +1,58 @@
+# Cyber Sovereignty vs crypto movements
+
+There are some connections between the ideals of modern crypto movements and Cyber Sovereignty. However, the ideologies between them are fundamentally at odds.
+
+**Crypto ideals**
+
+**Cyber Sovereignty's principles**
+
+Code is law.
+Anyone can write the law & working systems compete for citizens.
+
+Totally individualistic.
+Humans seen as social.
+
+Total self-reliance.
+Interdependence on community.
+
+Freedom from government.
+Government seen as necessary, with stronger accountability.
+
+Anonymity is paramount.
+Identity revealed only within communities.
+
+Total dependence on the "invisible hand" of the free market.
+Digital societies intervene to curb market excesses.
+
+Freedom from national interference.
+ National interference keeps digital societies in check and vice versa.
+
+Escape from existing legal systems.
+Evolve existing legal systems.
+
+Government seen as only in the way.
+Government seen as lacking appropriate consent.
+
+Financial freedom is the primary goal.
+Freedom to express one's values as paramount.
+
+Recourse for fraud is often technically impossible.
+Robust checks and balances.
+
+Often money motivated.
+Freedom motivated, self-sacrificial.
+
+Tries to skirt current law.
+Comprehensive political and legal rework of systems.
+
+Whereas blockchain-based systems are rigid, Cyber Sovereignty is an extremely flexible concept, pitting systems competition with systems, in order to discover the best system. Cyber Sovereignty does not care what color the hammer is as long as it builds a house.
+
+Some cyber-sovereign communities may use crypto for parts of their society, but they will still need to win members through the quality of their system, something DAOs consistently fail to do.
+
+## Lesson learned from DAOs
+
+Decentralized autonomous organizations (DAOs) promised a future in which code is law. However, they consistently failed to draw loyal followings.
+
+This is because their membership was mostly incentivized to participate through the purchase or acquisition of a token, which was often speculative in nature. This often lead to hype-driven membership, followed by voter apathy.
+
+- The key takeaway is to encourage non-monetary motivations and create value, not cash-grabs.

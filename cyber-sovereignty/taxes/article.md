@@ -1,0 +1,172 @@
+# Taxes
+
+## **Initial system**
+
+Cyber Sovereignty advocates for a world in which consent is the only legitimate basis of government, critical to this concept is taxation. People must have the ability to reward governments and also punish them for their inefficiency.
+
+Since digital societies are designed to take over most of the most expensive services of national governments, they also require a levy placed on those national governments to fund the societies which are providing the services they no longer provide.
+
+### **How it works**
+
+People decide when filing their national taxes which government gets what percent. National governments cannot be limited to less than 40% of the taxes they collect from an individual.
+
+Under Cyber Sovereignty, both sub-national and national governments are required to subject themselves to an independent audit agency chosen by the [JBT](https://agora.joinboundless.org/cyber-sovereignty/the-trusted-panel) which demonstrates what percent of individuals incomes are being taxed and how that money is spent.
+
+National governments are required to ask people which digital society they are a citizen of during national tax collection and to publish just the population numbers publicly.
+
+**Nuances**
+
+The audit must not reveal sensitive classified information. Failure to produce this audit will result in the minimum of 40% for national governments being reduced by 2% per year until the audit is complete with a minimum of 30% going to national governments. The JBT can define what a satisfactory audit must contain.
+
+The allocation must be done through a percentage slider alone with no extra nuance or further challenges. One that moves up 5% each position or leaves a blank to fill in a percentage with no other complications.
+
+***Starving national governments***
+
+*Cyber Sovereignty depends on the survival and the flourishing of the national governments in which it's instituted to survive. Reducing the taxes a national government takes in is not the objective. In fact, most national governments spend more than 60% of their budget on entitlements. And entitlements, as they're taken over by digital societies, are actually saving national governments money. Because the entitlements are no longer valid under a national government when taken over by a digital society in this model.*
+
+*This last paragraph is for comment only and has no legal effect and is just an informational comment unlike other comments throughout Cyber Sovereignty.*
+
+## **Legal independence**
+
+A person may not be taxed by the same tax event by ***any***two governments under Cyber Sovereignty.
+
+**Details**
+
+The edge case of two national governments taxing the same event.
+
+Designed to ensure that people and corporations are not double taxed for the same event this clause extends to two national governments taxing the same entity for the same event. In such a case, they are to work out a dispute resolution process between them, and no taxes will be levied on the entity until a final decision is made in this regard with no actions before the decision being taxable.
+
+Whether a wealth tax, property tax, labor tax, or any other form of tax, if a person is taxed in one society or government for a particular event, they may not be taxed in another as well.
+
+**Tax events**
+
+For the purpose of this document, tax events are reasons governments tax people. Examples:
+
+- **Labor tax**: A levy on compensation received for work.
+- **Commerce tax**: A levy on the net profit from business activity.
+- **Consumption tax**: A levy on the final sale of goods or services.
+- **Capital gains tax**: A levy on the profit from selling an asset.
+- **Property tax**: A recurring levy on the assessed value of real estate.
+- **Wealth tax**: A recurring levy on an individual's total net worth.
+- **Inheritance tax**: A levy on assets received from a deceased person's estate.
+- **Gift tax**: A levy on the transfer of wealth between living persons.
+- **Excise tax**: A specific levy on designated goods, like fuel or luxury items.
+- **Import duty**: A levy on goods entering a jurisdiction.
+- **Penalty**: A levy imposed as a punishment for violating a law.
+- **Externality tax**: A levy on an activity that creates a social or environmental cost.
+
+Events which are substantially the same should not be separated into two separate events just for the purpose of taxing an entity.
+
+Physical governments may not tax individuals for any tax event that happens within a digital society. For example:
+
+- Wealth stored in a digital society.
+- Wealth earned in a digital society.
+- Money transacted within the confines of a digital society.
+
+Digital societies may not tax an individual for any tax event that is not contained within a digital society. For example:
+
+- Levying a property tax for a property in a national jurisdiction.
+- Taxing wealth held in a national bank.
+- A parking ticket.
+
+A person may not be taxed for the same event under both a physical government and an additional one.
+
+An individual that has wealth within a digital society or makes income in that digital society, is not taxed by national/local governments on that income or wealth. It's as if the individual was living in a different country at the time of the accumulation of that wealth and income.
+
+### **Special provisions**
+
+A digital society may partner with a technology it doesn't necessarily control to allow individuals to store wealth in that digital society. Such wealth would still remain the purview of the digital society as a legal tax jurisdiction, but must clearly be marked as so, and visible and transparent to the digital society.
+
+****Questions****
+
+**If I own Bitcoin and turn that into physical cash, is that a taxable event under national government?**
+
+Yes, your digital society has nothing necessarily to do with crypto, unless it produces its own currency, and or has its own bank in which you store your own currency in that bank. The moment you turn that cash into something that isn't under the purview of the digital society, such as to spend it on groceries locally, that money becomes taxable under the national government. However, if you buy your groceries from somebody that is a member of the digital society or Accord, that transaction is entirely contained within the digital society.
+
+**Do I have to report income earned in a digital society to my national government?**
+
+As a special legal provision, you do not, as it is considered an infringement on the jurisdiction of the digital society, for a national government to make such a report requirement. This is not the case for legal entities.
+
+**If I lose a court case in either a digital or physical jurisdiction and the court needs to assess my assets, how will they do so if reporting is not required?**
+
+In such cases, reporting is required, but the enforcement of a judgment is subject to the review for the protection of the individual's rights in the jurisdiction in which the judgment is sought to be enforced.
+
+### **Effects principle**
+
+To be clear, an individual living under any physical government is still under the exclusive purview, tax wise, of a digital society where the first order effects are contained within the digital society.
+
+### **Handling tax jurisdictions**
+
+All cases which arise from taxation matters will be handled by the standard panel process and appeals shall go to the [Jurisdictional Boundary Tribunal](https://agora.joinboundless.org/cyber-sovereignty/the-trusted-panel) (JBT). The final arbiter of these matters is the JBT.
+
+In order to create regulatory clarity, the majority of JBT's around the world ruling in a particular matter of tax jurisdiction shall be binding on the rest.
+
+It should be noted that an individual may be the citizen of multiple national governments, but only one digital society, and therefore any wealth stored in a digital society outside of one's chosen digital society is not considered protected by the effects principle. National governments have jurisdiction over wealth not in one's chosen digital society, unless it's in the third jurisdiction, e.g. Digital Gold within Synapse.
+
+To be clear, one’s national government has purview over digital wealth not stored within one's own chosen digital society.
+
+**Understanding the checks and balances**
+
+- The national government has leverage because it can raise taxes on physical assets that citizens require, like property. This is something it's greatly incentivized to do.
+- This leverage is checked by the citizen's power to allocate the collected tax revenue (up to 60%) to their digital society.
+- Digital societies are checked by market forces. If they raise their own internal taxes too high, they will lose citizens to competing societies.
+
+The system creates an equilibrium: the national government's power is checked by citizen allocation, and the digital society's power is balanced by competition.
+
+It should be understood that despite the fact that it looks like national jurisdictions will lose tax revenue in this case, in reality, national jurisdictions have much more leverage to tax individuals by raising taxes on non-optional assets.
+
+It should be noted that corporations have the same freedom to allocate their taxes as individuals. And in all cases where the word individual is mentioned in the document, corporation or legal entity can be substituted.
+
+Digital societies which allow legal entities to register don't opt out of national taxes when their effects of a taxable event are not contained within the digital society.
+
+### **Emergency powers**
+
+National governments may reset the minimum allocation to 70% for and toward national governments in case of an existential threat to its existence. In no other circumstance may it do this.
+
+> An existential threat is a condition that poses a clear, imminent danger to the fundamental survival of the nation or the lives of a substantial portion of its population, and which cannot be averted by any lesser means than the temporary suspension of the standard tax allocation system.
+
+By this rubric alone shall the JBT rule if an emergency is legitimate.
+
+#### **JBT as overseer of emergencies**
+
+When a national government believes it is facing such a threat, it must petition the JBT, and the JBT will make a binding ruling that has the ability to set a maximum up to 70% for the maximum of one year. If such a ruling is approved by the JBT, the next year afterward, no matter the situation, the allocation will be reset for that year. A new petition can be set and a new petition must be approved for the next year and the year after that.
+
+A maximum of four years in a row can be allocated to deal with a threat or emergency at hand. If all four years are used in a row, then the next four years cannot contain emergency measures of this sort.
+
+After the emergency provision takes place, a national referendum must be held, overseen by a newly created special commission of the the JBT, that allows people to have their say on this matter. And if the people generally don't believe that the matter is an emergency that deserves this action, then the emergency will be revoked.
+
+The single question that individuals must answer after reasonably verifying their citizenship or ID is “To your knowledge, based on the facts presented, is the nation facing such a clear and imminent threat to its survival that it justifies overriding people's individual will in favor of collective action toward the funding of national government?”
+
+No other question may be asked other than the reasonable validation of their identity and/or citizenship. These referendums must happen every year that an emergency is called upon.
+
+If the JBT rules that this crisis is so severe that a national referendum would be impossible, then for one year the emergency may take place, but not for another three years afterward.
+
+## **Legal shield**
+
+The owners of a corporation may not be responsible for the unpaid taxes of that corporation, unless their unwillingness to pay was deliberate and malicious. Unless otherwise specified, a legal person in this document can also be a corporation.
+
+## **Charter rights**
+
+> "At least 60% of the value a person generates should be retained by that individual."
+
+This special Charter right grants people the right not to be forced to pay taxes above 40% of their income.
+
+**Rationale**
+
+Not going by the fact that it's a human right to benefit from one's own labor, the following is the rationale behind these limits.
+
+**1)**Government should never cost more than 40% of people's income. Any government that charges more than this is being rewarded for inefficiency.
+
+**2)**As people gain status in a society, they gain leverage as well. Creating a tax burden that is disproportionate creates an equal incentive to corrupt government by the same amount of money the individual is being taxed.
+
+Moreover, the rich have options, allowing them to find ways to break or get around a system, something they have done with almost flawless success throughout most of human history.
+
+Instead, coming up with a reasonable negotiation allows there to be more winners in a system.
+
+The JBT has the duty to see if this right is being violated and to create a binding plan that national governments must follow to lower taxes to the acceptable level. 
+
+The plan should give governments flexibility and should be generalized enough to allow governments to choose how they reduce their costs.
+
+## **JBT funds**
+
+The Jurisdictional Boundary Tribunal will take, by default, 0.5% of whatever is allocated to digital societies to help fund it on top of the funds it's provided for by national governments. It in turn allocates whatever percentage of that amount it sees fit to the DSEI.

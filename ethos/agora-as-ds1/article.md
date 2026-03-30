@@ -1,0 +1,65 @@
+# Agora as the first digital society: far too complex for new people
+
+## The new way summarized
+
+Inasmuch as Cyber Sovereignty is a declaration of independence from national government overreach on the internet, it also envisions a new way of connecting with society.
+
+Imagine a world where people are deeply connected to their community. It's a world in which values, traditions and culture matters. It's the ability to have a deep sense of connection with others, at one's own pace with the ability to opt out, as the Principle of Consent always protects each person.
+
+Cyber Sovereignty envisions a world in which people actively shop around from community to community until they find the perfect fit, a community that truly matches their values, upholds justice and empowers the prosperity of its members. It empowers a world of exploration into new types of societies, with their own innovative digital institutions, systems of law and justice creating a world where values once again reign supreme above the chaos of social media and political outrage.
+
+In short, Cyber Sovereignty is not a statement of radical individualism, but rather a call to create a new world where institutions of values, justice and prosperity reign supreme.
+
+## **Agora as the first digital society**
+
+If those that read this article will join Agora and come together to create a meaningful digital society, we will become a shining example that inspires imitation.
+
+Together we will set out to build:
+
+- meaningful digital community
+- a new set of institutions built on better incentives
+- systems of law and justice that put people’s needs first
+- an economic framework that causes citizens to prosper.
+
+In doing so if our:
+
+- connections are deeper
+- institutions are more helpful
+- society is more just
+- economic framework truly increases prosperity
+
+then we will naturally attract the attention needed to build a network of similar communities with one joint mission: make Cyber Sovereignty a reality.
+
+### **Synapse**
+
+The first step is to build Synapse together.
+
+As a reminder, Synapse is a social operating system in which individuals are partially immersed (AR) in a virtual overlay which connects different apps. Synapse is also a community technology, allowing for the creation of digital societies.
+
+### **Creating an ecosystem**
+
+The next step for Agora is to have individuals build applications and games for Synapse.
+
+Synapse will allow these apps to be effectively shared with those who have used other applications creating mutual benefit between the apps. The idea is to populate an ecosystem in which app creators get their apps discovered easily to the benefit of all other app creators.
+
+#### **Benefiting citizens**
+
+Agora seeks to create a path by which those seeking to earn a living can benefit Agora while having Agora benefit them.
+
+Agora has proven it can connect people of radically different skills. This ability can be utilized to the benefit of Agoran citizens by empowering them to form effective teams working on commercial apps that integrate with Synapse.
+
+This privilege is limited only to citizens of Agora once Synapse is mature enough for this step.
+
+### **Fathering communities**
+
+The final step is for Agora to become a creator of digital societies. Individual Agorans would create groups that evolve from teams working on projects to a community of teams. These communities of teams will be encouraged to develop their own ethos and their own sub-goals.
+
+Such communities of teams will form the nucleus of a sub community called a “Deme”. Such a community is an embryo of a new digital society being incubated within Agora. These proto societies will be forced to split off from Agora once they reach a certain size establishing their own rules and values.
+
+#### **Benefiting communities**
+
+Digital societies, once split off from Agora, will utilize Synapse to imbue their own values into a new digital ecosystem. They will have the option to tax transactions within their own ecosystem, allowing them to turn their community into a working society with it’s own institutions (schools, welfare etc.)
+
+### **Recap**
+
+Agora fulfills its mission by mobilizing people to work on Synapse, creating an ecosystem that will eventually benefit its own citizens by pairing those who work on Synapse on their own interoperating apps afterward. These new apps have the choice of becoming commercial but only within the context of a Deme. Demes will eventually gain in size and legal code until they split off from the main body of Agora, forming their own digital societies dedicated to their own values and Cyber Sovereignty.

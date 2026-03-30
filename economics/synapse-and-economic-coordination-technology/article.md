@@ -1,0 +1,32 @@
+# Synapse and economic coordination technology
+
+## **Thesis**
+
+A key element in demand collapse within an economy is the inability for individuals to coordinate prices effectively across changing market conditions.
+
+Namely, if John sells apples for $10 each and people are only willing to offer him $9, and John is unaware that apples are really only worth $9 right now, then John will not make an income that day. People will not buy his apples. He will not be able to pay Sally the cleaner, who will not be able to pay the loan on her TV, whose loan is fixed and cannot be easily reduced to the new value of money, and in turn the TV company can’t pay warehouse debts which are fixed, etc., etc., down the line.
+
+Not only that, some are hesitant to lower their prices in order to avoid starting a price war with their competitors.
+
+Giving digital societies the tools to understand economic activity and to present that economic activity to each market participant to allow for large scale coordination may help digital society economies flourish.
+
+## **Provision**
+
+Whenever two market participants trade goods within Synapse, a number of pieces of information from that trade are delivered to the digital society, which the digital society has the choice to automatically make known to everyone in the society.
+
+1. **What was exchanged**The good, service, or right transferredIncludes quantity, quality, specifications, and delivery conditions.
+2. **Price**If gold or silver was usedThe amountIf other items were included as part of the price (barter).
+3. **Contract type**Spot sale, loan, lease, subscription, derivative, futures, option, wage contract, etc.If the contract included barter or exchange.The primary cited jurisdiction of the contract.
+4. **Reputation**Reputation of buyer and seller obfuscated sufficiently to preserve complete anonymity.
+5. **Time**Time obfuscated sufficiently to preserve complete anonymity.
+6. **Frequency**How often the individuals in question trade.How many steps are taken between transactions before money rotates between the individuals in question (wash trading alert).
+7. **Escrow usage**If the parties entrusted third party to manage disputes.Which party was entrusted.
+8. **Tax rate**The amount of gold or silver that went into tax.
+9. **Number of parties**If the funds are released directly to the person or to multiple people.
+10. **Timed distribution**If the funds are released right away or with a delay.
+
+Critically, the individuals making the exchange are not mentioned, to avoid identifying the parties involved.
+
+### **New trade options**
+
+Critical new elements of the trade panel are revealed here. Time distribution, escrow plugin, multi-party trade etc. should all be part of the standard trade panel.

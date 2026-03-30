@@ -1,0 +1,53 @@
+# How civilizations empower criminals over time
+
+## **Low-level crime**
+
+Civilizations begin unregulated and decentralized. This lack of regulation and decentralization usually means low-level crime runs rampant.
+
+- No fuel standards mean gasoline is half water.
+- No grid oversight means neighbors steal your electricity.
+- No environmental codes means trash is dumped in the river.
+- No labor laws mean factory owners trap immigrants as workers.
+
+Society runs aghast at these blatant violations of the law and begins to demand the government step in. The government steps in, creating a bureaucratic top-down mechanism of control to set up fuel standards, environmental codes, labor laws, etc.
+
+## **High-level crime**
+
+As society progresses, low-level companies merge into larger conglomerates, and these larger conglomerates push into this centralized system. Every regulation is an incentive for these companies to get involved in ensuring that future regulations don't affect them negatively. Seeing that as a large conglomerate a single regulation may impede hundreds of millions of dollars of business, they shell out millions in advance one time to buy the influence they need to manipulate that regulation to their advantage.
+
+### **Weaponizing regulation**
+
+The conglomerates, knowing that they started as small businesses like everyone else, are now afraid of new enterprises. They know how easy it is to start small and build big because they did it. They understand that every new change in society brings an opportunity for somebody to undercut their business.
+
+Therefore, rather than pressing for less regulation, they press for more and more burdensome regulation in order to crush potential competitors under the weight of the law before they even get started.
+
+The system quickly becomes one not designed to eliminate low-level crime, but to empower high-level criminals.
+
+### **Weaponizing outrage**
+
+Some companies realize that with enough lobbyists manipulating the legislation, they're actually incentivized to create outrage by their actions.
+
+The more they create public outrage, the more the public demands regulation, the more burdensome they can make legal compliance for their competitors.
+
+## **Judicial overreach**
+
+A parallel process happening in the judiciary at any given time multiplies this difficulty. Let's imagine a restaurant was started in a new, unregulated society.
+
+- A diner's lawsuit over a soup burn led to a court order requiring temperature warnings on all hot liquids.
+- A customer slips on a freshly mopped floor, sues, and establishes the right to highly visible "wet floor" warning signs.
+- A deaf customer's lawsuit after missing a table call established the right to visual buzzer systems.
+- A diner chokes on an unpitted olive in a salad, sues, and wins the right to explicit menu warnings for dishes with hidden pits/seeds.
+
+Soon tens of thousands of regulations exist covering every part of running a small restaurant. This wall of regulation crushes the ability for ordinary people to start a restaurant without massive legal overhead.
+
+## **Incentivizing crime**
+
+At some point, the burden of regulation becomes so great that ignoring the law becomes the only reasonable means of doing business. Complex and overlapping regulations become so great that honest, hardworking people who want to keep the law are stifled out of the market.
+
+This creates a world in which all of the successful people have had to look the other way in matters of conscience essentially incentivizing crime.
+
+## **Complexity as a disguise**
+
+Soon the complexity of society becomes such that only the most motivated moneyed interests understand and are able to utilize the system to their advantage. The system begins to serve a small minority of interests at the expense of justice and freedom.
+
+But what can be done as a solution?

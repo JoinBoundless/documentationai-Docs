@@ -1,0 +1,339 @@
+# Manifesto for digital societies
+
+As the information age reaches its climax, people around the world have become more and more divided. Exposure to each other's political ideas, rather than leading to unity, has lead to antagonism between those ideas. The dream of a world connected through social technology has given way to a reality of conflict and division. 
+
+The technologies designed to bring us together have become weapons in a war of values, as each "side" tries imposing their ideals on increasingly unwilling others.
+
+We stand at a crossroads, staring into a future defined by two equally ruinous outcomes: a descent into a chaotic world ruled by outrage mobs amplified by social algorithms, or a retreat into a sanitized, top-down order where unaccountable governments and corporations impose a single, sterile set of values on everyone in the name of safety and order.
+
+But what if our diversity of ideas was our strength? And what if the technology used to divide us could be harnessed to bring an end to the tension and restore community, rather than serve as an excuse for control?
+
+To understand how to escape the current predicament, we first need to understand how people for generations have fought for values through community and tradition.
+
+## The painful struggle for community
+
+From the earliest times till now, human beings have been inventing ways of solving problems. Each invention created new possibilities and also created unexpected side effects which required responsibility to manage.
+
+**Invention****Solution****Side effect**Fire Warmth, Cooked foodFire can be used to burn items/nature.AgricultureStable food supplyAllows for the organization of large armies/conquest.AlcoholPurified waterEnabled drunkenness.MetallurgyStronger toolsWeapons that can be used in theft, war. CoinageSimplified economic exchangeCreated systems of debt.
+### **Tradition and responsibility**
+
+Each invention solved a problem but came with negative trade-offs. This increased an individual's responsibility, creating more potent choices. To deal with negative side effects, successful families and tribes encouraged community and tradition. Families would teach their children in ways that discouraged them from drunkenness, violent robbery and systems of debt. Some families would avoid alcohol altogether, other traditions banned the charging of interest. Some traditions forbade violence altogether. Some traditions consider the reading of certain texts heretical.
+
+Traditions would embody ancient truths through centuries of lessons learned and distill them into simple practices. Saying a prayer of grateful thanks before eating a meal may not seem essential to a new generation but generations before learned that taking anything for granted led to pride.
+
+Within each tradition is a nugget of truth that the children of those who learned painful lessons passed down as a repeatable practice. Oftentimes, successive generations would follow the traditions of former generations without fully comprehending the reason for their existence.
+
+### **The class system**
+
+One highly codified example from history was the class system. Land-owning families would protect their wealth by teaching their children values and separating themselves from the rest of society. Certain behaviors were considered "low class" and unfit for one's family. Lower-class conduct or associations could get one separated from one's family and community.
+
+### **From roaming bands to knights**
+
+The rise of a special technology gives us a compelling example of how tradition was used in history to curtail the negative side effects of invention.
+
+Advanced metallurgy created stronger armor and weapons, concentrating immense violent power in the hands of a small warrior class (knights), who often became violent plunderers. The solution was a tradition taught within noble families, a code of conduct. This code required a knight to protect the weak, not exploit them. This tradition was chivalry, and it separated a noble warrior from a common mercenary.
+
+Holding to these traditions gave a family a sense of pride and stopped the worst excesses of society. Going against these traditions usually meant condemnation from society, exclusion from church, and disconnection from community.
+
+### **Values for commoners**
+
+By nature, the class system was only for those who were wealthy. But small villages also sought to preserve tradition. Charivari (not chivalry) was an ancient tradition which preserved the moral integrity of a village.
+
+If a person violated the village's unwritten rules, a husband who beat his wife, for example, the community would act.
+
+They would gather at night, not with weapons, but with pots and pans. This ritual was called "rough music." The crowd would surround the house and make a terrible noise. They might also parade an effigy of the couple through the streets, often seating it on a donkey to maximize the humiliation. This public mockery served as a public shaming ritual by the community.
+
+**Key takeaway:**By nature, creating a community necessitates either correcting or excluding those who defy its core values.
+
+### **Trade-offs**
+
+The creation of tradition and community required three essential keys.
+
+- (1) A filter for unwanted information.**Means:** This could be done by preventing the reading of heretical books and the filtering out of negative influences. **Trade-off:**By placing intermediaries on critical information, manipulation was easy.
+- (2) A means of codifying values and lessons learned. **Means:**Oral tradition, community traditions, laws or written scriptures where all means of preserving values and traditions.  **Trade-off:**Superstition could limit what a society could learn academically.
+- (3) The reprimand or exclusion of those who violated lessons learned.**Means:** Charivari is a great example. **Trade-off:**Community traditions often condemned people without the rigor of a trial leading to innocent victims.
+
+In as much as these tools were useful in creating community, they were also abuseable to the harm of those excluded and imposed upon, as values were determined by one's village and nation and not one's choice.
+
+### **The abuse of community**
+
+Unfortunately, some of the same mechanisms which preserved family traditions were often used to restrict access to prosperity and opportunity. The upper classes exempted themselves from taxes and ensured that the best positions in governments went to their family and friends. They exerted total political control and ran roughshod over the potential of lower classes who rightfully rebelled.
+
+Empowered by new wealth in the Industrial Revolution and new power through inventions like the printing press, the lower classes fought back.
+
+### **Loss of control**
+
+Modern inventions would help chip away not only at the class system, but at every system of tradition and community humans had ever created.
+
+1. Printing press
+2. Radio
+3. Television
+
+All three of these inventions profoundly challenged familial and community oversight of information, undermining a key underpinning of tradition.
+
+**Information transmission in the medieval period**
+
+Before the printing press, the language of the Church, of scholarship, and of law was Latin. This made the clergy the gatekeepers of information. A community depended on its priest to interpret the meaning of scripture and law.
+
+This monopoly on knowledge gave the clergy an unquestionable authority, which was increasingly abused. This sometimes led to excesses like the selling of the forgiveness of sins.
+
+The printing press shattered this system. When the Bible was printed in common languages, individuals could read it for themselves. This broke the clergy's exclusive hold on interpretation and enabled the individual to participate in intellectual life.
+
+However, what truly dismantled tradition was the most radical change in social organization in human history.
+
+### **The steam engine**
+
+A new source of power created prosperity, but the related jobs were not on the farm, they were in the city. So people moved. Whole families didn't uproot themselves, but young men and women moved to cities from the farm.
+
+#### **Urbanization**
+
+When one takes individuals out of their familial context and places them in a brand new context, human behavior changes dramatically. Until that point in history, every space a person visited had a hierarchy, an expectation, a context. This led to a source of accountability wherever one was.
+
+But a group of young men moving to a city, for example, have no context, leaving a void of tradition and values.
+
+**Sources**
+
+Sociologist Émile Durkheim on "anomie", a state of "normlessness" and anonymity.
+
+Whenever one moves people out of their context, not only do they disconnect them from their history and from their traditions, one also puts them in a place of tangible vulnerability. Human beings long for a tribe, because a tribe is safety and protection and an early warning of trouble.
+
+So when moving these young men out of their context, they feel a vulnerability which strongly encourages them to conform to the norms of the new context they move to. However, there is no context where they have gone to, and so a new hierarchy must be formed by these men.
+
+Whereas forming tradition requires time, effort and the application of ancient knowledge and generations of lessons learned, these young men feel vulnerable and therefore need a quick fix.
+
+Whereas people follow traditions, not always for reasons they understand, these young men, unless they have understood the reasons, will not create a culture that synthesizes those lessons learned.
+
+In such situations, groups are profoundly more susceptible to extreme ideas and simple solutions. Since by nature reprobates are louder for lack of discretion and self control, they more easily rise to the top.
+
+At a time where a group needs a sense of direction, their loudness, which would normally get them excluded or censured, becomes an asset. Their lack of discretion comes off as confidence, something beneficial to a group of people seeking direction.
+
+Reprobates also have the most to lose if they don't push themselves forward. They are potentially the most vulnerable to exclusion if they don’t pull people down to their low standards, since in a system of upright values they would get excluded.
+
+Such people inherently know that their behavior is not up to par and seek to resolve that cognitive dissonance by pulling other people down to their level of behavior.
+
+Pushback against such people requires confidence in one's own values and sufficient leverage with the group to exclude them. In such situations, that's unlikely to be held by one of the young men going to a factory for the first time.
+
+Together these young men create:
+
+1. A new simple identity
+2. New social norms
+3. A new direction or purpose.
+
+By lacking the natural structure in which elders of a community help form social structure and traditions, this new culture becomes much more shallow.
+
+**Sources**
+
+See babel hypothesis of leadership. Social identity theory, Henri Tajfel and John Turner.
+
+#### **Final destruction**
+
+In a time when manifesting one's life and purpose through children was much more important, parents saw their children drifting away from the identities that had been formed over thousands of years. Those children forsook everything that gave these families a sense of purpose and of self-manifestation. They saw them as ungodly, undisciplined, unordered and untraditional.
+
+As urbanization ripped tradition to pieces, society in general became aghast at a new generation that was totally disconnected from the previous generations’ values. The speed at which urbanization destroyed a society's connection to its past, a society's norms and values and identity, created a vacuum in old and young alike, one side fighting for tradition, community, and familial ties and the other for new ideas, new identities and new possibilities.
+
+#### **Political replacement**
+
+In this void stepped cunning political actors that gave individuals a new sense of identity within a political system.
+
+**Communism**
+
+Communism took the anonymous factory worker who lacked an identity and gave him a new one. A proletarian. A heroic title that put him on the stage of destiny.
+
+*"The proletarians have nothing to lose but their chains. They have a world to win."* *- Communist Manifesto*
+
+Rather than churning away at meaningless tasks for pitiful pay for someone else, communism made that individual a direct factor in history, promising to reshape society in a way that would return it to its communal nature and past.
+
+**Fascism**
+
+Fascism saw the disconnection of a nation to its history, order, and values, and decided the state was the primary solution.
+
+*"The State... is the creator of right." - The Doctrine of Fascism*
+
+Giving the state all power would allow it to act as the implementer of values, the creator of order.
+
+Political society
+
+- They offered a new community: The Party, the State, the race "Volk". This was a replacement for the lost community of the village and the church.
+- They offered a new identity: A person was no longer an anonymous factory worker. He was a member of the "master race," a hero in a grand historical drama.
+- They offered a new purpose: The suffering of the individual was given meaning. It was a noble sacrifice for the creation of a future paradise or a restored empire.
+
+This malformed replacement for community, identity, and society ripped apart the world in two world wars.
+
+#### **The rebirth of community**
+
+After the World Wars, real attempts were made to restore tradition and family.
+
+In the U.S.:
+
+- marriage rates skyrocketed, divorce dropped
+- people started having children again after a seemingly constant decline before the world wars
+- half of all Americans were in church on Sunday, the highest percentage in recorded U.S. history
+- social clubs boomed and structured social activities for young people like Boy Scouts and Little League exploded in popularity.
+
+#### **Today**
+
+Today people feel more isolated than ever. Phones designed to bring us together have moved us further apart, as a whole generation forgets what it means to have meaningful connection, putting a phone between those communications.
+
+The internet, our greatest means of communication, has enabled a generation to isolate itself from the concept of invested community like never before. Just like urbanization destroyed tradition, social media is destroying the concept of community by undermining the structures needed to form meaningful relationships.
+
+Family and tribe are once again being replaced by shallow political identities, quick slogans and a sense of us vs them. Community and tradition is once again being replaced by cheap political slogans and fragile political identities.
+
+## Weaknesses of social media
+
+We have to ask ourselves, how has the technology designed to bring us together actually moved us farther apart? How has the greatest connection technology ever invented brought about the greatest separation between people?
+
+### **Why social media failed**
+
+Just as quick urbanization created a void in which new traditions and identities had to be formed, when people are brought together on a large scale in social media, the loudest and often most controversial voices rise to the top.
+
+Here is why:
+
+#### **(1) Engagement algorithms**
+
+Social media companies seek profit and therefore require user attention to serve those same users ads. By amplifying the most engaging content, they inadvertently amplify controversy and strife. Posts which shock people keep them from looking away.
+
+#### **(2) No people filter**
+
+Just as parents are the vigilant guardians of their children's friends at a young age, so communities rely on a filter not only of information but people to ensure communities remain strong.
+
+Parents teach their children that your friends influence you whether you like it or not. Similarly a few bad apples influence a community very quickly.
+
+Just imagine a group of 15 people were tasked with accomplishing a goal, and five of them were very disruptive. Those five could easily be problematic enough to keep the other 10 from accomplishing anything. In the same way a community is easily disrupted by its worst members.
+
+By nature, everyone is welcome on the stage of social media and no mechanism exists to ensure values and traditions are upheld. This lack of a filter for values ensures that every social media platform is a race to the bottom.
+
+#### **(3) No information filter**
+
+Just like a medieval village helped preserve its sense of community by filtering and recontextualizing information through their priest, online spaces need a standard for values. When no standard is upheld then troublemakers seize the microphone allowing extreme ideas and simple solutions overtake the nuance and restraint perfected by problem solvers.
+
+Louder individuals take charge, not because they're intelligent, but because the nature of social media gives primacy to their bluster. This leads to the same spiral of decline as seen during urbanization, where time, effort, and thoughtful approaches are replaced by simple slogans and fast solutions.
+
+#### **The failed retreat**
+
+Recognizing these issues, many people have retreated from public square social media creating small chat groups on WhatsApp and Messenger rather than staying in public social media like Facebook, Twitter and Reddit.
+
+Unfortunately, this act also cuts off the voice of those who could shape society for the better, worsening the crisis of ethics and amplifying the voices of societies malcontents. The pirates have now truly seized the flagship and are on deck creating converts to their state of perpetual conflict.
+
+#### **The push for control**
+
+With this disaster in full swing, the pushback has begun. Whether you're aware of it or not, under our feet has started a quite revolution against this problem by a generation of parents who are witnessing their children exposed to rampant sexual and child-horror based content. Both political sides have come together to push back against the exposure of their children to information they deem as harmful. New acts of legislation are requiring ID checks to anyone who accesses any form of social media to ensure they're of age.
+
+However, this quiet revolution has forgotten that the only thing more dangerous than the destruction of society's values online is a push to create a single centralized system of values and control. To give the state the power to dictate a whole society's values is to weed the garden by paving it over. In an effort to save the public space from the pirates on deck, concerned parents may be scuttling the whole ship of freedom.
+
+#### A historical mistake
+
+**(1) Government is not a church**
+
+Unfortunately, people do not agree on what is moral and immoral. Implementing values from a government level top down sets an extremely dangerous precedent that will be abused. The people's values are relative to their community and any attempt to create a singular monolithic system leads to societal disaster.
+
+Before the Religious Wars, people saw it as the duty of the state to implement the ideal religious values of the people top down.
+
+Governments dictated people's religious values, but the people disagreeing on right and wrong rebelled, creating a war that saw the decimation of large parts of Europe, reducing population sizes in parts of Germany to half.
+
+People learned through those wars that state and church must never be combined into a single entity of force. The people's closely held values should be for them to implement voluntarily, not for the state to dictate.
+
+The lessons learned were codified in the separation of church and state at a time where values were embodied in church. However, in an irreligious era, the lesson is that a state embodying our dearly held values is a recipe for societal disaster on an untold scale.
+
+Today's society is reeling at the horrific content increasingly younger children are often exposed to. Many are demanding that social media implement age restrictions but the only way to prove someone's age is to demand everyone's physical ID, tying everyone's identity to everything they do online.
+
+This will eventually tie every action a person does online to a digital ID and finally the state. This level of control already exists in certain Asian countries and the results have been incredibly freedom stifling.
+
+Such systems have always begun with a move to protect children from the excesses of human action. Ultimately, the power of such systems end up creating societies of state control that are anathema to the Western idea of civilization.
+
+In a world where augmented reality glasses and ubiquitous cameras mean total surveillance of every action in human life, this system of control could mean an entire generation will grow up without understanding what it means to truly speak their mind without fearing someone has overheard it.
+
+**Online Safety Act being used to censor protests**
+
+[Protest footage blocked](https://freespeechunion.org/protest-footage-blocked-as-online-safety-act-comes-into-force/?v=0b3b97fa6688) as online safety act comes into force.
+
+**(2) Surveillance and manipulation**
+
+There's a long history of national governments leaning very heavily on traditional media and social media to manipulate the information space in their own interest. Giving the government the power to demand people’s ID for them to use the internet, to prove they are of age, and then to track what they see and to censor what they see is a recipe for Orwellian surveillance and censorship unlike anything created by humanity before.
+
+#### **The trap**
+
+Modern society is trapped, by technology they can't control, and a system of control, which when applied ubiquitously would be the greatest disaster for human freedom in the history of the world.
+
+## **The Cyber Sovereignty, digital society revolution**
+
+Cyber Sovereignty offers the only viable solution.
+
+It starts by proposing that people everywhere create digital societies. These digital societies are not only political units, but designed to become self-standing civilization-like systems creating their own exclusive technologies and institutions according to their own values.
+
+Instead of continuing down a path where different political groups fight to control increasingly archaic institutions, Cyber Sovereignty is a call for everyone to create new institutions built upon the foundation of their own values. 
+
+Rather than allowing the fight between left and right to tear us all apart, Cyber Sovereignty offers an escape. No longer will left and right play a tug of war over the ideology of old institutions and the levers of power, instead communities of different values will create their own new systems of education, scientific research, welfare and social media platforms allowing diverse communities to live side by side without conflict.
+
+### Creating community
+
+The internet provides us with an opportunity to create a new form of community that is much tighter knit and yet doesn't suffer from the excesses and abuses of former traditional communities, like those in villages, as their participants often did not consent to that village's values.
+
+With consent as the cornerstone, ancient mechanisms of creating community can be applied to a digital space.
+
+Each digital space is encouraged to create it's own:
+
+- (1) Filter for unwanted information.**Means:** Each society would run it's own primary social network with an algorithm that favors content which adheres to the community's values. Rather than limiting a person's world view content would be favored for being "insightful" or "educational".
+- (2) Means of codifying values and lessons learned. **Means:**Digital societies can create their own laws, traditions, and enforce them diligently without creating top-down control by being a society people choose.
+- (3) Admission and citizenship criteria.**Means:**Each society will only take on people who agree with its values and rules. The exclusion of individuals who are uninterested in their values is essential to the maintenance of those values.
+
+## Health network example
+
+### **Initial values & mission**
+
+Each digital society would begin by attempting to provide unique value to its members focusing on only one core value.
+
+For example, one digital society may be all about a healthy revolution, where the entire society re-architects its entire infrastructure around a new healthy paradigm. Its core vision of the world is an indictment against fast food, opioid prescriptions, overworking, and poor sleep. These values would manifest themselves in every aspect of the society, shaping what research their university undertakes, to what they teach, all the way down to what their members eat.
+
+From what doctors believe, to the options offered to their children in food, to the norms the society holds, the values of the society would be distinct from the rest of society.
+
+### Citizenship
+
+Only those who demonstrate that they're interested in the mission would be allowed in curating a distinct cultural norm that separates it from the rest of society.
+
+### Algorithmic boost
+
+Its core social network would automatically boost healthy habits and content and its reputation system would discourage those who promote fast food, drugs and alcohol.
+
+Such content would still be visible, it just wouldn't receive the megaphone.
+
+### Digital institutions
+
+Beginning within that network, each digital society, using the same backend peer to peer infrastructure provided by Boundless, would create different mechanisms to empower education, to help startups grow, and one day to duplicate many of the institutions of physical life with their core values in mind.
+
+These would likely all begin in a digital format rather than a physical format to start, as the cost of creating these institutions physically is incredibly high and the room for disruption digitally also presents itself as an opportunity.
+
+## Broken institutions
+
+The concept of digital societies is an indictment against today's failing institutions. It's a thesis which points to over centralization as a core common corrupter.
+
+- College degrees are becoming increasingly detached from employment.Despite record-high tuition, "college degrees losing edge as graduates find… weaker US job market." - [S&P Global](https://www.spglobal.com/market-intelligence/en/news-insights/articles/2024/12/college-degrees-losing-edge-as-graduates-find-splintered-weaker-us-job-market-86507076)
+- The modern health system is failing to keep people healthy.Despite having the highest health care spending in the world, the U.S. has the "lowest life expectancy at birth and the highest death rates for avoidable or treatable conditions." - [The Commonwealth Fund](https://www.commonwealthfund.org/publications/issue-briefs/2023/jan/us-health-care-global-perspective-2022)
+- The modern justice system has become a system of injustice.Trial by jury has become a thing of the past, with over 98% of convictions now extracted through coercive plea deals. Many now exonerated by DNA evidence had once pleaded guilty to crimes they did not commit.
+- The mainstream media has forsaken its duty to inform.Trust in the mass media has collapsed, with fewer than a third in the US now believing what they see.
+- Prison has become university for criminals.Prisons are often controlled by gangs and four of five state prisoners are arrested again within 10 years. Overdose deaths in state prisons have surged more than 600%.
+
+### Cyber rejuvenation
+
+Cyber Sovereignty proposes a new world, in which all of the functions and systems of society and community are built from the ground up, digital-first with a foundation of values-diversity in mind.
+
+- Finally people can enjoy a new form of social media made to connect them with their values and respect their mental autonomy.
+- Finally, parents can stop worrying about their children adopting harmful norms when going to school.
+- Finally society can stop fighting over which government ideals to impose on everyone and people can live by their own ideals freely.
+
+The end goal is that many digital societies would create new and better versions of the institutions of physical life for their members.
+
+### Critical takeaway
+
+Just as Cyber Sovereignty is not compatible with monolithic government ideas, digital society must vanquish the concept of the inclusion of everyone in every space in the name of inclusion, in order to curate spaces which are meaningfully distinct.
+
+## **Today vs the future**
+
+By trying to include everyone, modern social media has become a hub of chaos. In failing to moderate those who cause chaos and argument, they have put the arsonists in charge of the fire brigade. In giving everyone the same microphone in the name of equality the lowest common denominator has risen to the top.
+
+However, in our monolithic, top-down societies the only other choice is state-level control.
+
+Cyber Sovereignty calls us into a future no longer defined by state control or societal arsonists. It envisions a world in which each community will create and moderate it's own digital world, amplifying the voices they want to hear and creating a new world of flourishing distinct digital cultures each vying to create the most appealing digital society.
+
+## A call to action
+
+This article is a call to action to encourage people everywhere to build digital communities where tradition and values set the stage on which meaningful connections can thrive. Together we can create a new society flourishing as if a single constellation made up of many meaningful communities where human life and human freedom will take center stage again.

@@ -1,0 +1,3 @@
+# The right to statistics.
+
+The right to statistics. Everyone has the right to access public statistics without tampering by the government.

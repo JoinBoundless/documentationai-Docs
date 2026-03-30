@@ -1,0 +1,26 @@
+# Opening non-native apps in Synapse
+
+It should be noted that these features are outside of the initial scope and can safely be skipped over in the first iteration. Read them in order to understand the long-term destination of Synapse.
+
+When using an outside application in Synapse, certain conditions must be met.
+
+1. The collaboration panel should show on the app, allowing people to invite their friends to what is essentially a screen share session of the app.
+2. The app should be made to allow for live collaboration in as much as possible.
+3. The app must integrate with wallpaper and veterancy seamlessly.
+
+Number 2. clearly opens up the question on how this can be done with non-native Synapse apps. This should be a key consideration when designing how other applications are integrated into Synapse.
+
+- Would developers that want their applications to open in Synapse first build a Synapse compatibility layer?
+- Would that layer be built into the application or into a separate integration plugged into Synapse?
+- What happens if someone tries to open an app not ready for Synapse in Synapse?
+- Would only the app developer or anyone be able to build compatibility into an app?Anyone being able to create compatibility of outside apps into Synapse would be probably the most ideal way.
+
+Ideally speaking, the ability for anyone to open any app in Synapse, whether ready or not, and the ability for non-developers to create compatibility layers from Synapse to the app, would be the optimal way forward.
+
+## **Limitations of web**
+
+In reality, a web-based client can no longer be the only portal into Synapse when seeking to open apps in Synapse. The possibilities are bound by a future not fully comprehended at this point. However, on PC, this would be a downloadable executable file that defaults other files to itself in order to allow anyone to open any file in Synapse. They would normally open in other programs, but Synapse would call up the correct program and overlay itself onto that program allowing for live collaboration in as much as possible.
+
+App stores would not allow for such a thing. And the ability to deliver signed software from a central source is generally anathema to decentralized applications.
+
+The answer to this question is that this is a design document and these are technical questions to be solved by a technical team.

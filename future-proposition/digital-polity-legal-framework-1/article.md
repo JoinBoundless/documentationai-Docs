@@ -1,0 +1,317 @@
+# Digital Polity Legal Framework
+
+The Digital Polity Legal Framework *encourages* each digital society to adhere to a common understanding in key areas needed to ensure the ease of cooperation.
+
+## 1) Precedence in jurisdiction-specified contracts
+
+### **1.1) Principle**
+
+Whichever jurisdiction a contract assigns itself to is the only jurisdiction of precedence for that contract.
+
+### **1.2) Reason**
+
+In order to ensure that parties to a contract from different digital societies or jurisdiction only need to study one body of law.
+
+### **1.3) Provision**
+
+In any contract wherein a jurisdiction is specified as sovereign in that contract, that jurisdiction must take precedence.
+
+### **1.4) Limits**
+
+1. This system of precedence in contracts only pertains to individuals or corporations not considered large corporations.
+2. If the laws of a digital society don't cover a particular issue, physical government laws will take precedence in that issue.
+3. A digital society’s legal framework, even when explicitly agreed to in a contract, cannot be used to enforce terms that constitute crimes.
+
+## 2) Precedence in contracts where no jurisdiction is specified
+
+### **2.1) Default precedence**
+
+- In all cases where no agreement exists but all affected parties are members of digital societies that have subscribed on their members behalf to an agreement between societies, that agreement will take precedence.
+
+#### **2.2) Precedence in detail**
+
+This is a series of situations in which none of the above situations apply.
+
+- Two people of the same digital society interact
+
+Their shared digital society takes precedence.
+- Two people from different digital societies interact
+
+The larger digital society takes precedence.
+
+- Two parties where one who is not a member of a digital society interact 
+
+The national jurisdiction of the person not in the society takes precedence.
+- Three parties each from different societies interact
+
+The larger digital society takes precedence.
+- Three parties, two from one  
+
+The society from which most of the parties are from, or if equal, the society that is largest takes precedence.
+
+### **2.3) Limits**
+
+This system of precedence in contracts only pertains to individuals or corporations not considered large corporations.
+
+## 3) Individual sovereignty
+
+This principle is the underlying principle for the concept of precedence and is a limitation on the ability of individuals to bind themselves to a contract as specified in all provisions.
+
+### **3.1) Principle**
+
+In as much as possible, the terms of a contract, as they are written, should be adhered to without interventions for the parties in question, provided both parties knowledgeably and willingly make the agreement.
+
+### **3.2) Reason(s)**
+
+- When a contract is subject to the interpretation of a myriad of judges from a myriad of polities, each with their own body of case law, the study of case law across polities becomes essential, unreasonably limiting the freedom of action.
+
+### **3.3) Provision**
+
+No case shall be made for the revocation of any of the terms of a contract, unless:
+
+- The party in question did not bind themselves knowledgeably or without duress
+
+This includes consumer confusion through false advertisements prior to signing.
+- The execution of the contract would create significant finical destitution for any party involved
+- The execution of the contract would constitute a crime
+- The terms of the agreement would constitute unreasonable long-term debts or bondage.
+
+## 5) Valid signature
+
+The only restrictions other than those otherwise mentioned, in this document, to the valid intent of the signing of a contract are as follows:
+
+1. Separate action: Users must take a knowable, separate action to consent to terms, such as checking a box. They cannot consent by doing something considered a normal action within a space or site e.g. "keep browsing to consent".
+2. Intentional: Users must have a reasonable expectation that the action they are taking is agreement to terms.
+3. Updates: Users must consent to any changes in terms.
+
+## 6) Large corporations
+
+A large corporation is defined as any entity with annual revenue exceeding $2.5 million USD.
+
+To avoid regulatory arbitrage, large corporations cannot set a digital society as having precedence in any contract if that society or precedence is not also the society in which:
+
+- (A) Most of their employees are citizens of the same society
+
+Only if the company has more than 50 employees and those employees have not been provided with any sort of coercion including soft forms found in a legal agreement, or large incentive to change societies to join the corporation.
+- (B) Most of their customers are citizens of the same society
+
+Only if the company has more than 30 customers and if no effort is made by company to have those customers switch jurisdictions.
+- (C) If neither A or B is met, then it's no longer a matter of digital precedence.
+
+Keep in mind this precedence would only count for legal matters between the corporation, other corporations and members of digital societies.
+
+## **7)**What constitutes a crime?
+
+For the case of this document, a crime is an act labeled as such by a digital society or physical government which is clearly outlawed by explicit written statute of a digital or national jurisdiction relevant to the party(s) in question and something which most people would understand is inherently wrong.
+
+**Inherently wrong (mala in se):**
+Embezzlement, bribery, extortion, theft, fraud, money laundering, forgery, treason, etc.
+
+**Wrong because prohibited (mala prohibita):**
+Copyright infringement, unlicensed business, tax compliance, statutory reporting, etc.
+
+To be clear, speech can never be a crime in itself, regardless of it's deemed offensive, indecent, or immoral. Liability for harm cannot be assigned based on the speech's indirect or "second-order" effects, such as another person's emotional response or subsequent actions.
+
+Further interpretation must be referred to the charter: [Interpretation of the rights of the manifesto](https://agora.joinboundless.org/cyber-sovereignty/charter).
+
+### **Precedence**
+
+Under this framework, if an action is taken by a member of a digital society, and that action is prohibited by statute in a digital society, that digital society's laws will take precedence over physical laws.
+
+However, if the digital society has not made a statute governing a matter, the physical jurisdictions of the parties in question would take precedence.
+
+## **8) Whistleblowers' rights**
+
+No contract terms which prevent a whistleblower privately making known to their jurisdiction of choice any matter of concern are invalid.
+
+## 9) Contradictions
+
+If the laws of an individual digital society conflict with the laws listed in this document, these laws will take precedence if the digital society subscribes to this set of laws.
+
+## 10) Contract contents
+
+### **10.1 Cooperate limit**
+
+To ensure maximum clarity any specific terms, consequences, penalties, or resolutions explicitly defined for different circumstances within a contract stand provided the digital polity in question has not made an explicit codified law to the contrary.
+
+## 11) Unregistered?
+
+These laws apply to unregistered or unlicensed organizations as well as organized ones. Any group of entities that act like a single entity are also considered bound by the 2.5 million minimum. Any national standard of the parties involved in the case may be applied to the definition of affiliated organizations under law.
+
+An individual with a salary that exceeds 2.5 million per year also counts as subject to this threshold.
+
+*(Inflation adjusted USD 2024)
+
+## **FAQ**
+
+### **What's considered an employee?**
+
+A human being that puts in eight hours of work at a company, or the totality of multiple human beings who put in a totality together of eight hours of work are considered an employee for this document.
+
+### **What if some part of a contract touches on a matter not mentioned by a digital polity? Will that still be a digital matter?**
+
+Yes, only the parts being actioned at any particular moment, if those do not have a legal statute within the digital polity will then get referred to the physical instead.
+
+### **X**
+
+X
+
+### **X**
+
+X
+
+### **X**
+
+X
+
+## Changes
+
+All those who ascend to this framework may send a single representative to represent their digital society. Every digital society which represents more than 10,000 citizens may send one extra representative per 10,000 citizens. Only one digital society may claim one person as a citizen of a society at a time. Only one digital society may claim one person as a citizen of a society at a time. These representatives may vote on changes only via supermajority on issues regarding only trade regulation and contract law.
+
+They may not make changes which impede on the rights of the manifesto or changes regarding matters values or closely-head beliefs, including, but not limited to:
+
+- Speech
+- Health choices
+- Education
+- In-home issues
+- Religious issues
+- Children, marriage.
+
+They may not infringe on the rights specified and laid out by the [Interpretation of the rights of the manifesto](https://agora.joinboundless.org/cyber-sovereignty/charter).
+
+## ===========================
+
+## ===========================
+
+## ===========================
+
+## LEFTOVERS
+
+## ===========================
+===========================
+===========================
+
+### **Contracts**
+
+**This was found to be unnecessary because we decided to take precedence over national law in matters of crime due to abuse of the definition of a crime by governments which outlaw speech.**
+
+Cyber Sovereignty establishes a clear principle: thought, belief, and expression are not, in themselves, crimes.
+
+Under this framework, speech can never be a crime in itself, regardless of it's deemed offensive, indecent, or immoral. Liability for harm cannot be assigned based on the speech's indirect or "second-order" effects, such as another person's emotional response or subsequent actions.
+
+Further interpretation must be referred to the charter: [Interpretation of the rights of the manifesto](https://agora.joinboundless.org/cyber-sovereignty/charter).
+
+## Large corporations
+
+adjusted for inflation since 2024 or any corporation that meets these criteria:
+
+1. **It operates as essential digital infrastructure:** The corporation provides a service that is fundamental to participation in the modern digital economy, for which no practical or viable alternative exists for a significant number of users or businesses. (e.g., major operating systems, dominant app stores, critical cloud hosting services, primary payment networks).
+2. **It possesses coercive market power:** The corporation has sufficient market dominance that individuals, employees, or small businesses cannot reasonably refuse to do business with it without suffering significant economic or social harm. (e.g., a dominant e-commerce marketplace, a "must-have" social media platform for certain professions).
+
+It is essential that digital societies voluntarily agree on a simple, legal framework which decides which digital societies' rules apply when members of several different societies interact.
+
+To summarize:
+
+- If people write a digital society into a legal contract, whichever society is mentioned takes precedence without exception. 
+
+This avoids people needing to study the laws of many societies, reducing complexity.
+- Any interaction between members of different societies will be governed by the larger society if no agreement between societies has been established.
+- In any case where the effects of an agreement touch those not in a society, national laws will take precedence.
+- No society will be forced to agree to these terms, however, it's strongly recommended.
+
+The key principle is individual sovereignty, the ability of any person(s) to bind themselves to any set of rules they see fit as much as possible.
+
+### **Ideal solution**
+
+The ideal solution would be if the intent behind the laws was synthesized into a simple, singular body of law that would be easy to understand and reference for businesses. And that body of law would take precedence, and that all nation-states would sign up for it.
+
+However, in practice, this would mean centralized, unaccountable government intervention in a large part of many people's lives that is both distinctive and important.
+
+And in reality, these laws are not simply synthesizable, because they come from sometimes contradictory value sets.
+
+### **The problematic solution**
+
+Every digital society creates its own corporate law. -- Chaos As now, that would duplicate the problem in physical life to digital life.
+
+### **First step**
+
+Corporations, like people, can be members of digital societies. If a corporation operates within a digital society, that digital society's laws must take precedence over national laws in issues between it and members of the society or it's Accord.
+
+To be clear:
+
+- If a corporations registers in or with a digital society
+- If the legal interaction in question is between a digital society member (e.g. customer, employee) and the corporation
+
+Then the matter should be allowed to be settled by the laws of that digital society.
+
+This allows small businesses to at least start within a simplified regulatory environment in as much as they operate within the digital society's Accord.
+
+### **2nd step**
+
+When it comes to corporate law, in order to greatly simplify what could otherwise become a chaotic over-regulation repeat of the physical world,
+major.
+
+If a business operating within a digital society had to abide by the rules of all of the nations the business effects, it would be subject to hundreds, or thousands, of laws.
+
+### **The small business solution**
+
+Cyber Sovereignty advocates for corporations under $2.5 million in revenue** be exempt from national laws in all areas in which the matter at hand:
+
+- Is not criminal unless it has to do with closely held values and beliefs such as:  
+
+Speech
+Health choices
+Education
+In-home issues
+Religious issues
+Children, marriage
+Etc.
+- The individual digital society has more than a million members and has specific laws which reasonably address and consolidates the laws concerning the matter at hand even if they contravine national laws.
+
+### **Regulatory arbitrage**
+
+It's clear that the current system entrenches old money at the cost of innovation, in that no one can viably start or grow a business without the legal cover provided by a significant financial injection.
+
+However, the danger exists for large corporations to try to use or create digital polities by avoiding meaningful regulation.
+
+The primary threat posed by regulatory arbitrage in this context is that a dominant corporation could establish or adopt its own digital legal system with rules designed to minimize its responsibilities. By embedding a clause in its terms of service or employment contracts, the corporation could legally require all customers, suppliers, and employees to be governed by this favorable, private set of laws as a non-negotiable condition of doing business. This would create a scenario where the corporation could effectively operate outside the scope of established national regulations for labor rights, consumer protection, and data privacy, thereby evading meaningful accountability while binding individuals who have little alternative but to agree to its self-serving terms.
+
+Large corporations don't represent our closely-held values or beliefs, nor are they people requiring fundamental human rights. They can however infringe on rights.
+
+What is considered large? 
+Are their alternatives to their services?
+
+- 
+
+## **Corporations, money & abuse**
+
+Corporations are considered groups of individuals, but do not have all the same rights as individuals in that they cannot create or join.
+
+What I'm trying to do here is create some sort of prevention for the problem where a corporation joins some obscure digital society for the sake of creating a legal document which favors itself when it comes to labor law to the unwitting exploitation of its employees.
+A corporation should have the freedom to do the above in all circumstances in which it's no real object for the person to choose another job, but wherein the individual moved from one location to another to get the job.
+Or burdens were placed on the individual that are not repairable by the individual, limiting their freedom of choice. Should there be limitations created?
+
+#### **Legal cooperation**
+
+Despite their decentralized nature, it is essential that digital societies voluntarily agree on a simple, legal framework which decides which digital societies' rules apply when members of several different societies interact.
+
+To summarize:
+
+- If people write a digital society into a legal contract, whichever society is mentioned takes precedence without exception. 
+
+This avoids people needing to study the laws of many societies, reducing complexity.
+- Any interaction between members of different societies will be governed by the larger society if no agreement between societies has been established.
+- In any case where the effects of an agreement touch those not in a society, national laws will take precedence.
+- No society will be forced to agree to these terms, however, it's strongly recommended.
+
+The key principle is individual sovereignty, the ability of any person(s) to bind themselves to any set of rules they see fit as much as possible.
+
+- If the parties are diverse, and no jurisdiction is specified, the polity which most individuals in the parties are from, or if equal amount, the largest digital polity inhabited by the individuals in the parties will take precedence.
+
+## Individual defense
+
+- The law should be in the hands of the public: In as much as possible, wherever two people bind themselves by a contract the letter of the contract should be respected.
+- Conditions: Both parties must knowledgably and willingly make the agreement, with a reasonable understanding of the impacts of the agreement.
+
+No desperation: Any individual person's destitution through the terms of the agreement or their consequences must be avoided. 
+Debt repayments by individuals, families or sole proprietorships must not be protected by law beyond 8 years.

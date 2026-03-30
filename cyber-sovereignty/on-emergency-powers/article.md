@@ -1,0 +1,29 @@
+# On emergency powers
+
+## **Emergency definition**
+
+> An emergency is a condition that poses a clear, imminent danger to the fundamental survival of the nation or the lives of a substantial portion of its population, and which cannot be averted by any lesser means than the temporary suspension of certain specific rights.
+
+## **Emergency validation**
+
+National government may act, in the case of emergency, as specified by their national congress or equivalent as validated by law immediately.
+
+However, after 48 hours, it must obtain explicit written permission from the most recent former prime judge of the JBT. This temporary validation will lead to a more serious validation in which this same judge must put together a panel of the 12 most recently rotated out judges from the JBT. This panel must deliberate on the emergency, and grant or deny the power by majority vote within one week of the 48 hour timeline.
+
+If choosing to authorize the emergency, this panel must specify the conditions that must remain in the country for the emergency to remain valid and must specify periods of review at a maximum of one month each, ensuring that the emergency is continually validated.
+
+The next group to validate the emergency would be put together by a panel if 12 recently rotated out JBT judges organized by the second most recent prime judge willing to do so. These 12 should be based on recency, but not the 12 from the prior panel.
+
+This process should continue rotating all through the judges available, ensuring that the society as a whole validates the emergency each month.
+
+In all cases, the panel must specify which provisions of the Charter may be temporarily suspended, to what degree they must be suspended, and for how long, or with what restrictions they must be suspended. Explicit conditions must be attached to each suspension.
+
+Suspensions must be rooted in democratic, non-authoritarian history for validity, and must be prior-authorized by an emergency act provided for by law.
+
+Emergency provisions may not infringe on the rights of digital societies they are independent nations. Moreover, their citizens may not have their rights violated. Only those who are not members of a digital society or society members in areas in which digital societies do not protect such citizens such as outside the Effects Principle.
+
+## **Emergency time**
+
+Emergencies may not continue to a state of continual emergency. If an emergency lasts more than three years, then the percentage of judges agreeing each time the emergency is revalidated must be increased by one until all 12 judges are required to agree during each validation allowing any one to veto the state of emergency.
+
+Each revalidation must consider if the original provisions are still considered valid.

@@ -1,0 +1,34 @@
+# Creating social games: Update needed
+
+Creating social games for Agora is all about building context for conversations. The more direct a connection is, the more awkward it is, typically. Human beings require context for conversation and virtual worlds are perfect for creating that context.
+
+⚠ Synapse is currently not functioning yet. 
+
+The way Synapse works, the individual experience doesn't necessarily need to be multiplayer in order to facilitate social connections. Synapse allows you to connect people by allowing them to participate in activities which drive later social connections. For example, you could make a game about chopping down wood blocks, and allow people gain a type of wood they need to craft something in another experience. 
+
+The only integration required is with Synapse for wood as an item. 
+**Drive social connection**
+Since Synapse is not yet functioning, focus your game or virtual experience on building social connection. For example, a Discord app that allows people to play a card game in which everyone write one unique thing about themselves on a card and the other players need to guess who that card belongs to.  
+ 
+**Educate & empower**
+ 
+Games which are not social but uplift users are also welcome. This includes games which focus on:
+
+- Education
+- Wellness
+- Social or cultural understanding
+
+and similar positive themes. 
+
+**Avoid too much competition**
+
+Games should not be overly competitive but designed to foster a connection between players leaving them with an experience in which they feel that they have connected with others at the end of each play. 
+ 
+One example of a competitive game that still drives social connection is [TANK TEAM](https://store.steampowered.com/app/2587450/Tank_Team/). 
+ 
+
+## **Boundless Select**
+
+Games which drive enthusiasm from the community are likely to be greenlit for full development by Boundless. Selected games are allowed to continue the game under Boundless with Boundless supplying the team necessary for you to complete the project. 
+ 
+We don't recommend reading about Boundless Select now, but it can be found on this wiki.

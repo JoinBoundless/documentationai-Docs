@@ -1,0 +1,162 @@
+# The problem of money printing
+
+Before talking about the woes of generating money, one needs to fully understand the argument for generating money.
+
+This article is an oversimplification on purpose for simplicity's sake.
+
+## **Argument for printing: The lending problem**
+
+If the number of goods and services in an economy grows, but the amount of money in an economy stays the same, then the value of that money will increase. And since most modern societies are productive, one can expect that this increase will be on the order of at least 3-5% per year.
+
+Now, if a person lends someone money, but the value of the money they lent goes up by 15% over three years, then one is not only paying them back the interest rate, but money which is fundamentally more valuable, which is harder to obtain in that future state than it was when it was lent.
+
+## **The printing problem**
+
+When money is printed into an economy, it creates an urgency for people to lend out their money to receive interest because if they don't, their money will lose value.
+
+### **The normal debt cycle**
+
+The main problem with printing money in order to make it easier to lend is that in printing large amounts of money, an economy starts distributing funds to unreliable borrowers.
+
+Since these borrowers in turn spend this lent money into the economy and that lent money in the economy becomes somebody else's income, it raises that next person's credit worthiness.
+
+As that person's creditworthiness rises, they are able to spend more into the economy than they otherwise could. This in turn lifts another person's income.
+
+To be clear, when Bob takes out a loan for $4,000, that's beyond his means to pay back, he creates a false reality. Bob has decided to spend that $4,000 on a TV made by Sally’s TVs. Sally in turn gets a boost in credit worthiness from Bob’s spending. This means she can now not only spend the $4,000s but also potentially take out a loan with more money to buy a music player. The reality is that Bob's false narrative of creditworthiness gets cycled to hundreds of people in the economy, creating creditworthiness that should not exist as it goes.
+
+Eventually the original borrower (Bob) is going to get squeezed because money is more available than it should be, they may be able to roll over that debt by moving it from one lender to another but eventually they'll need to reduce their spending for some time in order to pay back the debt.
+
+This artificial tightening forces them to spend less reducing the income of other people in the economy.
+
+#### **Politicians make it worse**
+
+Politicians don't want to see the economy go down to allow this correction and therefore begin to stimulate the economy in order to reduce debt burdens rather than allow the system to purge itself of the debt.
+
+They:
+
+- Print money faster
+- Reduce the interest rate to reduce debt loads.
+
+This newly created money flows into houses and stocks as people try to protect their new income from the inflation caused by the money printing. The increasing price of stocks and real estate creates creditworthiness that shouldn't exist.
+
+Many of those who just became more credit worthy already have debt. But with interest rates being reduced and credit worthiness going up, they can take out even more debt.
+
+In fact, not taking on more debt would be foolish because interest rates are low and the yield on assets like stocks and housing is very high.
+
+If stock prices are going up 5% per year and the interest on debt is only going up 2% per year, taking on more debt is an asset in itself.
+
+### **The lion cub grows**
+
+Rather than dealing with the lion cub, politicians are now encouraging the creation of a full-grown lion. They're blowing a bubble so big that when it crashes, nothing will be left in its wake.
+
+This is how a small distortion in the economy, which would normally be corrected by the original bad borrower paying off their debt, becomes a massive economy-sized bubble that has the potential to shipwreck an entire system.
+
+### **Kicking the can**
+
+The larger this problem becomes, the more temptation there is to kick this can down the road, especially since politicians are elected for short periods.
+
+Soon the whole economy is dealing with a monster, ready to sink the ship of civilization.
+
+Interest rates become welded to the floor. Asset prices go up dramatically. And the only way to deal with issues is to blow the bubble faster than the pressure around it can push it back down.
+
+### **Corruption**
+
+In such an economy, the real question is not who can become the most productive, but who can get closest to the money printer.
+
+#### **Banks**
+
+Banks profit because they are “entrusted” with the exclusive right to print the money everyone else in the economy has to work for. Even when a national government prints money for its own benefit, banks take a portion of the benefits for themselves.
+
+**Open market operations**
+
+One would think that a national government should be able to print its own money. However, how the system is set up, a national government has a department, typically, a national bank, whose job it is to print money, and who can't simply just hand it over to the national government, but instead uses open market operations to pass it through banks to the national government. And this makes banks quite wealthy.
+
+Put simply: 
+
+Banks act as the middleman for new money. When the government needs cash, it sells debt to banks. The national bank then prints new money to buy that debt back from them at a higher price. This hands banks a quick profit and gives them first access to cash before it loses value to inflation.
+
+Namely, the government buys the right to print money from banks. Meaning that in a debt-based system, these banks profit enormously.
+
+#### **Real estate**
+
+Money flows from banks to the economy primarily toward real estate rather than to prop up businesses and productivity. Since money is constantly losing value, keeping money lying around is dangerous.
+
+People and banks alike seek safety for their money. So, they purchase real estate.
+
+**Easy money**
+
+On one hand, it's remarkably easy to borrow money. On the other hand, in the bubble phase, asset prices are constantly rising. Rising asset prices catch investors' attention, driving them to invest even more.
+
+It becomes a no-brainer to buy a real asset which goes up in value, when everyone else is doing the same for money which is  essentially “free” which pays itself off via rent.
+
+- **The theory breaks**This is the exact opposite of the intended effect in which people put their money toward risky businesses to grow the productive potential of an economy.Instead, house prices go up to the detriment of new buyers and wages go up because the cost of rent is so high.
+- **How it would otherwise work**By contrast, in a static-money system, inflation stops. House prices stabilize. Interest rates rise. The "free ride" of borrowing cheap money disappears. Real estate reverts to being a boring utility (a place to live) rather than a vehicle for wealth, reducing demand and forcing capital to look elsewhere for a return.
+
+#### **Stocks**
+
+A lot of the money flows to stocks, increasing the value of top stocks allowing the rich to get richer and the big to get bigger. This provides those companies with liquidity, potentially leading to productivity gains, but sometimes comes at the cost of corruption and reduced competition.
+
+**Why stock prices rise**
+
+When easy money enters the system, it distorts the reasons why stocks rise. It replaces genuine productivity with financial inflation.
+
+**The inflation sponge**
+Stocks act as a sponge for excess liquidity. As the central bank prints money, that cash seeks a home. It flows into the stock market, driving prices up. Rather than an increase in wealth, it is a repricing of assets in devalued currency.
+
+**Forced speculation**
+Easy money kills the yield on safe savings. Investors who would normally buy bonds are forced into the stock market just to preserve their purchasing power. This artificial demand pushes prices far beyond what the underlying businesses are actually worth.
+
+**The buyback loop**
+Corporations use low-interest loans to buy back their own shares. This artificially boosts earnings per share, creating the illusion of health.
+
+## **The bubble argument**
+
+### **Pro-bubble**
+
+#### **A bubble for productivity**
+
+The theory is that during the inflation of the bubble, the extra money available to businesses creates productivity. Bob's purchase of a TV may have created the creditworthiness for the investment necessary into a new TV factory.
+
+Even when the crash inevitably comes, there's a new TV factory that wouldn't otherwise be there.
+
+#### **Cheaper loans**
+
+Despite having to compete with real estate and stocks, money is generally more available in the system, since people are buying things during the bubble phase.
+
+However, in a fixed money supply system, people are careful about who they lend money to as money often naturally gains value. This can make it hard for businesses to find the money they need.
+
+### **Anti-bubble**
+
+On the other hand, a TV factory is possibly never what society needed in the first place. There's a lot of malinvestment into things that weren't real needs but based on false information.
+
+Interest rates are going to be naturally higher when the government is dealing with a fixed money supply, meaning investment is thoughtful and calculated. However, in an easy money printing scenario, businesses have to compete with the bubble itself and asset price inflation. In reality, the printing scenario is typically better for businesses, but only during the bubble phase.
+
+## **The pop**
+
+In the money printing scenario, eventually, debts have to either be repaid. The borrowers eventually get piled on with so much debt that they can no longer afford the repayment due to the interest payments. Spending has to be cut. Debts must be repaid. People begin to default on their loans.
+
+Lenders stop getting paid, which means that they themselves default on their obligations, which causes others to default on their obligations.
+
+Now the cycle reverses itself, and one person's lack of payment becomes another person's lack of income. And the whole system goes belly up.
+
+This is an can technically be a healthy restructuring period for the economy, as the economy gets reoriented toward productivity rather than asset inflation and money printing. However, the suddenness of the shock leaves people who may have no fault potentially unable to pay medical bills, rent etc. putting their lives at risk.
+
+In such situations, the interest rate is already lowered, and the government is already struggling to meet its current obligations as tax revenue collapses. Therefore entitlements cannot be increased.
+
+The sudden shock producing a risk to people's lives and the sudden destruction of the potential safety net of the government is a compelling reason not to allow this system in the first place.
+
+The risk to people's lives is one of the most potent arguments against the inflation of the money supply.
+
+### **Cycles are inevitable**
+
+In reality, even when not printing money, economies that allow for credit and debt will always have a portion of this cycle that comes into play.
+
+### **The problem is fixable**
+
+However, the fundamental problem throughout debt-based systems is a problem of knowledge. People cannot understand the falsity of a person's creditworthiness being based on a larger bubble. Namely, they don’t know that Bob is only rich because Elly took out a loan she is never going to pay back.
+
+This is what creates the cycle of credit. However, if one is able to discover a method to maintain privacy and yet reveal where a society is in the cycle, they could themselves forever solve this problem, probably using AI.
+
+## **Cyber Sovereignty**
+
+Cyber Sovereignty is a call to people everywhere to experiment with economic systems contained in digital societies that will allow humanity to discover an economic system that works to make people wealthy without the painful trade-offs of our presently discovered systems.

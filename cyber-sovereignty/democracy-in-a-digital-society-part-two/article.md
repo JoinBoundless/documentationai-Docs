@@ -1,0 +1,141 @@
+# Why direct democracy always fails
+
+A common mischaracterization about Western societies is that they are designed to be democratic nations controlled by their people. Nothing could be further from the truth. In fact, direct democracy has been proven to be a disaster whenever tried throughout history.
+
+*"Remember, democracy… soon wastes, exhausts, and murders itself. There never was a democracy yet that did not commit suicide." - John Adams*
+
+*“Democracies have ever been…**short in their lives as they have been violent in their deaths.**” - James Madison*
+
+Democracy consistently fails because groups of people easily take on “mob-like” behavior making emotional decisions as opposed to highly rational ones. In order to curtail its excesses, Western societies deliberately chose to become republics and constitutional monarchies, “representative democracies”.
+
+The key misunderstanding is that because people choose their representatives that the people are in control.
+
+*"The proposition that the people are the best keepers of their own liberties is not true. They are the worst conceivable... they can neither judge, act, think, or will, as a political body." - John Adams*
+
+In reality, the system is designed to minimize the agency of the people. By having these elites gather together in the capital, making decisions on behalf of the people, without the people's direct involvement, they would be unaccountable to the people.
+
+*"This Constitution is so framed as to bring the government into the hands of the principal men in the society.” - Melancton Smith*
+
+*"Your representative owes you… his judgment; and he betrays, instead of serving you, if he sacrifices it to your opinion." - Edmund Burke*
+
+The key difference between the popular understanding and the reality is that representative democracy is designed to be accountable to people but not people-managed.
+
+This was the explicit and intentional design from the very beginning. Preserving justice by keeping the power neither with the people nor the king, but with a small group of elites. The architect of modern representative democracy were those elites and they encouraged putting such elites in charge.
+
+A recent Princeton University study suggests things are the exact same today as it was designed to be then:
+
+*"…the average American appear(s) to have only a minuscule, near-zero, statistically non-significant impact upon public policy." - 2014 Princeton*[*University study*](https://pnhp.org/news/gilens-and-page-average-citizens-have-little-impact-on-public-policy/)
+
+This video is a prime example of the average person's fundamental misunderstanding of representative democracy.
+
+**Further misunderstandings from the video**
+
+- It suggests that a true republic would follow the will of the people.True republics are designed to follow natural law, not the what’s popular.
+
+However, it hits on a core problem, the value of money and organization in modern democracy. This article will touch on that. Hold that thought.
+
+The reality that the people are not in control comes as a shock to many but in understanding the mind of the founders of the United States, and the many nations that mimicked their system, none of them wanted the people to rule. Instead they wanted what was good for the people; the rule of law.
+
+*"Democracy is two wolves and a lamb voting on what to have for lunch." - Benjamin Franklin*
+
+Essentially, they wanted the lamb to survive, no matter what the wolves say. Republics are designed not to be responsive to the will of the people, but to fight for their needs regardless of their opinion.
+
+*"Justice is the end of government." - James Madison*
+
+## **The problem of tribalism**
+
+The founders of the United States were right, the general mass of people, when left to their own devices, make unjust decisions. History is littered with the death of direct democracies.
+
+But why is that so? Wouldn't people know what's good for them? Why would putting the people in full control fail?
+
+An analysis of a team working on a project gives us the answer. 
+
+Imagine a software team reviewing a new app interface. A highly respected senior product manager speaks first: "This layout is too busy." With those words, the room shifts. Driven by a biological instinct for social cohesion, the idea of contradicting a reputable peer registers in the brain's amygdala as a threat.
+
+The stress response alters brain chemistry activating fight or flight mode. This mode equips a person for immediate action at the cost of imagination, rational thought, and emotional regulation. The prefrontal cortex shifts away from creative problem-solving and instead focuses on navigating social dynamics.
+
+To avoid the discomfort of standing alone, teammates will usually quietly conform to this "anchor" opinion, or they will defensively overcompensate to prove their point, polarizing the room.
+
+This is exactly what happens in a direct democracy. When someone passionately espouses in opinion suddenly, a rational discussion quickly gives way to fight-or-flight survivalism. A tribal us-vs-them mechanics begins to overtake relaxed discussion leading to the loudest opinions taking center stage.
+
+To bypass issues like these, companies sometimes have everyone silently write down their feedback on a sticky note and post it up *before* anyone speaks to prevent one person’s words impacting another’s reasoning.
+
+For most of human existence, being ostracized from one's community meant starvation and death. Although today death is an unlikely outcome from being unpopular, people still instinctively see ostracization as being deeply uncomfortable. This is why subtle social dynamics can easily escalate and begin involving fear and fight-or-flight mechanics.
+
+**A deeper dive into the biological mechanics of conformity**
+
+When a highly respected product manager voices an opinion on a new app interface before others have spoken, the room undergoes a sudden shift. Teammates abandon their original thoughts. Silence replaces collaboration. This invisible change is not a conscious choice. It is the result of specific psychological mechanisms overriding objective thought. By examining how the brain processes social dynamics, professionals can understand exactly why meetings fail.
+
+**Anchoring bias**
+
+The human brain relies heavily on the very first piece of information offered. When the product manager speaks first, their statement sets invisible boundaries for the entire conversation. The rest of the group unconsciously measures their own ideas against that initial statement instead of evaluating the app interface independently.
+
+**Authority bias and the halo effect**
+
+People naturally attribute greater accuracy to the opinions of high-status individuals. Because the product manager is highly respected, their reputation creates a halo. Teammates assume that a capable leader must inherently possess the correct viewpoint. The group defers to a reputation rather than analyzing the actual merit of the design.
+
+**Normative social influence**
+
+Humans are highly social creatures who rely on peer acceptance. Disagreeing with a respected figure creates a micro-level of social friction. Many team members will ignore their own valid ideas simply to maintain harmony and avoid standing out.
+
+**Social pain and amygdala activation**
+
+Neuroscience shows that the brain processes social rejection in the same areas that process physical pain. When a professional considers disagreeing with the product manager, the brain activates a mild stress response. This pulls metabolic energy away from the prefrontal cortex, which handles complex problem-solving, and diverts it toward basic social survival tactics.
+
+**Group polarization and groupthink**
+
+Once the stress response is activated and an initial opinion is set, nuanced conversation disappears. The group often falls into groupthink, where everyone quietly agrees to maintain peace. If individuals do speak up, they often feel forced to argue aggressively to overcome the product manager's reputation. This causes the group to divide into extreme, polarized camps.
+
+In the same way, democracies usually descend into fear-driven tribal dynamics rather than wholesome collaboration. The problem isn't that the people are in charge. The problem is that fear of ostracization is on their mind.
+
+*“The people are turbulent and changing. They seldom judge or determine right." - Alexander Hamilton*
+
+The founders were right that democracies fail, but they were wrong about the cause. The cause isn't the foolishness of the masses, but rather the nature of how large groups of people debate.
+
+The question is not, “can we trust the people?” The question is, what mechanism leads to the people's will being accomplished.
+
+Cyber Sovereignty replaces debate with results, allowing people to choose the society they desire without debate over contradictory ideas undermining tribalism.
+
+## **How urbanization killed democracy**
+
+Their system by and large worked, until it was destroyed.
+
+Representative democracy was founded when 95% of the population lived in towns of fewer than 2,500 people, allowing voters to elect trusted neighbors to represent them at a distant capital.
+
+The people didn't breathe down their representatives neck, but they got to choose somebody of integrity, a trusted and known community member. At the end of their term, these elected representatives would come back to their small town and be accountable to them, not for their actions alone but with the results of their actions in hand.
+
+An interesting dichotomy of life is that the larger a city, the more the anonymity. Unfortunately this reality has undermined the design of accountability within the original framing of representative democracy. Instead of electing a person known to a town for their integrity, politicians raise money for advertising campaigns to become known in a place where they're not known; their own city.
+
+This leads money and not reputation to become the core element in getting elected corrupting representative democracy totally as politicians become beholden to moneyed interests. It also means they come home to a place where they won't be held accountable, since big cities are not like small towns in which everyone's cooperation is necessary for one's survival.
+
+## **Why social media escalates the problem**
+
+Travel between a rural city, and a capital would take many days in times past. This facilitated the hands-off form of representative government designed by the founders of democracy. Representatives could make decisions that were unpopular and wait until the actual effects of those decisions were in play before coming home to those they represented.
+
+*"Your representative owes you… his judgment; and he betrays, instead of serving you, if he sacrifices it to your opinion." - Edmund Burke*
+
+Social media has made every decision a public stunt leading to partisanship and radicalism. In the US this has led to Congress largely delegating its power to the president in order to avoid the blowback of unpopular decisions themselves leading to government by executive order rather than thoughtful legislation.
+
+*"Congress is no longer a mold of character but a platform for performance." - Yuval Levin*
+
+Social media has given people a profoundly more personal involvement in their government's affairs. The capitol can talk to its base and hear back from that base all within half an hour. Rather than increasing democratic accountability, these realities have led to an increase in the tribalism, fear, and partisanship that led to the downfall of direct democracy.
+
+## **The question**
+
+Unfortunately, society has proven that the elites will be corrupted by money, that the people are driven by fear, and that kings abuse their people.
+
+*"It will lead to an oligarchy... they will have a common interest in opposition to the people." - Melancton Smith on elites*
+
+So how do we create a government that benefits everyone?
+
+Cyber Sovereignty asks:
+
+- What if we could trust the **results**of good government rather than their promises?
+- What if we could trust the **truth**instead of people?
+- What if we could put our hope in **working systems** rather than grand ideas?
+
+Even though Cyber Sovereignty leaves national governments in place, it delegates the majority of the hands-on government we interact with day to day to a new, more accountable form of government; digital societies.
+
+These digital societies compete for citizens by creating working results rather than empty promises.
+
+Curious how democracy looks different within a digital society? Read; “[democracy in a digital society](https://agora.joinboundless.org/community/democracy-in-a-digital-society)”.

@@ -1,0 +1,11 @@
+# Content guidelines
+
+Agora is a refuge from a toxic and divisive world.
+
+We know these positive content guidelines won't suit everyone—that's why Agora is just one star in a larger constellation. They shape our unique culture.
+
+- **Uplifting themes:** Center content on positive interactions, health, and well-being. Avoid focusing on violence, severe illness, death, intense suffering, horror, or traumatic events.
+- **Setting:**Exclude magic systems, supernatural beings (like ghosts, zombies, witches), mythical creatures (dragons, monsters), and enchanted objects.
+- **Ethical conduct:** Promote responsible and lawful behavior. Do not feature crime, imprisonment, slavery, unethical science, or narratives that glorify dishonesty or deceit.
+- **Secular focus:** Ensure themes avoid specific religious doctrines, worship practices, or related iconography.
+- **Appropriate activities & tone:** Exclude gambling mechanics, betting, or casino settings. Maintain a tone suitable for all audiences, free from sexual content, nudity, or coarse language/humor.

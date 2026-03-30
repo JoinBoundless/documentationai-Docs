@@ -1,0 +1,81 @@
+# Digital vaults
+
+Throughout history we've given money to our governments that they should keep for us in trust, such as retirement funds. Often these funds are pillaged by the very governments obligated to protect them.
+
+But what if vaults could be used to ensure that any two parties who want to create a release of funds over time or on conditions could do so through an easy interface. One with which those conditions can be set up including with one party being the digital society government.
+
+## **Use cases**
+
+### **Government vaults**
+
+Vaults could be used to encourage people to save up for their future or retirement or any other condition set by a digital society. People could place funds in a vault which requires keys from their digital society to unlock one key for every Digital Gold or silver locked away in the vault.
+
+The key thing is that the digital society would have no ability to unlock the vault themselves. Only the person who put the money in the vault. And they themselves would not be able to get the funds without keys from the digital society.
+
+This privilege would need to be pushed up to all societies in the same Accord in case a digital society ceases to exist.
+
+In order to protect individuals from lock-in to a digital societies using this method, any individual that leaves a particular digital society would be able to take their vault with them to get it unlocked in another digital society at the cost of one third of whatever is in the vault.*
+
+*** Legalization**
+
+Digital societies are not allowed to create contracts which lock people into a digital society, and since such a thing could be considered a contract lock-in, this must be noted to be explicitly legal, since the one third loss is considered sufficient.
+
+### **Vaults for trusted individuals**
+
+These vaults require the permission of as many preset individuals as one set to be unlocked, with backup individuals being mentioned for each individual, to ensure that one inactive user does not prevent the release of the vaults.
+
+### **Vaults locked for a time**
+
+The ability for a vault to lock away funds that will be given to a preset individual at a future time automatically. These type of vault funds must be seizable by a digital society based on their population size.
+
+**Security system**
+
+For every 10,000 citizens they have, they can seize all of the vaults of five citizens per month.
+
+### **Vaults based on votes**
+
+A vault could be set up that releases funds based on the votes of others. It would need to specify criteria for who can vote through a ticket system in which tickets are printed and given to individuals who can then be voters with a majority vote or a supermajority vote being required to release the funds based on the settings.
+
+### **Society vaults**
+
+A society vault is one that could be unlocked and distributed to a whole society equally at a later time automatically. The same could be done for the digital society's government. Namely that the digital society’s people could store money in a vault for that government that would be released over time or based on votes.
+
+A variation could also be one that is unlocked based on the vote of the whole society with every citizen being an eligible voter.
+
+A large number of customizable options would be necessary here.
+
+## **User interface**
+
+The key Innovation is that the simple user interface must work throughout Synapse as if interacting with physical objects simply.
+
+## **Placements in vaults**
+
+Literally anything can be placed in a vault, including digital items. Like clothing, or a soccer ball, or whatever else a person would like to put in a vault.
+
+## **The tax problem**
+
+Digital silver cannot easily be vaulted without a serious cost since an individual moving a vault between societies will find that the digital silver is non-existent, seeing that digital silver is localized to a particular digital society or Accord (depending on the opt-in of that digital society).
+
+Digital Gold on the other hand has a 10% transaction tax. Therefore, if an individual stores gold for another person, other than themselves, in a vault, the 10% tax will still be taken.
+
+## **Selling vaults & storage**
+
+Vaults are tied to the individuals that created them. They cannot be bought or sold. The conditions are tied to the individual owner and those conditions cannot be transferred between people.
+
+To be named as the recipient of a vault with gold in it, one must have the equivalent vault storage as the vault is destined to give. And that vault storage remains occupied until the vault pays out.
+
+One would have to accept this vault in their name, rather than having it simply assigned, if somebody else assigns them a portion of what will come out of the vault.
+
+Once a vault is sealed, nothing else can be added to that vault. Sealing the vault is required for the initiation of the rules by which it pays out.
+
+## **Transparency**
+
+By default, everything within a vault is visible to all those who can see the vault itself. All vault-based transactions are visible to digital society governments.
+
+Such governments may include attacks on vault openings, winnings, etc. These are technologically built in as a number that is on the vault before it is sealed so that it cannot be changed after the vault is sealed.
+
+They are preset by the digital society and are customizable to each type of vault and depending on what is placed in the vault, namely items or currency, or both.
+
+****Legal rules****
+
+It is illegal for a digital society to change the terms after the vault is sealed or to impose other taxes on those who interact with vaults.

@@ -1,0 +1,21 @@
+# The societal benefit principle
+
+Anchoring principles are general rules which allow people a shortcut in understanding what is and is not acceptable behavior in a society.
+
+To determine what activities in society need to be regulated, one has to understand the economic realm as an ecosystem.
+
+Economic activities can be evaluated by examining their effect on the total productive capacity of the system. This requires a boundary test. An action is first analyzed at the level of the individual or firm, and then the boundary is expanded to include the whole of society.
+
+Now consider a factory that increases its profits by dumping industrial waste into a river, avoiding disposal costs. Within the narrow boundary of the company's finances, it is a profitable action. When the boundary expands to society, the costs are immense. People get sick, public funds are spent on cleanup, and other industries like fishing are destroyed. The factory's private gain is a net detriment on society's productive potential.
+
+Activities that require regulation are those that fail this boundary test. They generate a private profit by creating a net loss for the wider system. The purpose of regulation is to ensure all actors within the system are contributing to the net positive of society as a whole.
+
+## The principle
+
+Put simply, if the action creates a net loss for the productive potential of the people in the society, that is grounds for legitimate regulation.
+
+## Edge cases
+
+A company that uses patent laws to block generic competition for an existing drug may see immense profits. When the boundary expands to society, however, the result is a loss for those who might benefit from the drug. The higher price makes the medicine less accessible, reducing overall health and productivity.
+
+However, they've also enhanced the business case for other drug companies to create new innovative drugs, since future drug companies know they will be rewarded in profit and therefore early-stage capital will flow to them.

@@ -1,0 +1,15 @@
+# Creating social apps: Update needed
+
+What can we track?
+
+- Quality of work
+- Quality of attitude
+- Consistency
+
+LinkedIn but the best people get jobs.
+
+Imagine the community rallied together to help individual citizens or charitable projects in need, allowing citizens to pitch the needs of other citizens or causes so everyone in the community can get the support of the whole community.
+
+What can people trade?
+
+What is the value of our network?

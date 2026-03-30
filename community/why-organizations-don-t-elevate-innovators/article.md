@@ -1,0 +1,17 @@
+# Why organizations don't elevate innovators
+
+In every complex organization there are two types of people:
+
+**Agreeable people**: People who go along with things around them, who flow with society and don’t like to ruffle the feathers. Such people make great team members and managers. Their art is the art of compromise and getting along.
+
+**Disagreeable people**: Such people are rebels, misfits, oddballs and they don’t mind it. When told to go one way, they go the opposite way. When told to stay put, they move. Such people are the trailblazers of societies, the rule breakers the people who invent a new paradigm.
+
+Unfortunately, complex organizations, like schools and workplaces promote agreeable, not disagreeable people. Every system loves a “yes man” who does exactly what they're told without overcomplicating and checks all the boxes. Such people are loyal, agreeable and pliable.
+
+Unfortunately in complex organizations with complex moral outcomes, such as a military command structure, or government body, people with few morals rise faster simply because people that have strong morals are filtered out the first time they say “no” because of those morals.
+
+This means organizations promote agreeable people over time. “Yes men” and managers take charge, people without strong opinions and passions. Such people make poor innovators since innovation requires going against the grain of society and sticking too one’s principles even when everyone else disagrees.
+
+Such agreeable people don't like conflict and therefore minimize change in an organization to the detriment of innovation. They are comforted in their decisions because everyone else agrees that change must be limited to protect the organization and the people in it and the way things are.
+
+This is why so many companies fail after the original founders leave. The original founders promoted people who did what they were told, who followed orders, who executed commands. And such people that would not disagree when they personally had moral qualms. If the founders leave and they haven't found a method to promote innovators, the whole organization becomes lopsided toward agreeable people stifling innovation.

@@ -1,0 +1,151 @@
+# Core rejections of Cyber Sovereignty
+
+This document is part of the [Charter](https://agora.joinboundless.org/cyber-sovereignty/charter).
+
+## **Context**
+
+Cyber Sovereignty stands for a world where people can peacefully come together with others who share their values and live out those values and ideals without government interference.
+
+Cyber Sovereignty is built on core rejections of technologies and concepts that must never be changed.
+
+## **Government enforcement of ethics**
+
+- **Rejection**: There must never be a national government that imposes the ethics of a minority or majority on all people in society without the people being able to opt into a digital alternative.
+- **Reason**: People's personal beliefs and values cannot be managed by a monolithic entity which people didn’t consent to without tearing apart society.
+
+## **No digital control**
+
+- **Rejection**: There must never be a national government ID that ties actions along with identity together into one surveillable unit. National governments may never tie the ability of a person to work or transact based on a digital ID or similar.
+- **Reason**: The tying of behavior to identification, or to the ability to trade, constitutes a mechanism of social credit and control.
+
+## **Exploitation**
+
+- **Rejection**: Stop individuals being subject to a world of exploitation where they can no longer profit from their labor as in times past.
+- **Reason**: In the future, almost everything will be digital, and thereby individuals can become subject to a system in which every area and action of life is taxed by the primary controllers of that digital space.
+
+## **Surveillance**
+
+- **Rejection**: National government must not have the ability surveil all of its citizens or their movements, who they interact with, and their metadata.
+- **Reason**: The power to surveil the citizens of a nation, prevent the ability of those citizens to rightfully revolt against their government in case of oppression, setting the basis for a slave state.
+
+## **Wiretapping**
+
+- **Rejection:** There must never be a system that allows for the targeted surveillance of a specific citizen, such as wiretapping or the interception of their private communications, without a warrant issued by an independent judicial body. Such a warrant must specifically identify the individual to be surveilled and be based on probable cause that they are engaged in a specific criminal act.
+- **Reason:** The power to secretly listen to the private conversations of any chosen citizen without judicial oversight is a hallmark of a police state. It allows authorities to bypass due process and gather information to intimidate, blackmail, or prosecute political opponents, journalists, and dissidents.
+
+## **Digital ID**
+
+- **Rejection**: There must never be a single register of all the individuals in the world.
+- **Reason**: Such databases have been historically used to persecute people groups.
+
+## **Government entitlement theft**
+
+- **Rejection**: If government taxes for an entitlement, it must pay that entitlement. No diversions, “borrowing”, or IOUs without a referendum on just that question alone.
+- **Reason**: Government often tax on a promise, spend the money elsewhere, and leave citizens with promises instead of payments.
+
+## **Money transparency**
+
+- **Rejection**: There must never be any jurisdiction or entity which has the ability to observe the money flows of more than 20% of the world's population.
+- **Reason**: Any entity which gains the power to see all the transactions of all humanity will have unprecedented power to control human behavior.
+
+## **Extraterritorial violations**
+
+- **Rejection**: Governments must never again be allowed to violate their own laws or the [Charter](https://agora.joinboundless.org/cyber-sovereignty/charter) by leveraging private companies, independent entities, or extraterritorial jurisdictions or any other means.
+- **Reason**: National governments have been consistently violating people's rights by moving people to places where they're allowed to violate their rights, using private companies or nonprofits to get around the law. This includes using other jurisdictions to spy on their own citizens, requiring biometrics from citizens to re-enter their own borders etc.
+
+## **Prohibition of secret evidence**
+
+- **Rejection**: Governments must never again be allowed to use secret evidence or witnesses in court.
+- **Reason**: Claims of national security are consistently used to conceal unconstitutional surveillance and prevent transparency, which fundamentally violates the right to a fair and open trial.
+
+## **Accountability for regulatory bodies**
+
+- **Rejection**: The authority of government bodies to fuse legislative, executive, and judicial power is rejected.
+- **Reason**: Regulatory bodies often create rules, enforce those rules, and then act as judge in their own case, which fundamentally denies the right to an impartial decision.
+
+## **Unassailable monopoly on force**
+
+- **Rejection**: National governments must never be allowed to obtain an unassailable monopoly on force of arms in such a way that other sub-entities in their jurisdictions would not be able to successfully challenge that monopoly if the people so willed.
+- **Reason**: For the first time in history, consent is no longer necessary to lead an army due to AI. Rather than convincing an army to fight, one needs only to control the technology. This opens up society to a level of tyranny unseen in ages past, where a few rich and capable people, can subjugate a nation without compelling the individuals in an army.
+- **Provision**: A nation's force of arms must be delegated between wholly independent subdivisions under the control of states or provinces, in order to create the necessary division of power in the AI and robotics age.
+
+## **State-sponsored media control**
+
+- **Rejection**: National governments must never again be allowed to manipulate or impose upon media channels targeting their own citizens.
+- **Reason**: National governments have consistently imposed on media companies to create narratives favoring their own decisions and suppressing dissent.
+
+## **Interfere with an individual's DNA**
+
+- **Rejection**: No national government may require an individual to modify themselves or their offspring in any way.
+- **Reason**: The implications of modifying the human race are too difficult and dire to be mandated by the national government.
+
+## **Take away the individual's right to a fair public trial**
+
+- **Rejection**: National governments must never be allowed to employ a court system which disincentivizes the right of the individual to be judged by a jury of their peers.
+- **Reason**: State prosecution has been given far too much leverage to push for plea bargains to the detriment of fair trials.
+
+## **Against unbalanced defense resources**
+
+- **Rejection**: The prosecution and the defense must be equally funded in every case.
+- **Reason**: Public defense attorneys deal with so many cases at the same time they can't spend more than a few hours defending a client, giving them little hope of meaningful justice.
+
+## **Against solitary confinement for the innocent**
+
+- **Rejection**: Those who are not convicted of a crime but must be held, may not be placed in solitary confinement or held without basic rights or dignity.
+- **Reason**: Unfortunately, it's not uncommon for individuals not convicted of a crime to find themselves in solitary confinement by national government.
+
+## **Violence against the innocent**
+
+- **Rejection**: Those detained or held by a government prior to conviction may not be held in a way where a reasonable person would fear for their physical health or safety. This includes safety from other inmates.
+- **Reason**: Unfortunately, it's not uncommon for individuals not convicted of a crime to find themselves surrounded by violent inmates that put those individuals in a position to defend themselves from violence with violence essentially forcing a non-criminal to become a criminal to protect themselves.
+
+## **Qualified immunity**
+
+- **Rejection**: Governments may never create an environment in which agents of the national government are allowed to violate the rights of their citizens without reasonable and personally painful accountability.
+- **Reason**: Unfortunately, it's not uncommon for agents of the national government to violate people's rights consistently and repeatedly without facing consequences.
+
+## **Pre-crime detention**
+
+- **Rejection**: No individual may be held by any entity merely because they were anticipated to potentially commit a crime.
+- **Reason**: To be guilty of a crime, one would need to commit that crime.
+
+## **Honesty**
+
+- **Rejection**: Agents of a government, when making a guarantee to an individual, are required to uphold that guarantee, and are not allowed to lie to individuals except in special circumstances as provided for by government in law other than to deceive a foreign adversary. They must not be allowed to make deals they cannot enforce without serious personal consequences.
+- **Reason**: The populace should have the reasonable expectation that they can trust agents of their government.
+
+## **Entrapment**
+
+- **Rejection**: Agents of a government or their proxies must never place individuals in a position where they are pushed to break the law and prosecuted for doing the same.
+- **Reason**: National governments have placed individuals into situations where informants are highly motivated to put a suspect into a position where all their options are criminal or hugely negatively consequential to their own detriment forcing individuals to commit crimes they would not otherwise commit.
+
+## **Currency choice**
+
+- **Rejection**: No national government may restrict the ability of an individual to use the currency of their choice for trade or regulated in a manner that makes that trade so practically inefficient that another currency must be chosen.
+- **Reason**: National governments have essentially regulated out of existence competing currencies.
+
+## **Secret courts and laws**
+
+- **Rejection**: No secret bodies of law may exist that have any effect on any person under national government. National governments must never utilize secret courts or secret laws in any interaction with digital societies.
+- **Reason**: Governments have consistently used secret courts and laws to restrict the rights of individuals.
+
+## **Restrictions on internet access**
+
+- **Rejection**: National governments may not place restrictions or requirements on internet access for their citizens.
+- **Reason**: Restrictions by national governments on internet access grant them too much power to censor critical information required to hold them accountable.
+
+## **Imposition of values**
+
+- **Rejection**: National governments must never impose closely held values on individuals in a way that violates that individual's conscience.
+- **Reason**: In an irreligious society, the separation of church and state no longer suffice. Instead, governments must commit not to implement a particular set of values or ideology on the populace via the government.
+
+**Disclaimer**: Technically anything can be interpreted as a matter of values. Therefore, courts must strictly interpret this to areas in which modern contexts would consider the values in question to be a modern ideology in parallel with how others used to consider religion.
+
+## **Disappearances**
+
+- **Rejection**: The right of a person under arrest to be brought before a judge and for the state to provide a valid reason for their detention, and for appeal to be sent to their digital society, must never be suspended.
+- **Reason**: Without this, the government can indefinitely imprison anyone without justification, effectively creating a system of legal black sites.
+
+## **General provisions**
+
+When these rejections specifically mention national government, in their rejection statement, they are limited to national governments alone. Unless otherwise specified, these rights protect citizens and non-citizens alike.

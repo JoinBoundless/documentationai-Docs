@@ -1,0 +1,49 @@
+# A third option
+
+## **The modern debate**
+
+A key debate in current society is between those who believe in human society's broad-scale organization, via government, to make society decidedly more equal and those who believe that individuals should have freedom from greater society letting each individual be rewarded or suffer according to their own actions.
+
+It's political individualism versus political collectivism. One group values freedom above all else and the other recognizes that freedom cannot exist without equality.
+
+One opposes the imposition of society's rules on individuals, and another suggests that certain rules are necessary to create a society in which every person has equal chance to take advantage of freedom.
+
+### **A life of equality?**
+
+The problem with total individual freedom is that, in reality, opportunity is not spread equally. A disease, a freak accident or even riches are achieved often not by action alone but by time and chance.
+
+If everyone lives and dies purely by their own actions, the reality is people will fall through the cracks leaving them unable to benefit from "freedom".
+
+### **The problem of government**
+
+The problem with using large-scale representative government to improve society is that in reality, government often ends up serving in it's own interests. Instead of creating more equality, they empower well-off elites who have the money and time to influence them.
+
+Put simply, big governments often act on their own behalf while talking about serving people.
+
+Unfortunately, people feel trapped between bad options that don't represent them.
+
+## **A third option**
+
+Cyber Sovereignty carves out a third way that embraces the freedom desired by individualists with the recognition that societal rules can create the equality needed to ensure everyone can take advantage of that freedom.
+
+In Cyber Sovereignty, people choose the rules they live by, but the rules still very much apply.
+
+In fact, when individuals are given freedom to choose and move between societies, the individual societies themselves may create a deeper cohesion than large-scale representative democracies.
+
+The key is the ability to move without hindrance, The Golden Law.
+
+======================
+
+======================
+
+======================
+
+======================
+
+## Article leftovers.
+
+Freedom is achieved through a choice of digital societies, and equality is achieved by the rules of that digital society.
+
+In Cyber Sovereignty, if a small group of people choose to live by a distinct society's rules, they would still, by and large, be subject to national regulation, as most of their interactions would be with people outside their digital society.
+
+If a particular digital society is large enough, this would ensure the benefits of that digital society will be widespread.

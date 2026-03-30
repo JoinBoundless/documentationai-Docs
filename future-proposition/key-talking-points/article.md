@@ -1,0 +1,22 @@
+# Key talking points
+
+Cyber Sovereignty is best advertised by, arguments that demonstrate the stuff everyone knows.
+
+1. **Liars**: Politicians say whatever they want to get elected and make vague promises that look radically different once implemented.
+2. **Debt-laden**: Politicians have no incentive not to spend the money of future generations.
+3. **Corrupt**: Politicians have no accountability to budgets.
+4. **Non-empirical**: It’s easier to trust the working results of a digital society than the empty promises of politicians.
+5. **Unvetted**: A politician's agenda is an unvetted proposal forced upon millions.
+6. **Monetary debasement:** A government's monopoly on currency is a hidden mechanism of exploitation through inflation; a digital society can choose transparent monetary rules that protect the value of work.
+
+To succeed you have to find out what people care about already and appeal to the stuff they care about. Like our current system is unempirical. People care about the concept of science and empiricism. And so bringing this point up is important.
+
+The same way we can talk about the values of people like such as equality, integrity, and we can talk about how Cyber Sovereignty solves those problems.
+
+Suggested edit: People vote at large intervals for package-deal policies and hope that politicians implement their idea.
+
+Political parties often talk about taxing the rich, but what they fail to mention is that national governments have a serious spending problem due to a lack of accountability for the money they spend. They have every incentive to increase the amount they spend, and often can't even produce an audit on what they spend it on.
+
+Giving an alcoholic more money doesn't solve their alcoholism problem.
+
+Instead, Cyber Sovereignty seeks to give relief to national governments, depending on their fiscal situation, to save them from financial devastation while eroding their future relevance in particular matters of society.

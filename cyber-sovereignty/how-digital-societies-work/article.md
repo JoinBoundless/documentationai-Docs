@@ -1,0 +1,31 @@
+# How digital societies work
+
+## Charter vs. limits
+
+In order to create value, digital societies will start by enacting arbitrary limits, which are very much in contradiction to the values of the [Charter](https://agora.joinboundless.org/cyber-sovereignty/charter). E.g. requiring people to whisper at all times since the society is just a library. At this stage, the society is merely a single facet community. But as it adds facets and as it becomes a real society, it will become subject to the rules for digital societies [Charter](https://agora.joinboundless.org/cyber-sovereignty/charter). It does this when it declares itself Cyber Sovereign.
+
+## Declaration of sovereignty
+
+Once Cyber Sovereignty is legalized in a nation, and once a particular digital society reaches 30,000 individual members, it can declare itself Cyber Sovereign.
+
+This is a unilateral action in which the digital society signals that it believes that it meets the 30,000 member threshold and that has chosen to take advantage of the legal rights of Cyber Sovereignty within that nation.
+
+**Checklist of actions to take on declaring sovereignty**
+
+1)When a society declares Cyber Sovereignty, it must list all individuals which it believes have a conflict of interest."If any of the parties in question have a conflict of interest with key leaders, law makers or financial backers of the digital society." - Core concepts2)It must publish all of its laws, rules and regulations in full as an open accessible archive. 3)It must create a space in which a detailed log of all court cases is kept.4)It must publish contact information (be default the contact page for websites is [www.website.com/legalcontact](https://www.website.com/legalcontact)).5)It must provide an accurate and up-to-date public document which describes its mechanism of government and decision-making.
+
+It must publish if it believes it is run by it's people and provide proof. Be aware constitutional republics are considered run by the people.6)It must publish a public review page in which an uncensored list of citizen reviews can be seen for the public to access. Censorship or manipulation of this page can be considered an attack on the legitimacy of consent. The desire to abide by national laws and requiring only citizen reviews is considered acceptable. 7)It must issue citizenship certificates to all citizens.8)It must publicly lay out how individuals can take advantage of its courts.9)It must create a rubric which defines which sort of effects created outside the digital society through unintentional means will result in a first order effects outside of that digital society. [Core Concepts - * Additions and exceptions](https://agora.joinboundless.org/cyber-sovereignty/legal-concepts-of-cyber-sovereignty)
+
+### **Post declaration**
+
+Once a society has made its declaration, it's automatically assumed to have the right to take advantage of the benefits of Cyber Sovereignty. However, it may be required to produce evidence of it's 30,000 member list if challenged ([Core concepts §](https://agora.joinboundless.org/cyber-sovereignty/legal-mechanisms-of-cyber-sovereignty)).
+
+At this point, the society can begin to create laws designed to overrule national or local laws in particular circumstances or join an Accord which has such laws already implemented.
+
+For example:
+
+- A digital society may make a law specifically allowing pharmaceutical advertising, which is illegal in most countries.
+
+However, the moment it makes such a declaration the whole society becomes subject to the General [charter](https://agora.joinboundless.org/cyber-sovereignty/charter) rights when utilizing the instruments of state.
+
+If you'd actually like to start a Cyber Sovereign society, a guide will soon be created for that purpose.

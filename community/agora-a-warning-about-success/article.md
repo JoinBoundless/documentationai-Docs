@@ -1,0 +1,88 @@
+# Agora, a warning about success
+
+This article is being written before Agora exists. However, if the movement is greatly successful, this movement will face serious opposition.
+
+Criticism is likely to rise along with impact, especially if Cyber Sovereignty takes hold.
+
+Here is why:
+
+- Cyber Sovereignty is inherently political.Politics is messy.
+- Cyber Sovereignty disrupts a few existing power structures.When one attacks people's livelihood by proxy, they will fight back.
+- Cyber Sovereignty attacks the morals of our society as “lacking consent”.When you criticize people's morals, they can respond viscerally.
+
+Agorans should not be surprised or taken aback if there is large scale criticism and frequent public attempts to undermine Agora as the impact of the movement expands. Agora is critical to Cyber Sovereignty and therefore may be targeted. Agora is not a tech start up and politics is very dirty.
+
+Understanding the potential fight that lays ahead of this movement encourages an adherence to the highest standards of excellence by Agora, even in the early days. Doing so will cut the ground from underneath potential disruptors in the latter days.
+
+It's safe to assume any mistake made in the early days will be blown out of proportion in the latter days as a political talking point against the movement. That's just how politics works.
+
+That's why Agora needs to adhere to the highest standard of integrity, in all it undertakes, from the very beginning.
+
+## **The early days**
+
+### **Describing the early days**
+
+In the early days, Agora will be a community creating a technology called Synapse. Mostly work oriented, it will slowly evolve into a startup-society-like organization.
+
+### **Understanding the stakes**
+
+Unfortunately, wherever you have people who are meaningfully connected, there will be individuals who seek to stir up division. Our commitment to excellence, especially in behavior, is not by itself an antidote. The effective strategy, is having a framework for managing issues before they emerge.
+
+This guide is written by community managers before the launch of Agora. Here's why we expect Agora will have a strong risk profile and require extra preparedness even in the early days:
+
+#### **The nature of Agora’s work**
+
+- **Agora is building much deeper connections:** People in Agora will get to know each other in a meaningful way over a longer period of time.The stronger the bond, the more it raises emotional stakes.
+- **Politics:**Discussions on politics and ideology can become volatile.
+- **Loss:** The more the community becomes a person's world, the harder it is to move on if banned.
+
+Deeper communities are inherently more vulnerable than shallow communities as more is at stake and Agora seeks to build a deep community.
+
+Consider that many of the largest communities in the world, like Facebook or Twitter/X, are not actually communities at all. And that there are very few places where there are millions of people sharing the same identity, congregating online in a meaningful way.
+
+The reason is, online, keeping deep communities together is actually profoundly difficult.
+
+#### Other risk factors
+
+- **Inexperience**: A lack of long-term employment experience can mean individuals being recruited can be immature in their approach to authority. Agora *generally*doesn’t recruit those who haven't had employment experience for this very reason. However, a purely volunteer run organization cannot be as choosy as a company in some areas.
+- **Digital relationships are weak**: Contrary to popular belief, large-scale online communities almost never succeed if they are as deep as Agora intends to be due to [natural issues in how people relate online](https://agora.joinboundless.org/community/wars-of-identity-ostracization).
+- **Unemployment is emotional**: The current unemployment crisis is emotionally taxing on the individuals who volunteer which may lead to a digital outlet to a physical problem.
+
+#### Navigating interpersonal dynamics
+
+According to our experience, these particular risk profiles may manifest themselves in particular ways.
+
+**Problems**
+
+- **Identity fusion**: The community presents a risk of becoming a means of self-worth and identity to people. Such a relationship with the community is inherently unhealthy. This can manifest certain issues:**Gossip:**When individuals are removed from a community, especially when they make it part of their identity, it can weigh very deeply on them. Such individuals may cause problems when disciplined or removed for bad behavior.
+
+**Solutions**
+
+- **Don’t panic:**When seeing someone removed, our natural instinct is to choose between the community and the individual. Our instinct is to believe that for one to be right the other must be wrong and to choose between them. This is part of the flight or fight instinct and can be reasonably ignored. In reality, justice and morality are complex and it may be that two groups of people don’t fit with neither being right or wrong.
+- **Ignore gossip:** [Studies show](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2020.0147#:~:text=Recent%20research%20shows%20that%20some,social%20status%20in%20the%20process.) a removed individual often feels compelled to attack a community to preserve their self-image and sense of self-rightness. Members must be wary of messages that masquerade as helpful warnings, as these can be attempts to distribute such messages.It's best not to respond as responses delay the individual’s ability to reflect normally and repair their self-image.
+- **Real justice:**The community must have a robust justice system to ensure individuals who join are fully confident that individuals are removed only for just circumstances.
+
+**Problems**
+
+- **Burnout**: When individuals tie their self-worth to their contribution, they can over-invest themselves, burning out.
+- **Inappropriate boundaries**: The powerful social dynamic of having a team depend on oneself can lead a person to create inappropriate boundaries.
+
+**Solutions**
+
+- **Healthy boundaries:** Setting healthy boundaries and learning to say “no” to tasks is critical. Each volunteer needs to find a healthy balance of contribution. By nature, volunteering is giving of oneself. And each person who volunteers needs to replenish themselves as well.
+- **Lookout for team members:**In a volunteer context, it's easy to overload willing individuals with tasks. Instead, distribute tasks equally between teams.If you notice another volunteer over investing themselves, encourage them to take a break so they don't burn out.
+- **Gratitude:** The community is built on donated time. Silence can be interpreted as indifference. Expressing gratitude re-energizes and encourages those who sacrifice to make the community flourish.
+
+**Problem**
+
+- **Unconstructive dialogue:** Our greater society currently suffers from serious difficulties when genuinely regarding diverging viewpoints. Many today are struggling to have reasonable debates on matters. As a community for whom political ideas take center state, we must build a culture that *listens*.
+
+**Solutions**
+
+- **Assuming the best:** Assuming the best of others intentions is critical to meaningful discussion. People often disagree for reasons we consider to be disrespect but are actually misunderstanding. But it's not possible to discover the misunderstandings unless both people work on that together. This requires assuming the best of others intentions until the opposite is proven.
+- **Idea detachment:** Individuals are not their ideas. When self-worth is wrapped up in a suggestion, criticism triggers a fight response. Resisting the urge to respond viscerally and instead silently listening and reframing the criticism back to the critic for the sake of understanding is key.
+- **No division:** To build a community of trust, one must treat problems as a shared challenge to overcome together. This is in contrast to a community of distrust, which places people on on opposite sides fighting each other, rather than overcoming problems together.
+
+### **What to expect in the latter days**
+
+[See Part 2](https://agora.joinboundless.org/community/agora-challenges-of-an-evolving-movement) to learn what to expect in the latter days.

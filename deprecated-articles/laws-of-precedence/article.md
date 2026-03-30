@@ -1,0 +1,8 @@
+# Laws of precedence
+
+It's essential in order not to duplicate the chaos of the state-by-state system of the United States, which leads to 50 different interpretations of every single law, digital polities are encouraged to adhere to the principle of delegationism.
+
+1. Choice of law: Digital polities must not overrule the right of a group of individuals to bind themselves to a legal system of choice within the terms of a contract.
+2. Wherein a dispute arises between two or more people in which a choice of law is not specified, the larger and more established digital polity will take precedence.
+
+-

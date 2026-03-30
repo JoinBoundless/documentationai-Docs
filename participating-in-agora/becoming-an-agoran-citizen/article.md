@@ -1,0 +1,54 @@
+# Becoming an Agoran citizen
+
+This article describes the process by which an individual can become a citizen of a Agora.
+
+## **Who we are**
+
+Agora is a digital society dedicated to the maximization of human life and freedom through innovation.
+
+### **High intentionality**
+
+Agora is not a society for everyone, in fact Agora only seeks a **small subset of people** devoted to excellence and impact in all they do. It's a society for people who want to have the maximum positive impact possible on humanity through their individual gift.
+
+1. **Action oriented**: Agora is a society of action; people who want to make an impact together with others.
+2. **Improvement oriented**:****Agora believes everyone has a unique gift. As a society we seek citizens who want to bring out the best of their gift to the benefit of others.
+3. **Community oriented**:****Agora seeks citizens who want to help and empower each other succeed to the maximum extent possible.
+4. **18+:** Agora is only open to adults.
+
+By contrast Agora does not reject people based on:
+
+1. Their abilities
+2. Their goals
+3. Their ideas (inc. political or religious)
+
+Agora welcomes all those of different goals, abilities and perspectives provided their attitude is **beyond excellent** and their mission is to contribute.
+
+Agorans believe everyone has a gift to give the world, but that we can only help those willing to make that gift manifest through excellence.
+
+## **What community means to us**
+
+Agorans look out for their own, fighting to improve one another, organizing to help humanity and giving each other a leg up where needed.
+
+Agora is a high-trust society dedicated to:
+
+- Generosity
+- Excellence
+- Impact
+
+## **Value proposition**
+
+We currently operate like startup society empowering our members to work together on impactful humanity-centric projects for commercial or societal benefit.
+
+Our society seeks the personal “life fit” of all it’s citizens.
+
+## **How to become a citizen**
+
+Becoming a citizen is intentionally difficult. The intentionality required to achieve citizenship is elevated to ensure that those who join us take the idea of community seriously.
+
+The more challenging the process is made, the more likely we are to build on a strong foundation of highly intentional, community-oriented individuals.
+
+### **Steps to becoming a citizen**
+
+1. Read [our Ethos](https://agora.joinboundless.org/ethos/introduction-to-agora-and-cyber-sovereignty)
+2. Select Agora in the final submission of your World Lab project
+3. You will receive instructions from there if selected.

@@ -1,0 +1,27 @@
+# The economic collapse of a digital society
+
+This article is an exploration into the potential for an economic collapse in a digital society.
+
+## **The currency exchange problem**
+
+### **The problem**
+
+#### **Digital division**
+
+Digital societies are extremely vulnerable to division. Online, you don't have to live with the people you hurt. The lack of accountability and the ease of division allow for rapid momentum toward change. Not only that, due to the structure of digital connections, strife is much more likely on the internet than off.
+
+#### **A run on the bank**
+
+When a digital society makes a big mistake or an individual in such a society incites a successful rebellion the whole society can disproportionately suffer due to the currency exchange problem. Namely, an individual convincing a large number of their fellow citizens to join a new society may not only undermine that society's population, but the value of their currency.
+
+#### **The greater panic**
+
+As people leave the society, they'll seek to interchange the currency that they were using with a new currency. And the currency of the society in question will in turn lose its value. As others see the loss of the value of the currency, a panic to change currency with ordinary members not part of the rebellion may ensue. The end result is the sudden and dramatic loss of the value of a currency.
+
+### **Solutions**
+
+Several potential solutions exist:
+
+1. Restrictions on currency exchange speed.Restrictions on the speed at which currency can be exchanged for the society's currency and vice versa may lead to a less emotionally driven system.
+2. Currency unbound from societyA currency tied to more than one digital society, but active in an entire Accord, is more likely to hold its value, especially if the new society in question is part of or becomes part of the same Accord.
+3. Universal currency.A currency for all digital societies may be created.

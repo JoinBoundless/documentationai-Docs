@@ -1,0 +1,16 @@
+# Synapse reputation system
+
+## **Philosophy behind reputation systems**
+
+People on the internet are incentivized by the ease of movement to act in a much more shallow fashion to each other. This often leads to low-trust interactions and shallow communities. The perverse incentive must be offset in order to create a meaningful society with legitimate transactions.
+
+### **Ethical problems**
+
+It's easy for these reputation systems, when paired with the distribution of currency as they are designed to be, to be turned into an oppressive system of censorship and control. Therefore, two key safeguards are at play:
+
+- Reputation is limited to the digital society in which it was earned.It is strictly illegal for another digital society, national government, jurisdiction or entity subject to Cyber Sovereignty to require one to reveal one’s reputation in one society to get access to a service in another.
+- Individuals cannot be restricted from moving their Digital Gold from one society to another even when a case against an individual is won within a digital society.
+
+### **Technical challenges**
+
+Reputation systems that create value for individuals subject to them will seek to be manipulated via exceedingly human-like AI.

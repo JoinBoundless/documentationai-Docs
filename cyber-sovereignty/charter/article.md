@@ -1,0 +1,679 @@
+# Charter of rights of the network generation ⭕
+
+We believe every human being, regardless of race, creed, or nationality, is equally and inherently valuable and that human dignity demands certain fundamental rights.
+
+These rights are intended to limit government both digital and national from infringing on people's humanity and dignity.
+
+## **General charter rights**
+
+### **(1) Freedom of speech**
+
+We believe every person should have the right to speak their mind without fear or hindrance.
+
+**Speech limits**
+
+Speech should **only**be limited by calls for *direct physical* and *not emotional* harm or offense.
+
+**Disallowed**
+
+- Direct calls for violence
+- Planning, coordinating, or conspiring to commit crimes
+- Perjury
+- Filing a false report or making a false statement to police or government
+- Spreading classified information
+- Contract violations
+- Deliberate, ongoing, and malicious harassment
+- Libel and slander (civil suit), excluding SLAPP suits
+- The limits of a private establishment on it's own private property.
+
+Examples of direct calls for violence:
+
+- **Allowed:**"John is a cursed human being who would be better off dead."
+- **Banned:**"Bob should go to town and hit John."
+
+**Allowed and protected speech**
+
+- Criticism of political leaders and public figures
+- Religious debate and critique
+- The critique of deeply held ideas and values
+- Advocacy of controversial scientific or historical theories, ideas and opinions
+- Satire and parody
+- Bigoted, hateful statements
+- Speech that provokes emotional discomfort and offense
+- Speech that challenges democratic ideals
+- Speech that indirectly leads to self-harm without explicit encouragement
+- Every other form of speech not explicitly banned here.
+
+Limits in the name of preserving public order, dignity, or public morality are explicitly banned.
+
+**Clarification**
+
+To be clear, everyone has the right to seek, receive and impart information and ideas and share opinions through any medium without hindrance by any government or directly or via proxy, provided that speech does not cause actual tangible harm beyond offense, indignity, psychological harm, emotional discomfort or similar.
+
+#### **(1.1) Freedom of expression**
+
+We believe every person has the right to express their identity, beliefs, and values through their appearance, art, actions, and associations without fear or hindrance.
+
+The limitations and protections on expression follow the same theme as listed in the Freedom of Speech above.
+
+**Protected expression**
+
+- Artistic and symbolic critique of power and authority.
+- Wearing of religious, political, or ideological symbols and attire.
+- Creation of art that explores, critiques, or reinterprets deeply held ideas and values.
+- Public performance, street art, and installations that challenge societal norms.
+- Personal appearance and lifestyle choices that dissent from the majority.
+- Expression that is widely considered offensive, immoral, or in poor taste.
+
+**Limits**
+
+People may only be limited in the right to express themselves inasmuch as those expressions directly cause harm to others. To be clear, this does not include emotional or self-inflicted harm, or harm to morality or dignity but tangible harms.
+
+Such harmful expressions are only able to be limited where provided for by codified law.
+
+**Values**
+
+In the same way, people should be able to have and express their values without interference, provided that they do not cause tangible harm.
+
+### **(2) Freedom of access**
+
+We believe all people have the fundamental human right to access and traverse the internet and consume it's information without fear or hindrance, equally.
+
+**Limits**
+
+The limits must be:
+
+1. Protected private spaces such as company servers not meant for public consumption
+2. Reading plans on how to build a strategic weapon of mass destruction.
+
+**Allowed access**
+
+- Copyrighted content
+- Pornography of all kinds
+- Materials from divisive ideologies
+- All other content not listed here.
+
+**Application example**
+
+- Enforcement must focus on those who distribute protected content, not consume it, unless individuals are invading a protected computer.
+
+### **(3) Freedom of association**
+
+We believe people have the right to connect with others online without fear of repercussions.
+
+### **(4) Freedom of action**
+
+We believe people have a right to the freedom of action. The ordinary actions of life, activism, organization, trade and commerce should be free from excessive scrutiny or interference.
+
+**Philosophical basis**
+
+When law limits the freedom of an individual to be an individual, the law itself becomes an offender.
+
+**Implied details**
+
+Implied within the freedom of action is the clarity of law.
+
+Implied within the freedom of action is the inability to be judged by a law or a body of law that cannot actually be followed.
+
+### **(5) Freedom to benefit from one's own labor**
+
+We oppose unreasonable restrictions on the ability of an individual to profit from their own labor.
+
+**Unreasonable**
+
+At least 60% of the value a person generates should be retained by that individual.
+
+### **(6) The right to privacy**
+
+#### **(6.1) Privacy**
+
+Every person has a right to privacy from government intrusion. This right protects your private information, communications, and property, whether physical or digital. This protection applies regardless of where your data is stored or if a corporation or group holds it for you.
+
+Governments may not require, directly or by proxy, biometric or similar data of individuals without a warrant.
+
+**Optional details**
+
+Governments may require that you show up in person for certain functions such as voting. They may confirm your identity by looking at you and looking at your driver's license, for example.
+
+#### **(6.2) Warrants & evidence**
+
+To conduct a search, the government must get a warrant based on probable cause. The warrant must specifically name the person, place, or digital account to be searched and the precise information or items to be seized. The search must be strictly limited to the warrant's purpose. Any evidence of unrelated crimes discovered during the search is confidential and cannot be used to investigate or prosecute anyone.
+
+The government may not obtain any data through third parties such as companies without a warrant.
+
+#### **(6.3) Pretextual prosecution**
+
+No court may engage in pretextual prosecution, namely, an investigation begins with a person or group rather than a crime. Governments must prove when they began to investigate the crime and pre-date that to the gathering of intelligence on person(s) in relationship to a crime.
+
+Targeting of an individual for their status, beliefs, exercise of rights or other protected activities is strictly prohibited.
+
+****Optional details****
+
+**Exception for terror**
+
+In cases where the government believes that a real and present threat of a mass casualty event exists, it may cite this rather than a particular crime as a motive for the investigation of individuals closely linked to the issue at hand.
+
+It may begin the investigation immediately, and then within 48 hours, it must get a warrant to continue. This warrant must be issued not from a favorable judge but from the judge most relevant to the individuals being surveilled as decided by proximity to those individuals.
+
+It should document its rationale and provide it in trial.
+
+If the warrant is not issued, the investigation must be dropped immediately and all information deleted and all findings must be treated as if they never existed.
+
+Only if this warrant is validated can the investigation continue. The warrant must specifically state the reasons for the investigation and how long it will continue with a fixed and reasonable end date with the maximum of one month being given until another judge must reauthorize the collection of data.
+
+Each time reauthorization is required, a new warrant must be issued from a different judge than the original, based on relevancy of proximity to the individuals investigated.
+
+If the individuals are mostly international, then proximity of location is no longer relevant. In such cases, one must look at the nation in which the individuals are located. Find a state/province that starts with the same letter (or closest in alphabetical order) in the primary national language of the national jurisdiction that is doing the investigating, ask the most southeastern judge by location in that state/province and if a new warrant must be issued, they must find the most northwestern judge. Each new warrant must be issued by the judge furthest from the judges selected so far within the same state/province.
+
+The investigation in question may not lead to the arrest of individuals on reasons for which they were not originally targeted, namely, as part of a terrorist plot.
+
+E.g. One can't arrest a hit man for tax evasion just because one has got the right to investigate.
+
+All these must be documented meticulously since they're subject to review by a Global Neutral Jurisdiction as a court of appeals in all such cases.
+
+**Acts of war**
+
+No such constraints are placed on an international conflagration in which two self-declared nations are at war.
+
+This includes civil wars in which national separation has taken place with each side having actual military control over part of an original territory.
+
+At no point does the lack of constraints include the ability to investigate or surveil one's own citizens without a warrant unless a condition that poses a clear, imminent danger to the fundamental survival of the nation or the lives of a substantial portion of its population, and which cannot be averted by any lesser means exists.
+
+Such a condition must be approved after four days by the JBT and the JBT must specifically articulate criteria which must continually be upheld for the condition to remain and set a date of review or frequent dates of review, at least monthly, by which this condition must be judged by the JBT to as continuing to be real.
+
+**Pretextual prosecution protection for politically-active or public figures**
+
+In any case where a defendant, prior to indictment, is a well-known public political figure or otherwise well-known public ideologue, a whistleblower, or someone undermining the power of the national government through what they create, or someone who is by nature of their action opposing a matter that the government is likely to be in favor of (e.g. cutting the pay of judges), such individuals have a special right invoke a defense against pretextual prosecution.
+
+In such cases, the obligation is on the government to prove with clear and compelling evidence that the investigation is not pretextual beyond a reasonable doubt.
+
+A jury then listens not only to the evidence of the crime, but also to the reasons the defendant believes they were unfairly targeted, such as for their political beliefs. This forces the jury to decide if the case is about legitimate justice ("find the crime, then find the person") or a targeted attack ("find the person, then find a crime").
+
+Should the jury feel the prosecution is fundamentally unfair, a tool being used to silence someone, they are empowered to find the defendant "not guilty." Their verdict becomes a final judgment on the integrity of the prosecution itself, regardless of the minor facts of the case.
+
+In cases in which no jury is present, a judge must have the first ruling. However, if the value of the case is over $3,000 USD 2024 equivalent, or potentially causes the bankruptcy of an individual, or more than 3 months in jail, then the individual has a right to a jury in which this question can be used as a defense.
+
+To exercise this right, the defendant must mention that they believe they have been unfairly targeted. All parts of the system of justice must comply with the discovery requirements necessary to prove that a defendant was unfairly targeted in a timely manner.
+
+#### **(6.4) Encryption**
+
+All people have the right to create, use, and possess untampered encryption without government interference or interception.
+
+#### **(6.5) Spying by proxy**
+
+A nation may not work with other countries or corporations to buy or obtain large-scale data of any sort on their own citizens. They may receive individual data on an individual citizen with a warrant or a very small group of individuals from an allied nation and act on it.
+
+#### **(6.6) Government data deletion**
+
+If a party is found innocent of crime, the government must delete all data it obtained in relation to that case.
+
+#### **(6.7) The right to anonymity**
+
+We believe all users of the internet should have the right to access, associate, and speak online without revealing their identity unless they choose to do so. This right is essential to preserving the other rights.
+
+#### **(6.8) Exceptions**
+
+- Border controlEvery national government has the right to control the physical flow of individuals in and out of their country as they wish and to search non-nationals when they seek to physically enter their country or to search anyone to protect a mode of physical travel, like airplane travel, from reasonable harm. They may not use this right to search to require their own citizens to give up their private information such as through the downloading of the contents of their phone.
+- Spying between nations 
+One country's officers may investigate non-nationals or visitors from other countries without a warrant.
+- Plain viewIf evidence of an unrelated crime is found in plain view when dealing with one crime, that evidence may be seized without a warrant and charges may be filed accordingly. Pretextual prosecution is a defense if the evidence of an unrelated crime was deliberately looked for to pin on an individual rather than stumbled upon.
+
+### **(8) The right to digital property**
+
+We believe all people deserve the right not to be arbitrarily deprived of the value or ownership of money or property without due process of law.
+
+**Details**
+
+Every individual has the right to own and control their property. This right shall not be infringed by any requirement for state-issued permission to engage in ordinary economic life, nor shall it be burdened by unjust restrictions.
+
+- **The right to transact and convert**
+Every individual has the right to freely move, transfer, and convert their property to any other form, and to use any mutually agreed-upon medium of exchange, including other national currencies, commodities, or digital assets, for all private debts and transactions. The state cannot restrict this right, but it retains the authority to define the required medium of exchange for the payment of taxes and fees for government services. No individual shall be compelled to provide an account of assets held outside of national government control, nor shall any restriction make the utilization of such assets so cumbersome that they lose their value.
+- **Protection from unjust seizure**
+The seizure or restriction of property by the state is prohibited without a criminal conviction of the property's owner. This prohibition does not prevent a law enforcement officer from seizing property that constitutes direct evidence of a specific crime upon a lawful arrest, nor does it prevent the seizure of property to neutralize an immediate and articulable threat of violent harm. Any other pre-conviction seizure requires a warrant from a public court, based on a standard of probable cause that the specific property is the direct instrument of a violent crime.◇
+- **The right to sound money**
+The national government is prohibited from engaging in any monetary policy that results in a debasement of the national currency by more than 5% in a single year, as measured by a broad-based basket of consumer goods and assets.
+- **The right to financial privacy**
+The state is prohibited from mandating the mass, non-specific reporting of financial transactions. The surveillance of an individual's financial activity requires a specific warrant, based on probable cause of a specific crime.
+
+**This might be my second time taking on civil asset forfeiture in point two, so you might want to look at if there's a duplication here. That's unnecessary.**
+
+### **(9) Parental supremacy**
+
+The right of parents to direct the course of their children's upbringing is paramount.
+
+### **(10) The right to due process of law**
+
+We believe every person has the right not to be deprived of these rights and freedoms without full due process of law. Namely, every one has the right to know the charges against them, to a fair hearing and legal representation, and to adjudication by impartial jury in the case of the deprivation of their rights.
+
+**Right to jury**
+
+Jury trials are considered excessive for minor offenses, defined as those involving less than the value of $3,000 or a potential sentence over three weeks. For all other major cases, the accused has the right to request a jury trial at no cost.
+
+- (1) Nullification
+The court must instruct the jury that they have the power of jury nullification. This instruction shall clarify that while the jury is expected to apply the law as written, they have the ultimate power to return a "not guilty" verdict if they believe a conviction would be unjust.
+- (2) Impartial jury selection
+During jury selection, if the judge grants a prosecutor's motion to dismiss a juror "for cause," the defense has the right to issue a "juror's veto." This veto immediately and irrevocably overturns the judge's decision, and the juror is seated. The defense may use this veto a maximum of two times during the trial. No further procedures may be used to invalidate the value of the juror's veto.
+- (3) Good faith defenseIn all cases involving 3 months jailtime, or serious penalties which would be the equivalent of a $30,000 fine or more, defendants have the right to argue that what they did was for the good of the community regardless of what the law says.Juries have the right to be made aware that they are allowed to weigh in through a not guilty verdict on the integrity of the law, not only if the individual broke it.The judgment of the jury is broken up into two separate events.First, they decide if the individual was guilty of the crime, something in which unanimity is necessary.After this, they separately decide if the law and not the individual was at fault. And if 60% of jurors agree that the law was at fault, the defendant is acquitted.
+The defendant has the right to argue their motive, the public interest and the injustice of the law and violations of the Charter by the law as a part of their defense. The judge must instruct the jury that it may consider these arguments when reaching its verdict.
+- (4) Evidence, if classified, shall be handled under procedures that prevent its public disclosure while ensuring the substance of the argument can be presented to the jury. The defense attorney, however, has the right to the to all the knowledge that the prosecution has and has the right to blow the whistle if kept from arguing their case on balance with the prosecution due to classification.
+- (5) The right to a fair jury poolIn any case brought by a national government against a person*, the defendant is guaranteed the following rights where the case is worth more than $30,000 or a year in prison. The defendant has the right to file one pre-trial motion for a "blended jury pool." The court must grant them 72 hours to reach out to their digital society. The digital society has the right to allow or deny this, but they must respond within 72 hours with a decision on their intention. And they may relay to their Accord if they feel the case is just, but they don't have the resources to pursue it, and this grants the Accord one week to accept. If granted, this motion requires the court to select at least 50% of the jury pool from the defendants Accord, if the digital society is part of one. The national government bears costs of their transport and lodging where digital connection does not suffice.
+
+#### **(10.1) Prosecutorial misconduct and judicial oversight**
+
+No instance of prosecutorial misconduct may be overlooked or minimized by a judge. Every credible allegation or observed instance of prosecutorial misconduct must trigger:
+
+- Immediate documentation on the record,
+- Mandatory referral to an independent disciplinary body, and
+- Full investigation and prosecution where warranted. Judicial failure to address such misconduct shall itself constitute grounds for reversal, mistrial, or judicial discipline.
+
+#### (10.2) Against lying in court
+
+No person, whether witness, prosecutor, law enforcement officer, or other party, may provide knowingly false testimony or evidence in any proceeding under this Charter.
+
+Every judge must:
+
+- Immediately place on the record any observed or credibly alleged instance of false testimony,Halt proceedings if necessary to address the issue, and
+- Refer the matter automatically to an independent disciplinary or prosecutorial body for investigation.
+- Penalties must be sufficient to deter future perjury.
+
+**(10.2.1) Reversal for perjury**
+
+Where a criminal prosecution against the defendant relies in material part on testimony or evidence later determined to be knowingly false, and the case against the defense is dismissed, acquitted, or otherwise materially impaired as a direct result of that falsity, the person who provided the false testimony or evidence will be subject to mandatory criminal prosecution for perjury or related offenses.
+
+Upon any judicial finding, whether by acquittal, dismissal, or evidentiary grounds, or post-conviction relief explicitly identifying the false testimony as one of the causes of relief, the court will immediately refer the matter to an independent prosecutorial authority. That authority will be required to initiate criminal charges with no discretion to decline the prosecution, absent a judicial determination that the falsity was not knowing or material.
+
+### **(11) Innocent until proven guilty**
+
+The right to be considered and treated as innocent until proven guilty.
+
+Every suspect or accused person, no matter their jurisdiction, has the right to be treated with human dignity unless they are proven guilty of a crime. Any infringement of such a person's utmost dignity must be strictly and demonstrably necessary to achieve a legitimate law enforcement objective.
+
+For example:
+
+- A police officer may use force to tackle a fleeing suspect despite the fact that they may be innocent.
+- A jail cell may have barred windows to prevent escape.
+
+Moreover, individuals subject to an infringement of their rights due to one of these necessities must have it specified.
+
+However, no potentially-innocent person may be subject to inhumane treatment.
+
+### **(11) Standard legal rights**
+
+Every individual has the right to be judged according to the standard legal rights:
+
+- The right to not be charged under a law created after the fact.
+- The right not to face repeated legal action for the same offense after a final judgment.
+- The right not to face repeated legal action for an issue that has already been judged.
+- The right to a punishment that fits the offense.
+- The right to the equal application of the law to all people.
+- The right to a consistent and predictable application of the law.
+- The right to remain silent and not be forced to incriminate oneself.
+- The right to confront and question one's accusers.
+- The right to call witnesses in one's own defense.
+- The right to a speedy and public hearing.
+- The right not to be held in detention without a lawful reason.
+
+### **(12) Government by proxy**
+
+No government shall seek to undermine any of these rights by encouraging companies, entities, autonomous AI, individuals or similar to violate them in their stead.
+
+### **(13) Maligned incentives**
+
+No person shall be subject to the enforcement of law or justice in such a way in which judge, jury, or enforcement body or any other mechanism of government has an incentive to do the person harm.
+
+**Example**
+
+For example, if under any system judges are promoted by the number of people they convict, they would be more likely to convict people.
+
+Human beings have the right to be subject to a system of law and justice which incentivizes neutral, fair and dispassionate legal treatment.
+
+In the same way, a person under prosecution has the right to understand the incentive structures of the system facing them and to defend themselves on the basis that the incentive structures are aligned not for a neutral execution of the law, but one that is perverted in favor of a negative outcome for the defendant. This perverted incentive structure must be significant, distinct and provable.
+
+#### **(13.1) Cooperation**
+
+No person will be subject to a judicial process in which two parties designed to be separate, e.g. the prosecutor and the judge, fraternize, cooperate or have aligned incentives.
+
+### **(14) Everyone is subject to the law**
+
+All persons, including government officials, are equal before the law and subject to the same penalties; any exception to this rule must be narrowly defined by law and apply only to actions taken strictly within the necessary and lawful scope of an official’s duties.
+
+#### **Interpreted by the public**
+
+The right of a person*, in legal interaction with their national government, to appeal to the people's interpretation of the Charter is sacrosanct.
+
+To be clear, in general, cases based on the Charter will be judged by case-law.
+
+However, if the action is by a national government against a person, that person has the right to appeal to the "people's interpretation" provided they can pay a reasonable fee for such an interpretation to be produced.
+
+A fair and representative sample of individuals from the jurisdiction (their digital society is considered their prime jurisdiction), from which the defendant comes, will be given all the Founding Documents with the relevant sections highlighted to read by the defending party's lawyer, explained the case at hand by the judge, and asked by the the judge to interpret them. This group may comment on any part of the case at hand, and their comments are the binding interpretation of the Charter on matters in which the group is unanimously agreed.
+
+Such an interpretation will take precedence over any judge's interpretation in that jurisdiction for that case in defense of that party.
+
+The defendant may choose the company that gathers and surveys the people and may receive a quote from that company, but must pay the court who in turn pays the company. If the court finds the company unacceptable, three other companies may be suggested by the defendant. And the court can pick the one they desire. ⁂
+
+**Details**
+
+The results of surveys themselves done over time should represent the established interpretation of a particular right. However, if an individual is able to pay a reasonable sum for a new survey, having a choice of venues to have the survey completed, they may be judged in accordance with that survey's findings. The defendant gets to choose the service which gets the people's opinion.
+
+Reasonable restrictions on what a valid jurisdiction is such as, how long the defendant has been a member of said jurisdiction, may be imposed by a judge. Although the judge does not get to choose those who take the survey, they may impose reasonable restrictions on the individuals participating in the survey to ensure they have no pre-existing knowledge of the case or relationship with the defendant and similar reasonable restrictions.
+
+### **(15) Limits on regulatory bodies**
+
+- Regulatory bodies must be subject to the same oversight and accountability of standard legislation.
+
+**The problem with regulatory bodies**
+
+As societies become more and more complex, the different areas that need to be regulated in themselves grow in enormous complexity and therefore governments are tempted to delegate the regulation of a particular sector of economy to a particular regulatory body.
+
+These regulations themselves act as laws, imposing fines, restricting actions, etc. But, are often not subject to the same level of scrutiny.
+
+- Regulators are not subject to elections.
+- Mandates are often broad.
+- They lack judicial oversight.
+- Widespread regulatory capture (the biggest players influence the regulations, to the detriment of all the others.)
+- Regulatory codes contain hundreds of volumes of tens of thousands of pages of dense technical rules, making the clarity of law impossible.
+
+**Limits on regulatory bodies**
+
+No pressure or limit may be placed on the total freedom of action outside of a private home, life or establishment without codified law. In other words, the law must be written, relatively static, and well circulated. 
+
+The rules of regulatory bodies must be explicit, specific, unambiguous and clearly authorized by law. In other words, it must be interpretable by a reasonable person. It can't be overly broad. And it must have a legal basis for it's existence in law. 
+
+Regulatory bodies must have a clear reconnection to subjugation by the people and the wishes of the people. 
+
+Regulatory bodies must outline reasonable fees or punishments for violations prior to enacting them.
+
+Regulatory bodies are subject to veto from legislators if a nation has them.
+
+Regulatory bodies must not be allowed to regulate speech and expression.
+
+Regulators cannot work for the industries they regulate within five years or receive value from those industries.
+
+Regulatory bodies must provide a list of regulations and must create a system by which AI can read that list and give people a "Sure Statement" of whether or not the action that they intend to do violates the regulation. This Sure Statement is a complete defense in court against regulatory action. However, regulatory bodies may revoke Sure Statements after they are issued or after they are found to be a useful defense in court, provided the party is given reasonable time to step back from the actions done under the assurance of the Sure Statement before being held accountable.
+
+### **(16) Process as punishment**
+
+No government shall impose on people a process of justice which leaves them reasonably unable to take advantage of the defenses provided by the Charter and the adversarial system of the courtroom other than in ways mentioned by the Founding Documents.
+
+**Underlying philosophy**
+
+Cyber-sovereigntists believe it is unjust to have a process of justice in which an accusation is weaponized as a means of separating an individual from their property or inflicting other direct or indirect harm as a means of punishing an unconvicted individual or creating an incentive for an innocent person to enter a plea bargain. 
+
+No state may weaponize the legal process itself as a weapon to crush a party before they get a fair hearing.
+
+### **Context**
+
+The Charter represents a series of rights and procedures designed to protect the liberties of every member of digital societies. They are to be used by digital societies in the defense of their members from national government overreach. They can also be applied to digital societies when digital societies seek to use instruments of national states to implement a judgment.
+
+This Charter is intended to be appended to the constitution of nations in order to legalize Cyber Sovereignty. It is meant to take precedence over similar rights provided in that same constitution while not removing the already existing set of rights.
+
+## Limits on both digital and national government
+
+These laws are intended to protect people from emerging problems created by the evolution of digital society.
+
+### **(1) Data containment**
+
+- Every person has the universal human right to reject reputation systems. ‡
+
+- If a person opts into a reputation system or is given a reputation by any person or entity, they have the right to be promptly informed of it's details and given the right to and means to delete this data. ✧
+
+### **(2) Reputation containment**
+
+- People, they may not be required to use a reputation system under national government unless national governments obtain consent without coercion. National governments cannot gatekeep entitlements or rights behind any such systems.
+- Digital societies may require individuals that join them to use a reputation system under the strict condition that societal reputation is limited to the digital society in which it was earned.It is strictly illegal for another digital society, national government, jurisdiction or entity subject to Cyber Sovereignty to require one to reveal one’s reputation in one society to get access to a service in another or to gatekeep benefits behind such a revelation. This includes requiring such reputation systems to be revealed to get a job.
+
+## The limits of digital societies
+
+These limits are to be placed on digital societies by national governments in the ways prescribed in the founding documents.
+
+Only digital societies that [declare themselves sovereign](https://agora.joinboundless.org/cyber-sovereignty/creating-a-digital-society) and have 30,000 citizens, gain the benefits and responsibilities afforded through the constitutional amendment that codifies Cyber Sovereignty.
+
+### **Limited power to seize**
+
+Digital societies have the right to create arbitrary rules, even in violation of the General charter rights, in order to curate bespoke experiences.
+
+*For example, an immersive library may charge people a $10 fine for speaking too loudly in that library.*
+
+However, once there is a single digital society of 250,000 citizens, societies under 100,000 citizens would become limited in their ability to seize assets under their control to $2,000 USD 2024 in value per person, per year.
+
+Societies may however freeze such assets and given the permission of either the individual's national government or the nested parent digital society, through Charter-level due process, it may seize those assets.
+
+### **Utilizing the instruments of state**
+
+Any time a digital society seeks to utilize the instruments of state by having a judgement in a digital society enforced in a national state, it must comply with the full general charter rights.
+
+### **250,000 members**
+
+Once a digital society reaches 250,000 members, it may take full advantage of all of the rights of Cyber Sovereignty without the above limits.
+
+### **Nesting**
+
+Societies are required to find a guarantor, which is essentially a larger society, guaranteeing all financial assets in that society.
+
+The guarantor would act as an arbiter in cases between the digital society and it's members. Members could appeal to the guarantor society for redress in case of the seizure of assets or any restrictions or rules placed on the individual.
+
+The decisions of the guarantor would be final. Guaranteurs are financially responsible if the smaller digital society fails to meet its obligations.
+
+This is a summary of a much larger provision [listed here](https://agora.joinboundless.org/cyber-sovereignty/further-checks-and-balances).
+
+### **Mass arbitrary seizure**
+
+A mass arbitrary seizure is a seizure in violation of general charter rights that impacts 0.3% of a digital society and this seen to be out of proportion with the crime committed.
+
+Any mass arbitrary seizure results in legal standing being given a complaint under a national court.
+
+### **Movement of Digital Gold**
+
+Individuals cannot be restricted from moving their Digital Gold from one society to another even when a case against an individual is won within a digital society by a digital society.◎
+
+### **(1) The Golden Law**
+
+The Golden Law as listed in the [implementation blueprint](https://agora.joinboundless.org/cyber-sovereignty/the-organization-of-digital-societies) along with the Laws of Precedence.
+
+> Every individual possesses the right to create, copy, choose from, abstain from, or transfer between digital societies, without hindrance, coercion or penalty from any physical or digital entity provided they become a citizen of only one digital society. Citizenship requires meaningful and updated consent.
+
+**Detailed nuances of The Golden Law**
+
+#### **Of sound mind**
+
+Due to a long history of governments mislabeling people as mentally ill, including women who were seeking a career in the early 1900s and recently homosexuality. People must have the right to take advantage of the Golden Law regardless of who is labeled as being of a sound mind.
+
+Namely, anyone able to live independently and 16+ must have the right to leave any digital society and take advantage of The Golden Law.
+
+#### **Digital justice**
+
+The Golden Law should not be interpreted to undermine the accountability of an individual or corporation for their deeds within a particular society but should give reasonable ground for a society to enact it's form of justice.
+
+If an individual commits something listed as an offense in a digital society, that digital society will have the right to take that case all the way through to completion including seizing digital assets and expelling a person from that society.
+
+#### **Defining hindrance**
+
+Simply the friction of leaving a society could be considered a hindrance if interpreted too broadly. Instead, this provision seeks to undermine the deliberate attempt to lock in an individual in a society by legal contract (even by a corporation in a society) or by other deliberate means. Asking members of society to move funds to a bank within that digital society should not be considered a hindrance provided those terms and amounts are clearly understood by the individual. As some societies may take the approach of receiving a grantee to ensure if the individual breaks laws. 
+
+No amount of coercion used by a national government to force someone to join or leave a digital society is considered reasonable.
+
+#### Speed of change
+
+A person can only change their digital society once every six months maximum. They can leave their society at any time but if they join a new one, they simply create more jurisdictions and laws they're subject to, while invalidating the legal benefits of being part of any of those societies.
+
+### **(2) Protection of children**
+
+Governments have a long history of interfering in the raising of children that's abusive and unacceptable.
+
+**The recent history of serious abuse of families by governments**
+
+From forced abortions to taking people's children without a jury's verdict, to genocide against native peoples, the recent history of abuses of government toward children is incredible. 
+
+**Canada’s residential schools**
+
+- For over a century, the Canadian government took more than 150,000 Indigenous children from their families. Their language and culture were forbidden, and abuse was widespread. Reports of forced sterilizations are as recent as 2018.
+
+**UK's Tavistock gender clinic**
+
+- In 2022, a review found it rushed children into life-altering medical treatments without proper care.
+
+**Modern child protective services overreach**
+
+- In the West today, children can be taken from loving families based on a single anonymous call, a disagreement with doctors, the choice to homeschool, or for simply being poor, with a judge only getting involved after a social worker has already separated the family.
+
+Cyber Sovereignty upholds the right of the parent to be ultimately responsible for their children. However, the need to protect children, who cannot consent to a digital society, but can become members because of their parents decision until they are 16, must not allow for the abuse of children.
+
+Therefore, national governments are given the right to investigate and prosecute those who physically❋ or sexually abuse children without regard to a digital society's laws.
+
+National governments can rule a digital society's official status for their nation if that digital society is seen to be created for the purpose of the physical or sexual abuse of children provided they win a case against the society in a court set up by the the jurisdictional boundary tribunal for that purpose.
+
+**Distinguishing boundary**
+
+National governments do not have a role to forcibly educate or influence children against their parents consent, nor is a lack of education considered neglect.
+
+Parents should be allowed to raise children by their own tradition and values, or in the common customs of past generations, imbuing their children with their ideals and directing the life growth and well-being of their children according to their own standards and values. 
+
+National governments shall be found to have no case in which parents are raising children honestly according to their own values, even if those values lead those children down a path unaccustomed to by society.
+
+National governments shall only make cases against parents in which children are physically abused (not just physical discipline), or sexually abused or if the children ask for and continue to consent to help.
+
+### **(3) Singular citizenship**
+
+Though an individual may join as many societies as they wish, they may only take advantage of the rights and obligations of Cyber Sovereignty in one.
+
+### **(4) Real consent**
+
+The principle of real consent must not be undermined.
+
+Cyber Sovereignty believes that the only legitimate grounds for government power is consent. Consent is a real and thoughtful decision to agree to a series of ideas or system of rules for which there are genuine alternatives.
+
+Consent should be:
+
+- **Freely given:**The decision must be made without coercion, or significant penalty for refusal. The individual must have a genuine choice.
+- **Informed:**The person consenting must be provided accurate information and must explicitly state that they have read that information.
+- **Unambiguous:**The act of consenting must be a clear, affirmative action. Pre-checked boxes or consent implied from inaction (e.g., "if you don't opt-out, you consent") are considered invalid.
+- **Updated**: Consent must be re-obtained if one party changes the terms.
+
+Consent does not have to be:
+
+- **Granular or individualized**: A person can consent to a whole host of laws, ideas, and rules at the same time.
+- **Power-balanced**: The parties do not need to be of the same standing.
+- **Comprehensible**: It's the responsibility of the individual to employ the help necessary to go through the meaning of documents.
+- **Time-limited**: Consent does not need to be updated as long as the original terms have not changed.
+
+#### **The right to access reports**
+
+After 1 year of operation of a digital society and before further individuals can be considered citizens, that digital society would be required to clearly and explicitly show all future citizens the list of citizen reviews and peer-society reports on that digital society.
+
+#### **The right to notice of new laws**
+
+Sometimes a society needs to create new laws that apply to those who are in the society but may not be active. But they still need to consent to the law. In that case the individual has the right to a real decision in that regard.
+
+Digital societies have the right to immediately implement preventative measures when a new law passes, such as stopping people entering a virtual world. However, no punitive action, such as fines, penalties, or the seizure of assets, may be enacted for violating that law until it has been reasonably widely published for a period of at least 90 days.
+
+Those who leave the society within those 90 days are not subject to laws passed within the 90 days.
+
+**Legal nuances**
+
+Consent may be challenged in a national jurisdiction's court if not obtained in the above-mentioned manner. The judge in question must define "reasonably widely published", based on feasible standards comparing the practices of other societies and on their reports as mentioned in the footnotes of the [Core concepts](https://agora.joinboundless.org/cyber-sovereignty/legal-concepts-of-cyber-sovereignty).
+
+### **(5) Conflicts of interest**
+
+Those who are involved in making the laws of a digital society and those who have any significant influence over a digital society may not be subject to the laws they make⁑, as their duty is to their members, not to make laws that favor themselves.
+
+The rule is that corporations and individuals who have a conflict of interest in the leadership, lawmaking, and financial backing of the digital society cannot take advantage of that digital society's laws.
+
+They can, however, join a different digital society and be subject to its laws.
+
+### **Implementation**
+
+If any of these laws have been violated by a digital society,
+
+### **Recognized exceptions**
+
+This is a list of highly technical exceptions or changes of interoperation of existing exceptions intended in specific circumstances.
+
+**Necessary exceptions**
+
+The rights listed in this Charter are not intended to infringe upon these commonly understood necessary exceptions as they are commonly understood today. Most of these will not translate to digital circumstances and should not be interpreted as doing so.
+
+**Exceptions related to searches and seizures**
+
+1. **Exigent circumstances**
+In situations of immediate and overriding danger, such as the hot pursuit of a violent felon, a house fire, or hearing cries for help from within a residence, officers may enter a private space and conduct a limited search without a warrant to protect life or prevent the imminent destruction of critical evidence.
+2. **Search incident to a lawful arrest**
+Upon making a lawful arrest, an officer may search the arrested person and the area within their immediate control. This is permitted for two reasons only: to find and remove any weapons the person could use to harm the officer or escape, and to prevent the person from hiding or destroying evidence related to their crime.
+3. **The automobile exception**
+Because vehicles are mobile and have a lower expectation of privacy than a home, an officer who has probable cause to believe a vehicle contains evidence of a crime may search it without a warrant.
+
+Check this.
+
+1. **Consent**
+An officer may conduct a search without a warrant if they have received voluntary, uncoerced consent from a person who has the authority to grant it for that property or space.
+2. **Inventory of impounded property**
+If property, such as a vehicle, is lawfully seized by the government, officers may conduct a thorough inventory of its contents. This is not to search for evidence of a crime, but to create a record to protect the owner's property and to protect the officers from false claims of theft.
+
+**Exceptions related to due process and speech**
+
+1. **Public safety questioning**
+The right to remain silent does not apply when an officer is questioning a person to neutralize an immediate and ongoing threat to public safety. For example, an officer may ask a suspect who has just been arrested, "Where is the gun?" before reading them their rights if there is a danger it could be found and used by someone else.
+2. **The right to anonymity**
+Individuals are not required to produce identification to use the internet, but their identity, if provided, may be uncovered if part of a lawful investigation protected by all the other rights listed here.
+3. **Proceeds of crime**
+The right to benefit from one's labor does not extend to profits gained from criminal activity. The government has the right to seize any and all assets that are proven to be the direct proceeds of a crime for which a person has been convicted provided the proceeds are returned to society, not the seizing institution.
+
+**Mixed exceptions**
+
+- **Child welfare**
+The right of parents to raise their children as they see fit means the government must get parents permission to deal with cases of neglect.
+- **Truthfulness**
+Officers of the law are required to be truthful and represent the law honestly in interactions with the public. They cannot lie about evidence or a person's rights or use deceit as a weapon against a law-abiding individual. 
+This rule does not prevent an officer from concealing their identity during an undercover operation that is formally authorized and documented in advance as part of a specific investigation. However, the moment an officer reveals their authority to make an arrest, this truthfulness rule fully applies. 
+Undercover operations may not place threats or significant pressure on individuals to commit a crime directly or via a motivated informant.
+
+***, ❋, ⁑, ‡,✧,◎ legal**
+
+***A person in this context is any single individual, whether represented by a corporate shield or not, and any entity whose annual turnover is insignificant (average salary of person in national jurisdiction times four).
+
+Be aware that trade and commerce, especially for corporations, should happen on established and predictable foundations. The goal of this provision is not to significantly undermine that fact.
+
+Specifically, the right of corporations to take advantage of the people's interpretation is limited by the JBT's approval with a mandate on the JBT to ensure that trade and commerce is established on a predictable foundation.
+
+❋ To be clear, simple physical discipline, which creates no physical harm, is not considered a form of abuse that national governments can intervene for.
+
+⁂ If there are not three companies within that jurisdiction, more, then whatever company is left is the company that will be used. If there are no companies, then a company from an Accord will suffice, if there are none, then the court chooses the method to have this carried out.
+
+⁑ When there's a case between two members of a digital society and one member in their defense of their rights pushes that case to their national system, then the digital society may be required to comply with (discovery) an investigation into if the party in question has too much influence over the nation's laws or the digital society's laws to benefit from those laws as a matter of a conflict of interest. It's there that a judgment can be made about what constitutes too much influence. 
+
+In every case in which this document mentions a process in which an individual or person has rights, any party would have those same rights, whether that party represents a group of people or just a single individual.
+
+The court may bar that same company in question from doing future surveys for that court alone if the court believes proper procedure was not followed and outlines this publicly.
+
+^Some provision must be made for the case in which an individual is detained and makes that detainment area unsanitary for other people to inhabit, and yet no other sanitary detainment center or holding cell is available. Otherwise, in a cell might be a form of denying it, or denying the government's ability to hold anyone during a large-scale protest or roundup of individuals.
+
+This condition may only extend for a maximum of two days.
+
+‡ This does not include the removal of reviews published by other citizens, in fact it explicitly precludes it. This right does not necessarily extend to corporations or similar legal shields.
+
+✧ JBT's have the exclusive right to clarify this right. One single international standard must be set by most JBT's in order for any clarifications by any JBT to be valid. At least a majority of JBT's must agree for a standard to be set. The standard must simply **clarify** these principles:
+
+People should be given reasonable access to reasonable tools to delete their data in reputation systems within 60 days. Attempts to destroy entities that are not societies or governments by mass deletion campaigns are not considered valid.
+
+Synapse's built-in tools are considered the full requirement of this need, with no further imposition on digital societies if they choose to use Synapse.
+
+◇ In cases where the state can demonstrate probable cause that specific assets are about to be used to facilitate a specific and imminent act of violence, it may obtain a temporary, pre-charge seizure warrant from a judge through a secret, ex parte proceeding. This warrant and the evidence supporting it must be made public and reviewable in an open court within a strictly limited time frame, such as 72 hours, unless a judge makes a specific finding that doing so would create an immediate threat to human life, in such a case, the deadline may extend 180 days total.
+
+◎ Digital Gold refers to specifically the money used in Synapse. If another fork of Synapse becomes more popular than Synapse, then that fork will also get the protection of Digital Gold.
+
+**Extraneous notes**
+
+> Freedom to benefit from one's own labor We oppose unreasonable restrictions on the ability of an individual to profit from their own labor. Unreasonable At least 60% of the value a person generates should be retained by that individual.
+
+### **On the freedom to benefit from one's own labor**
+
+By nature opting to pay more voluntarily, for example in your digital society, is not an unreasonable restriction.
+
+## **Defining the Charter**
+
+The Charter is not only this document but also all documents found under the category [Charter](https://agora.joinboundless.org/cyber-sovereignty/sub_W6lGg/charter).
+
+## **On Synapse legalization**
+
+Cyber Sovereignty has been created to work hand in glove with Synapse. Therefore, if anything is the default functionality of Synapse, it is legal under Cyber Sovereignty if Synapse had the functionality before Cyber Sovereignty has been officially codified into any nation state’s constitution. To be clear, if Synapse, the version of Synapse adopted by 60% of digital societies or more, is the same one that allows for Digital Gold to be redistributed to the treasury of digital societies when an individual has no gold storage and holds on to gold for 30 days, this is not considered a taking.
+
+This right does not extend to a malicious exploit placed in Synapse, or something that goes against the spirit of the Charter and was not originally intended to be part of Synapse or has been placed in by a foreign power or otherwise maliciously injected into Synapse by a non-digitally aligned entity.

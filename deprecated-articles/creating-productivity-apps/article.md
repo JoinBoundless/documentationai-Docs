@@ -1,0 +1,19 @@
+# Creating apps
+
+Synapse will act pretty similar to a storefront or app store with a whole bunch of different applications people can find and select via categories, and download and install.
+
+When creating apps for Agorans think about the sort of apps Agorans might use.
+
+Apps can help Agorans be:
+
+- Productive
+
+Help Agorans finish World Lab tasks for example.
+- Creative
+
+Think Blender, Photoshop etc.
+- Informed
+
+Think Ground News
+
+The closer the app integrates with [Agora's ethos](https://agora.joinboundless.org/ethos/the-philosophy-of-a-people) the better.

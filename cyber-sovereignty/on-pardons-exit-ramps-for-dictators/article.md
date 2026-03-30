@@ -1,0 +1,44 @@
+# Sovereign Amnesty
+
+## **Sovereign Amnesty**
+
+### **Sovereign Amnesty initiator**
+
+Sovereign Amnesty is a declaration by an individual or group that they are an authoritarian and that they need this method to off-ramp to a freer state.
+
+It can also be offered by the nation's highest court to a leader and their associates.
+
+### **Sovereign Amnesty irrevocability**
+
+Sovereign Amnesty of former leaders and up to 300 of their cronies cannot be undone:
+
+- By new laws
+- By new leaders
+- By a change in the Constitution
+- By attacking them in other ways.
+
+### **Multi-jurisdictional Sovereign Amnesty**
+
+Once Sovereign Amnesty is granted to an individual, that individual cannot be prosecuted in either their national or digital jurisdiction for their past crimes or even if new crimes are uncovered provided they happened before the declaration.
+
+They are legally immune internationally for these acts, specifically, everywhere Cyber Sovereignty is declared.
+
+### **Conditions**
+
+The individuals that declare Sovereign Amnesty for themselves and those for whom it is declared are barred from taking future positions in the government in which they declared it and in any other government where they are citizens.
+
+If done under a national government, this Amnesty is conditioned on the restoration of the form of the type of government that first instituted Cyber Sovereignty along with the form of Cyber Sovereignty that was instituted initially. It cannot be a means of passing power from one authoritarian to another.
+
+## **Thesis**
+
+A thesis like this explains the reasoning by which this provision was created but is not part of the legal provision itself. It helps interpret the provision.
+
+Inevitably, an authoritarian leader may arise at some point in an otherwise free system. This authoritarian leader may step in for any number of reasons. Some valid, but many not. However, if they have it in their heart to step down, they are prevented by doing so by the nature of a totalitarian regime, which requires oppression of dissidents to survive. Therefore, they must hold on to power forever in order to prevent their own prosecution.
+
+It's more important that the society go back to a free state than the wrongs done to the people of the society be perpetuated because those in charge can't revert it without, destroying the power base that keeps them alive.
+
+This is why authoritarian leaders must have the power to pardon themselves and their cronies irrevocably because if they don't they have no exit and must destroy the whole society merely to stay alive.
+
+### **Cyber Sovereignty creates jurisdiction complication**
+
+This can happen within both digital jurisdictions and in physical ones. Therefore, a provision must be made that if a person is pardoned, they cannot be prosecuted in a different jurisdiction for their crimes.

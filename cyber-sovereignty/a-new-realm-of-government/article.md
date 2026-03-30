@@ -1,0 +1,127 @@
+# A new realm of government
+
+Cyber Sovereignty proposes a new philosophy of government based on the foundation of real consent.
+
+## **Real consent**
+
+Today people consent to government rules simply by being born in a certain country.
+
+Citizens are:
+
+- subject to centuries-old laws and systems they neither shaped nor endorsed.
+- subject to someone else's rules just because more people voted for them.
+- subject to deeply-entrenched systems that tend toward corruption that are not curtailed simply by changing it's figureheads.
+
+Cyber Sovereignty fights for a government system of ***real consent***.
+
+Real consent is the right to:
+
+- select between functional government systems
+- reselect if unsatisfied
+- create and advocate for a working alternative.
+
+Consent means people have a real choice in the laws they live under. But how could that be done? How could people create a system that is truly controlled by and consented to by people?
+
+Imagine if before birth people were given a selection screen of different systems of laws and values they could choose to be born under. Each person would choose to be part of the system that best matched their values.
+
+A similar scenario has now become possible. The internet opens up a whole new set of possibilities in how people can organize and consent to government.
+
+## **The three systems**
+
+Cyber-sovereigntists believe government must be separated into three distinct jurisdictions to ensure our rights:
+
+1. National government - jurisdiction over matters that require national organization
+2. State and local government - jurisdiction over matters of local or subnational interest
+3. Digital societies - sovereignty over matters between their citizens that ***don't absolutely demand***national or subnational organization.
+
+Cyber-sovereigntists envision a new realm of government dedicated to protecting the rights of all those who access the internet no matter where they are from.
+
+Namely, people from around the world with shared values and ideas would join together and create a form of government for themselves that operates within multiple national and local jurisdictions.
+
+[![An image showing two circles representing national governments and a third representing digital government that intersects with the other two circles.](images/img-001-b7dafdc10aa5.png)](https://cdn.eniston.com/bases/08b96173-96cd-4c3a-be91-7469eda5fea7/attachments/icwv4xo-1-_1754507422.png?width=1400)*The ideal outcome is not one, but a constellation of digital societies, each with citizens from around the world.*
+
+For example, a group of people in Argentina could work together with others in Germany and Kenya to create a digital society that allows them to more easily express their values of pure individual responsibility.
+
+Anyone can create, join, copy and move between digital societies regardless of where they are from.
+
+This new form of government would not be subject to the other two in matters between their citizens; it would be sovereign. Namely, these societies would be allowed to operate by their own laws within multiple countries without interference, provided the matter does not ***absolutely demand*** national/state organization.
+
+### **Contained effects**
+
+Where the effects are limited to people within the same digital society, the digital society’s rules would take precedence over local and national laws in those nations which have instituted Cyber Sovereignty by default.
+
+Let's say a digital society chose a rule such as driving on the opposite side of the road. Such a rule would directly affect other people outside of their society and therefore would require state-level organization, rendering the rule invalid.
+
+**National level**Requires national organization******Local/state/level**Requires sub-national organization**Local/province/state level**Requires sub-national organization**Sovereign digital societies**When effects affect only other citizens****Border controlTraffic lawContract lawAir travel regulationZoning, land useLabor lawEnvironmental regulation Public utility regulationConsumer protection lawEspionage and treasonPublic health regulationHealth regulations for citizensImmigration lawAnimal control lawCriminal lawNational defense lawLocal nuisance ordinancesPrivacy lawNational parks lawPublic assembly lawsFinancial protection lawsEtc.Etc.Etc.Naturally, digital societies will have laws that cover the same things as local jurisdictions, and in those cases their laws would only apply when two citizens of the same society are the ones affected.
+
+For example, a state and a digital society may have labor laws but those of the digital society only take effect for its citizens.
+
+#### **Moral foundation**
+
+- If, for example, a thief has joined a digital society in which thieves are punished severely, what moral right does the national government have to interfere, provided they stole from a fellow member?
+- If people in a digital society legalized a cutting-edge medical treatment, what moral right do national governments have denying this care, if *all effected parties*consent?
+- If two people enter an employment agreement and a digital society demands all employers provide health benefits, what moral right does a national government have to interfere, since both parties agreed?
+
+Consent, not reluctant acquiescence, is the only moral basis for legitimate government.
+
+****Lawyers only****
+
+Legally, this goes beyond arbitration. It is about every avenue of government that does not absolutely demand national or subnational organization.
+
+## **Open source government**
+
+Under Cyber Sovereignty, it would be the legal right of all people to be able to start, join, copy, or contribute to, any digital society they wish. Each society would be tailored and tuned to the needs of those who inhabit it, allowing different societies to provide for people's rights and needs in different ways.
+
+Just imagine the potential of a world where, rather than being subject to one monolithic, unresponsive, opaque physical government system, the power of the crowd is used to discover a myriad of paths forward. Individuals would then "vote with their feet," choosing the society that has the best systems of law, welfare, values and justice.
+
+It's a marketplace of government in which digital societies have to compete for citizens by offering a better service.
+
+Those ideas which work will gain citizens, naturally expanding the reach of those laws until more and more people live under laws they choose themselves. New laws, designed and chosen by those subject to them, eventually taking precedence throughout the world.
+
+It's a new way, a better way, a way that brings humanity forward and defends our rights.
+
+**Lawyers only**
+
+Skip this section unless you are legally minded.
+
+This section details a mechanism that the legally-minded will want to understand.
+
+## **Fighting for the rights of humanity**
+
+Not only can digital societies allow for a different expression of rights and values, they themselves can ensure that people's basic human rights are advocated for within their national system.
+
+Here is how it works. Digital societies have the right to challenge any act taken by a government against any of its individuals if they feel the national government in question has undermined the fundamental human rights of their citizens as stated in the Charter (summarized earlier).
+
+### Intervention scenarios
+
+On the internet:
+
+- Access: The infringement of the natural human right to traverse the internet.
+- Speech: The infringement of the natural human right to speak one's mind online.
+- Privacy: The attempt to take away our freedom and right to privacy through constant surveillance.
+
+In the physical world:
+
+- Non-citizens: Just because someone does not have citizenship where they reside, doesn't mean they're not a human being with rights to dignity and due process.
+- Debt: Just because someone is born in a country does not mean the government can take crippling debt out on their behalf.
+- Forfeiture**:****Just because many national laws allow the seizure of *assets*by charging the *assets themselves*with a crime (civil forfeiture) does not make this any less an infringement on human rights.
+
+Cyber Sovereignty stands for the natural human rights and dignity of every person by advocating for an adversarial system in which one form of government defends us from another.
+
+In Cyber Sovereignty, one's digital society will be like one's lawyer in court, somebody who fights for them against a system too often predisposed to favor itself at the one's expense. If a national government abuses someone's rights, their digital society has the right to defend them according to the Charter. 
+
+Cyber Sovereignty is a cry for the human dignity and rights of every individual, no matter where they're from. It's an ambitious defense of what we all value most, via a system designed from the ground up to create real justice.
+
+## **A call to collaboration**
+
+Although Cyber Sovereignty will become political as it seeks to have its ideas implemented, its urgent call today is for people everywhere to start by creating digital societies in its name, which work without changing today's laws. The goal of these societies is to demonstrate the potential of digitally-organized communities and discover which facets of government can be better organized online.
+
+This is a call to every willing person to explore the power of connection by designing digitally organized societies dedicated to mutual aid, joint education, wellness, etc**.** In this manner they demonstrate the power of digital connections before initiating a mass movement to advocate for the implementation of a new system of freedom driven by real consent and true popular sovereignty.
+
+Cyber Sovereignty calls on technologists, legal scholars, ethicists, community organizers, and ordinary citizens to join us in discovering a path forward where humanity is no longer divided into hostile camps fighting for control, but one where diverse communities can flourish side-by-side, governed by consent rather than by reluctant acquiescence, and where the power of digital connectivity is harnessed for a richer, more harmonious, and freely chosen human experience.
+
+## **Implementation action plan**
+
+In our next article we cover what digital societies will look like and how Cyber Sovereignty intends to use political action to implement its ideals.
+
+[Continue to the implementation action plan>>](https://agora.joinboundless.org/cyber-sovereignty/the-organization-of-digital-societies)

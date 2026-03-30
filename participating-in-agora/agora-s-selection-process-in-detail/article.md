@@ -1,0 +1,57 @@
+# Agora's selection process in detail
+
+## **How it works (currently)**
+
+1. A person applies for Boundless.
+2. They get assigned to World Lab where they check out the different digital societies and their projects.
+3. They join a team in World Lab to work on one of the projects. *They are now called a prospective team? Or a team of prospective citizens? A start-up team? Better name?*
+4. During their time in World Lab, teams filter out members they may not want to proceed with due to integrity concerns. After project completion, teams will not be able to join Agora if any team member still has such concerns about any of the other members.Citizens of Agora can downvote any person who shows concerning behavior.The teams which hold on to those citizens cannot join Agora. The key is that the team has the ability to expel any concerning members — They don't know who votes against them, but they do know their team, and they can prevent their team's loss by expelling members of concern.Every team is assigned one specific ethical standard bearer who is given explicit instructions on how to remove other team members if they show a lack of integrity.The team evaluates all of their own members at the end of the time and the job that the standard bearer has done. Agora may reject any individual team member based on the feedback of other team members.A process is set on a bi-weekly basis to evaluate if the team should grow or shrink or not.Once a project is submitted, the individuals are committed to that team.
+5. Once they have successfully entered into Agora, the team members do not become citizens yet. They are now a probationary team that is automatically under the authority of the group that mentored them on the way in. These groups are groups of teams called Demes.
+6. At this point they also qualify to become volunteers of Boundless, if requested.
+7. To become actual citizens of Agora, the team must mentor two new teams that have just joined World Lab, and help one of these or a third team advance to citizenship. These tasks are fulfilled in addition to the project they have chosen to work on for their Digital Society.Mentoring a new team involves teaching them about Agora and Cyber Sovereignty, as well as our values.If possible, they should choose to mentor teams that they naturally align with.Only if the new team successfully finishes their project and joins Agora (?) a Digital Society, do the members of the probationary team advance to permanent citizens. They are welcome to mentor more than one team to increase their chances. They can also help create a new team in World Lab, which they then proceed to mentor.Advancing a new team involves organizing a brief evaluation process culminating in a formal ceremony. When there are no teams to advance, this second requirement is waived.
+8. Once a team has met these two requirements, and the team they mentored has successfully reached probationary status, the team members become approved citizens and advance to citizenship with the help of the last team that advanced to citizenship before them. In addition, if the team has not been added to a Deme due to lack of availability, they will now form a new Deme together with the team they mentored. This may be needed since Demes can be no larger than 180 members.
+9. As new citizens, they can now create new projects or approve projects that are suggested by prospective or probationary teams. These projects should be non-commercial.
+10. When their Deme acquires more than 180 members, the(Super)Deme holds elections to vote on two Deme leaders and the large (Super)Deme splits in two. Reaching this milestone, these new Demes gain the right to create and approve commercial projects, and teams within the Deme are allowed to move to another Deme if desired.
+11. Once the new Demes that resulted from the split again reach 180 members, they can create their own Digital Society, which involves total freedom, with no limits to growth, creating their own institutions, collecting taxes, becoming incorporated, and enjoying a limitless platform to connect and market new apps and other products.
+
+*ADDITIONAL INFO/STEPS STILL TO ADD:*
+
+*Do Deme leaders need mentoring before taking leadership of Deme?*
+
+*If so, are those mentors people who want to start their own DS and need to do this as requirement?*
+
+*“180 cut off Deme must not collapse mentorship chain” Which chain? For team mentoring or Deme mentoring?*
+
+*I DON’T KNOW WHERE THESE TWO LINES OF YOURS GO*
+
+1. Agora wants doers so it tracks people doing something humanity centric
+2. Agora is filtering for integrity so it creates a system by which people who lack it are identified and filtered out
+3. How are Deme Leaders selected? Deme Leaders are selected by the fact that they mentored another team in, or by the fact that they were elected by their teams.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+## **How it works (currently)**
+
+1. A person applies for Boundless
+2. They get assigned to World Lab
+3. They check out the different digital societies and their projects.
+4. They join a team in World Lab to work on one of them.
+5. During their World Lab project they will not be able to enter into Agora, after the project is complete, if any person has a concern about the integrity of any of their membersCitizens of Agora can downvote any individual that shows concerning behavior.The teams which hold on to those citizens cannot join Agora.The key is that the team has the ability to expel any concerning members — They don't know who votes against them, but they do know their team, and they can prevent their team's loss by expelling members of concern.Every team is assigned one specific ethical standard bearer who is given explicit instructions on how to remove other team members if they show a lack of integrity.The team evaluates all of their own members at the end of the time and the job that the standard bearer has done. Agora may reject any individual team member based on the feedback of other team members.A process is set on a bi-weekly basis to evaluate if the team should grow or shrink or not.Once a project is submitted, the individuals are committed to that team.
+6. Once they have successfully entered into Agora, they become a probationary team, not yet permanent citizens.
+7. They also then qualify to become volunteers of Boundless, if they are requesting it.
+8. To go from a probationary team in to actual citizens they must mentor they must mentor a new team that joins World Lab and help one team ascend to citizenship.The team they help ascend is not necessarily the same team they mentor. It's just a team that needs help in the ascension process. Sometimes there are no teams to ascend and they can be excused of this responsibility by their Deme.They are automatically onboarded onto something called the Deme, along with their ascension into citizenship.Mentorship involves teaching that new team about Agora and Cyber Sovereignty and our values.They should choose to mentor teams of people that they align when possible.Only if the team successfully finishes their project and joins Agora, does this probationary team ascend to become permanent citizens of Agora (each member individually becoming a citizen).They are welcome to mentor more than one team since it increases their chances.They can also help create teams in World Lab to mentor.
+
+1. Once a team has mentored another team and that team has become a probationary team the those two teams form a Deme.The team that ascended to citizenship before them is in charge of the evaluation and ascension ceremony.
+2. Once a Deme has
+3. The mentoring team is not only mentoring the newest team but they are working on a project for Agora assigned to them by Agora as a volunteer for Boundless.
+
+1. Agora to successfully joining a Deme in Agora or creating their own, they must mentor a new team that joins World Lab.
+
+1. Once they assened to citizenship they have the option of working on their own projects?
+2. Demes are
+3. XX
+4. XX
+5. XX
+6. Invite others
+7. Synapse rights
+8. Prospect

@@ -1,0 +1,92 @@
+# Participating in Agora: Update needed
+
+Agora is the only digital society that is directly started by Boundless to fulfill Boundless's mission and to incubate and demonstrate the power of Synapse.  To participate, you must understand [Boundless's vision](https://articles.joinboundless.org/vision).
+
+## 1) Read the Boundless [vision](https://articles.joinboundless.org/whitepaper/the-problem)
+
+If you are not technical, don't be afraid, understanding all of it is not a requirement to participate. Reading it once however, is essential.
+
+A key understanding is that synapse is both, a personal ecosystem that allows users to bring their data between experiences, and a toolbox to create such experiences.
+
+*As of now, Synapse is still being created within Agora.*
+
+## 2) Identify which part of Agora you are going to work on
+
+Warning this is now out of date.
+
+The projects we work on at Agora can be broken up into 5 parts:
+
+- (a) Social games for citizensExample: A social game for 4 players where each passes personality trait cards to the person they think fits each trait best.
+- (b) Social apps for citizensExample: A social network where people share links to articles and books on building social networks and the best ones get served up by a number of upvotes.
+- (c) Productivity apps or software for citizensThese tools can be anything that boosts productivity on Agora projects—but they should offer unique value rather than duplicate what's already freely available (e.g. perdomo timer).
+- (d) Community app ideas for SynapseExample: A trading system where Agora users exchange goods or services using a shared currency.
+- (e) Interoperability protocol for SynapseNA: You must be authorized to do so as a volunteer of Boundless.
+
+Since Agora runs entirely on Discord, and people are often in voice calls, it's easier to make your ideas social by building on that real-time connection.
+
+## 3) Make sure your idea fits with Agora's ethos
+
+Although Boundless focuses on a pluralistic digital space in which different ideas are championed by different community leaders, Agora is all about demonstrating the power of online connection.
+
+Agora targets values that will demonstrate the potential of an online society like ours to the world.
+
+- **H**armony: Too much of today's social media divides people, Agora is all about **positive connection**
+- **O**ptimization: Agora aggressively pursues excellence through individual and collective growth
+- **P**ositivity: Agora focuses on positive and uplifting experiences
+- **E**mpathy: Agora celebrates kindness and humanity—we choose to joyfully sacrifice our time to volunteer to help others.
+
+Any media (interactive or static) must follow our [content guidelines >>](https://agora.joinboundless.org/participating-in-agora/content-guidelines)
+
+## 4) Understand how Agora works
+
+Agora is in its early stages and currently based on Discord until Boundless: Synapse launches. Everyone meets on a regular basis in voice chat to work on projects and to participate in social events. 
+
+Once Synapse is up and running, it will act as an online store in which people unlock access to different social games, apps, and features based on how well they connect with others in Agora. For now, projects can be standalone or integrate with Discord.
+
+Boundless does not provide any infrastructure and does not require you to create within it's repos for the open source projects people create in World Lab for their first 60 days here. Simply create your own repository on a platform like git and begin programming.
+
+## 5) Understand which phase of contribution you are in
+
+In Boundless, everyone starts as an open source contributor, not an actual volunteer. They remain this way for 60 days before either leaving organization or becoming a volunteer for Boundless.
+
+Other Poleis follow the same approach—after 60 days, they must bring you on in an official role.
+
+**Legal: The difference between a volunteer and an open source contributor**
+
+An open source contributor takes initiative to support an online project on their own terms and schedule. Critically, Boundless is not legally responsible for the actions of such people.
+
+By letting anyone—portfolio or not—prove themselves in World Lab, we open opportunities for those who might not otherwise get a chance to volunteer with us.
+
+Aside from a minor legal distinction, both volunteers and open source contributors can significantly impact our mission.
+
+Anyone during their 60-day Initial Contribution Phase can start a new Agora open source project or join one already in progress. As long as they finish a project, with or without a team, they qualify to move on to the next stage.
+
+## 6) Starting a project or finding one
+
+Until you are a volunteer for Boundless: Agora, you can only work on (a)-(d).
+
+Learn about the specifics of working on a particular project by clicking on one of the following, but be sure to return here to continue our checklist.
+
+- (a) [Social games >>](https://agora.joinboundless.org/deprecated-articles/social-games)
+- (b) [Social apps >>](https://agora.joinboundless.org/future-proposition/creating-social-apps)
+- (c) [Productivity apps >>](https://agora.joinboundless.org/deprecated-articles/creating-productivity-apps)
+- (d) [Community app ideas for Synapse >>](https://agora.joinboundless.org/deprecated-articles/incubating-synapse-community-applications)
+
+You can find interesting projects that Agora is interested for people to do in Project Requests:
+
+[![Image](images/img-001-ca1a1b23f9d9.png)](https://i.imgur.com/YnXJMfJ.png)Look for projects which mention the word "Agora" and see if anyone else is working on it by checking for recent replies. If there hasn't been an update or reply on the thread within a week you can know that the project is free to be worked on.
+
+1) Find Project Requests****2) Look for posts with "Agora" as a prefix
+3) Look at recent replies
+
+[![Image](images/img-002-5e876b213d38.png)](https://i.imgur.com/hHAOGD3.png)A lack of replies means the project is open, but don't wait for a reply if there are others active. Simply move on to the next available project idea.
+
+## FAQ
+
+**Can we create media projects?**
+
+Yes, videos which actively focus on our values and highlight them are welcome.
+
+**Can I contribute if I'm not a programmer?**
+
+Yes, you may join a team in any other capacity based on that team's needs.

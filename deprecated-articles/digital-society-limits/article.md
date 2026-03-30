@@ -1,0 +1,449 @@
+# Evolution of digital societies & required rulesets
+
+Cyber Sovereignty is partly inspired by the woeful overreach of newly christened online safety laws designed to protect children.
+
+Parents everywhere are aghast at the reality that the society that their children are growing up in is shaped by a totally unfiltered internet filled with increasingly horrific sexual exploitation video games, mass market pornography and violence. This has created political will towards a solution that is wide spread. However, in places like the UK, the government is being made the ultimate arbiter of what can and can't be accessed on the internet.
+
+This has led to a new censored internet in the UK, which blocks essential information including:
+
+- Protests
+- Spotify music
+- Breaking news
+- People asking questions to do with sexual health
+- Gaza/Israel situation
+- Reddit forums including:
+
+r/period
+r/stopsmoking
+r/stopdrinking
+r/sexualassault
+
+## **Censorship for all, not just children**
+
+Social media algorithms tend to amplify content which gets engagement. When a particular piece of content is age-restricted, whether it should be or not, its viral potential often dies. Each piece of content is like a forest fire and age restricting that content, even in a single nation, acts as a firebreak. Since the content is not getting engagement, it gets overtaken by other uncensored content which is getting more engagement. Each post is competing for engagement to get the right to be surfaced but the regional fire breaks kill the viral potential of that content before it can spread.
+
+Whether intentionally or not, it makes the government the decider of what everyone in society sees, including adults.
+
+## **Honest desire**
+
+Parents are tired of their children being exposed to pornography, horror and violence online and that created an impetus for new laws to protect children from a totally uncensored internet. To be clear, it's not unusual to find sexual exploitation video games being advertised in freely downloadable seemingly kid-friendly apps and Youtube videos targeted at children that are horror-focused.
+
+> I never allow myself to have an opinion on anything that I don't know the other side's argument better than they do. - Charlie Munger
+
+However, any legislative solution to this problem assumes that one set of values can be imposed on the entire internet.
+
+LGBTQ+ content, sexual education or criticism of religion are examples of content that different people believe is appropriate from children and not.
+
+To have the government decide for all of society what's appropriate for their children is to have one set of values imposed on everyone from the top down. Not only is such a system extremely vulnerable to abuse (stolen generations in Australia, Hitler Youth Germany, communist re-education), but such as system, no matter which values it espouses, kills the freedom of society to choose it's own values at its inception.
+
+What if Christians complain that atheistic content is not appropriate for children?
+What if the LGBTQ+ plus community complains about certain religions?  
+What about what Muslims consider blasphemy?
+Is an article containing communism dangerous political indoctrination?
+Is a video on safe needle use promoting drug use or potentially saving a kid's life?
+
+And why are we banning pornography anyway? There are some people that believe it's horrific and others who don't. Just because some people in a society agree on something, even if it's the vast majority, doesn't make it right to impose it on everyone else.
+
+## **Censorship is inevitable**
+
+## **Cyber sovereignty and a better way**
+
+Cyber sovereignty proposes that instead of imposing one set of values on all society, people can divide up into groups that reflect their values and create laws accordingly. One group may decide that a whole lot of content is not age appropriate for their children, and may create platforms for their children to reflect that.
+
+Another group may decide that religious content is inappropriate and decide not to allow it.
+
+Unfortunately, the sheer horror of what's being marketed to kids, including horror videos and sexual exploitation games (sometimes as ads in kids' video games), is driving a backlash so strong that it attacks the very core of the internet itself.
+
+Therefore, only two options remain. To censor the internet entirely, or to create a ministry of truth that decides what gets shown to people and what does not.
+
+Cyber Sovereignty seeks to modernize an archaic and stifling physical government system with a new three way system but to do so it must create robust safeguards to ensure digital societies don't get abused.
+
+It's important to remember that although digital societies are just scattered group of people living in physical societies, many of the things that may draw them together are matters of share values, ideals or technological functionality.
+
+## **Single-facet societies**
+
+At first, many digital societies will be like classrooms, workplaces and hangouts and as such, those societies will require rules which fit their limited environment.
+
+For these sorts of digital societies, special flexibility must exist to allow them to curate the experience in question. An immersive library, for example, might require everyone to speak in a whispering voice.
+
+Such digital societies require arbitrary rules to create the experience in question. These are not matters of rights but functionality.
+
+No one has the right to intervene in these societies. And they are the complete domain of their owners, without exception.
+
+## **Multi-faceted societies**
+
+Eventually, as these societies grow, they will begin to become the home of multiple workspaces, classrooms, social hubs, etc. run not by just the society but it's members. These are considered multi-faceted societies and they will naturally begin to write a body of rules related to their society as they face issues.
+
+### **Internal laws**
+
+These rules will generally be designed to manage the society's internal user experience while not taking any precedence over national laws. For example, a digital society may enforce rules banning advertisements in their community. However, it's not trying to take precedence over local broadcast advertising laws.
+
+Penalties are limited to matters the digital society already has control over such as expelling a citizen from the community. Banishment and seizure are the maximum walls! No threats to reputational harm or sanctions blocking others from doing business.
+
+### **External laws**
+
+If the digital society explicitly outlines a law as designed to take precedence over local laws, even if only applied between members of the same digital society, those are external laws.
+
+For example, a digital society may make a law specifically allowing pharmaceutical advertising, which is illegal in most countries.
+
+When a society makes such external laws, it's considered a physical-impact society.
+
+Obviously, one would have to wait until Cyber Sovereignty is officially implemented in physical law un their home country for these external laws can carry any weight or meaning. 
+
+## **Physical-impact societies**
+
+Physical-impact societies have benefits and limits.
+
+### **Benefits**
+
+Cyber Sovereignty, properly implemented, allows digital societies to render judgments which are valid in countries which adopt Cyber Sovereignty.
+
+- For example, if two members of the same digital society agree to a contract and one person violates that contract, the violator may have there wages garnished to pay back the other individual.
+
+Moreover, it allows digital society laws to take precedence in cases between a national government and their citizen.
+
+- For example, if a digital society legalizes the advertising of pharmaceuticals, which is banned in most nations, the defendant can defend themselves locally if the digital society allows such advertising and all the ads were shown to other members of the digital society (effects principle).
+
+### **Limits**
+
+#### **30,000 members**
+
+A digital society must reasonably demonstrate^ that they have a minimum 30,000 individuals who are citizens of only their society to take precedence in any law.
+
+This ensures that the system is robust enough to have been endorsed by 30,000 people.
+
+#### **Physical rights**
+
+A physical court may decline to enforce a judgment rendered by a digital society if the physical court finds that the judgment, or the process used to obtain it, infringes upon the fundamental rights afforded to the individual under national law.
+
+## **How digital precedence works**
+
+### **Criminal suits**
+
+While a national government has initial jurisdiction for preliminary enforcement and pretrial detention, a party has the right to assert digital jurisdiction at their first court appearance. The digital society named then has 72 hours to present evidence of the parties' citizenship and formally accept the case⁂, during which time the state's authority for detention is maintained. If it does so, it obtains the case; otherwise, jurisdiction permanently reverts to the state.
+
+**Why digital societies need criminal jurisdiction.**
+
+If digital societies didn't take criminal cases, governments which outlaw fundamental speech would still retain precedence. 
+
+Moreover, a strong incentive would be presented to criminalize more matters simply to increase national jurisdiction, as each power in existence often tries to maximize its own power.
+
+### **Civil suits**
+
+In a civil dispute, a physical court has initial authority to grant preliminary relief. If a party asserts digital jurisdiction, the digital society named then has 72 hours to present evidence of the parties' citizenship and formally accept the case⁂. If it does so, it obtains the case; otherwise, jurisdiction permanently reverts to the state.
+
+the authority to adjudicate a case automatically transfers to the relevant digital society once charges are filed.
+
+An individual charged by a national government has the right to formally assert digital jurisdiction, compelling the state to verify this status with the officially registered society before the case is automatically transferred.
+
+### **Digital assertions of physical jurisdiction**
+
+Digital societies have the right to freeze assets within the society and create restrictions until a party is granted a digital court appearance, something which must be done in 72 hours. At that first court appearance, the party may assert physical jurisdiction. 
+
+If the digital society disagrees with the assertion, the party in question may petition their local court for an expedited ruling on the sole question of jurisdiction. That court's decision is final.⤷
+
+### **Physical-impact societies**
+
+Eventually, digital societies will grow to the point where they deal with issues that require cooperation with physical governments to resolve.
+
+Example (1): A digital citizen steals millions of dollars from a corporation in their digital society.
+
+If the digital society had its own currency and wallets, it could decide to freeze money in this digital citizen's wallet to prevent it escaping. It would also naturally want to expel the citizen from the digital city-state.
+
+However, if it has laws on theft specifically stated as designed to replace physical laws, then it has the obligation to take on the prosecution of the individual in question.
+
+If the effects were contained entirely within the digital society, the individual would be tried according to the digital society's laws for their crime.
+
+In this case, it might be necessary for the person in question to face jail time. However, a digital society possesses no police force to arrest somebody, and no prison to lock them up.
+
+However, the courtroom may be a physical courtroom. The judge may preside according to their own discretion about the digital law.
+
+When a digital society seeks to take precedence over physical laws in any legal action, that's when it evolves from being a digitally-organized group to a form of government.
+
+It's then that, just like any government, it needs to be restricted by a Charter of rights.
+
+Officially, when a society creates a law which is intended or actually used to take precedence over physical society laws for matters between members, they must become subject the Golden Law's "meaningful and updated consent" provision.
+
+> **The right to notice of new laws**
+> Digital societies have the right to immediately implement preventative measures when a new law passes, such as stopping people entering a virtual world. However, no punitive action, such as fines, penalties, or the seizure of assets, may be enacted for violating that law until it has been reasonably widely published for a period of at least 60 days.
+> Those who leave the society within those 60 days are not subject to laws passed within the 60 days.
+
+**Legal nuances**
+
+Consent may be challenged in another jurisdiction's court if not obtained in the above-mentioned manner. The judge in question must define "reasonably widely published", based on feasible standards comparing the practices of other societies and on their reports as mentioned in the footnotes of the [implementation blueprint](https://agora.joinboundless.org/cyber-sovereignty/the-organization-of-digital-societies).
+
+However, since anyone can create a digital society, serious limits must be imposed on what forms of justice digital societies can implement.
+
+To be clear, digital societies can restrict and expel anyone within their own digital society, and seize their digital assets, according to their own means, decided by their own laws as per the agreement of their members. But if they require the assistance of a physical government to enact any form of justice, certain limits must be imposed.
+
+## **Limits of digital justice**
+
+These limits apply when a digital society seeks to commandeer the instruments of a physical state to deal with any legal matter.
+
+### **(1) Protected by national rights**
+
+No person shall face consequences for their digital actions which infringe on the rights granted to them by their physical government.
+
+To be clear, national governments have no right to interfere in digital cases, and digital societies always have precedents, but they do not have to comply with digital society court rulings they consider to be unreasonable in their own local laws.
+
+(2) Any garnishments or seziours must be reasonable to the crime and must be expilicity authorized and codified.
+
+### **(2) Freedom of speech**
+
+Human beings have a fundamental right to the freedom of speech.
+
+If the matter at hand is related to speech, and the speech in question did not direct physical harm to others or infringe on others rights In ways that go beyond emotional harm, then any further consequences are annulled.
+
+**Common speech limits**
+
+- Direct calls for violence
+- Planning, coordinating, or conspiring to commit crimes
+- Perjury
+- Flinging a false report or lying to police
+- Spreading classified information
+- Contract violations
+- Copyright & trademark
+- Repetitive, deliberate, malicious harassment
+- Libel and slander (civil suit), excluding SLAPP suits
+- The limits of a private establishment on it's own private property.
+
+Examples of direct calls for violence:
+
+- **Allowed:**"John is a cursed human being who would be better off dead"
+- **Banned:**"Bob should go to town and hit John."
+
+**Allowed and protected speech**
+
+- Criticism of political leaders and public figures
+- Religious debate and critique
+- The critique of ideas and values
+- Advocacy of controversial scientific or historical theories, ideas and opinions
+- Satire and parody
+- Speech that provokes emotional discomfort and offense
+- Speech that challenges democratic ideals
+- Speech that indirectly leads to self-harm without explicit encouragement
+- Every other form of speech not banned here.
+
+### **(3) Taxes, duties, fees & similar**
+
+In relation to taxes, fees, duties, and similar demands, no digital society may compel someone to give that digital society anything if the total burden of such demands combined with physical-government demands exceeds 40% of the income of the individual per year.
+
+### **(4) Freedom of commerce**
+
+The total burden of regulations that an individual must comply with when pursuing ordinary commercial activities must not be greater than an ordinary person can comply with, with the help of modern tools.
+
+For example, it's generally understood that someone wanting to be a hairdresser isn't also expected to raise capital and open their own salon. Therefore, regulations must be simple enough for one person to reasonably understand and follow.
+
+However, if someone is seeking to start a nuclear power plant, it's reasonable to create a large body of regulation, since starting one will require capital regardless allowing one to afford lawyers, and since the potential physically dangerous impact of the surrounding society is significant.
+
+Namely, the total regulatory burden placed on an individual by a digital society must be reasonable to the endeavor undertaken.
+
+### **(5) Individual judgement**
+
+A digital society can only charge individuals with offenses they themselves individually have committed.
+
+### **(6) The right against liability for inaction**
+
+No person shall be held liable for a failure to act, unless that person has undertaken a specific role or action that directly creates a legal duty to perform the act in question and is given reasonable notice and time to act and the demand is proportional obligation logically connected to the specific duties and scope of the role the individual has assumed.
+
+A person shall not be held liable for a failure to act, unless they have accepted a specific role for which the required action is a reasonable and expected duty, or the demand is proportional obligation logically connected to the specific duties related to the role.
+
+Moreover, the person must be given fair notice and time to comply.
+
+Example, a digital society cannot make a law that says everyone who doesn't submit Form A by June 5th will commit a crime. 
+
+Instead, the crime in question must relate to a paired action being taken by an individual. For example, if you run a gym in our society, you must submit Form A within 90 days.
+
+### **(7) Reporting**
+
+No person shall be required to report anyone else in their digital society for any reason.
+
+### **(8) Whistleblowing**
+
+No person may face consequences for whistleblowing on company or digital society activities, to physical authorities.
+
+### **(8) Pretextual prosecution**
+
+When pursuing a case against an individual, digital societies must provide evidence that the case being pursued is not being pursued instead of a more direct action.
+
+For example: Locking up a murderer for tax fraud.
+
+Reasoning: Everyone breaks the law on a regular basis, and therefore, reasonable protection must be created against the pursuit of frivolous laws people break on a regular basis, being used against them, to silence them.
+
+A digital jurisdiction may not pursue charges against a person secondary to their initial investigation.
+
+### **(9) The right to notice of new laws**
+
+Before a law is considered passed, it must be reasonably widely published to the community in question and available for at least 90 days.
+
+### **(10) Single society reputation**
+
+No punitive action may be enacted against a person based on their deeds reputation in another society.
+
+### **(11) True consent**
+
+Citizenship in a digital society requires the highest possible level of consent from those who choose to be citizens. Ideally, citizenship should be given time to contemplate and ascended to in a public ceremony with witnesses.
+
+Judges may call into question if consent was meaningful if matters don't ascend to a similar high standard.
+
+### **(2) X**
+
+x
+
+### **(2) X**
+
+x
+
+### **(5) Freedom of association**
+
+### **(2) Quantity of law**
+
+x
+
+### **(2) Punishment in line with crime**
+
+x
+
+### **(2) Must have been a crime at the time**
+
+x
+
+### **(2) For the good of the community. Defense.**
+
+x
+
+### **(2) Law was made not by people,**
+
+x
+
+### **(2)****Freedom of action, trade, commerce**
+
+### **Freedom of belief.**
+
+x
+
+### **(2) X**
+
+- **The right against unreasonable searches and seizures.**
+A digital society's authorities cannot search a person's body or property without a valid reason or a proper warrant.
+
+### **(2) X**
+
+- **The right against retroactive law.**
+A person can only be judged by the law that was in effect at the time of the action.
+
+### **(2) Common legal rights**
+
+No digital society may infringe on the common legal rights of individuals as listed:
+
+- **The right not to be held without lawful cause.**
+A digital society must justify to a judge its request to have a person physically detained.
+- **The right to access exonerating evidence.**
+The prosecution must disclose any evidence it finds that could help prove the accused person's innocence.
+- **The right against selective or vindictive prosecution.**
+The decision to charge a person must be based on evidence of a crime, not on a discriminatory motive or as retaliation for exercising a legal right.
+- **The right to notice of the charges.**
+A person must be formally told what specific law they are accused of breaking and the basic facts of the accusation.
+- **The right to be considered innocent until proven guilty.**
+The accuser has the full burden of proving the case; the accused is not required to prove their innocence.
+- **The right to a speedy and public hearing.**
+A digital society cannot hold a person in legal limbo, and the proceedings must be open to public scrutiny.
+- **The right to a hearing before an impartial adjudicator.**
+The judge or jury deciding the case must be free from bias or personal interest in the outcome.
+- **The right to legal representation.**
+- A person has the right to have a lawyer assist in their defense.
+- **The right to remain silent.**
+A person cannot be forced by a digital society to provide testimony or evidence that would incriminate themself.
+- **The right to confront one's accusers.**
+The accused has the right to see, hear, and challenge the evidence and testimony presented against them.
+- **The right to present a defense.**
+The accused has the right to call their own witnesses and present exculpatory evidence.
+- **The right against double jeopardy.**
+A person cannot face repeated legal action for the same matter after a final judgment has been reached.
+- **The right to a proportional punishment.**
+The consequences of a guilty verdict must be reasonably related to the severity of the offense.
+- **The right to the equal application of the law.**
+The law must be applied consistently to all people, regardless of their status or identity.
+- **The right to a consistent and predictable application of the law.**
+Courts should rule in a stable way, allowing people to rely on established legal precedent.
+
+- 
+
+- 
+- 
+- The right to not be charged under a law created after the fact.
+- The right not to face repeated legal action for an issue that has already been judged.
+- The right to a punishment that fits the offense.
+- The right to the equal application of the law to all people.
+- The right to a consistent and predictable application of the law.
+- The right to remain silent and not be forced to incriminate oneself.
+- The right to confront and question one's accusers.
+- The right to call witnesses in one's own defense.
+- The right to a speedy and public hearing.
+- The right not to be held in detention without a lawful reason.
+
+**Legal nuances ^, ❋**
+
+^ "Reasonably demonstrate" is a relative term that should apply to the best systems being employed by societies without requiring a global human register of individuals with identity verification. 
+
+The intention is that corporations and individuals who have a conflict of interest in the leadership, lawmaking, and financial backing of the digital society cannot take advantage of that digital society's laws.
+
+**⁂, ⤷ Legal details**
+
+⁂ Wrongful acceptance opens the digital society up to a lawsuit by the national government in the jurisdiction in which a court in question challenges the society's official status and claims of citizenship.
+
+Any challenge to a digital society's conduct must be pursued in the largest available digital jurisdiction willing to take the case.
+
+The maximum penalty for the digital society is the revocation of its ability to claim legal precedence in the national jurisdiction in question. Monetary damages cannot be awarded.
+
+For the purposes of all deadlines, time shall be counted in calendar days; however, if any deadline expires on a weekend or a public holiday recognized by the physical court, the deadline is automatically extended to the close of the next business day.
+
+⤷ Wrongful revocation of jurisdiction opens the physical society up to a lawsuit by the digital society, in the largest digital jurisdiction willing to take the case. 
+
+The penalty for the court in question is the revocation of its ability to claim legal precedence against digital societies in the future or related courts within that province or subnational state. Monetary damages cannot be awarded.
+
+**===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============**
+
+## **Article Leftovers**
+
+**===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============****===============**
+
+#### **Conflict list**
+
+The society must keep up to date❋ a list of members and corporations who have a potential conflict of interest with the society's leadership and funding.
+
+❋ The society should choose a widely-trusted, unconflicted third party which who's duty is to ensure the list is accurate and up to date and who is given reasonable investigative power. This list should be available to courts in the case of legal matters. It's up to the digital society whether to keep that list publicly published or not. And if it's not public, the court must agree to keep it private before handover.
+
+#### **(2) Protection by physical laws**
+
+An individual has the right to dispute actions taken against them by a digital society provided their national government has grated them a right the digital society is infringing on. They must do so in the court of that society first and then they may appeal to their physical jurisdiction if/once the digital court rules against them.
+
+## Why multifaceted societies can't have more limits.
+
+If cyber-sovereignty imposes any other limitation on a multi-faceted society, for that multi-faceted society to exist, then it would hamstring its ability to ally itself with the world's present digital societies, to create a movement for cyber-sovereignty, in that digital communities are not going to vote to impose more rules on themselves.
+
+If any further limitation is imposed on digital societies which follow cyber-sovereignty, the incentive would be for every digital society to avoid cyber-sovereignty as a concept and just run a corporate top-down society..
+
+- 
+
+**Other examples**
+
+If the digital society legalizes a radically different form of education for the children of those in the digital society, provided the parents' consent, this version may overrule in various jurisdictions.
+
+### 
+
+Speech
+
+Values
+
+Banking
+
+What about in member vs DS cases?
+
+be internal, codified within terms of service and not designed to manage people's life outside of their interactions within these online venues. Digital societies can use the threat of expulsion and the deletion or seizure of community-managed assets as a threat of force to enforce its rules. However, depending on the types of assets, they may be limited in what they can do.
+
+Because digital societies are subject to physical laws, and almost every national jurisdiction has contract consternability statutes,
+
+These societies have the right to create their own rules and act according to the terms of service that they have their members sign provided whatever those members agree to is legal in their own jurisdiction. Almost every national jurisdiction has contract-conscionability statutes, which make it so that these agreements must be reasonable.
+
+The key is that the lawgiver does not make laws to favor themselves. Since digital societies are subject to national laws, they can't create abusive laws which favor their own position. This force tempers multi-faceted societies.

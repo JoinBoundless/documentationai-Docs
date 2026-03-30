@@ -1,0 +1,162 @@
+# Hoverboards and home
+
+## **Hoverboards**
+
+### **Underlying thesis**
+
+It can be hard to get a group of people aligned, looking at the same thing and going the same direction in a virtual space.
+
+### Application
+
+Hoverboards in Synapse have a few interesting attributes:
+
+1. Hoverboards have a length that automatically expands to fit up to seven people.
+2. The first person to hop on a hoverboard becomes the operator. If others jump on, they slot in behind them.
+3. Anyone can drag people from the collaboration panel onto a hoverboard, provided the others accept being moved onto it.
+4. When hoverboards are moving, the individuals on the hoverboard experience the hoverboard in first person.
+5. When the operator of the hoverboard equips a looking glass, everyone's view is, camera view is synced (camera position transform) to their view but from their perspective on the hoverboard.They have the ability to move within 30 degrees of wherever the looking glass is looking.When the looking-glass is lowered, everyone resyncs to the direction they were looking before the looking glass was lifted.
+6. Hoverboards are like helicopters in that they take a moment to stabilize, but when they do, all the individuals in question see themselves in third person. Allowing themselves to hop off.
+7. Hoverboards have VTOL capability, but only up to the height of a one-story building.
+
+The equivalent of a hoverboard for indoors is a walking rope. The person in the lead holds the rope. The others are attached onto the rope.
+
+## Other vehicles
+
+Cars, bikes, flying cars operate just like hoverboards but they don't expand their seating automatically.
+
+- Bikes force those on them to look within 40 degrees to the left and right of the direction the individual operating the bike is looking.
+- Flying cars have infinite VTOL.
+- Airplanes are about walkable interiors.
+
+Helicopters can have dedicated camera operator from the helicopter's camera can direct everyone towards certain objects without a looking glass and with extended zoom functionality.
+
+## **Home space**
+
+### The home library
+
+In virtual worlds, homes are generally used as a social space. But in Synapse, they are also an organizational space.
+
+In Synapse, the traditional file manager is replaced by one’s home.
+
+Everyone begins with a default home with the following rooms:
+
+- **Garage:** Cars, hovercraft, and other vehicles.
+- **Library:** Stores all data and files in bookcases automatically categorized according to similarity. This includes all media files. Expands in size as the number of files increases.
+- **Game room:** Stores teleports of media files of all sorts, including music tapes, video DVDs, game cartridges, and other content which is DRM protected. This includes trophies and figurines. All cards, loot boxes, dice, and such like will also be here.
+- **Photo wall:** Every space one goes to is automatically saved as a photograph (permissions dependent) and stored here.
+- **Guest room:** A place that anyone can visit by default, which allows people to leave notes for the person or other items for they can enjoy.
+- **Theater**: A joint space to watch or listen to content together.
+- **Map room**: A room with a giant table allowing one to rearrange their city with the maps of other cities one visited recently on the wall.
+- **Gym**: In a gym, all collaborative active items will be stored by default along with trophies related to achievements in this area.
+- **Gardens**: Custom AIs with personas will by default be stored here. They will populate one’s garden by default. One can limit them to a particular area as well.
+- **Giant walk-in closet:**Clothes, shoes, etc. It includes mirrors in which one can customize their look.
+- **Gallery**: A place to see and store saved art pieces.
+- **Control room:**All Synapse-related settings.
+- **Study**: A room with all recent text documents designed for writing.
+- **Avatar room**: Stone statues of all the people that one interacts with. With the people one interacts with most up front. With data on where one spends time with those people. If one enters this room with another person, it will turn into a space in which one only sees the people one has in common with all others there.
+
+All rooms which contain storage automatically categorize everything according to similarity but have “teleports” of those items by recency in a highly available frontal area.
+
+**Teleports as items**
+
+These teleports are like city teleports in that they are a proxy of the original item and are one and the same with the original item on the shelf. They are represented in purple like all teleports.
+
+When actually duplicated, a new copy is made which can have its own separate changes.
+
+Note: The map tab disappears when in the map room.
+
+When an item is moved, such as a book taken off the shelf, a teleport is created, however, everything remains organized as is on the shelves.
+
+#### **Library details**
+
+New bookcases can be created and teleports of items can be placed on those bookshelves. Moreover, it can be specified that future items of a certain type will spawn in certain storage containers by default. However, these items will be teleports that go back to the original logic of how things are stored.
+
+**Outside walls as default**
+
+By default, the outside walls of the library are the default of how everything is stored, and any bookcases in the center are areas where storage can be represented differently as teleports, gathering all similar items of a certain type, or allowing for the virtual version of custom folders.
+
+By default, the outside wall of the library organizes files from the same or similar applications on the same bookshelf by recency and frequency of access.
+
+## **Items**
+
+### **2D panel**
+
+Just as the people icon allows one to see a 2D representation of all of the people that they are connected with, a 🛠 icon in the top left represents items a person has.
+
+#### **Search**
+
+At the top there's a search bar to find any item one might have on them. This search bar has an AI microphone that when tapped allows one to ask what items might be relevant to the current situation at hand.
+
+#### **Recommendations**
+
+Whatever window is in the foreground will drive a recommendations panel on the item panel. The recommendation panel is expandable, allowing more items to be shown. These recommendations will change based not only on what somebody is doing in the application, but if, for example, hovering over the collaboration panel, hoverboards, cars, walking ropes, a looking glass will be visible.
+
+Recommendations are also based on what items a person uses in that application regularly.
+
+If a person hasn't used the application before, data is shared from the digital society to make this possible.
+
+#### Equipment
+
+Under the recommendation panel, there is a list of nine items the individual has equipped. This panel only shows three slots if nothing is equipped and opens up the other six when a person starts equipping items into the panel.
+
+- On PC or mobile, two hand slots appear above the equipment, allowing you to equip a particular item in a particular hand, such as a looking glass.
+- In AR, one is required to hold the item in hand for it to be equipped.
+
+**Active state**
+
+- On PC, when a looking glass is equipped, it's automatically lifted to one's eye.
+- In AR, once the looking glass is equipped, it still must be raised to the eye to activated.
+
+#### Categories
+
+Scrolling down, one can see categories with all the different items one has listed based on item type. Items include cars and other vehicles.
+
+#### Drag ability
+
+Items dragged onto a window are automatically moved to that space. Imagine someone moves a car to a particular space. It will be physically moved out of their garage and to that space and not duplicated. If the window is closed, the car is left in that space, with a hologram representing it left in the garage. The hologram can be used to move the item out of that space and back to the garage, or to leave a copy in that space.
+
+This does not work for DRM items which can only be in one place at one time.
+
+## **Special items**
+
+### **Radio/Boombox**
+
+Radios by default play popular music from the relevant Deme or digital society. Simply turn them on, and they start playing music. Music that is often played by fellow Deme members becomes more likely to be what's played when automatically turning it on.
+
+#### **AI integration**
+
+Speaking to the radio while holding down a critical button on it allows you to tell it what to play, what category, what type of music, etc.
+
+#### Attribution
+
+A panel on the device at all times displays the creator of the music. An individual may include a space where others can learn more about them along with their music.
+
+However, a particular tape can be loaded in and it will play that tape. In Synapse, music is always represented by a cassette tape.
+
+Each type of media is represented by its most iconic form. Movies as DVDs, games as cartridges, and music as cassette tapes.
+
+#### **Copyright**
+
+Copyright as a concept is not compatible with virtual worlds. Synapse seeks to transform the concept of copyright in the following ways.
+
+1. Every creation, when created in Synapse or distributed within synapse, is by default submitted to the public domain.When an individual seeks to copyright their work, they must do so deliberately by setting a license on that work before they publish it. Licenses will create the permission for people to play music in groups, listen to it together, and potentially duplicate it depending on the license.
+2. As part of an effort to create a more free virtual world, no old world music will be allowed within Synapse.
+3. All types of music that is licensed to be consumed in a public space will automatically go to the radio. The radio will listen for skips and stop recommending music that is skipped often.
+
+#### **Automatic monetization**
+
+**Goal**: Wherever music is played, where business transactions happen, the creator of the music automatically gets a small percentage of the transactions that happen in the space.
+
+This is a challenging long-term goal unlikely to see fruition in the early days. The percentage of transactions will be very small, about 0.01%. Transactions over $200 will be capped to pay out a maximum of $2.
+
+### **Laptop**
+
+A laptop in these virtual worlds is a physicalized version of a website. So when one hands somebody a laptop, one can expect that there's only one website on the laptop. It's an act designed to show you a singular site.
+
+When one leaves a laptop on the table, you do so because you want them to see a website.
+
+## **House as a window**
+
+Tapping one’s house on the map table in the public square opens a window with one’s house. However, scrolling to the left on the desktop will also bring one's house in view. Doing so prepares one to take items from one's house to any other application.
+
+###

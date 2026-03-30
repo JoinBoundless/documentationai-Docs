@@ -1,0 +1,3 @@
+# Digital Gold as a third jurisdiction - Link
+
+[**Digital Gold as a third jurisdiction**](https://agora.joinboundless.org/cyber-sovereignty/digital-gold-as-a-third-jurisdiction) is an essential article in understanding the economics of Synapse.

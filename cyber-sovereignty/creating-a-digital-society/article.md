@@ -1,0 +1,74 @@
+# What is a digital society?
+
+## What digital societies look like
+
+The key difference between national governments and digital societies is that national governments are organized around shared geography, whereas digital societies share values.
+
+**National governments****Digital societies**Shared geographyShared valuesShared geneticsShared missionCitizenship by birthCitizenship via processCitizens are subjects (must obey)Citizens "vote with their feet"
+### **Attributes of digital societies**
+
+Most digital societies will:
+
+- organize online
+- choose a shared meeting space
+- share values
+- be dedicated to a mission
+- agree on rules
+- have a particular citizenship ceremony.
+
+Early societies may range from small, mutual aid groups to significant, values-based communities, to huge communities dedicated to open commerce.
+
+The key attribute is that they share one purpose for gathering.
+
+## Choosing a unique mission
+
+Many digital societies will likely begin as simple online communities. Creating a meaningful community begins with deciding who or what is not welcome in a community.
+
+Who:
+
+- A business accelerator is limited to entrepreneurs.
+- An Italian cultural society may exclude Greeks.
+- A religious society excludes the non-religious.
+
+What:
+
+- An immersive library may require everyone to whisper.
+- A digital co-working space may require everyone to be in a video chat.
+- A fitness society could require logs of personal workouts.
+
+The moment a community welcomes everyone, it loses its flavor, its uniqueness, and its value. Instead, embodying a set of values that draws in some and naturally pushes away others is the key to creating an impactful and lasting community.
+
+The more unique a community is, the more people can see the inherent value of participating in that community.
+
+Such communities will be considered **single-facet societies** in future texts, remember this.
+
+### **Rights vs uniqueness**
+
+Arbitrary rules define the unique identity of a digital society in its early days. The restriction of certain normal rights creates value for those in the society.
+
+Arbitrary rules may define the unique identity of a digital society in its early days. The restriction of certain normal rights creates value for those within the society. For example, the immersive library may restrict people from speaking too loudly.
+
+## **Officially joining Cyber Sovereignty**
+
+No registration is required to create a digital society in the name of Cyber Sovereignty. Any digital society can declare themselves Cyber Sovereign with or without permission.
+
+## **Multi-faceted societies**
+
+Eventually, as societies grow, they may incorporate multiple different but related functions and value sets. Examples.
+
+Purpose growth:
+
+- A digital co-working space may add a digital learning space.
+- The immersive library may add an immersive museum.
+
+Values growth:
+
+- A digital society dedicated to Buddhism may expand to allowing all Eastern religions.
+
+As these societies expand to encompass different facets, they will naturally create a body of rules defining acceptable behavior in their greater society and the limits needed to continue creating value.
+
+## **Digital societies as a solution**
+
+The different setup and nature of digital societies means those societies can solve immediate crises in ways that national governments can't.
+
+Learn how digital societies solve today's [internet crisis here »](https://agora.joinboundless.org/cyber-sovereignty/the-division-of-powers)

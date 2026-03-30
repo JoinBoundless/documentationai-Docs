@@ -1,0 +1,78 @@
+# Enforcement
+
+Any political concept which doesn't have the ability to implement its ideas by force will simply be overrun by other branches of government which have a monopoly on armed force.
+
+The classic example is Andrew Jackson who decided to ignore court rulings and proceed against them anyway as the justices had no way of enforcing their ruling.
+
+> "John Marshall has made his decision; now let him enforce it!" - Andrew Jackson
+
+Therefore, digital societies require a third branch of government that has the power to:
+
+1. Rescue citizens from custody.
+2. Protect property of citizens.
+3. Hold national government officials accountable when they violate citizen Charter rights through arrest and prosecution.
+
+This force is to be assembled for the purpose of defending the rights of individuals according to the [Charter](https://agora.joinboundless.org/cyber-sovereignty/charter), and to uphold the right of precedence.
+
+Unlike digital societies which are fully autonomous from national governments, this is an actual branch of government, while still being somewhat independent.
+
+## **Governing body**
+
+Each nation will have a Digital Societies Enforcement Institution (DSEI) funded by digital societies which have members in that nation and a 0.7% tax on national government revenue. Digital societies have the power to fund these institutions as well.
+
+When digital societies face an issue they can bring it up to the Digital Senate. The Senate will then rule if the matter is legitimate and requiring enforcement.
+
+If the Senate rules in favor, then an armed force will be dispatched to take custody of the person in question, protect them, protect their property, or arrest government officials who have violated the Charter.
+
+All legal disputes must be settled in a neutral court, namely, a Global Neutral Jurisdiction. Each time there's a new dispute between the national government and the digital enforcement body, a new side (rotating responsibility) will choose the neutral venue in question.
+
+All digital senate members in a particular country must be citizens of that country ensuring national interests remain paramount.
+
+## **Digital Senate composition**
+
+When a digital society wants to send a representative to the Digital Senate, provided the digital society has been in the standard panel process, the individual sent to the Senate must be a consensus judge from the same digital society chosen through the standard panel process that is not a part of the JBT.
+
+## **Primary function**
+
+The function of the DSEI is not only to enforce the rulings of the Digital Senate, but all the provisions of Cyber Sovereignty.
+
+## **Critical limitation**
+
+The DSEI may not arrest citizens of a national government violating a law within a digital society. They must wait for the national government to hand over such a criminal after the proper protections that come with utilizing the instruments of state are enacted.
+
+## **Investigative authority**
+
+DSEI has the power to investigate any other branch or agency of government in that nation, seizing documents, investigating individuals and making public information at its own discretion without regard to any other restrictions provided all their actions have the full and individualized consent of the Digital Senate.
+
+They also have the right to enforce audits of those branches of government. Everything that DSEI does must be totally transparent.
+
+## **Court authority**
+
+Failure by a national court to comply with the rights of digital societies to utilize national resources to enact enforcement as specified by a digital society can lead to DSEI action to ensure compliance by the court or force in question but only as strictly seen by the articles of Cyber Sovereignty to be legal. 
+
+DSEI may take custody of individuals wherein enforcement action is not being properly handled as per the discretion of the digital society in question and the complaint thereof to the DSEI by the digital society. Critically, this power can only be used in the defense of rights, but not to enforce any judgment against any party.
+
+## **Checks and balances**
+
+DSEI rests on the concept of checks and balances. National governments cannot be trusted to investigate their own authority. DSEI brings real accountability to governments who trample on the fundamental human rights we all enjoy.
+
+The DSEI has the power to ensure all the provisions of Cyber Sovereignty are enacted upon within any jurisdiction that legalizes Cyber Sovereignty.
+
+## **Questions**
+
+**Can digital societies use this force to arrest digital society criminals?**
+No. This force is a shield to protect citizens from the national government and to arrest and prosecute members of national and state governments which break the provisions of Cyber Sovereignty. It cannot be used as a private police force by digital societies to enforce their own internal rules.
+
+**What happens if the national government and digital enforcement society have an armed dispute?**The funds granted the DSEI are that of a police force, not of an army that can challenge a national government. The president of a nation* has the right to step in on an individual basis, on individual actions of the DSEI, to revoke them, where that individual solely believes that a matter of national sovereignty is at stake.
+
+Actions in which the president makes such an action are referred to the JBT for a fresh trial on the matter. And whatever the JBT decides is the final action that will take place without veto.
+
+**Who takes control if two enforcement agencies show up to the same scene?**DSEI takes precedence in any situation where multiple enforcement agencies show up to the same scene or situation.
+
+**Who takes custody of an individual while a case or dispute between the DSEI and national government is ongoing?**National governments hold default custody. Custody is transferred based on the provisions of Cyber Sovereignty or whenever a digital society or a neutral jurisdiction wins a case against the national government.
+
+It's the exact opposite when the DSEI is taking custody of a government official. In those cases, they may continue to take custody during any dispute.
+
+**Can the DSEI take custody of an elected president?**No, the DSEI cannot take custody of an elected president while they are serving their term.
+
+*The president of a nation or their equivalent in right and power, not merely by title, as assigned democratically to a sole individual.
