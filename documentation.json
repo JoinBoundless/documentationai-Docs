@@ -33,11 +33,24 @@
           {
             "group": "Core Concepts",
             "icon": "layers",
-            "pages": },
+            "pages": [
+              {
+                "title": "Features",
+                "path": "features",
+                "icon": "file-text"
+              },
+              {
+                "title": "Integrations",
+                "path": "integrations",
+                "icon": "plug"
+              }
+            ]
+          },
           {
             "group": "Advanced",
             "icon": "package",
-            "pages": },
+            "pages": []
+          },
           {
             "group": "Community",
             "icon": "users",
@@ -47,17 +60,101 @@
                 "title": "Agora as the Keystone",
                 "path": "community/agora-as-the-keystone-of-digital-civilization/article",
                 "icon": "book-open"
-              } {
-            "group": "Endpoints",
+              },
+              {
+                "title": "Agora: A Warning About Success",
+                "path": "community/agora-a-warning-about-success/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Agora: Challenges of an Evolving Movement",
+                "path": "community/agora-challenges-of-an-evolving-movement/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Democracy in a Digital Society",
+                "path": "community/democracy-in-a-digital-society/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Digital Society Manifesto",
+                "path": "community/digital-society-manifesto/article",
+                "icon": "book-open"
+              }
+            ]
+          },
+          {
+            "group": "Cyber Sovereignty",
+            "icon": "book-open",
+            "pages": [
+              {
+                "title": "A New Realm of Government",
+                "path": "cyber-sovereignty/a-new-realm-of-government/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Adversarial Detainment",
+                "path": "cyber-sovereignty/adversarial-detainment/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Charter",
+                "path": "cyber-sovereignty/charter/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Corporate Citizenship",
+                "path": "cyber-sovereignty/corporate-citizenship/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Creating a Digital Society",
+                "path": "cyber-sovereignty/creating-a-digital-society/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Cyber Sovereignty (1 Pager)",
+                "path": "cyber-sovereignty/cyber-sovereignty-1-pager/article",
+                "icon": "book-open"
+              }
+            ]
+          },
+          {
+            "group": "API Reference",
+            "icon": "code",
             "openapi": "api-reference/openapi.yaml",
-            "pages": [ {
-            "title": "Help Center",
-            "path": "help-center",
-            "icon": "home"
-          } {
-            "title": "Release History",
-            "path": "changelog",
-            "icon": "history"
+            "pages": []
+          },
+          {
+            "group": "Resources",
+            "icon": "book-open",
+            "pages": [
+              {
+                "title": "Help Center",
+                "path": "help-center",
+                "icon": "help-circle"
+              },
+              {
+                "title": "How to Create Documents",
+                "path": "help-center/faq/how-to-create-documents",
+                "icon": "help-circle"
+              },
+              {
+                "title": "Add Your First Project",
+                "path": "help-center/guides/add-your-first-project",
+                "icon": "book-open"
+              },
+              {
+                "title": "Cannot Access Project",
+                "path": "help-center/troubleshooting/cannot-access-project",
+                "icon": "wrench"
+              },
+              {
+                "title": "Release History",
+                "path": "changelog",
+                "icon": "history"
+              }
+            ]
           }
         ]
       }
