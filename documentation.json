@@ -24,11 +24,6 @@
                 "icon": "book-open"
               },
               {
-                "title": "Agora Genesis",
-                "path": "ethos/agora-genesis/article",
-                "icon": "book-open"
-              },
-              {
                 "title": "Agoran Beliefs",
                 "path": "ethos/agoran-beliefs/article",
                 "icon": "book-open"
@@ -51,11 +46,6 @@
               {
                 "title": "Agora vs Western Civilization",
                 "path": "ethos/agora-vs-western-civilization/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Anti-Lawfare Arbiter",
-                "path": "ethos/anti-lawfare-arbiter/article",
                 "icon": "book-open"
               },
               {
@@ -89,11 +79,6 @@
                 "icon": "book-open"
               },
               {
-                "title": "Building the Institutions of a Digital Society (Stub)",
-                "path": "ethos/stub-building-the-institutions-of-a-digital-society/article",
-                "icon": "book-open"
-              },
-              {
                 "title": "Continuing Western Civilization (Stub)",
                 "path": "ethos/stub-continuing-western-civilization/article",
                 "icon": "book-open"
@@ -102,15 +87,53 @@
                 "title": "The Philosophy of a People",
                 "path": "ethos/the-philosophy-of-a-people/article",
                 "icon": "book-open"
+              }
+            ]
+          },
+          {
+            "group": "Passing on the Ethos",
+            "icon": "book-open",
+            "pages": [
+              {
+                "title": "The Tradition of Doing Hard Things",
+                "path": "ethos/the-tradition-of-doing-hard-things/article",
+                "icon": "book-open"
               },
+              {
+                "title": "Escaping the Cycle",
+                "path": "statecraft/escaping-the-cycle/article",
+                "icon": "book-open"
+              }
+            ]
+          },
+          {
+            "group": "Deme ethos",
+            "icon": "book-open",
+            "pages": [
+              {
+                "title": "Agora Genesis",
+                "path": "ethos/agora-genesis/article",
+                "icon": "book-open"
+              }
+            ]
+          },
+          {
+            "group": "Agoran institutions",
+            "icon": "book-open",
+            "pages": [
               {
                 "title": "The Plan to Create Democracy in a Digital Society",
                 "path": "ethos/the-plan-to-create-democracy-in-a-digital-society/article",
                 "icon": "book-open"
               },
               {
-                "title": "The Tradition of Doing Hard Things",
-                "path": "ethos/the-tradition-of-doing-hard-things/article",
+                "title": "Building the Institutions of a Digital Society (Stub)",
+                "path": "ethos/stub-building-the-institutions-of-a-digital-society/article",
+                "icon": "book-open"
+              },
+              {
+                "title": "Anti-Lawfare Arbiter",
+                "path": "ethos/anti-lawfare-arbiter/article",
                 "icon": "book-open"
               }
             ]
@@ -754,11 +777,6 @@
                 "icon": "book-open"
               },
               {
-                "title": "Escaping the Cycle",
-                "path": "statecraft/escaping-the-cycle/article",
-                "icon": "book-open"
-              },
-              {
                 "title": "How Civilizations Empower Criminals Over Time",
                 "path": "statecraft/how-civilizations-empower-criminals-over-time/article",
                 "icon": "book-open"
@@ -878,7 +896,7 @@
               {
                 "title": "Philosophy of Agora",
                 "path": "deprecated-articles/philosophy-of-agora/article",
-                               "icon": "book-open"
+                "icon": "book-open"
               },
               {
                 "title": "Prime Declaration Explained",
