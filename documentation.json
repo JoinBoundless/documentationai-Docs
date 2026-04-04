@@ -19,6 +19,10 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "Introduction to Agora and Cyber Sovereignty",
+                "path": "introduction-to-agora-and-cyber-sovereignty"
+              },
+              {
                 "title": "Agora as DS1",
                 "path": "ethos/agora-as-ds1/article",
                 "icon": "book-open"
@@ -339,6 +343,10 @@
                 "icon": "book-open"
               }
             ]
+          },
+          {
+            "group": "Agora ethos",
+            "pages": []
           }
         ]
       },
