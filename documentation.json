@@ -1148,6 +1148,10 @@
             "group": "Agora specifically",
             "pages": [
               {
+                "title": "Democracy in a digital society",
+                "path": "democracy-in-a-digital-society"
+              },
+              {
                 "title": "Listening to others as key to community",
                 "path": "listening-to-others-as-key-to-community"
               },
