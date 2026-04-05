@@ -358,6 +358,10 @@
                 "group": "Articles",
                 "pages": [
                   {
+                    "title": "The natural flow",
+                    "path": "the-natural-flow"
+                  },
+                  {
                     "title": "The problems of monolithic government and internet censorship",
                     "path": "the-problems-of-monolithic-government-and-internet-censorship"
                   },
