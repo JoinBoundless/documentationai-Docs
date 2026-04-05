@@ -1,17 +1,91 @@
-# **Clemency for fugitives**
+---
+title: Cyber Sovereignty
+---
 
-Some of those who become criminals do so because of extreme circumstances and would like to actually leave the life of crime. However, due to ties with the underworld, crippling debts, or the inability to show identification to get work, due to a fear of criminal history, they are compelled to continue their lives of crime.
+import { useState } from "react"
 
-It would be in the interest of society if those who committed crimes were given a significantly less potent punishment if they turned themselves in, rather than if they had to be continued to be pursued at the cost of the taxpayer.
+# Cyber Sovereignty
 
-Such programs do exist in part under certain nations, but should be significantly expanded in the interest of saving taxpayer money while ensuring the objective of protecting the public. The goal of the justice system must be to protect the public as much as possible by having fugitives turn themselves in as soon as possible.
+## Navigation
 
-Cyber Sovereignty provides a unique opportunity to allow individuals to have an extra layer of safety by surrendering to their own digital society via the DSEI and having that digital society negotiate on their behalf a reduced sentence in exchange for custody of the fugitive at hand.
+<div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
 
-Pretrial detention for such fugitives must be the purview of the DSEI not the national government.
+<button onClick={() => setTab("overview")} className="card">Overview</button>
+<button onClick={() => setTab("charter")} className="card">Charter</button>
+<button onClick={() => setTab("legal")} className="card">Legal Mechanisms</button>
+<button onClick={() => setTab("articles")} className="card">Articles</button>
+<button onClick={() => setTab("experimental")} className="card">Experimental</button>
 
-The mechanics of such a system should be detailed by an expert and implemented along with Cyber Sovereignty to take advantage of the unique opportunity provided by Cyber Sovereignty while allowing individual governments to decide what sort of crimes do and don't fall under this system.
+</div>
 
 ---
 
-Agora
+export default function Page() {
+  const [tab, setTab] = useState("overview")
+
+  return (
+    <div>
+
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
+        <button onClick={() => setTab("overview")} className="card">Overview</button>
+        <button onClick={() => setTab("charter")} className="card">Charter</button>
+        <button onClick={() => setTab("legal")} className="card">Legal Mechanisms</button>
+        <button onClick={() => setTab("articles")} className="card">Articles</button>
+        <button onClick={() => setTab("experimental")} className="card">Experimental</button>
+      </div>
+
+      <div className="mt-10">
+
+        {tab === "overview" && (
+          <>
+            <h2>Overview</h2>
+            <p>This is the overview section. Add your content here.</p>
+          </>
+        )}
+
+        {tab === "charter" && (
+          <>
+            <h2>Charter</h2>
+            <p>This is the charter section content.</p>
+          </>
+        )}
+
+        {tab === "legal" && (
+          <>
+            <h2>Legal Mechanisms</h2>
+            <p>Explain legal frameworks here.</p>
+          </>
+        )}
+
+        {tab === "articles" && (
+          <>
+            <h2>Articles</h2>
+            <p>All articles content goes here.</p>
+          </>
+        )}
+
+        {tab === "experimental" && (
+          <>
+            <h2>Experimental</h2>
+            <p>Experimental ideas and drafts.</p>
+          </>
+        )}
+
+      </div>
+
+    </div>
+  )
+}
+
+<style jsx>{`
+.card {
+  padding: 20px;
+  border-radius: 10px;
+  background: #1f1f1f;
+  text-align: center;
+  cursor: pointer;
+}
+.card:hover {
+  background: #2a2a2a;
+}
+`}</style>
