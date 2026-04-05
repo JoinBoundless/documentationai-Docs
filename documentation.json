@@ -358,6 +358,10 @@
                 "group": "Legal Mechanisms",
                 "pages": [
                   {
+                    "title": "Judicial accountability",
+                    "path": "judicial-accountability"
+                  },
+                  {
                     "title": "How digital societies work",
                     "path": "how-digital-societies-work"
                   },
