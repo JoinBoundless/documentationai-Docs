@@ -358,6 +358,10 @@
                 "group": "Legal Mechanisms",
                 "pages": [
                   {
+                    "title": "Sovereign Amnesty",
+                    "path": "sovereign-amnesty"
+                  },
+                  {
                     "title": "On incarceration",
                     "path": "on-incarceration"
                   },
