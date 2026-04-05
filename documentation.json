@@ -19,10 +19,6 @@
             "icon": "book-open",
             "pages": [
               {
-                "group": "Introduction to Agora and Cyber Sovereignty",
-                "pages": []
-              },
-              {
                 "title": "Agora as DS1",
                 "path": "ethos/agora-as-ds1/article",
                 "icon": "book-open"
@@ -358,6 +354,15 @@
             "group": "Cyber Sovereignty",
             "icon": "book-open",
             "pages": [
+              {
+                "group": "Overview",
+                "pages": [
+                  {
+                    "title": "Why Boundless supports Cyber Sovereignty",
+                    "path": "why-boundless-supports-cyber-sovereignty"
+                  }
+                ]
+              },
               {
                 "title": "A New Realm of Government",
                 "path": "cyber-sovereignty/a-new-realm-of-government/article",
