@@ -1148,6 +1148,10 @@
             "group": "Agora specifically",
             "pages": [
               {
+                "title": "Manifesto for digital societies",
+                "path": "manifesto-for-digital-societies"
+              },
+              {
                 "group": "Community management",
                 "pages": [
                   {
