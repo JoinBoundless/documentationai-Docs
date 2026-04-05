@@ -358,6 +358,10 @@
                 "group": "Legal Mechanisms",
                 "pages": [
                   {
+                    "title": "Taxes",
+                    "path": "taxes"
+                  },
+                  {
                     "title": "Corporate citizenship ⭕",
                     "path": "corporate-citizenship"
                   },
