@@ -358,6 +358,10 @@
                 "group": "Overview",
                 "pages": [
                   {
+                    "title": "A new realm of government",
+                    "path": "a-new-realm-of-government"
+                  },
+                  {
                     "title": "Declaration of Cyber Sovereignty",
                     "path": "declaration-of-cyber-sovereignty"
                   },
