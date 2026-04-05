@@ -358,6 +358,10 @@
                 "group": "Charter",
                 "pages": [
                   {
+                    "title": "Core rejections of Cyber Sovereignty",
+                    "path": "core-rejections-of-cyber-sovereignty"
+                  },
+                  {
                     "title": "Charter of rights of the network generation ⭕",
                     "path": "charter-of-rights-of-the-network-generation"
                   }
