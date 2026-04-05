@@ -358,6 +358,10 @@
                 "group": "Legal Mechanisms",
                 "pages": [
                   {
+                    "title": "Legal mechanisms of Cyber Sovereignty",
+                    "path": "legal-mechanisms-of-cyber-sovereignty"
+                  },
+                  {
                     "title": "Transparency, checks and balances",
                     "path": "transparency-checks-and-balances"
                   }
