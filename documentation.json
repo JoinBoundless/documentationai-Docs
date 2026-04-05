@@ -358,6 +358,10 @@
                 "group": "Legal Mechanisms",
                 "pages": [
                   {
+                    "title": "Digital Senate",
+                    "path": "digital-senate"
+                  },
+                  {
                     "title": "Taxes",
                     "path": "taxes"
                   },
