@@ -358,6 +358,10 @@
                 "group": "Legal Mechanisms",
                 "pages": [
                   {
+                    "title": "Jurisdictional boundary rubric",
+                    "path": "jurisdictional-boundary-rubric"
+                  },
+                  {
                     "title": "Jurisdictional Boundary Tribunal",
                     "path": "jurisdictional-boundary-tribunal"
                   },
