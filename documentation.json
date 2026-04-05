@@ -358,6 +358,10 @@
                 "group": "Overview",
                 "pages": [
                   {
+                    "title": "What is a digital society?",
+                    "path": "what-is-a-digital-society"
+                  },
+                  {
                     "title": "Core concepts",
                     "path": "core-concepts"
                   },
