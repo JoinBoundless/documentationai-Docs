@@ -358,6 +358,10 @@
                 "group": "Legal Mechanisms",
                 "pages": [
                   {
+                    "title": "Enforcement",
+                    "path": "enforcement"
+                  },
+                  {
                     "title": "Sovereign Amnesty",
                     "path": "sovereign-amnesty"
                   },
