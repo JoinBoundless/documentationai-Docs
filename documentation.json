@@ -358,6 +358,10 @@
                 "group": "Articles",
                 "pages": [
                   {
+                    "title": "Weaknesses of Cyber Sovereignty",
+                    "path": "weaknesses-of-cyber-sovereignty"
+                  },
+                  {
                     "title": "The natural flow",
                     "path": "the-natural-flow"
                   },
