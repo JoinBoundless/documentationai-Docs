@@ -1145,6 +1145,10 @@
         "tab": "Community",
         "pages": [
           {
+            "title": "Agora, a warning about success",
+            "path": "agora-a-warning-about-success"
+          },
+          {
             "title": "Agora specifically",
             "path": "agora-specifically"
           }
