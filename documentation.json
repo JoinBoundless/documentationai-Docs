@@ -358,6 +358,10 @@
                 "group": "Legal Mechanisms",
                 "pages": [
                   {
+                    "title": "Corporate citizenship ⭕",
+                    "path": "corporate-citizenship"
+                  },
+                  {
                     "title": "Jurisdictional boundary rubric",
                     "path": "jurisdictional-boundary-rubric"
                   },
