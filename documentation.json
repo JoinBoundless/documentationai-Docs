@@ -1148,6 +1148,10 @@
             "group": "Agora specifically",
             "pages": [
               {
+                "title": "Reality distortion field",
+                "path": "reality-distortion-field"
+              },
+              {
                 "title": "Why digital societies fail",
                 "path": "why-digital-societies-fail"
               },
