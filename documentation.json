@@ -358,6 +358,10 @@
                 "group": "Legal Mechanisms",
                 "pages": [
                   {
+                    "title": "International defense of Cyber Sovereignty",
+                    "path": "international-defense-of-cyber-sovereignty"
+                  },
+                  {
                     "title": "Digital Senate",
                     "path": "digital-senate"
                   },
