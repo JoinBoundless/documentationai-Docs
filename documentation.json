@@ -358,6 +358,10 @@
                 "group": "Legal Mechanisms",
                 "pages": [
                   {
+                    "title": "Why Cyber Sovereignty was created",
+                    "path": "why-cyber-sovereignty-was-created"
+                  },
+                  {
                     "title": "Digital Gold as a third jurisdiction",
                     "path": "digital-gold-as-a-third-jurisdiction"
                   },
