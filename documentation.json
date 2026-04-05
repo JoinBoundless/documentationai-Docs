@@ -358,6 +358,10 @@
                 "group": "Overview",
                 "pages": [
                   {
+                    "title": "Cyber Sovereignty summary",
+                    "path": "cyber-sovereignty-summary"
+                  },
+                  {
                     "title": "Why Boundless supports Cyber Sovereignty",
                     "path": "why-boundless-supports-cyber-sovereignty"
                   }
