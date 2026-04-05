@@ -358,6 +358,10 @@
                 "group": "Legal Mechanisms",
                 "pages": [
                   {
+                    "title": "Jurisdictional Boundary Tribunal",
+                    "path": "jurisdictional-boundary-tribunal"
+                  },
+                  {
                     "title": "Legal mechanisms of Cyber Sovereignty",
                     "path": "legal-mechanisms-of-cyber-sovereignty"
                   },
