@@ -1151,6 +1151,10 @@
                 "group": "Community management",
                 "pages": [
                   {
+                    "title": "How Reddit developed its toxicity problem",
+                    "path": "how-reddit-developed-its-toxicity-problem"
+                  },
+                  {
                     "title": "Why organizations don't elevate innovators",
                     "path": "why-organizations-dont-elevate-innovators"
                   }
