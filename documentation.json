@@ -1151,6 +1151,10 @@
                 "group": "Community management",
                 "pages": [
                   {
+                    "title": "The eye of the storm",
+                    "path": "the-eye-of-the-storm"
+                  },
+                  {
                     "title": "How Reddit developed its toxicity problem",
                     "path": "how-reddit-developed-its-toxicity-problem"
                   },
