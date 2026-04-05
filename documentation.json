@@ -1148,6 +1148,10 @@
             "group": "Agora specifically",
             "pages": [
               {
+                "title": "Wars of identity & ostracization",
+                "path": "wars-of-identity-ostracization"
+              },
+              {
                 "title": "Reality distortion field",
                 "path": "reality-distortion-field"
               },
