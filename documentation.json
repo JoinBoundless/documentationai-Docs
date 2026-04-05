@@ -355,6 +355,15 @@
             "icon": "book-open",
             "pages": [
               {
+                "group": "Charter",
+                "pages": [
+                  {
+                    "title": "Charter of rights of the network generation ⭕",
+                    "path": "charter-of-rights-of-the-network-generation"
+                  }
+                ]
+              },
+              {
                 "group": "Overview",
                 "pages": [
                   {
