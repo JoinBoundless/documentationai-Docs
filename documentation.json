@@ -358,6 +358,10 @@
                 "group": "Articles",
                 "pages": [
                   {
+                    "title": "Why direct democracy always fails",
+                    "path": "why-direct-democracy-always-fails"
+                  },
+                  {
                     "title": "How money undermines democratic systems",
                     "path": "how-money-undermines-democratic-systems"
                   },
