@@ -1145,12 +1145,13 @@
         "tab": "Community",
         "pages": [
           {
-            "title": "Agora, a warning about success",
-            "path": "agora-a-warning-about-success"
-          },
-          {
-            "title": "Agora specifically",
-            "path": "agora-specifically"
+            "group": "Agora specifically",
+            "pages": [
+              {
+                "title": "Agora, challenges of an evolving movement",
+                "path": "agora-challenges-of-an-evolving-movement"
+              }
+            ]
           }
         ]
       }
