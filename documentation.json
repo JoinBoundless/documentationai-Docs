@@ -358,6 +358,10 @@
                 "group": "Legal Mechanisms",
                 "pages": [
                   {
+                    "title": "Adversarial detainment ⭕",
+                    "path": "adversarial-detainment"
+                  },
+                  {
                     "title": "Enforcement",
                     "path": "enforcement"
                   },
