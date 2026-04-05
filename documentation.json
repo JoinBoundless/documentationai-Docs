@@ -358,6 +358,10 @@
                 "group": "Overview",
                 "pages": [
                   {
+                    "title": "Rekindling government accountability",
+                    "path": "rekindling-government-accountability"
+                  },
+                  {
                     "title": "Cyber Sovereignty summary",
                     "path": "cyber-sovereignty-summary"
                   },
