@@ -358,6 +358,10 @@
                 "group": "Overview",
                 "pages": [
                   {
+                    "title": "Declaration of Cyber Sovereignty",
+                    "path": "declaration-of-cyber-sovereignty"
+                  },
+                  {
                     "title": "Rekindling government accountability",
                     "path": "rekindling-government-accountability"
                   },
