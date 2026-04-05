@@ -358,6 +358,10 @@
                 "group": "Overview",
                 "pages": [
                   {
+                    "title": "A space of values",
+                    "path": "a-space-of-values"
+                  },
+                  {
                     "title": "What is a digital society?",
                     "path": "what-is-a-digital-society"
                   },
