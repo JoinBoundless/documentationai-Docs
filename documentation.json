@@ -355,6 +355,15 @@
             "icon": "book-open",
             "pages": [
               {
+                "group": "Legal Mechanisms",
+                "pages": [
+                  {
+                    "title": "Transparency, checks and balances",
+                    "path": "transparency-checks-and-balances"
+                  }
+                ]
+              },
+              {
                 "group": "Charter",
                 "pages": [
                   {
