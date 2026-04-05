@@ -358,6 +358,10 @@
                 "group": "Articles",
                 "pages": [
                   {
+                    "title": "Unlocking the power of the crowd",
+                    "path": "unlocking-the-power-of-the-crowd"
+                  },
+                  {
                     "title": "Cyber Sovereignty vs crypto movements",
                     "path": "cyber-sovereignty-vs-crypto-movements"
                   },
