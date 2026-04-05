@@ -1148,6 +1148,15 @@
             "group": "Agora specifically",
             "pages": [
               {
+                "group": "Community management",
+                "pages": [
+                  {
+                    "title": "Why organizations don't elevate innovators",
+                    "path": "why-organizations-dont-elevate-innovators"
+                  }
+                ]
+              },
+              {
                 "title": "Agora, challenges of an evolving movement",
                 "path": "agora-challenges-of-an-evolving-movement"
               }
