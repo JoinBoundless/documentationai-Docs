@@ -358,6 +358,10 @@
                 "group": "Legal Mechanisms",
                 "pages": [
                   {
+                    "title": "How digital societies work",
+                    "path": "how-digital-societies-work"
+                  },
+                  {
                     "title": "Why Cyber Sovereignty was created",
                     "path": "why-cyber-sovereignty-was-created"
                   },
