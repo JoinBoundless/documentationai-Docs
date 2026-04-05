@@ -358,6 +358,10 @@
                 "group": "Overview",
                 "pages": [
                   {
+                    "title": "Core concepts",
+                    "path": "core-concepts"
+                  },
+                  {
                     "title": "Implementation action plan",
                     "path": "implementation-action-plan"
                   },
