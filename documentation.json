@@ -358,6 +358,10 @@
                 "group": "Articles",
                 "pages": [
                   {
+                    "title": "Principles behind Cyber Sovereignty",
+                    "path": "principles-behind-cyber-sovereignty"
+                  },
+                  {
                     "title": "Weaknesses of Cyber Sovereignty",
                     "path": "weaknesses-of-cyber-sovereignty"
                   },
