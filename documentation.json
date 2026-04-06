@@ -1070,6 +1070,11 @@
             "icon": "package",
             "pages": [
               {
+                "title": "Cyber Sovereignty",
+                "path": "deprecated-articles/cyber-sovereignty/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "All old article leftovers, to do list, left",
                 "path": "deprecated-articles/all-old-article-leftovers-to-do-list-left/article",
                 "icon": "book-open-icon"
