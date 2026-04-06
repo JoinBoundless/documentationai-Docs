@@ -344,6 +344,11 @@
             "group": "Agora ethos",
             "pages": [
               {
+                "title": "STUB: Building the institutions of a digital society",
+                "path": "agora-ethos/stub-building-the-institutions-of-a-digital-society/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Anti-Lawfare Arbiter",
                 "path": "agora-ethos/anti-lawfare-arbiter/article",
                 "icon": "book-open-icon"
