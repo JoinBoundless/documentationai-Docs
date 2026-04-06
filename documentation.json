@@ -19,6 +19,11 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "Agora's values: 10",
+                "path": "agora-ethos/agoras-values-10/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Agora's mission ",
                 "path": "agora-ethos/agoras-mission/article",
                 "icon": "book-open-icon"
