@@ -344,6 +344,11 @@
             "group": "Agora ethos",
             "pages": [
               {
+                "title": "Creating democracy in a digital society: Agora's plan",
+                "path": "agora-ethos/creating-democracy-in-a-digital-society-agoras-plan/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "STUB: Building the institutions of a digital society",
                 "path": "agora-ethos/stub-building-the-institutions-of-a-digital-society/article",
                 "icon": "book-open-icon"
