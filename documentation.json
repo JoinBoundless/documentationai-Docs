@@ -364,6 +364,11 @@
             "group": "Agora ethos",
             "pages": [
               {
+                "title": "Escaping the cycle: cultural decline",
+                "path": "agora-ethos/escaping-the-cycle-cultural-decline/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Creating democracy in a digital society: Agora's plan",
                 "path": "agora-ethos/creating-democracy-in-a-digital-society-agoras-plan/article",
                 "icon": "book-open-icon"
