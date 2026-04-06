@@ -734,6 +734,11 @@
             "icon": "cpu",
             "pages": [
               {
+                "title": "Wallpaper signaling",
+                "path": "synapse/wallpaper-signaling/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Command-Based Operating System",
                 "path": "synapse/command-based-operating-system/article",
                 "icon": "book-open"
@@ -1136,73 +1141,6 @@
                 "title": "How to Do an Interview",
                 "path": "volunteer-only/how-to-do-an-interview/article",
                 "icon": "book-open"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Community",
-        "pages": [
-          {
-            "group": "Agora specifically",
-            "pages": [
-              {
-                "title": "Democracy in a digital society",
-                "path": "democracy-in-a-digital-society"
-              },
-              {
-                "title": "Listening to others as key to community",
-                "path": "listening-to-others-as-key-to-community"
-              },
-              {
-                "title": "The failure of the metaverse",
-                "path": "the-failure-of-the-metaverse"
-              },
-              {
-                "title": "Agora as the keystone of digital civilization ⭕",
-                "path": "agora-as-the-keystone-of-digital-civilization"
-              },
-              {
-                "title": "Wars of identity & ostracization",
-                "path": "wars-of-identity-ostracization"
-              },
-              {
-                "title": "Reality distortion field",
-                "path": "reality-distortion-field"
-              },
-              {
-                "title": "Why digital societies fail",
-                "path": "why-digital-societies-fail"
-              },
-              {
-                "title": "Overcoming the pitfalls of online community",
-                "path": "overcoming-the-pitfalls-of-online-community"
-              },
-              {
-                "title": "Manifesto for digital societies",
-                "path": "manifesto-for-digital-societies"
-              },
-              {
-                "group": "Community management",
-                "pages": [
-                  {
-                    "title": "The eye of the storm",
-                    "path": "the-eye-of-the-storm"
-                  },
-                  {
-                    "title": "How Reddit developed its toxicity problem",
-                    "path": "how-reddit-developed-its-toxicity-problem"
-                  },
-                  {
-                    "title": "Why organizations don't elevate innovators",
-                    "path": "why-organizations-dont-elevate-innovators"
-                  }
-                ]
-              },
-              {
-                "title": "Agora, challenges of an evolving movement",
-                "path": "agora-challenges-of-an-evolving-movement"
               }
             ]
           }
