@@ -19,6 +19,11 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "Agora's community roadmap: Issues explain its like a startup society",
+                "path": "agora-ethos/agoras-community-roadmap-issues-explain-its-like-a-startup-society/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Principles of Action: 8",
                 "path": "agora-ethos/principles-of-action-8/article",
                 "icon": "book-open-icon"
