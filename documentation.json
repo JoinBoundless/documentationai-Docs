@@ -836,11 +836,6 @@
             "icon": "book-open",
             "pages": [
               {
-                "title": "Digital Legal Rights Framework",
-                "path": "future-proposition/digital-legal-rights-framework/article",
-                "icon": "book-open-icon"
-              },
-              {
                 "title": "Creating Social Apps",
                 "path": "future-proposition/creating-social-apps/article",
                 "icon": "book-open"
