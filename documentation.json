@@ -355,6 +355,11 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "How money undermines democratic systems",
+                "path": "cyber-sovereignty/how-money-undermines-democratic-systems/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Transparency, checks and balances",
                 "path": "cyber-sovereignty/transparency-checks-and-balances/article",
                 "icon": "book-open-icon"
