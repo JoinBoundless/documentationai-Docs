@@ -1070,6 +1070,11 @@
             "icon": "package",
             "pages": [
               {
+                "title": "All old article leftovers, to do list, left",
+                "path": "deprecated-articles/all-old-article-leftovers-to-do-list-left/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "A List of Potential Issues",
                 "path": "deprecated-articles/a-list-of-potential-issues/article",
                 "icon": "book-open"
