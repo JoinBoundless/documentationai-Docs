@@ -355,6 +355,11 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "Why Boundless supports Cyber Sovereignty",
+                "path": "cyber-sovereignty/why-boundless-supports-cyber-sovereignty/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Rekindling government accountability",
                 "path": "cyber-sovereignty/rekindling-government-accountability/article",
                 "icon": "book-open-icon"
