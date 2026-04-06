@@ -912,6 +912,11 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "The societal benefit principle",
+                "path": "economics/the-societal-benefit-principle/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Crypto vs Synapse",
                 "path": "economics/crypto-vs-synapse/article",
                 "icon": "book-open-icon"
