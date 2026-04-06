@@ -342,7 +342,13 @@
           },
           {
             "group": "Agora ethos",
-            "pages": []
+            "pages": [
+              {
+                "title": "Anti-Lawfare Arbiter",
+                "path": "agora-ethos/anti-lawfare-arbiter/article",
+                "icon": "book-open-icon"
+              }
+            ]
           }
         ]
       },
