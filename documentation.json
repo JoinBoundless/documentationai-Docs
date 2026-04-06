@@ -1070,6 +1070,11 @@
             "icon": "package",
             "pages": [
               {
+                "title": "How digital societies take precedence",
+                "path": "deprecated-articles/how-digital-societies-take-precedence/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Behind the Manifesto OLD",
                 "path": "deprecated-articles/behind-the-manifesto-old/article",
                 "icon": "book-open-icon"
