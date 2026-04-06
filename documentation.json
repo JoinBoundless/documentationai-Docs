@@ -355,6 +355,11 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "What is a digital society?",
+                "path": "cyber-sovereignty/what-is-a-digital-society/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "A space of values",
                 "path": "cyber-sovereignty/a-space-of-values/article",
                 "icon": "book-open-icon"
