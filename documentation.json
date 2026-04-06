@@ -998,6 +998,11 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "How perverse incentives, rather than evil deeds, corrupt society",
+                "path": "statecraft/perverse-incentives-corrupt-society/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Double Negative Voting",
                 "path": "statecraft/double-negative-voting/article",
                 "icon": "book-open"
