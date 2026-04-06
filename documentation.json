@@ -364,6 +364,11 @@
             "group": "Agora ethos",
             "pages": [
               {
+                "title": "STUB: Continuing Western civilization",
+                "path": "agora-ethos/stub-continuing-western-civilization/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "FIX LATER Agora: Contrast to modern Western civilization",
                 "path": "agora-ethos/fix-later-agora-contrast-to-modern-western-civilization/article",
                 "icon": "book-open-icon"
