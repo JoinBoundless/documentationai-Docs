@@ -355,6 +355,11 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "Implementation action plan",
+                "path": "cyber-soverignty/implementation-action-plan/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Core concepts",
                 "path": "cyber-sovereignty/core-concepts/article",
                 "icon": "book-open-icon"
