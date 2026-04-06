@@ -734,6 +734,11 @@
             "icon": "cpu",
             "pages": [
               {
+                "title": "Authentication",
+                "path": "synapse/authentication/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "AI intelligence & networking",
                 "path": "synapse/ai-intelligence-networking/article",
                 "icon": "book-open-icon"
