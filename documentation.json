@@ -355,6 +355,11 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "Jurisdictional boundary rubric",
+                "path": "cyber-sovereignty/jurisdictional-boundary-rubric/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Sovereign Amnesty",
                 "path": "cyber-sovereignty/sovereign-amnesty/article",
                 "icon": "book-open-icon"
