@@ -1070,6 +1070,11 @@
             "icon": "package",
             "pages": [
               {
+                "title": "Behind the Manifesto OLD",
+                "path": "deprecated-articles/behind-the-manifesto-old/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Cyber Sovereignty",
                 "path": "deprecated-articles/cyber-sovereignty/article",
                 "icon": "book-open-icon"
