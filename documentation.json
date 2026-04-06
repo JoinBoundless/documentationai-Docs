@@ -20,22 +20,22 @@
             "pages": [
               {
                 "title": "Agora's community roadmap: Issues explain its like a startup society",
-                "path": "agora-ethos/agoras-community-roadmap-issues-explain-its-like-a-startup-society/article",
+                "path": "ethos/agoras-community-roadmap-issues-explain-its-like-a-startup-society/article",
                 "icon": "book-open-icon"
               },
               {
                 "title": "Principles of Action: 8",
-                "path": "agora-ethos/principles-of-action-8/article",
+                "path": "ethos/principles-of-action-8/article",
                 "icon": "book-open-icon"
               },
               {
                 "title": "Agora's values: 10",
-                "path": "agora-ethos/agoras-values-10/article",
+                "path": "ethos/agoras-values-10/article",
                 "icon": "book-open-icon"
               },
               {
                 "title": "Agora's mission ",
-                "path": "agora-ethos/agoras-mission/article",
+                "path": "ethos/agoras-mission/article",
                 "icon": "book-open-icon"
               },
               {
@@ -363,6 +363,11 @@
           {
             "group": "Agora ethos",
             "pages": [
+              {
+                "title": "The tradition of doing hard things ",
+                "path": "agora-ethos/the-tradition-of-doing-hard-things/article",
+                "icon": "book-open-icon"
+              },
               {
                 "title": "Escaping the cycle: cultural decline",
                 "path": "agora-ethos/escaping-the-cycle-cultural-decline/article",
