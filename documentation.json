@@ -912,6 +912,11 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "Crypto vs Synapse",
+                "path": "economics/crypto-vs-synapse/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Why wealth is a divisive community foundation",
                 "path": "economics/why-wealth-is-a-divisive-community-foundation/article",
                 "icon": "book-open-icon"
