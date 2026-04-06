@@ -355,6 +355,11 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "Jurisdictional Boundary Tribunal",
+                "path": "cyber-sovereignty/jurisdictional-boundary-tribunal/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Jurisdictional boundary rubric",
                 "path": "cyber-sovereignty/jurisdictional-boundary-rubric/article",
                 "icon": "book-open-icon"
