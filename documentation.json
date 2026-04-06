@@ -912,6 +912,11 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "The gold-silver concept of digital money",
+                "path": "economics/the-gold-silver-concept-of-digital-money/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "The societal benefit principle",
                 "path": "economics/the-societal-benefit-principle/article",
                 "icon": "book-open-icon"
