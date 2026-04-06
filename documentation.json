@@ -364,6 +364,11 @@
             "group": "Agora ethos",
             "pages": [
               {
+                "title": "Destroying institutions",
+                "path": "agora-ethos/destroying-institutions/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "STUB: Continuing Western civilization",
                 "path": "agora-ethos/stub-continuing-western-civilization/article",
                 "icon": "book-open-icon"
