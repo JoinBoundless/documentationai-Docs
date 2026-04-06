@@ -364,6 +364,11 @@
             "group": "Agora ethos",
             "pages": [
               {
+                "title": "Agora Genesis",
+                "path": "agora-ethos/agora-genesis/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "The tradition of doing hard things ",
                 "path": "agora-ethos/the-tradition-of-doing-hard-things/article",
                 "icon": "book-open-icon"
