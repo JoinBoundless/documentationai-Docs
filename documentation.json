@@ -355,6 +355,11 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "Core concepts",
+                "path": "cyber-sovereignty/core-concepts/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "What is a digital society?",
                 "path": "cyber-sovereignty/what-is-a-digital-society/article",
                 "icon": "book-open-icon"
