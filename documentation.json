@@ -734,6 +734,11 @@
             "icon": "cpu",
             "pages": [
               {
+                "title": "Hoverboards and home",
+                "path": "synapse/hoverboards-and-home/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Authentication",
                 "path": "synapse/authentication/article",
                 "icon": "book-open-icon"
