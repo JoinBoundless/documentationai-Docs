@@ -912,6 +912,11 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "Why wealth is a divisive community foundation",
+                "path": "economics/why-wealth-is-a-divisive-community-foundation/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Anchoring Principles",
                 "path": "economics/anchoring-principles/article",
                 "icon": "book-open"
