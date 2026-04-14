@@ -148,12 +148,12 @@
               },
               {
                 "title": "Building the Institutions of a Digital Society (Stub)",
-                "path": "ethos/stub-building-the-institutions-of-a-digital-society/article",
+                "path": "agoran-institutions/stub-building-the-institutions-of-a-digital-society/article",
                 "icon": "book-open"
               },
               {
                 "title": "Anti-Lawfare Arbiter",
-                "path": "ethos/anti-lawfare-arbiter/article",
+                "path": "agoran-institutions/anti-lawfare-arbiter/article",
                 "icon": "book-open"
               }
             ]
@@ -343,8 +343,8 @@
                 "icon": "book-open"
               },
               {
-                "title": "Why the Metaverse Failed",
-                "path": "community/why-the-metaverse-failed/article",
+                "title": "The failure of the metaverse",
+                "path": "community/The-failure-of-the-metaverse/article",
                 "icon": "book-open"
               }
             ]
