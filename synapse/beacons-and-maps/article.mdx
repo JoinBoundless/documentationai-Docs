@@ -1,5 +1,6 @@
 ---
 title: Beacons and maps
+description: How Synapse uses veterancy, beacons, flags, and map-based cities to coordinate collaboration, help requests, and social presence.
 ---
 
 <div
@@ -12,7 +13,7 @@ title: Beacons and maps
   }}
 >
   <p style={{ color: "#bbf7d0", fontSize: "14px" }}>
-   Start by {" "}
+   Start by{" "}
     <a
       href="https://agora.joinboundless.org/synapse/the-design-of-synapse"
       target="_blank"
@@ -129,6 +130,8 @@ Unlike beacons, which are a specific urgent request for help, flags are just a s
       flexDirection: "column",
       gap: "12px"
     }}>
+
+Design flags to have minimal friction, but design beacons to have strong friction around more than one person lighting them in the same collaboration. So that flags are used for invitations and beacons are used for calls for help. And that beacons require much more intentionality than flags.
 
 Flag holders should not need to continue to hold the flag in their hand in AR/VR, per se. Nor should beacon holders.
 
