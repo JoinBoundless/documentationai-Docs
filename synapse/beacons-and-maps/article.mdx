@@ -1,6 +1,27 @@
-# **Beacons and maps**
-
-Start by [reading this first »](https://agora.joinboundless.org/synapse/the-design-of-synapse)
+---
+title: Beacons and maps
+---
+<div
+  style={{
+    marginTop: "24px",
+    borderRadius: "12px",
+    padding: "16px 20px",
+    border: "1px solid #166534",
+    backgroundColor: "#0f2f25"
+  }}
+>
+  <p style={{ color: "#bbf7d0", fontSize: "14px" }}>
+   Start by {" "}
+    <a
+      href="https://agora.joinboundless.org/synapse/the-design-of-synapse"
+      target="_blank"
+      rel="noopener noreferrer"
+      style={{ textDecoration: "underline", color: "#3b82f6" }}
+    >
+      reading this first »
+    </a>
+  </p>
+</div>
 
 ## **Veterancy**
 
@@ -69,8 +90,52 @@ The beacon lighter, on the other hand, will be asked to “OK” an upload of an
 Each space has something called flags in it, which can be handed out to people in that space by the host. When a person in a space holds a flag, their desktop wallpaper or avatar also holds a flag. And this flag represents what they're doing as an open invitation to join them.
 
 Unlike beacons, which are a specific urgent request for help, flags are just a symbol of invitation to join the event.
+<details
+  open
+  style={{
+    borderRadius: "12px",
+    marginTop: "16px",
+    border: "1px solid #3a3f47",
+    overflow: "hidden",
+    background: "#44403C"
+  }}
+>  <summary
+    style={{
+      background: "#44403C", // 👈 darker top
+      color: "#ffffff",
+      padding: "14px 18px",
+      cursor: "pointer",
+      fontSize: "14px",
+      fontWeight: "500",
+      display: "flex",
+      justifyContent: "space-between",
+      alignItems: "center"
+    }}
+  >
+    <span>Designers only</span>
+    <span style={{ opacity: 0.7 }}>⌃</span>
+  </summary>
 
-Designers only
+  <div
+    style={{
+      background: "#3a3531", // 👈 lighter content
+      padding: "14px 18px",
+      fontSize: "14px",
+      color: "#E7E5E4",
+      lineHeight: "1.6",
+      borderTop: "1px solid #5a544f",
+      display: "flex",
+      flexDirection: "column",
+      gap: "12px"
+    }}>
+  <p>Design flags to have minimal friction, but design beacons to have strong friction around more than one person lighting them in the same collaboration. So that flags are used for invitations and beacons are used for calls for help. And that beacons require much more intentionality than flags.
+
+Flag holders should not need to continue to hold the flag in their hand in AR/VR, per se. Nor should beacon holders.
+
+The owner of the application is sent all the questions gathered about the application by those using it (privacy law may apply).</p>
+  </div>
+</details>
+
 
 Design flags to have minimal friction, but design beacons to have strong friction around more than one person lighting them in the same collaboration. So that flags are used for invitations and beacons are used for calls for help. And that beacons require much more intentionality than flags.
 
@@ -107,8 +172,20 @@ City attributes:
 - Dragging a friend onto another friend automatically creates an empty lobby. And then dragging a city structure onto that empty lobby changes the application of that lobby to that “building” of the city.
 
 Even though by default everything begins as a city, one can customize one's city so that each building is actually a park or some form of scenery.
-
+<div
+  style={{
+    marginTop: "24px",
+    borderRadius: "12px",
+    padding: "16px 20px",
+    border: "1px solid #2F6F9F",
+    backgroundColor: "#0F2A3A"
+  }}
+>
+  <p style={{ fontSize: "14px", lineHeight: "1.6", color: "#E6F0FF" }}>
 In the early days, the operating system will not be very customizable, but customization options will grow over time.
+  </p>
+</div>
+
 
 Each city has a road network and that road network by default crosses it north to south and east to west no matter what. Driving to the end of the road allows one to exit one's own city to enter a new non-relative world.
 
@@ -210,6 +287,4 @@ Clicking on a particular ghost shows what song they're listening to, if their pe
 
 The goal here is to create an environment in which people feel as though they can always find an excuse for interacting with others.
 
-
-
-\
+\\
