@@ -770,11 +770,6 @@
             "icon": "book-open",
             "pages": [
               {
-                "title": "A third option",
-                "path": "future-proposition/a-third-option/article",
-                "icon": "book-open-icon"
-              },
-              {
                 "title": "Creating Social Apps",
                 "path": "future-proposition/creating-social-apps/article",
                 "icon": "book-open"
