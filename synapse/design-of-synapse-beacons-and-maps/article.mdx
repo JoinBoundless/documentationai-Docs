@@ -1,6 +1,28 @@
-# Beacons and maps
+---
+title: Beacons and maps
+---
 
-Start by [reading this first »](https://agora.joinboundless.org/synapse/the-design-of-synapse)
+<div
+  style={{
+    marginTop: "24px",
+    borderRadius: "12px",
+    padding: "16px 20px",
+    border: "1px solid #166534",
+    backgroundColor: "#0f2f25"
+  }}
+>
+  <p style={{ color: "#bbf7d0", fontSize: "14px" }}>
+   Start by {" "}
+    <a
+      href="https://agora.joinboundless.org/synapse/the-design-of-synapse"
+      target="_blank"
+      rel="noopener noreferrer"
+      style={{ textDecoration: "underline", color: "#3b82f6" }}
+    >
+      reading this first »
+    </a>
+  </p>
+</div>
 
 ## **Veterancy**
 
@@ -9,8 +31,11 @@ As you use different applications within Synapse, you gain veterancy in doing so
 Veterancy and how it's earned in the particular application can be modified by the application creator. Clicking on a rank icon reveals:
 
 - A very simple explanation of ranks in that application and how to earn them.
+
 - A leaderboard of who has used the application the most within your friends list, Deme and digital society.
+
 - A simple Q/A forum with an AI that can answer questions based on other answers.
+
 - A list of active help beacons (explained later), from the whole of Synapse.
 
 This panel is located within the collaboration panel, but is not as obvious as opening the collaboration panel itself.
@@ -34,13 +59,25 @@ In the same area, any individual or group of people can light a help beacon. A h
 It also does several things:
 
 1. It asks the collaboration lead what issue they need help with.
-2. It searches the database for potential solutions and offers them (AI visual guidance would be ideal).It assesses if the issue is urgent and not findable in the database. And in the rare case that it believes that it is urgent or critical, it will offer the individual in question to attach a bounty to the solution of the problem. Namely, it'll ask them, would you like to attach X Digital Gold to the solution of this problem? The user will fill in the X.
+
+2. It searches the database for potential solutions and offers them (AI visual guidance would be ideal).
+
+   1. It assesses if the issue is urgent and not findable in the database. And in the rare case that it believes that it is urgent or critical, it will offer the individual in question to attach a bounty to the solution of the problem. Namely, it'll ask them, would you like to attach X Digital Gold to the solution of this problem? The user will fill in the X.
+
 3. It prioritizes your image within others' wallpapers, even more, based on their relationship to you and their experience in the application or application category.
+
 4. It changes your avatar to holding a flare and standing.
-5. It loads four people who are online within your Deme who you can invite to collaborate.If non-collaboration leads do this, they must get permission, not only to light a flare but for each person they invite. No more than four in an app can light beacons.
+
+5. It loads four people who are online within your Deme who you can invite to collaborate.
+
+   1. If non-collaboration leads do this, they must get permission, not only to light a flare but for each person they invite. No more than four in an app can light beacons.
+
 6. It creates new context to your avatar when it's clicked on by others, explaining what exactly you need help with.
+
 7. It lists your space as needing help on the veterancy panel.
+
 8. It lists your need on the Q/A panel, combining it with other similar needs.
+
 9. It starts an action record noting steps taken from when the beacon is lit to when it gets resolved.
 
 Application creators can modify how this system works based on their individual application. By default, if a the beacon is lit and someone joins the session in question, when the individual leaves the session in question, the individual who resolved the issue will be asked how they resolved the issue. An answer is required to exit both ways, either in the affirmative or in the negative. It will list the answers for others dealing with the same issue.
@@ -54,8 +91,53 @@ The beacon lighter, on the other hand, will be asked to “OK” an upload of an
 Each space has something called flags in it, which can be handed out to people in that space by the host. When a person in a space holds a flag, their desktop wallpaper or avatar also holds a flag. And this flag represents what they're doing as an open invitation to join them.
 
 Unlike beacons, which are a specific urgent request for help, flags are just a symbol of invitation to join the event.
+<details
+  open
+  style={{
+    borderRadius: "12px",
+    marginTop: "16px",
+    border: "1px solid #3a3f47",
+    overflow: "hidden",
+    background: "#44403C"
+  }}
+>  <summary
+    style={{
+      background: "#44403C", // 👈 darker top
+      color: "#ffffff",
+      padding: "14px 18px",
+      cursor: "pointer",
+      fontSize: "14px",
+      fontWeight: "500",
+      display: "flex",
+      justifyContent: "space-between",
+      alignItems: "center"
+    }}
+  >
+    <span>Designers only</span>
+    <span style={{ opacity: 0.7 }}>⌃</span>
+  </summary>
 
-**Designers only**
+  <div
+    style={{
+      background: "#3a3531", // 👈 lighter content
+      padding: "14px 18px",
+      fontSize: "14px",
+      color: "#E7E5E4",
+      lineHeight: "1.6",
+      borderTop: "1px solid #5a544f",
+      display: "flex",
+      flexDirection: "column",
+      gap: "12px"
+    }}>
+
+Design flags to have minimal friction, but design beacons to have strong friction around more than one person lighting them in the same collaboration. So that flags are used for invitations and beacons are used for calls for help. And that beacons require much more intentionality than flags.
+
+Flag holders should not need to continue to hold the flag in their hand in AR/VR, per se. Nor should beacon holders.
+
+The owner of the application is sent all the questions gathered about the application by those using it (privacy law may apply).
+  </div>
+</details>
+
 
 Design flags to have minimal friction, but design beacons to have strong friction around more than one person lighting them in the same collaboration. So that flags are used for invitations and beacons are used for calls for help. And that beacons require much more intentionality than flags.
 
@@ -67,7 +149,7 @@ The owner of the application is sent all the questions gathered about the applic
 
 Statuses must be reset whenever set to invisible or do not disturb each time a person logs on or each day. So that one act of making oneself invisible doesn't end the whole functionality of the OS for that person forever without them realizing it.
 
-## 
+##
 
 Statuses must be reset whenever set to invisible or do not disturb each time a person logs on or each day. So that one act of making oneself invisible doesn't end the whole functionality of the OS for that person forever without them realizing it.
 
@@ -80,15 +162,32 @@ Just like the public square wallpaper is relative to an individual, in that each
 City attributes:
 
 - Each application one uses automatically becomes a building in one's city.
+
 - The position of these buildings is automatically arrange based on how often one uses them and how often one collaborates in them.
+
 - The moment one grabs any building on the map table and place it somewhere, it will stay there forever.
+
 - Dragging a person from one's wallpaper into any part of the city invites them to explore the city with one in that area.
+
 - Backing out of an application along with another person by unlocking the door allows both individuals to see the city.
+
 - Dragging a friend onto another friend automatically creates an empty lobby. And then dragging a city structure onto that empty lobby changes the application of that lobby to that “building” of the city.
 
 Even though by default everything begins as a city, one can customize one's city so that each building is actually a park or some form of scenery.
-
+<div
+  style={{
+    marginTop: "24px",
+    borderRadius: "12px",
+    padding: "16px 20px",
+    border: "1px solid #2F6F9F",
+    backgroundColor: "#0F2A3A"
+  }}
+>
+  <p style={{ fontSize: "14px", lineHeight: "1.6", color: "#E6F0FF" }}>
 In the early days, the operating system will not be very customizable, but customization options will grow over time.
+  </p>
+</div>
+
 
 Each city has a road network and that road network by default crosses it north to south and east to west no matter what. Driving to the end of the road allows one to exit one's own city to enter a new non-relative world.
 
@@ -108,7 +207,9 @@ Applications often used by friends and not yet discovered by yourself are also s
 
 #### **FAQ:**
 
-- Can some buildings be set to private so that when people visit my city those buildings are kept invisible?Yes, one can also intertwine visibility with the groups that they have dragged their friends into on the right “people” menu.
+- Can some buildings be set to private so that when people visit my city those buildings are kept invisible?
+
+  - Yes, one can also intertwine visibility with the groups that they have dragged their friends into on the right “people” menu.
 
 ### **Deme city**
 
@@ -120,14 +221,41 @@ In the downtown of the city, are automatically clustered the 100 most popular ap
 
 #### **FAQ:**
 
-- Who can enter the city?Only Deme members by default and anyone else the Deme leads allow.
-- Can one visit others public squares within the city?Yes, entering via the house of the individual represented in the Deme city, one can enter parts of the city open to other Deme members.
-- What do others see when they come to my city?By default, they only see the city as empty without the people in the public square or items laying around. Each space has a permission set, including the public square and one's own home, that allows individuals to granularly set what can and can't be seen by which groups of people. This includes if they can see, pick up, and move items.
-- Can you own more property in the Deme city?The Deme‘s leadership can grant property to individual Deme members, these Deme members can then in turn create a teleport link between the Deme city and their own city, revealing any specific building in the city they want to the public.
-- What does my house exterior look like to those in the Deme?In the Deme city, one's house, on the outside, looks like a default house until one sets a particular look to it. Certain Deme may change what default houses look like and require houses within certain constraints of visual style to maintain a cohesive theme throughout the Deme. For example, some Demes may have only highly modern buildings, where others will constrain designs to be medieval.
-- What does my house interior look like to those in the Deme?This depends on the permissions one sets. One can:Restrict all visitors to a preset guest room.Grant full house access, but with invisible items.Grant full house access, but with immovable items.Grant full house access with full permissions.
+- Who can enter the city?
 
-- Can more than one person live in a house?Yes, in general, one can allow oneself to share one house with as many people as they want. However, when they log in, that's the house they'll see on the left of the public square.
+  - Only Deme members by default and anyone else the Deme leads allow.
+
+- Can one visit others public squares within the city?
+
+  - Yes, entering via the house of the individual represented in the Deme city, one can enter parts of the city open to other Deme members.
+
+- What do others see when they come to my city?
+
+  - By default, they only see the city as empty without the people in the public square or items laying around. Each space has a permission set, including the public square and one's own home, that allows individuals to granularly set what can and can't be seen by which groups of people. This includes if they can see, pick up, and move items.
+
+- Can you own more property in the Deme city?
+
+  - The Deme‘s leadership can grant property to individual Deme members, these Deme members can then in turn create a teleport link between the Deme city and their own city, revealing any specific building in the city they want to the public.
+
+- What does my house exterior look like to those in the Deme?
+
+  - In the Deme city, one's house, on the outside, looks like a default house until one sets a particular look to it. Certain Deme may change what default houses look like and require houses within certain constraints of visual style to maintain a cohesive theme throughout the Deme. For example, some Demes may have only highly modern buildings, where others will constrain designs to be medieval.
+
+- What does my house interior look like to those in the Deme?
+
+  - This depends on the permissions one sets. One can:
+
+    - Restrict all visitors to a preset guest room.
+
+    - Grant full house access, but with invisible items.
+
+    - Grant full house access, but with immovable items.
+
+    - Grant full house access with full permissions.
+
+* Can more than one person live in a house?
+
+  - Yes, in general, one can allow oneself to share one house with as many people as they want. However, when they log in, that's the house they'll see on the left of the public square.
 
 ### **Societal city**
 
@@ -141,13 +269,17 @@ City leaders are able to change where districts are located and add other buildi
 
 #### **FAQ:**
 
-- Who can enter the city?Anyone can enter the city and even see the people walking or driving through the city, but those people don't see them unless they have a visitor’s visa.
+- Who can enter the city?
+
+  - Anyone can enter the city and even see the people walking or driving through the city, but those people don't see them unless they have a visitor’s visa.
 
 ## **Map signaling**
 
 When zooming in on the map, one immediately begins to see as many people in the different buildings represented by their avatar’s faces. Close friends are seen prominently in the buildings if they are currently using the application in question.
 
-[![Image of an individual seeing their friend and a team member listening to music in a building nearby.](images/img-001-7b577e47855a.png)](https://cdn.eniston.com/bases/08b96173-96cd-4c3a-be91-7469eda5fea7/attachments/wsumwpa-1--1763851596.png?width=1400)*Friends are seen using the app near the top and the members down below. Note that the user interface will likely be somewhat different in reality.*
+<Image src="https://cdn.eniston.com/bases/08b96173-96cd-4c3a-be91-7469eda5fea7/attachments/wsumwpa-1--1763851596.png?width=920" width="920" height="920" alt="Image of an individual seeing their friend and a team member listening to music in a building nearby." />
+
+*Friends are seen using the app near the top and the members down below. Note that the user interface will likely be somewhat different in reality.*
 
 Those that have recently used the application are seen as black and white avatars. People from the Deme and society who are actively or where actively using the app can also be seen in these buildings, but less prominently.
 
@@ -156,3 +288,5 @@ When entering the building itself, via the city, one can see the ghosts of those
 Clicking on a particular ghost shows what song they're listening to, if their permissions allow for that level of signaling.
 
 The goal here is to create an environment in which people feel as though they can always find an excuse for interacting with others.
+
+\\
