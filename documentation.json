@@ -116,12 +116,12 @@
             "pages": [
               {
                 "title": "The Tradition of Doing Hard Things",
-                "path": "passing-on-the-ethos/the-tradition-of-doing-hard-things/article",
+                "path": "ethos/the-tradition-of-doing-hard-things/article",
                 "icon": "book-open"
               },
               {
                 "title": "Escaping the Cycle",
-                "path": "passing-on-the-ethos/escaping-the-cycle/article",
+                "path": "statecraft/escaping-the-cycle/article",
                 "icon": "book-open"
               }
             ]
@@ -143,17 +143,17 @@
             "pages": [
               {
                 "title": "The Plan to Create Democracy in a Digital Society",
-                "path": "agoran-institutions/the-plan-to-create-democracy-in-a-digital-society/article",
+                "path": "ethos/the-plan-to-create-democracy-in-a-digital-society/article",
                 "icon": "book-open"
               },
               {
                 "title": "Building the Institutions of a Digital Society (Stub)",
-                "path": "agoran-institutions/stub-building-the-institutions-of-a-digital-society/article",
+                "path": "ethos/stub-building-the-institutions-of-a-digital-society/article",
                 "icon": "book-open"
               },
               {
                 "title": "Anti-Lawfare Arbiter",
-                "path": "agoran-institutions/anti-lawfare-arbiter/article",
+                "path": "ethos/anti-lawfare-arbiter/article",
                 "icon": "book-open"
               }
             ]
@@ -343,8 +343,8 @@
                 "icon": "book-open"
               },
               {
-                "title": "The failure of the metaverse",
-                "path": "community/The-failure-of-the-metaverse/article",
+                "title": "Why the Metaverse Failed",
+                "path": "community/why-the-metaverse-failed/article",
                 "icon": "book-open"
               }
             ]
@@ -391,6 +391,21 @@
               {
                 "title": "Escaping the cycle: cultural decline",
                 "path": "agora-ethos/escaping-the-cycle-cultural-decline/article",
+                "icon": "book-open-icon"
+              },
+              {
+                "title": "Creating democracy in a digital society: Agora's plan",
+                "path": "agora-ethos/creating-democracy-in-a-digital-society-agoras-plan/article",
+                "icon": "book-open-icon"
+              },
+              {
+                "title": "STUB: Building the institutions of a digital society",
+                "path": "agora-ethos/stub-building-the-institutions-of-a-digital-society/article",
+                "icon": "book-open-icon"
+              },
+              {
+                "title": "Anti-Lawfare Arbiter",
+                "path": "agora-ethos/anti-lawfare-arbiter/article",
                 "icon": "book-open-icon"
               }
             ]
@@ -770,6 +785,11 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "A third option",
+                "path": "future-proposition/a-third-option/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Creating Social Apps",
                 "path": "future-proposition/creating-social-apps/article",
                 "icon": "book-open"
@@ -853,11 +873,6 @@
               {
                 "title": "The societal benefit principle",
                 "path": "economics/the-societal-benefit-principle/article",
-                "icon": "book-open-icon"
-              },
-              {
-                "title": "Crypto vs Synapse",
-                "path": "economics/crypto-vs-synapse/article",
                 "icon": "book-open-icon"
               },
               {
