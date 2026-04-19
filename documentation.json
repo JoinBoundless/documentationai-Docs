@@ -421,6 +421,11 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "Judicial accountabiliy",
+                "path": "cyber-sovereignty/judicial-accountbility/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "How money undermines democratic systems",
                 "path": "cyber-sovereignty/how-money-undermines-democratic-systems/article",
                 "icon": "book-open-icon"
@@ -533,11 +538,6 @@
               {
                 "title": "International Defense of Cyber Sovereignty",
                 "path": "cyber-sovereignty/international-defense-of-cyber-sovereignty/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Judicial Accountability",
-                "path": "cyber-sovereignty/judicial-accountability/article",
                 "icon": "book-open"
               },
               {
