@@ -469,15 +469,19 @@ Invalid content format in 'community/digital-society-manifesto/article.mdx': Fai
   </summary>
 
   <div
+  style={{
+    background: "#3A3837",
+    padding: "14px 18px",
+    fontSize: "14px",
+    color: "#E7E5E4",
+    borderTop: "1px solid #5a544f",
+    overflowX: "auto"
+  }}
+>
+  <span
     style={{
-      background: "#3A3837",
-      padding: "14px 18px",
-      fontSize: "14px",
-      color: "#E7E5E4",
-      lineHeight: "1.6",
-      borderTop: "1px solid #5a544f",
-      overflowX: "auto",        // 👈 enables scroll if needed
-      whiteSpace: "nowrap"      // 👈 forces single line
+      whiteSpace: "nowrap",   // 👈 force single line
+      display: "inline-block" // 👈 important
     }}
   >
     <a
@@ -493,7 +497,8 @@ Invalid content format in 'community/digital-society-manifesto/article.mdx': Fai
       Protest footage blocked
     </a>{" "}
     as online safety act comes into force.
-  </div>
+  </span>
+</div>
 </details>
 
 **(2) Surveillance and manipulation&#xA0;**
