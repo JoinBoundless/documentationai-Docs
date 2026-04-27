@@ -428,19 +428,9 @@ Such systems have always begun with a move to protect children from the excesses
 In a world where augmented reality glasses and ubiquitous cameras mean total surveillance of every action in human life, this system of control could mean an entire generation will grow up without understanding what it means to truly speak their mind without fearing someone has overheard it.
 Invalid content format in 'community/digital-society-manifesto/article.mdx': Failed to parse MDX content: Expected the closing tag `</a>` either after the end of `paragraph` (481:54) or another opening tag after the start of `paragraph` (480:9) (line 481, column 7)
 
-<details
-  open
-  style={{
-    borderRadius: "12px",
-    marginTop: "16px",
-    border: "1px solid #3a3f47",
-    overflow: "hidden",
-    background: "#44403C"
-  }}
->
-  <summary
+<details open style="border-radius:12px; margin-top:16px; border:1px solid #3a3f47; overflow:hidden; background:#44403C;"> <summary
     style={{
-      background: "#44433F",
+      background: "#44433F", // 👈 darker top
       color: "#ffffff",
       padding: "14px 18px",
       cursor: "pointer",
@@ -448,43 +438,26 @@ Invalid content format in 'community/digital-society-manifesto/article.mdx': Fai
       fontWeight: "500",
       display: "flex",
       justifyContent: "space-between",
-      alignItems: "center",
-      listStyle: "none" // 👈 removes default arrow spacing issue
+      alignItems: "center"
     }}
   >
-    <span
-      style={{
-        whiteSpace: "nowrap",
-        overflow: "hidden",
-        textOverflow: "ellipsis",
-        flex: 1
-      }}
-    >
-      Online Safety Act being used to censor protests
-    </span>
-
-    <span style={{ opacity: 0.7, marginLeft: "10px", flexShrink: 0 }}>
-      ⌃
-    </span>
+    <span>Teleports as items</span>
+    <span style={{ opacity: 0.7 }}>⌃</span>
   </summary>
 
   <div
-  style={{
-    background: "#3A3837",
-    padding: "14px 18px",
-    fontSize: "14px",
-    color: "#E7E5E4",
-    borderTop: "1px solid #5a544f",
-    overflowX: "auto"
-  }}
->
-  <span
     style={{
-      whiteSpace: "nowrap",   // 👈 force single line
-      display: "inline-block" // 👈 important
-    }}
-  >
-    <a
+      background: "#3A3837", // 👈 lighter content
+      padding: "14px 18px",
+      fontSize: "14px",
+      color: "#E7E5E4",
+      lineHeight: "1.6",
+      borderTop: "1px solid #5a544f",
+      display: "flex",
+      flexDirection: "column",
+      gap: "12px"
+    }}>
+  <a
       href="https://freespeechunion.org/protest-footage-blocked-as-online-safety-act-comes-into-force/?v=0b3b97fa6688"
       target="_blank"
       rel="noopener noreferrer"
@@ -497,8 +470,7 @@ Invalid content format in 'community/digital-society-manifesto/article.mdx': Fai
       Protest footage blocked
     </a>{" "}
     as online safety act comes into force.
-  </span>
-</div>
+  </div>
 </details>
 
 **(2) Surveillance and manipulation&#xA0;**
