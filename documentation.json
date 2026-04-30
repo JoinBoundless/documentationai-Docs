@@ -143,17 +143,17 @@
             "pages": [
               {
                 "title": "The Plan to Create Democracy in a Digital Society",
-                "path": "ethos/the-plan-to-create-democracy-in-a-digital-society/article",
+                "path": "agoran_institution/the-plan-to-create-democracy-in-a-digital-society/article",
                 "icon": "book-open"
               },
               {
                 "title": "Building the Institutions of a Digital Society (Stub)",
-                "path": "ethos/stub-building-the-institutions-of-a-digital-society/article",
+                "path": "agora_institution/stub-building-the-institutions-of-a-digital-society/article",
                 "icon": "book-open"
               },
               {
                 "title": "Anti-Lawfare Arbiter",
-                "path": "ethos/anti-lawfare-arbiter/article",
+                "path": "agora_institution/anti-lawfare-arbiter/article",
                 "icon": "book-open"
               }
             ]
