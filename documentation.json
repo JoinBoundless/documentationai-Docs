@@ -638,11 +638,6 @@
             "icon": "cpu",
             "pages": [
               {
-                "title": "Hoverboards and home",
-                "path": "synapse/hoverboards-and-home/article",
-                "icon": "book-open-icon"
-              },
-              {
                 "title": "Wallpaper signaling",
                 "path": "synapse/wallpaper-signaling/article",
                 "icon": "book-open-icon"
