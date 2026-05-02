@@ -271,9 +271,19 @@ Signals to scan for:
 
 - User goes through the process of buying a piece of software or a digital asset but stops at the final payment page, indicating a potential price sensitivity or a search for a better deal.
 
-<details open style="border-radius:12px; margin-top:16px; border:1px solid #3a3f47; overflow:hidden; background:#44403C;"> <summary
+<details
+  open
+  style={{
+    borderRadius: "12px",
+    marginTop: "16px",
+    border: "1px solid #3a3f47",
+    overflow: "hidden",
+    background: "#44403C"
+  }}
+>
+  <summary
     style={{
-      background: "#44433F", // 👈 darker top
+      background: "#44433F",
       color: "#ffffff",
       padding: "14px 18px",
       cursor: "pointer",
@@ -287,9 +297,10 @@ Signals to scan for:
     <span>A list of things developers need to add to every application.</span>
     <span style={{ opacity: 0.7 }}>⌃</span>
   </summary>
+
   <div
     style={{
-      background: "#3A3837", // 👈 lighter content
+      background: "#3A3837",
       padding: "14px 18px",
       fontSize: "14px",
       color: "#E7E5E4",
@@ -298,20 +309,26 @@ Signals to scan for:
       display: "flex",
       flexDirection: "column",
       gap: "12px"
-    }}>
-  <p>Those who are not developers or designers should skip this.</p>
- <p>All these different features require certain things from every single developer. This is an attempt to bring those together, at least for this article.</p>
-<p>1. 2D icon
-2. Building look
-3. Application distribution company
-4. Default permissions when collaborators are dropped in
-5. Application description (high + low level category)
-6. Veterancy rules
-7. Rank system edits
-8. AI permissions
-9. AI navigation descriptions  </p>
+    }}
+  >
+    <p>Those who are not developers or designers should skip this.</p>
+    <p>
+      All these different features require certain things from every single developer. This is an attempt to bring those together, at least for this article.
+    </p>
+    <ol style={{ paddingLeft: "20px", margin: 0 }}>
+      <li>2D icon</li>
+      <li>Building look</li>
+      <li>Application distribution company</li>
+      <li>Default permissions when collaborators are dropped in</li>
+      <li>Application description (high + low level category)</li>
+      <li>Veterancy rules</li>
+      <li>Rank system edits</li>
+      <li>AI permissions</li>
+      <li>AI navigation descriptions</li>
+    </ol>
   </div>
 </details>
+
 <div
   style={{
     background: "#3A3837",
