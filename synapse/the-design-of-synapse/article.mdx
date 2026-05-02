@@ -4,27 +4,51 @@ title: Wallpaper signaling
 <div
   style={{
     marginTop: "24px",
+    marginBottom: "24px",
     borderRadius: "12px",
     padding: "16px 20px",
     border: "1px solid #166534",
-    backgroundColor: "#0f2f25"
+    backgroundColor: "#0f2f25",
+    display: "flex",
+    flexDirection: "column",
+    gap: "8px"
   }}
 >
-  <p style={{ color: "#bbf7d0", fontSize: "14px" }}>
-   Read these critical prerequisites first to get a deeper understanding.{" "}
+  <p
+    style={{
+      color: "#bbf7d0",
+      fontSize: "14px",
+      margin: 0
+    }}
+  >
+    Read these critical prerequisites first to get a deeper understanding.
+  </p>
+
+  <p style={{ margin: 0 }}>
     <a
       href="https://agora.joinboundless.org/community/why-the-metaverse-failed"
       target="_blank"
       rel="noopener noreferrer"
-      style={{ textDecoration: "", color: "#3b82f6" }}
+      style={{
+        color: "#3b82f6",
+        textDecoration: "none",
+        borderBottom: "1px solid #3b82f6"
+      }}
     >
       Why the “metaverse” failed »
     </a>
+  </p>
+
+  <p style={{ margin: 0 }}>
     <a
       href="https://articles.joinboundless.org/vision/boundless-vision-for-ar"
       target="_blank"
       rel="noopener noreferrer"
-      style={{ textDecoration: "", color: "#3b82f6" }}
+      style={{
+        color: "#3b82f6",
+        textDecoration: "none",
+        borderBottom: "1px solid #3b82f6"
+      }}
     >
       The goal of Synapse »
     </a>
@@ -78,18 +102,9 @@ Clicking on any given individual or group will change the wallpaper to show them
 When a group is focused, a knock icon will appear that allows you to send them a “knock.” If they accept a request to join them, you'll open the same application as the one they are in.
 
 Every experience will open as a window by default.
-<details
-  open
-  style={{
-    borderRadius: "12px",
-    marginTop: "16px",
-    border: "1px solid #3a3f47",
-    overflow: "hidden",
-    background: "#44403C"
-  }}
->  <summary
+<details open style="border-radius:12px; margin-top:16px; border:1px solid #3a3f47; overflow:hidden; background:#44403C;"> <summary
     style={{
-      background: "#44403C", // 👈 darker top
+      background: "#44433F", // 👈 darker top
       color: "#ffffff",
       padding: "14px 18px",
       cursor: "pointer",
@@ -106,7 +121,7 @@ Every experience will open as a window by default.
 
   <div
     style={{
-      background: "#3a3531", // 👈 lighter content
+      background: "#3A3837", // 👈 lighter content
       padding: "14px 18px",
       fontSize: "14px",
       color: "#E7E5E4",
@@ -116,7 +131,24 @@ Every experience will open as a window by default.
       flexDirection: "column",
       gap: "12px"
     }}>
-  Skip this collapsible area unless you're tasked with designing the space.
+   <p>Skip this collapsible area unless you're tasked with designing the space.</p>
+  <p>The scene automatically adjusts itself if there are large groups of people working on the same thing from your friends list. Larger groups will gather at larger tables. Anyone you're not connected with will be represented as a small number next to the icons “+2 more”.</p>
+  <p>If an individual you're close to is engaged with a large group, the larger the group, the more chance they'll be surfaced at the front of the wallpaper.</p>
+  <p>In fact, the placement of individuals is not only there to help you find those who you care about, but help those in the Deme connect with other people in the Deme.</p>
+    <ul>
+      <li>+200% chance if the person is a friend</li>
+    <li>+400% chance if the person is a close friend (a sliding scale depending on how close they are to you based on number of interactions, quality of collaborations, time spent in same space)</li>
+    <li>+100%-200% chance for each friends/close friends connected to your friend.</li>
+    <li>+50% chance for every Deme resident.</li>
+    <li>-50% chance for each person who is not in the Deme that’s in the group.</li>
+    <li>-200% for people listed as unwelcome by Deme that are in a group.</li>
+    <li>0% change for others.</li>
+    </ul>
+  </div>
+</details>
+
+
+Skip this collapsible area unless you're tasked with designing the space.
 
 The scene automatically adjusts itself if there are large groups of people working on the same thing from your friends list. Larger groups will gather at larger tables. Anyone you're not connected with will be represented as a small number next to the icons “+2 more”.
 
@@ -139,11 +171,6 @@ In fact, the placement of individuals is not only there to help you find those w
 - 0% change for others.
 
 Compared to this example, the square will in essence be somewhat larger, and if there are a lot of people online, the wallpaper will show from a position further back, revealing more of the square and more of the people in it.
-  </div>
-</details>
-
-
-
 
 #### **Creating a gathering**
 
@@ -184,20 +211,19 @@ When dragging a person, the places you can drag them become highlighted, and a f
 By default, each application runs in a window and has a 3D component no matter how mundane, a calendar, a music player, or a virtual world, they are all spaces.
 
 By default, when dragging a person into most spaces, they only get to see the space from one angle. For example, in a whiteboard application there may be a desk in front of the whiteboard.
+
 <div
   style={{
     marginTop: "24px",
+    marginBottom: "24px",
     borderRadius: "12px",
     padding: "16px 20px",
     border: "1px solid #2F6F9F",
     backgroundColor: "#0F2A3A"
   }}
 >
-  <p style={{ fontSize: "14px", lineHeight: "1.6", color: "#E6F0FF" }}>
-   The reason people are locked into one position is to create focus and to reduce confusion.
-  </p>
+  <p style={{ fontSize: "14px", lineHeight: "1.6", color: "#E6F0FF" }}>The reason people are locked into one position is to create focus and to reduce confusion.</p>
 </div>
-
 
 ## **Permissions & panel**
 
@@ -234,18 +260,9 @@ In the center of the table is a search icon which allows the individual to searc
 This city is an actual city, customizable by the individual in question, that lives just outside of the public square of the individual. The city gets automatically populated based on how often you visit spaces, but manually moving any building permanently locks that building into that particular space.
 
 The map table is broken up into two distinct parts with a closer section showing recent spaces regardless of what the actual city looks like.
-<details
-  open
-  style={{
-    borderRadius: "12px",
-    marginTop: "16px",
-    border: "1px solid #3a3f47",
-    overflow: "hidden",
-    background: "#44403C"
-  }}
->  <summary
+<details open style="border-radius:12px; margin-top:16px; border:1px solid #3a3f47; overflow:hidden; background:#44403C;"> <summary
     style={{
-      background: "#44403C", // 👈 darker top
+      background: "#44433F", // 👈 darker top
       color: "#ffffff",
       padding: "14px 18px",
       cursor: "pointer",
@@ -259,10 +276,9 @@ The map table is broken up into two distinct parts with a closer section showing
     <span>Details</span>
     <span style={{ opacity: 0.7 }}>⌃</span>
   </summary>
-
   <div
     style={{
-      background: "#3a3531", // 👈 lighter content
+      background: "#3A3837", // 👈 lighter content
       padding: "14px 18px",
       fontSize: "14px",
       color: "#E7E5E4",
@@ -272,11 +288,12 @@ The map table is broken up into two distinct parts with a closer section showing
       flexDirection: "column",
       gap: "12px"
     }}>
-Recent buildings don't show up when leaving the public square. They aren't in city per se, they are in another part of the city. They're just like teleports to those parts of the city. Teleports like this should look distinct from the other buildings. They should have purple highlights, which suggest they're leading someone somewhere else.
+  <p>Recent buildings don't show up when leaving the public square. They aren't in city per se, they are in another part of the city. They're just like teleports to those parts of the city. Teleports like this should look distinct from the other buildings. They should have purple highlights, which suggest they're leading someone somewhere else.</p>
   </div>
 </details>
 
 
+Recent buildings don't show up when leaving the public square. They aren't in city per se, they are in another part of the city. They're just like teleports to those parts of the city. Teleports like this should look distinct from the other buildings. They should have purple highlights, which suggest they're leading someone somewhere else.
 
 Each space is represented by a different type of building. A virtual world, for example, that has a mini golf course would actually be a mini golf course in the city. The application designer would design what the outside of the building looks like. In this case, they could simply design a gate which gates in the mini golf course.
 
@@ -343,12 +360,6 @@ This allows you to search connections not surfaced by the desktop. This list is 
 Work colleagues would be in one section where gaming friends would be in another. These categorizations would happen automatically based on what apps you collaborate with people on.
 
 <Image src="https://cdn.eniston.com/bases/08b96173-96cd-4c3a-be91-7469eda5fea7/2mna3uf-1-.png-1762703587?width=920" width="400" alt="The image depicts what happens when you click and hold an individual to move them." />
-
-Design details
-
-The UI would be slightly transparent and properly colored. The faces of the avatars would be the actual faces of the avatars set up during creation. The view all button would not be visible in the same way and each section would represent at least seven people to start.\
-\
-Ignore the navigation at the bottom. This is a former scraped feature.
 
 This window automatically opens when dragging any person so that you can instead drag them onto a person in the window to create a gathering or organize that individual into a category.
 
