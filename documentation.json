@@ -648,11 +648,6 @@
                 "icon": "book-open-icon"
               },
               {
-                "title": "AI intelligence & networking",
-                "path": "synapse/ai-intelligence-networking/article",
-                "icon": "book-open-icon"
-              },
-              {
                 "title": "Beacons and maps",
                 "path": "synapse/beacons-and-maps/article",
                 "icon": "book-open-icon"
