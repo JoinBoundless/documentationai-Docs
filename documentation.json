@@ -643,16 +643,6 @@
                 "icon": "book-open-icon"
               },
               {
-                "title": "Authentication",
-                "path": "synapse/authentication/article",
-                "icon": "book-open-icon"
-              },
-              {
-                "title": "Beacons and maps",
-                "path": "synapse/beacons-and-maps/article",
-                "icon": "book-open-icon"
-              },
-              {
                 "title": "Wallpaper signaling",
                 "path": "synapse/wallpaper-signaling/article",
                 "icon": "book-open-icon"
