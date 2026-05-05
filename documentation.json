@@ -720,11 +720,6 @@
             "icon": "book-open",
             "pages": [
               {
-                "title": "A third option",
-                "path": "future-proposition/a-third-option/article",
-                "icon": "book-open-icon"
-              },
-              {
                 "title": "Creating Social Apps",
                 "path": "future-proposition/creating-social-apps/article",
                 "icon": "book-open"
@@ -800,11 +795,6 @@
             "group": "Economics",
             "icon": "book-open",
             "pages": [
-              {
-                "title": "The societal benefit principle",
-                "path": "economics/the-societal-benefit-principle/article",
-                "icon": "book-open-icon"
-              },
               {
                 "title": "Anchoring Principles",
                 "path": "economics/anchoring-principles/article",
