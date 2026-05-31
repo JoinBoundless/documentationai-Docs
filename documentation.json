@@ -142,6 +142,16 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "Creating democracy in a digital society: Agora's plan",
+                "path": "agoran-institution/creating-democracy-in-a-digital-society-agoras-plan/article",
+                "icon": "book-open-icon"
+              },
+              {
+                "title": "Creating democracy in a digital society: Agora's plan",
+                "path": "agora-ethos/creating-democracy-in-a-digital-society-agoras-plan/article",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "The Plan to Create Democracy in a Digital Society",
                 "path": "agoran_institution/the-plan-to-create-democracy-in-a-digital-society/article",
                 "icon": "book-open"
@@ -391,11 +401,6 @@
               {
                 "title": "Escaping the cycle: cultural decline",
                 "path": "agora-ethos/escaping-the-cycle-cultural-decline/article",
-                "icon": "book-open-icon"
-              },
-              {
-                "title": "Creating democracy in a digital society: Agora's plan",
-                "path": "agora-ethos/creating-democracy-in-a-digital-society-agoras-plan/article",
                 "icon": "book-open-icon"
               },
               {
