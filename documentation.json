@@ -142,6 +142,11 @@
             "icon": "book-open",
             "pages": [
               {
+                "title": "STUB: Building the institutions of a digital society",
+                "path": "agoran-institutions/stub-building-the-institutions-of-a-digital-society/articles",
+                "icon": "book-open-icon"
+              },
+              {
                 "title": "Creating democracy in a digital society: Agora's plan",
                 "path": "agoran-institution/creating-democracy-in-a-digital-society-agoras-plan/article",
                 "icon": "book-open-icon"
@@ -149,11 +154,6 @@
               {
                 "title": "The Plan to Create Democracy in a Digital Society",
                 "path": "agoran_institution/the-plan-to-create-democracy-in-a-digital-society/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Building the Institutions of a Digital Society (Stub)",
-                "path": "agora_institution/stub-building-the-institutions-of-a-digital-society/article",
                 "icon": "book-open"
               },
               {
@@ -396,11 +396,6 @@
               {
                 "title": "Escaping the cycle: cultural decline",
                 "path": "agora-ethos/escaping-the-cycle-cultural-decline/article",
-                "icon": "book-open-icon"
-              },
-              {
-                "title": "STUB: Building the institutions of a digital society",
-                "path": "agora-ethos/stub-building-the-institutions-of-a-digital-society/article",
                 "icon": "book-open-icon"
               },
               {
