@@ -373,6 +373,15 @@
                 "icon": "book-open-icon"
               }
             ]
+          },
+          {
+            "group": "Agoran institutions",
+            "pages": [
+              {
+                "title": "STUB: Building the institutions of a digital society",
+                "path": "agoran-institution/stub-building-the-institutions-of-a-digital-society/article"
+              }
+            ]
           }
         ]
       },
