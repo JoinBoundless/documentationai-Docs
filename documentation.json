@@ -34,7 +34,7 @@
                 "icon": "book-open-icon"
               },
               {
-                "title": "Agora's mission ",
+                "title": "Agora's mission",
                 "path": "ethos/agoras-mission/article",
                 "icon": "book-open-icon"
               },
@@ -138,39 +138,13 @@
             ]
           },
           {
-            "group": "Getting Started",
+            "group": "Overview",
             "icon": "rocket",
             "pages": [
-              {
-                "title": "Introduction",
-                "path": "introduction",
-                "icon": "home"
-              },
-              {
-                "title": "Quick Start",
-                "path": "quickstart",
-                "icon": "zap"
-              },
               {
                 "title": "Home",
                 "path": "home/article",
                 "icon": "home"
-              }
-            ]
-          },
-          {
-            "group": "Core Concepts",
-            "icon": "layers",
-            "pages": [
-              {
-                "title": "Features",
-                "path": "features",
-                "icon": "file-text"
-              },
-              {
-                "title": "Integrations",
-                "path": "integrations",
-                "icon": "plug"
               }
             ]
           },
@@ -201,53 +175,11 @@
             ]
           },
           {
-            "group": "Advanced",
-            "icon": "package",
-            "pages": []
-          },
-          {
-            "group": "API Reference",
-            "icon": "code",
-            "openapi": "api-reference/openapi.yaml",
-            "pages": []
-          },
-          {
-            "group": "Resources",
-            "icon": "book-open",
-            "pages": [
-              {
-                "title": "Help Center",
-                "path": "help-center",
-                "icon": "help-circle"
-              },
-              {
-                "title": "How to Create Documents",
-                "path": "help-center/faq/how-to-create-documents",
-                "icon": "help-circle"
-              },
-              {
-                "title": "Add Your First Project",
-                "path": "help-center/guides/add-your-first-project",
-                "icon": "book-open"
-              },
-              {
-                "title": "Cannot Access Project",
-                "path": "help-center/troubleshooting/cannot-access-project",
-                "icon": "wrench"
-              },
-              {
-                "title": "Release History",
-                "path": "changelog",
-                "icon": "history"
-              }
-            ]
-          },
-          {
             "group": "Community",
             "icon": "users",
             "pages": [
               {
-                "title": "Agora as the keystone of digital civilization ⭕",
+                "title": "Agora as the keystone of digital civilization",
                 "path": "community/agora-as-the-keystone-of-digital-civilization/article",
                 "icon": "book-open"
               },
@@ -363,7 +295,7 @@
                 "icon": "book-open-icon"
               },
               {
-                "title": "The tradition of doing hard things ",
+                "title": "The tradition of doing hard things",
                 "path": "agora-ethos/the-tradition-of-doing-hard-things/article",
                 "icon": "book-open-icon"
               },
@@ -402,7 +334,7 @@
             "icon": "book-open",
             "pages": [
               {
-                "title": "Judicial accountabiliy",
+                "title": "Judicial accountability",
                 "path": "cyber-sovereignty/judicial-accountbility/article",
                 "icon": "book-open-icon"
               },
@@ -1010,11 +942,6 @@
             "group": "Library",
             "icon": "book-open",
             "pages": [
-              {
-                "title": "Test",
-                "path": "library/test/article",
-                "icon": "book-open"
-              },
               {
                 "title": "The Ambient OS Vision",
                 "path": "library/the-ambient-os-vision/article",
