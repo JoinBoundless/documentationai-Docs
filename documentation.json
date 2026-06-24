@@ -34,7 +34,7 @@
                 "icon": "book-open-icon"
               },
               {
-                "title": "Agora's mission ",
+                "title": "Agora's mission",
                 "path": "ethos/agoras-mission/article",
                 "icon": "book-open-icon"
               },
@@ -138,39 +138,13 @@
             ]
           },
           {
-            "group": "Getting Started",
+            "group": "Overview",
             "icon": "rocket",
             "pages": [
-              {
-                "title": "Introduction",
-                "path": "introduction",
-                "icon": "home"
-              },
-              {
-                "title": "Quick Start",
-                "path": "quickstart",
-                "icon": "zap"
-              },
               {
                 "title": "Home",
                 "path": "home/article",
                 "icon": "home"
-              }
-            ]
-          },
-          {
-            "group": "Core Concepts",
-            "icon": "layers",
-            "pages": [
-              {
-                "title": "Features",
-                "path": "features",
-                "icon": "file-text"
-              },
-              {
-                "title": "Integrations",
-                "path": "integrations",
-                "icon": "plug"
               }
             ]
           },
@@ -201,53 +175,11 @@
             ]
           },
           {
-            "group": "Advanced",
-            "icon": "package",
-            "pages": []
-          },
-          {
-            "group": "API Reference",
-            "icon": "code",
-            "openapi": "api-reference/openapi.yaml",
-            "pages": []
-          },
-          {
-            "group": "Resources",
-            "icon": "book-open",
-            "pages": [
-              {
-                "title": "Help Center",
-                "path": "help-center",
-                "icon": "help-circle"
-              },
-              {
-                "title": "How to Create Documents",
-                "path": "help-center/faq/how-to-create-documents",
-                "icon": "help-circle"
-              },
-              {
-                "title": "Add Your First Project",
-                "path": "help-center/guides/add-your-first-project",
-                "icon": "book-open"
-              },
-              {
-                "title": "Cannot Access Project",
-                "path": "help-center/troubleshooting/cannot-access-project",
-                "icon": "wrench"
-              },
-              {
-                "title": "Release History",
-                "path": "changelog",
-                "icon": "history"
-              }
-            ]
-          },
-          {
             "group": "Community",
             "icon": "users",
             "pages": [
               {
-                "title": "Agora as the keystone of digital civilization ⭕",
+                "title": "Agora as the keystone of digital civilization",
                 "path": "community/agora-as-the-keystone-of-digital-civilization/article",
                 "icon": "book-open"
               },
@@ -363,7 +295,7 @@
                 "icon": "book-open-icon"
               },
               {
-                "title": "The tradition of doing hard things ",
+                "title": "The tradition of doing hard things",
                 "path": "agora-ethos/the-tradition-of-doing-hard-things/article",
                 "icon": "book-open-icon"
               },
@@ -402,7 +334,7 @@
             "icon": "book-open",
             "pages": [
               {
-                "title": "Judicial accountabiliy",
+                "title": "Judicial accountability",
                 "path": "cyber-sovereignty/judicial-accountbility/article",
                 "icon": "book-open-icon"
               },
@@ -906,115 +838,9 @@
             ]
           },
           {
-            "group": "Deprecated Articles",
-            "icon": "package",
-            "pages": [
-              {
-                "title": "How digital societies take precedence",
-                "path": "deprecated-articles/how-digital-societies-take-precedence/article",
-                "icon": "book-open-icon"
-              },
-              {
-                "title": "Behind the Manifesto OLD",
-                "path": "deprecated-articles/behind-the-manifesto-old/article",
-                "icon": "book-open-icon"
-              },
-              {
-                "title": "All old article leftovers, to do list, left",
-                "path": "deprecated-articles/all-old-article-leftovers-to-do-list-left/article",
-                "icon": "book-open-icon"
-              },
-              {
-                "title": "A List of Potential Issues",
-                "path": "deprecated-articles/a-list-of-potential-issues/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Agoran Politics",
-                "path": "deprecated-articles/agoran-politics/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Creating Productivity Apps",
-                "path": "deprecated-articles/creating-productivity-apps/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Criminal vs Civil Law",
-                "path": "deprecated-articles/criminal-vs-civil-law/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Cyber Sovereignty Innovation in Organization",
-                "path": "deprecated-articles/cyber-sovereignty-innovation-in-organization/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Digital Collectivism",
-                "path": "deprecated-articles/digital-collectivism/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Digital Society Limits",
-                "path": "deprecated-articles/digital-society-limits/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "How Cyber Sovereignty Works: A Chart",
-                "path": "deprecated-articles/how-cyber-sovereignty-works-a-chart/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Incubating Synapse Community Applications",
-                "path": "deprecated-articles/incubating-synapse-community-applications/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Laws of Precedence",
-                "path": "deprecated-articles/laws-of-precedence/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Other Potential Weaknesses",
-                "path": "deprecated-articles/other-potential-weaknesses/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Participating in Agora",
-                "path": "deprecated-articles/participating-in-agora/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Philosophy of Agora",
-                "path": "deprecated-articles/philosophy-of-agora/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Prime Declaration Explained",
-                "path": "deprecated-articles/prime-declaration-explained/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "Social Games",
-                "path": "deprecated-articles/social-games/article",
-                "icon": "book-open"
-              },
-              {
-                "title": "The Right to Statistics",
-                "path": "deprecated-articles/the-right-to-statistics/article",
-                "icon": "book-open"
-              }
-            ]
-          },
-          {
             "group": "Library",
             "icon": "book-open",
             "pages": [
-              {
-                "title": "Test",
-                "path": "library/test/article",
-                "icon": "book-open"
-              },
               {
                 "title": "The Ambient OS Vision",
                 "path": "library/the-ambient-os-vision/article",

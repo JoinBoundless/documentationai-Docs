@@ -1,51 +1,19 @@
 ---
 title: AI intelligence & networking
 ---
-<div
-  style={{
-    marginTop: "24px",
-    marginBottom: "24px",
-    borderRadius: "12px",
-    padding: "16px 20px",
-    border: "1px solid #166534",
-    backgroundColor: "#0f2f25"
-  }}
->
-<p
-  style={{
-  color: "#bbf7d0",
-  fontSize: "14px",
-  whiteSpace: "nowrap"
-    }}
-  >
-  This article is a chapter in a larger book.{" "}
-  <a
-    href="https://agora.joinboundless.org/synapse/the-design-of-synapse"
-    target="_blank"
-    rel="noopener noreferrer"
-    style={{
-    color: "#3b82f6",
-    textDecoration: "none",
-    borderBottom: "1px solid #3b82f6"
-  }}
-  >Start reading here »</a>{" "}
-</p>
-</div>
 
-<div
-  style={{
-    marginTop: "24px",
-    borderRadius: "12px",
-    padding: "16px 20px",
-    border: "1px solid ##332a05",
-    backgroundColor: "#362e08"
-  }}
->
-  <p style={{ fontSize: "14px", lineHeight: "1.6", color: "#ba9a13" }}>This article needs a cleanup of the first person to the third person issue. You vs “one”.</p>
-</div>
+<Callout kind="tip">
+  This article is a chapter in a larger book. 
+    [Start reading here »](https://agora.joinboundless.org/synapse/the-design-of-synapse)
+</Callout>
 
 
-## **Intelligence at the top layer**
+<Callout kind="warning">
+  This article needs a cleanup of the first person to the third person issue. You vs “one”.
+</Callout>
+
+
+## Intelligence at the top layer
 
 Just like social systems in Synapse live at the highest layer of the operating system, AI too lives at the highest layer.
 
@@ -53,7 +21,7 @@ This intelligence is powered by the local device in question, ensuring privacy. 
 
 As you perform actions, it watches those actions and creates suggestions which show over the collaboration window. A skinny >] arrow on the left of the suggestion allows one to switch between the collaboration window and the suggestion. A triple dot menu •·· allows one to move between recent suggestions. Suggestions fade in very gently so as to not disturb the user, they also fade out after 20 seconds.
 
-### **Smart privacy**
+### Smart privacy
 
 Synapse is designed to be social by default, but some actions are better left private. By default, when entering an application of any sort, one sends a signal to the world that one is using that application. However, if the application is sensitive in any way, or could be construed in any world as being sensitive, the intelligence layer will automatically default to private.
 
@@ -71,11 +39,11 @@ You retain manual control over your visibility. By tapping and holding the lock 
 
 - Public (green people icon): The entire document is visible to anyone, and they can request collaboration access.
 
-#### **Opening discreetly**
+#### Opening discreetly
 
 One can open any application discreetly by tapping and holding or right-clicking it and selecting private open. This also removes the ability to earn any accolades or rewards for using the application.
 
-#### **Developer control over application defaults**
+#### Developer control over application defaults
 
 While the system sets the unlock icon as the default for applications, developers are given control to change this initial state. The options available are:
 
@@ -89,17 +57,17 @@ While the system sets the unlock icon as the default for applications, developer
 
 - Requiring the user to choose a setting upon a particular action.
 
-### **Passive matchmaking**
+### Passive matchmaking
 
 Whenever the people icon (green) is activated in an app, the app will go searching for people interested to collaborate on the app with you. Once it has found a list of ideal people in your digital society, potentially interested in the same thing as you, or working on something similar, it will reveal this through a passive signal that creates a suggestion that shows over the collaboration window.
 
 Once again, developers will be prompted as to the ideal candidates that the AI should seek out.
 
-### **Outside apps**
+### Outside apps
 
 All non-native apps on the operating system can be opened in Synapse as a form of sharing the experience with the world. The only reason a person would open a non-Synapse application in Synapse is to share that experience publicly. Therefore, we can take the act of opening an application in Synapse as a desire to share that application or experience with friends by default.
 
-### **Challenge signaling**
+### Challenge signaling
 
 As Synapse’s secret weapon is passive signaling, AI can greatly enhance this passive signaling throughout the experience. Let's say someone is exhibiting the behavior of getting stuck while editing a video, getting a particular error over and over.
 
@@ -111,44 +79,17 @@ In the bottom right panel should show:
 
 “Are you struggling to split the video in the timeline? I can call on potential helpers.”
 
-<details open style="border-radius:12px; margin-top:16px; border:1px solid #3a3f47; overflow:hidden; background:#44403C;"> <summary
-    style={{
-      background: "#44433F", // 👈 darker top
-      color: "#ffffff",
-      padding: "14px 18px",
-      cursor: "pointer",
-      fontSize: "14px",
-      fontWeight: "500",
-      display: "flex",
-      justifyContent: "space-between",
-      alignItems: "center"
-    }}
-  >
-    <span>Designer tips</span>
-    <span style={{ opacity: 0.7 }}>⌃</span>
-  </summary>
-  <div
-    style={{
-      background: "#3A3837", // 👈 lighter content
-      padding: "14px 18px",
-      fontSize: "14px",
-      color: "#E7E5E4",
-      lineHeight: "1.6",
-      borderTop: "1px solid #5a544f",
-      display: "flex",
-      flexDirection: "column",
-      gap: "12px"
-    }}>
-  <p>Designers, please consider lit beacons and veterancy in the calculations.</p>
-  </div>
-</details>
+
+<Expandable title="Designer tips">
+<p>Designers, please consider lit beacons and veterancy in the calculations.</p>
+</Expandable>
 
 
 Designers, please consider lit beacons and veterancy in the calculations.
 
 The key is that it would strongly rely on people in the same digital society by default encouraging connections primarily between people of shared values and only reaching out beyond that if no great candidates are available.
 
-### **Learning & events**
+### Learning & events
 
 When consuming learning material on a particular subject, the AI could find others moving at a similar pace, learning a similar thing, and suggest you challenge them to a time-based, temporary learning challenge within that domain of knowledge.
 
@@ -158,50 +99,36 @@ If yes, “I found five other people who are learning about this in your Deme th
 
 
 Such a prompt could be given to all the users at once and would only be confirmed if enough people were to agree at the same time.
-<div
-  style={{
-    marginTop: "24px",
-    borderRadius: "12px",
-    padding: "16px 20px",
-    border: "1px solid ##332a05",
-    backgroundColor: "#362e08"
-  }}
->
-  <p style={{ fontSize: "14px", lineHeight: "1.6", color: "#ba9a13" }}>This should only be considered if it can be implemented in a way that doesn't feel invasive to the user. Note Western individuals in particular do not like their actions to be shaped as they value self-initiative. This is something Eastern individuals often don't have a sense for, so if you are from the East, be aware of this fact.</p>
-</div>
+
+<Callout kind="warning">
+  This should only be considered if it can be implemented in a way that doesn't feel invasive to the user. Note Western individuals in particular do not like their actions to be shaped as they value self-initiative. This is something Eastern individuals often don't have a sense for, so if you are from the East, be aware of this fact.
+</Callout>
 
 
 
-#### **Privacy**
+#### Privacy
 
 These signals are temporary. The AI is not storing and creating a database of information on you, but is rather temporarily getting to know you in snippets, figuring out ways that it can help you make your experience social, and then going away and deleting the information at the end of the session. Nothing may be shared from the user's information and the user should be constantly made clear of that fact. This could be through a help icon next to these suggestions, which clarifies that no request was made to such people yet.
-<div
-  style={{
-    marginTop: "24px",
-    borderRadius: "12px",
-    padding: "16px 20px",
-    border: "1px solid ##332a05",
-    backgroundColor: "#362e08"
-  }}
->
-  <p style={{ fontSize: "14px", lineHeight: "1.6", color: "#ba9a13" }}>It's important to steer clear from feeling creepy even if people are in complete control and even if their privacy is fully protected. The key is always to allow the person to start the action rather than doing anything for them without their permission.</p>
-</div>
 
-#### **Notifications**
+<Callout kind="warning">
+  It's important to steer clear from feeling creepy even if people are in complete control and even if their privacy is fully protected. The key is always to allow the person to start the action rather than doing anything for them without their permission.
+</Callout>
+
+#### Notifications
 
 Although the AI remembers very little about you, it should remember what sort of notifications you're generally interested and not interested in, so that it's tailoring its approach to helping you based on what you actually want to do, rather than consistently bothering you with things you're not interested in.
 
 It shouldn't remember what you like as in content. It should remember what sort of notifications you like. Namely that you like notifications about social events, but not that you like notifications about social events on bicycling.
 
-### **3rd-party AI modifications**
+### 3rd-party AI modifications
 
 Unlike applications which have a space, users should be able to install applications called AI modifications that change how their AI behaves and acts on their behalf.
 
-#### **Privacy concerns**
+#### Privacy concerns
 
 Whereas the other applications of AI have encouraged the deletion of all substantive information and kept any private information that it must store on device, applications should be allowed to breach these high privacy standards provided the user in question **explicitly&#x20;**&#x6F;pts-in. Users must be informed of the consequences of sharing data in the strongest possible terms.
 
-#### **Work applications**
+#### Work applications
 
 A great example of an application that could be developed by a third party that could seriously enable companies and that requires more invasive technology would be work-based applications.
 
@@ -211,7 +138,7 @@ It could actively watch what people are doing when it pertains to applications r
 
 Strong safeguards must be in place to ensure this doesn't turn into surveillance generally and that workplaces that use such applications are forbidden from sharing that data.
 
-### **Social & dating as 1st-party**
+### Social & dating as 1st-party
 
 If people are lonely and want to be around others and want to push the AI to help them solve that, the AI could do this over the course of two or three weeks, deleting the data afterward.
 
@@ -241,17 +168,17 @@ The AI could get to know you deeper based on what you do, write, and enjoy, and 
 
 When in this setting, since privacy is reduced for this time, it would allow a much greater degree of context to be given before conversations are started. It could explicitly tell you about the people that you're about to meet and the potential overlaps in likes and dislikes before you get started.
 
-#### **3rd party**
+#### 3rd party
 
 The AI will always seek a third party when connecting two people for something that would be quite personal, like a date, allowing that third party to potentially become a matchmaker, somebody in common they both know. But it would always and only do this at the request of all parties involved, saying, hey, I found somebody that knows somebody. Would you like to get an introduction to this person via them?
 
 By including third parties, it creates context for conversations and makes the cold opening a little bit warmer.
 
-#### **Ending the status**
+#### Ending the status
 
 Once the three-week period is up, a dialog asking the individual if they should continue or delete the data should pop up, allowing them to set how long the status should continue and asking questions to help hone it’s approach.
 
-## **AI signal scan**
+## AI signal scan
 
 Just as the AI is constantly on the scan for opportunities to connect people it should also look for the opportunity to surface signals that are not necessarily social but practical.
 
@@ -271,51 +198,13 @@ Signals to scan for:
 
 - User goes through the process of buying a piece of software or a digital asset but stops at the final payment page, indicating a potential price sensitivity or a search for a better deal.
 
-<details
-  open
-  style={{
-    borderRadius: "12px",
-    marginTop: "16px",
-    border: "1px solid #3a3f47",
-    overflow: "hidden",
-    background: "#44403C"
-  }}
->
-  <summary
-    style={{
-      background: "#44433F",
-      color: "#ffffff",
-      padding: "14px 18px",
-      cursor: "pointer",
-      fontSize: "14px",
-      fontWeight: "500",
-      display: "flex",
-      justifyContent: "space-between",
-      alignItems: "center"
-    }}
-  >
-    <span>A list of things developers need to add to every application.</span>
-    <span style={{ opacity: 0.7 }}>⌃</span>
-  </summary>
 
-  <div
-    style={{
-      background: "#3A3837",
-      padding: "14px 18px",
-      fontSize: "14px",
-      color: "#E7E5E4",
-      lineHeight: "1.6",
-      borderTop: "1px solid #5a544f",
-      display: "flex",
-      flexDirection: "column",
-      gap: "12px"
-    }}
-  >
-    <p>Those who are not developers or designers should skip this.</p>
+<Expandable title="A list of things developers need to add to every application.">
+<p>Those who are not developers or designers should skip this.</p>
     <p>
       All these different features require certain things from every single developer. This is an attempt to bring those together, at least for this article.
     </p>
-    <ol style={{ paddingLeft: "20px", margin: 0 }}>
+    <ol>
       <li>2D icon</li>
       <li>Building look</li>
       <li>Application distribution company</li>
@@ -326,40 +215,13 @@ Signals to scan for:
       <li>AI permissions</li>
       <li>AI navigation descriptions</li>
     </ol>
-  </div>
-</details>
+</Expandable>
 
-<details open style="border-radius:12px; margin-top:16px; border:1px solid #3a3f47; overflow:hidden; background:#44403C;"> <summary
-    style={{
-      background: "#44433F", // 👈 darker top
-      color: "#ffffff",
-      padding: "14px 18px",
-      cursor: "pointer",
-      fontSize: "14px",
-      fontWeight: "500",
-      display: "flex",
-      justifyContent: "space-between",
-      alignItems: "center"
-    }}
-  >
-    <span>Information transmission in the medieval period</span>
-    <span style={{ opacity: 0.7 }}>⌃</span>
-  </summary>
-  <div
-    style={{
-      background: "#3A3837", // 👈 lighter content
-      padding: "14px 18px",
-      fontSize: "14px",
-      color: "#E7E5E4",
-      lineHeight: "1.6",
-      borderTop: "1px solid #5a544f",
-      display: "flex",
-      flexDirection: "column",
-      gap: "12px"
-    }}>
-  <p>Those who are not developers or designers should skip this.</p>
 
-  <ul style={{ paddingLeft: "18px", margin: 0 }}>
+<Expandable title="Information transmission in the medieval period">
+<p>Those who are not developers or designers should skip this.</p>
+
+  <ul>
     <li><strong>Time Zone Awareness:</strong> A simple sun/moon icon next to friends' names to show if it's day or night for them, preventing accidental late-night pings.</li>
     <li>Recommended video of the day by community.</li>
     <li>Recommended song of the day by community.</li>
@@ -389,10 +251,9 @@ Signals to scan for:
   </p>
   <li><strong>Concept</strong> The "Ghost" replay feature shows what someone did. The AI can use this to find perfect collaborators.</li>
   <li><strong>Concept</strong> When you light a Help Beacon, the AI doesn't just search for people with high Veterancy. It searches the "Ghost" archives for users who have recently and successfully performed the exact action you are struggling with. The recommendation it provides is hyper-specific: "Daniel not only has high Veterancy in this app, but his 'Ghost' shows he successfully configured this exact export module yesterday. He is the most relevant person to help you right now."</li>
-  </div>
-</details>
+</Expandable>
 
-### **Communication**
+### Communication
 
 Rather than just being a place to join particular activities, a kiosk in the back can be clicked on. It’s a form of passive communication between all those in your Deme. It shows:
 
@@ -416,7 +277,7 @@ In any gathering, whether 2D or 3D, the person who started the group has the pow
 
 When entering a collaborative experience, the person who started it is the driver of that experience. They can change what everyone can see and do.
 
-## **Questions?**
+## Questions?
 
 If two people who are in the same Deme are using a particular application, should it look different on the map?
 
